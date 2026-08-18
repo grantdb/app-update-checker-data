@@ -1,0 +1,26 @@
+{
+  "bot-bouncer": {
+    "name": "Bot Bouncer",
+    "version": "1.33.2"
+  },
+  "comment-nuke": {
+    "name": "Comment Mop",
+    "version": "0.0.3"
+  },
+  "purge-user": {
+    "name": "Remove Macro",
+    "version": "0.0.2"
+  },
+  "floodassistant": {
+    "name": "Flooding Assistant",
+    "version": "1.4.0"
+  },
+  "admin-tattler": {
+    "name": "Admin Tattler",
+    "version": "0.0.1"
+  },
+  "evasion-guard": {
+    "name": "Evasion Guard",
+    "version": "1.4.9"
+  }
+}
