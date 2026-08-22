@@ -2133,7 +2133,7 @@
   },
   "dice-battle-dev": {
     "name": "Dice Fight",
-    "version": "0.0.86"
+    "version": "0.0.92"
   },
   "revelia-horoscop": {
     "name": "Revelia Horoscope",
@@ -2141,7 +2141,7 @@
   },
   "episodescheduler": {
     "name": "EpisodeScheduler",
-    "version": "0.0.9"
+    "version": "0.0.11"
   },
   "guesstheplant": {
     "name": "GuessThePlant",
