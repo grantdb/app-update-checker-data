@@ -3690,5 +3690,9 @@
   "jli-badging": {
     "name": "jli-badging",
     "version": "0.0.2"
+  },
+  "lastlight-26": {
+    "name": "lastlight-26",
+    "version": "0.0.18"
   }
 }
