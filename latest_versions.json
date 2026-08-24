@@ -165,7 +165,7 @@
   },
   "flairandapprove": {
     "name": "Update flair, Approve user and Approve post",
-    "version": "0.0.40"
+    "version": "0.0.42"
   },
   "scoreboard-app": {
     "name": "Soccer Scoreboard App",
@@ -173,7 +173,7 @@
   },
   "queue-pruner": {
     "name": "Modqueue Pruner",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   "erase-user": {
     "name": "erase-user - Ban. Erase. Mute. Instantly.",
