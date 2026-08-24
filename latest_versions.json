@@ -3686,5 +3686,9 @@
   "flair-guard": {
     "name": "flair-guard",
     "version": "0.0.13"
+  },
+  "jli-badging": {
+    "name": "jli-badging",
+    "version": "0.0.2"
   }
 }
