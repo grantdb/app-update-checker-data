@@ -861,7 +861,7 @@
   },
   "adv-core": {
     "name": "ADV Core Bot",
-    "version": "0.0.388"
+    "version": "0.0.389"
   },
   "frequentmuter": {
     "name": "Frequency Muter",
@@ -917,7 +917,7 @@
   },
   "gamedaylive": {
     "name": "GameDayLive",
-    "version": "0.4.5"
+    "version": "0.4.6"
   },
   "nhlgdtbot": {
     "name": "nhlgdtbot",
