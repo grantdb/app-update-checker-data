@@ -361,11 +361,11 @@
   },
   "bingo-post": {
     "name": "Bingo Post",
-    "version": "1.0.1"
+    "version": "1.0.4"
   },
   "criticalstateapp": {
     "name": "Critical State",
-    "version": "1.0.64"
+    "version": "1.0.65"
   },
   "community-survey": {
     "name": "Community Survey",
@@ -373,7 +373,7 @@
   },
   "mod-recruit": {
     "name": "Mod Recruit",
-    "version": "0.0.7"
+    "version": "0.0.8"
   },
   "spamlinkflagger": {
     "name": "Spam Link Flagger",
