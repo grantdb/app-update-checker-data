@@ -709,7 +709,7 @@
   },
   "rss-post-bot": {
     "name": "rss-post-bot",
-    "version": "0.0.19"
+    "version": "0.0.23"
   },
   "subalert-zzw": {
     "name": "subalert",
