@@ -465,7 +465,7 @@
   },
   "el-commentator": {
     "name": "El-Commentator: Use comment template to quickly add information under specific posts.",
-    "version": "0.0.15"
+    "version": "0.0.17"
   },
   "verifyme-app": {
     "name": "Verifyme App: Official Verification Hub",
@@ -477,7 +477,7 @@
   },
   "alignment-chart": {
     "name": "Alignment Chart",
-    "version": "0.6.72"
+    "version": "0.6.76"
   },
   "downvote-delete": {
     "name": "Downvote Delete",
