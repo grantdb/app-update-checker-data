@@ -2946,5 +2946,9 @@
   "my-music-poll": {
     "name": "my-music-poll",
     "version": "0.0.2"
+  },
+  "solvedbot": {
+    "name": "SolvedBot",
+    "version": "0.0.8"
   }
 }
