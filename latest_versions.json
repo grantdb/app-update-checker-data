@@ -2966,5 +2966,9 @@
   "steller-robot": {
     "name": "Steller Travel Recs",
     "version": "0.0.19"
+  },
+  "rar-bot": {
+    "name": "rar-bot",
+    "version": "0.0.11"
   }
 }
