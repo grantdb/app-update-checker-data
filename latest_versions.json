@@ -1325,7 +1325,7 @@
   },
   "public-mod-log": {
     "name": "Public Mod Log &amp; Insights",
-    "version": "1.1.2"
+    "version": "1.1.5"
   },
   "banbunny-devvit": {
     "name": "BanBunny",
@@ -2974,5 +2974,9 @@
   "botprints": {
     "name": "BotPrints",
     "version": "1.0.5"
+  },
+  "post-title-check": {
+    "name": "Post Title Check",
+    "version": "0.0.82"
   }
 }
