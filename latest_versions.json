@@ -2978,5 +2978,9 @@
   "post-title-check": {
     "name": "Post Title Check",
     "version": "0.0.82"
+  },
+  "mod-bridge": {
+    "name": "mod-bridge",
+    "version": "0.0.6"
   }
 }
