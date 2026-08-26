@@ -2962,5 +2962,9 @@
   "custommute": {
     "name": "Custom Mute",
     "version": "0.0.4"
+  },
+  "steller-robot": {
+    "name": "Steller Travel Recs",
+    "version": "0.0.19"
   }
 }
