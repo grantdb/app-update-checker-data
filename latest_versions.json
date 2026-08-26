@@ -2998,5 +2998,17 @@
   "notice-board": {
     "name": "Notice Board",
     "version": "0.0.9"
+  },
+  "echo-wiki": {
+    "name": "EchoWiki",
+    "version": "1.7.3"
+  },
+  "rankzzy": {
+    "name": "Rankzzy - Ranking Made Easy",
+    "version": "0.0.5"
+  },
+  "r-humanoid": {
+    "name": "Humanoid",
+    "version": "1.0.6"
   }
 }
