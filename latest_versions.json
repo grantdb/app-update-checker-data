@@ -1129,7 +1129,7 @@
   },
   "link-scheduler": {
     "name": "Scheduler",
-    "version": "0.0.100"
+    "version": "0.0.112"
   },
   "hestia-listens": {
     "name": "Hestia",
@@ -2950,5 +2950,17 @@
   "solvedbot": {
     "name": "SolvedBot",
     "version": "0.0.8"
+  },
+  "tq-game": {
+    "name": "Treasure Quest",
+    "version": "0.0.42"
+  },
+  "bet-i-know": {
+    "name": "Bet I know",
+    "version": "0.0.30"
+  },
+  "custommute": {
+    "name": "Custom Mute",
+    "version": "0.0.4"
   }
 }
