@@ -3030,5 +3030,21 @@
   "ai-checker": {
     "name": "AI Checker",
     "version": "0.0.81"
+  },
+  "live-community-chat": {
+    "name": "Live Community Chat",
+    "version": "0.0.158"
+  },
+  "language-detector": {
+    "name": "language-detector",
+    "version": "0.0.17"
+  },
+  "finddit-app": {
+    "name": "finddit-app",
+    "version": "1.2.5"
+  },
+  "scanslop": {
+    "name": "Scan Slop",
+    "version": "0.0.67"
   }
 }
