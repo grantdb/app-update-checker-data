@@ -1609,7 +1609,7 @@
   },
   "moderator-sentient": {
     "name": "Moderator Sentient",
-    "version": "0.0.24"
+    "version": "0.0.27"
   },
   "mtgdecks": {
     "name": "MTG Deck Lab",
@@ -3098,5 +3098,13 @@
   "luckypeopleonly": {
     "name": "luckypeopleonly",
     "version": "0.0.6"
+  },
+  "idxstockinsight1": {
+    "name": "idxstockinsight1",
+    "version": "0.2.5"
+  },
+  "conto-interativo": {
+    "name": "Interactive Storyteller",
+    "version": "0.0.7"
   }
 }
