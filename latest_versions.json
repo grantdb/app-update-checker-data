@@ -3114,5 +3114,9 @@
   "detconnections": {
     "name": "Detective Connections",
     "version": "0.0.16"
+  },
+  "reference-registry": {
+    "name": "Reference Registry",
+    "version": "0.0.10"
   }
 }
