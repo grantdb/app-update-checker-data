@@ -2085,7 +2085,7 @@
   },
   "miirps-app": {
     "name": "Miirps",
-    "version": "0.0.47"
+    "version": "0.0.55"
   },
   "spiredle": {
     "name": "spiredle",
@@ -3170,5 +3170,17 @@
   "cribbageslots": {
     "name": "Cribbage Casino",
     "version": "0.0.45"
+  },
+  "fairgiveaway": {
+    "name": "fairgiveaway",
+    "version": "0.0.15"
+  },
+  "lol-or-nope": {
+    "name": "lol-or-nope",
+    "version": "0.2.29"
+  },
+  "ai-guard": {
+    "name": "ai-guard",
+    "version": "0.0.8"
   }
 }
