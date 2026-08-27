@@ -3166,5 +3166,9 @@
   "mlb-scores": {
     "name": "MLB Scoreboard App",
     "version": "0.0.135"
+  },
+  "cribbageslots": {
+    "name": "Cribbage Casino",
+    "version": "0.0.45"
   }
 }
