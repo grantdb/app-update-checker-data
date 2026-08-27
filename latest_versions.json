@@ -3182,5 +3182,9 @@
   "ai-guard": {
     "name": "ai-guard",
     "version": "0.0.8"
+  },
+  "prismfallgame": {
+    "name": "Prismfall",
+    "version": "0.0.12"
   }
 }
