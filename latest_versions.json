@@ -3142,5 +3142,21 @@
   "the-daily-sweep": {
     "name": "the-daily-sweep",
     "version": "0.0.30"
+  },
+  "meme-caption": {
+    "name": "CapThat",
+    "version": "0.0.10"
+  },
+  "decision-loop": {
+    "name": "Reddit Decision Loop",
+    "version": "0.0.2"
+  },
+  "triviachallenge2": {
+    "name": "Trivia sport",
+    "version": "0.0.37"
+  },
+  "streamer-stocks": {
+    "name": "streamer-stocks",
+    "version": "0.0.3"
   }
 }
