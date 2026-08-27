@@ -3130,5 +3130,13 @@
   "gamepadtest": {
     "name": "Gamepad Tester",
     "version": "0.0.12"
+  },
+  "synchat": {
+    "name": "synchat",
+    "version": "0.0.5"
+  },
+  "mod-mailer-app": {
+    "name": "Mod Mailer",
+    "version": "0.1.2"
   }
 }
