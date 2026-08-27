@@ -3066,5 +3066,9 @@
   "mit-3dvenue-app2": {
     "name": "mit-3dvenue",
     "version": "0.0.10"
+  },
+  "solitaireclassic": {
+    "name": "Daily Solitaire",
+    "version": "0.5.51"
   }
 }
