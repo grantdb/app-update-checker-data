@@ -1573,7 +1573,7 @@
   },
   "automod-easy": {
     "name": "AutoMod Easy",
-    "version": "0.0.135"
+    "version": "0.0.136"
   },
   "guessthebreed": {
     "name": "guessthebreed",
@@ -3126,5 +3126,9 @@
   "wicket-alert": {
     "name": "Wicket Alert",
     "version": "0.0.10"
+  },
+  "gamepadtest": {
+    "name": "Gamepad Tester",
+    "version": "0.0.12"
   }
 }
