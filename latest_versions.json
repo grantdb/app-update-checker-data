@@ -3118,5 +3118,13 @@
   "reference-registry": {
     "name": "Reference Registry",
     "version": "0.0.10"
+  },
+  "mini-racer": {
+    "name": "Mini Racer",
+    "version": "2.1.2"
+  },
+  "wicket-alert": {
+    "name": "Wicket Alert",
+    "version": "0.0.10"
   }
 }
