@@ -3186,5 +3186,17 @@
   "prismfallgame": {
     "name": "Prismfall",
     "version": "0.0.12"
+  },
+  "letterloo": {
+    "name": "letterloo",
+    "version": "0.3.21"
+  },
+  "wr-bot": {
+    "name": "wr-bot",
+    "version": "0.0.5"
+  },
+  "warning-track": {
+    "name": "Warning Track",
+    "version": "0.0.75"
   }
 }
