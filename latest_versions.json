@@ -3106,5 +3106,13 @@
   "conto-interativo": {
     "name": "Interactive Storyteller",
     "version": "0.0.7"
+  },
+  "poker-room": {
+    "name": "Poker Room",
+    "version": "0.0.5"
+  },
+  "detconnections": {
+    "name": "Detective Connections",
+    "version": "0.0.16"
   }
 }
