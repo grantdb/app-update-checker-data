@@ -2029,7 +2029,7 @@
   },
   "ttokdoku": {
     "name": "TtokDoku",
-    "version": "0.3.29"
+    "version": "0.3.34"
   },
   "answer-triage": {
     "name": "answer-triage",
@@ -3198,5 +3198,13 @@
   "warning-track": {
     "name": "Warning Track",
     "version": "0.0.75"
+  },
+  "tilerush": {
+    "name": "Tile Rush",
+    "version": "0.0.30"
+  },
+  "neon-2048": {
+    "name": "Neon 2048 Brain game | Beat the best",
+    "version": "0.0.10"
   }
 }
