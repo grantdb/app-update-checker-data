@@ -1533,7 +1533,7 @@
   },
   "penalty-rush": {
     "name": "Penalty Rush",
-    "version": "0.0.32"
+    "version": "0.0.33"
   },
   "reflect-daily": {
     "name": "Buddha Quotes",
@@ -3138,5 +3138,9 @@
   "mod-mailer-app": {
     "name": "Mod Mailer",
     "version": "0.1.2"
+  },
+  "the-daily-sweep": {
+    "name": "the-daily-sweep",
+    "version": "0.0.30"
   }
 }
