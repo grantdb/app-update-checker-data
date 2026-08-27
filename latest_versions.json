@@ -3158,5 +3158,13 @@
   "streamer-stocks": {
     "name": "streamer-stocks",
     "version": "0.0.3"
+  },
+  "photopuzzlegame": {
+    "name": "Photo Puzzle Game",
+    "version": "0.0.6"
+  },
+  "mlb-scores": {
+    "name": "MLB Scoreboard App",
+    "version": "0.0.135"
   }
 }
