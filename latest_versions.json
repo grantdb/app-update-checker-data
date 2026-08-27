@@ -3046,5 +3046,25 @@
   "scanslop": {
     "name": "Scan Slop",
     "version": "0.0.67"
+  },
+  "stonefall99": {
+    "name": "Stonefall",
+    "version": "0.3.0"
+  },
+  "quizy-car": {
+    "name": "Anarchy quiz",
+    "version": "0.0.1"
+  },
+  "kitty-dash": {
+    "name": "Kitty Dash",
+    "version": "0.0.26"
+  },
+  "dungeondaily": {
+    "name": "Daily Dungeon",
+    "version": "0.0.9"
+  },
+  "mit-3dvenue-app2": {
+    "name": "mit-3dvenue",
+    "version": "0.0.10"
   }
 }
