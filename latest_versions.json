@@ -1385,7 +1385,7 @@
   },
   "pwhl-goalpost": {
     "name": "pwhl-goalpost",
-    "version": "2.16.3"
+    "version": "2.18.13"
   },
   "discussion-rank-post": {
     "name": "Community Rate (test)",
@@ -1501,7 +1501,7 @@
   },
   "qshots": {
     "name": "qshots",
-    "version": "0.0.189"
+    "version": "0.0.191"
   },
   "archive-all-mm": {
     "name": "Archive All Modmail",
