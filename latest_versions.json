@@ -1585,7 +1585,7 @@
   },
   "word-guard": {
     "name": "Word Guard",
-    "version": "0.0.185"
+    "version": "0.0.186"
   },
   "sudo2026": {
     "name": "sudo2026",
@@ -3086,5 +3086,17 @@
   "cjk-lookup": {
     "name": "CJK Lookup - A Chinese, Japanese, and Korean dictionary",
     "version": "1.1.3"
+  },
+  "subfusion2": {
+    "name": "SubFusion",
+    "version": "0.0.7"
+  },
+  "blackout-sq356": {
+    "name": "blackout-sq356",
+    "version": "0.0.15"
+  },
+  "luckypeopleonly": {
+    "name": "luckypeopleonly",
+    "version": "0.0.6"
   }
 }
