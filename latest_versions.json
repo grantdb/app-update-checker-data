@@ -3294,5 +3294,17 @@
   "rankd-judge": {
     "name": "rankd-judge",
     "version": "0.0.9"
+  },
+  "modvitals": {
+    "name": "modvitals",
+    "version": "0.0.16"
+  },
+  "seedclash": {
+    "name": "seedclash",
+    "version": "0.0.45"
+  },
+  "fantasy-league": {
+    "name": "Fantasy League",
+    "version": "0.0.18"
   }
 }
