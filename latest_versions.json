@@ -3238,5 +3238,17 @@
   "thread-brawlers": {
     "name": "Thread Brawlers",
     "version": "0.0.34"
+  },
+  "solitaire-royale": {
+    "name": "solitaire-royale",
+    "version": "0.0.8"
+  },
+  "amputatorbot": {
+    "name": "AmputatorBot",
+    "version": "5.1.3"
+  },
+  "urjo-game": {
+    "name": "Urjo",
+    "version": "0.9.17"
   }
 }
