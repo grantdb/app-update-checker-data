@@ -3290,5 +3290,9 @@
   "karmafarmerrpg": {
     "name": "karmafarmerrpg",
     "version": "0.0.53"
+  },
+  "rankd-judge": {
+    "name": "rankd-judge",
+    "version": "0.0.9"
   }
 }
