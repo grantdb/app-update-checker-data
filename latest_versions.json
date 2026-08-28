@@ -3330,5 +3330,13 @@
   "the-prisma": {
     "name": "The PRISMA",
     "version": "0.0.53"
+  },
+  "sql-arena": {
+    "name": "sql-arena",
+    "version": "0.0.36"
+  },
+  "guardmyflair": {
+    "name": "guardmyflair",
+    "version": "0.0.11"
   }
 }
