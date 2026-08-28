@@ -2081,7 +2081,7 @@
   },
   "my-solitaire-games": {
     "name": "My Solitaire Card Game",
-    "version": "0.0.46"
+    "version": "0.0.47"
   },
   "miirps-app": {
     "name": "Miirps",
@@ -2509,7 +2509,7 @@
   },
   "daycount-flair": {
     "name": "daycount-flair",
-    "version": "0.0.2"
+    "version": "0.0.5"
   },
   "memory-grove": {
     "name": "Memory Grove",
