@@ -3326,5 +3326,9 @@
   "trustsignal-rd": {
     "name": "TrustSignal-RD",
     "version": "0.0.30"
+  },
+  "the-prisma": {
+    "name": "The PRISMA",
+    "version": "0.0.53"
   }
 }
