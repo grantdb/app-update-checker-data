@@ -3286,5 +3286,9 @@
   "paperiumposter": {
     "name": "paperiumposter",
     "version": "0.0.2"
+  },
+  "karmafarmerrpg": {
+    "name": "karmafarmerrpg",
+    "version": "0.0.53"
   }
 }
