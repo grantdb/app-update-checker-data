@@ -3366,5 +3366,25 @@
   "dict-fills": {
     "name": "Dictionary Fills",
     "version": "0.0.11"
+  },
+  "neon-path": {
+    "name": "neon-path",
+    "version": "0.0.37"
+  },
+  "neetindia-guard": {
+    "name": "neetindia-guard",
+    "version": "0.0.24"
+  },
+  "frog-spawned": {
+    "name": "Frog Spawned",
+    "version": "0.0.31"
+  },
+  "champdle": {
+    "name": "champdle",
+    "version": "0.0.5"
+  },
+  "mazendav": {
+    "name": "Mazenda",
+    "version": "0.0.134"
   }
 }
