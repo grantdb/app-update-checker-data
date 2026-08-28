@@ -3318,5 +3318,13 @@
   "numberguess": {
     "name": "Number Guess Game",
     "version": "0.0.15"
+  },
+  "flip-match": {
+    "name": "Flip &amp; Match",
+    "version": "0.0.28"
+  },
+  "trustsignal-rd": {
+    "name": "TrustSignal-RD",
+    "version": "0.0.30"
   }
 }
