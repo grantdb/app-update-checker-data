@@ -3250,5 +3250,17 @@
   "urjo-game": {
     "name": "Urjo",
     "version": "0.9.17"
+  },
+  "scroll-r": {
+    "name": "Scroll-r",
+    "version": "0.0.3"
+  },
+  "modcommand": {
+    "name": "modcommand",
+    "version": "0.0.35"
+  },
+  "droppy-blocky": {
+    "name": "Droppy Blocky",
+    "version": "0.0.31"
   }
 }
