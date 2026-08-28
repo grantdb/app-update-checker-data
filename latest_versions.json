@@ -3306,5 +3306,9 @@
   "fantasy-league": {
     "name": "Fantasy League",
     "version": "0.0.18"
+  },
+  "mcrashers": {
+    "name": "Multiplication Crashers",
+    "version": "1.0.14"
   }
 }
