@@ -3214,5 +3214,21 @@
   "words-by-farber": {
     "name": "Words by Farber",
     "version": "0.0.75"
+  },
+  "b00minb0x": {
+    "name": "b00minb0x",
+    "version": "0.0.6"
+  },
+  "pipe-panic": {
+    "name": "Pipe Panic",
+    "version": "0.3.98"
+  },
+  "connexio-mutex": {
+    "name": "Connexio MuteX",
+    "version": "0.0.12"
+  },
+  "cyber-pong": {
+    "name": "Cyber Pong",
+    "version": "0.0.7"
   }
 }
