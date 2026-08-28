@@ -3274,5 +3274,17 @@
   "capydoku-puzzle": {
     "name": "capydoku-puzzle",
     "version": "1.1.2"
+  },
+  "faction-warfare": {
+    "name": "Faction Warfare",
+    "version": "0.0.9"
+  },
+  "modbeacon": {
+    "name": "ModBeacon - Live Mod Presence",
+    "version": "0.0.17"
+  },
+  "paperiumposter": {
+    "name": "paperiumposter",
+    "version": "0.0.2"
   }
 }
