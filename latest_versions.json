@@ -3350,5 +3350,17 @@
   "w0uld-u-rath3r": {
     "name": "w0uld-u-rath3r",
     "version": "0.0.3"
+  },
+  "royaldle": {
+    "name": "royaldle",
+    "version": "0.3.0"
+  },
+  "scriptle-game": {
+    "name": "Scriptle",
+    "version": "0.0.22"
+  },
+  "tipsey-delivery": {
+    "name": "tipsey",
+    "version": "0.0.62"
   }
 }
