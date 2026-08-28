@@ -1729,7 +1729,7 @@
   },
   "linux-quest": {
     "name": "Linux Quest",
-    "version": "0.0.122"
+    "version": "0.0.123"
   },
   "paddleborn": {
     "name": "paddleborn",
@@ -1749,7 +1749,7 @@
   },
   "votierapp": {
     "name": "VoTier",
-    "version": "0.4.2"
+    "version": "0.8.0"
   },
   "sudokugame": {
     "name": "Sudoku",
