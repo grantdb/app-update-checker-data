@@ -1881,7 +1881,7 @@
   },
   "dice-battle-dev": {
     "name": "Dice Fight",
-    "version": "0.0.92"
+    "version": "0.0.104"
   },
   "revelia-horoscop": {
     "name": "Revelia Horoscope",
@@ -2037,7 +2037,7 @@
   },
   "pawdoku-mystery": {
     "name": "pawdoku-mystery",
-    "version": "0.0.8"
+    "version": "0.0.10"
   },
   "ragnirbot": {
     "name": "ragnirbot",
@@ -3310,5 +3310,13 @@
   "mcrashers": {
     "name": "Multiplication Crashers",
     "version": "1.0.14"
+  },
+  "ledger-quest": {
+    "name": "ledger-quest",
+    "version": "0.0.11"
+  },
+  "numberguess": {
+    "name": "Number Guess Game",
+    "version": "0.0.15"
   }
 }
