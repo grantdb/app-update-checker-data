@@ -3386,5 +3386,9 @@
   "mazendav": {
     "name": "Mazenda",
     "version": "0.0.134"
+  },
+  "karabogabot": {
+    "name": "KarabogaBot",
+    "version": "1.0.0"
   }
 }
