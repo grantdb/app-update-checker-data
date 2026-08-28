@@ -3230,5 +3230,13 @@
   "cyber-pong": {
     "name": "Cyber Pong",
     "version": "0.0.7"
+  },
+  "duplicate-guard": {
+    "name": "Duplicate Guard",
+    "version": "0.0.35"
+  },
+  "thread-brawlers": {
+    "name": "Thread Brawlers",
+    "version": "0.0.34"
   }
 }
