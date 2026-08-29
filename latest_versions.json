@@ -3506,5 +3506,9 @@
   "fotographic63": {
     "name": "GridRecall",
     "version": "0.0.4"
+  },
+  "rentguessr": {
+    "name": "rentguessr",
+    "version": "1.0.14"
   }
 }
