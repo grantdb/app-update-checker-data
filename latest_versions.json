@@ -3430,5 +3430,21 @@
   "ebox-modbot": {
     "name": "ebox-modbot",
     "version": "1.0.12"
+  },
+  "minigawf": {
+    "name": "MiniGawf",
+    "version": "0.0.115"
+  },
+  "playboop": {
+    "name": "boop",
+    "version": "0.0.17"
+  },
+  "bye-bye-ducks": {
+    "name": "Bye Bye Ducks",
+    "version": "0.5.12"
+  },
+  "card-cull": {
+    "name": "card-cull",
+    "version": "0.0.6"
   }
 }
