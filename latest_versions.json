@@ -3446,5 +3446,17 @@
   "card-cull": {
     "name": "card-cull",
     "version": "0.0.6"
+  },
+  "distrofeed-bot": {
+    "name": "distrofeed-bot",
+    "version": "0.1.106"
+  },
+  "foursome--game": {
+    "name": "foursome--game",
+    "version": "1.0.5"
+  },
+  "the-debug-oracle": {
+    "name": "the-debug-oracle",
+    "version": "0.0.6"
   }
 }
