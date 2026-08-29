@@ -3418,5 +3418,17 @@
   "officeopsstudio": {
     "name": "OfficeOps Studio",
     "version": "0.0.5"
+  },
+  "stockmarketcap": {
+    "name": "stockmarketcap",
+    "version": "0.0.3"
+  },
+  "shrijacked": {
+    "name": "Receipts",
+    "version": "0.0.11"
+  },
+  "ebox-modbot": {
+    "name": "ebox-modbot",
+    "version": "1.0.12"
   }
 }
