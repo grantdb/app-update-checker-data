@@ -3398,5 +3398,9 @@
   "finddogs": {
     "name": "finddogs",
     "version": "0.0.14"
+  },
+  "lighthouse-lh": {
+    "name": "lighthouse-lh",
+    "version": "0.0.13"
   }
 }
