@@ -3390,5 +3390,9 @@
   "karabogabot": {
     "name": "KarabogaBot",
     "version": "1.0.0"
+  },
+  "dupe-detector": {
+    "name": "dupe-detector",
+    "version": "0.0.3"
   }
 }
