@@ -3394,5 +3394,9 @@
   "dupe-detector": {
     "name": "dupe-detector",
     "version": "0.0.3"
+  },
+  "finddogs": {
+    "name": "finddogs",
+    "version": "0.0.14"
   }
 }
