@@ -3534,5 +3534,21 @@
   "gossip-vortex": {
     "name": "gossip-vortex",
     "version": "0.0.5"
+  },
+  "modqueue-coord": {
+    "name": "modqueue-coord",
+    "version": "0.0.31"
+  },
+  "newcomer-concierge": {
+    "name": "newcomer-concierge",
+    "version": "0.0.14"
+  },
+  "dreamcollab": {
+    "name": "dreamcollab",
+    "version": "0.0.14"
+  },
+  "guess-the-1ink": {
+    "name": "Linkaroo",
+    "version": "0.0.44"
   }
 }
