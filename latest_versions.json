@@ -3574,5 +3574,25 @@
   "suhdokuh": {
     "name": "suhdokuh",
     "version": "0.0.68"
+  },
+  "nmsce-flair-app": {
+    "name": "nmsce-flair-app",
+    "version": "0.0.8"
+  },
+  "animecrown": {
+    "name": "Anime Crown",
+    "version": "0.0.8"
+  },
+  "prochamps": {
+    "name": "prochamps",
+    "version": "0.0.24"
+  },
+  "community-draw": {
+    "name": "Community Draw",
+    "version": "0.0.45"
+  },
+  "fatastrophic": {
+    "name": "fatastrophic",
+    "version": "1.0.8"
   }
 }
