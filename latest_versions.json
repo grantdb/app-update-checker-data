@@ -3514,5 +3514,9 @@
   "thread-tamer": {
     "name": "thread-tamer",
     "version": "0.0.3"
+  },
+  "asknordlabs": {
+    "name": "AskNordLabs",
+    "version": "1.0.0"
   }
 }
