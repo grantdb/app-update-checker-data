@@ -3518,5 +3518,17 @@
   "asknordlabs": {
     "name": "AskNordLabs",
     "version": "1.0.0"
+  },
+  "gamino-app": {
+    "name": "gamino-app",
+    "version": "0.0.116"
+  },
+  "circus-hero": {
+    "name": "Party Pop!",
+    "version": "0.0.18"
+  },
+  "breachline": {
+    "name": "breachline",
+    "version": "0.0.68"
   }
 }
