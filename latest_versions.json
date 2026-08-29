@@ -3550,5 +3550,9 @@
   "guess-the-1ink": {
     "name": "Linkaroo",
     "version": "0.0.44"
+  },
+  "six6degrees": {
+    "name": "six6degrees",
+    "version": "0.0.58"
   }
 }
