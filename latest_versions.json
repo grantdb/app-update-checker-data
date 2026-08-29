@@ -3494,5 +3494,17 @@
   "bastion-td": {
     "name": "Bastion TD",
     "version": "0.0.6"
+  },
+  "postgraphs": {
+    "name": "postgraphs",
+    "version": "0.0.12"
+  },
+  "mod-lens": {
+    "name": "mod-lens",
+    "version": "0.0.14"
+  },
+  "fotographic63": {
+    "name": "GridRecall",
+    "version": "0.0.4"
   }
 }
