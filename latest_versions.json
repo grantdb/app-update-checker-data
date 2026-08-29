@@ -3554,5 +3554,25 @@
   "six6degrees": {
     "name": "six6degrees",
     "version": "0.0.58"
+  },
+  "goosematch": {
+    "name": "Goose Match  Daily Match-3 Puzzle",
+    "version": "1.0.0"
+  },
+  "github-meta": {
+    "name": "github-meta",
+    "version": "1.0.1"
+  },
+  "puzzle-2048-game": {
+    "name": "puzzle-2048-game",
+    "version": "0.0.10"
+  },
+  "alkabot": {
+    "name": "Alka",
+    "version": "0.0.12"
+  },
+  "suhdokuh": {
+    "name": "suhdokuh",
+    "version": "0.0.68"
   }
 }
