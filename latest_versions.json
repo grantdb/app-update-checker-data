@@ -3458,5 +3458,13 @@
   "the-debug-oracle": {
     "name": "the-debug-oracle",
     "version": "0.0.6"
+  },
+  "votasanremo": {
+    "name": "votasanremo",
+    "version": "0.0.8"
+  },
+  "pulseguard-dev": {
+    "name": "PulseGuard",
+    "version": "0.0.8"
   }
 }
