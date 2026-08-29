@@ -3510,5 +3510,9 @@
   "rentguessr": {
     "name": "rentguessr",
     "version": "1.0.14"
+  },
+  "thread-tamer": {
+    "name": "thread-tamer",
+    "version": "0.0.3"
   }
 }
