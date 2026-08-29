@@ -3490,5 +3490,9 @@
   "mineralterminal": {
     "name": "mineralterminal",
     "version": "0.0.281"
+  },
+  "bastion-td": {
+    "name": "Bastion TD",
+    "version": "0.0.6"
   }
 }
