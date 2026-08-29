@@ -3530,5 +3530,9 @@
   "breachline": {
     "name": "breachline",
     "version": "0.0.68"
+  },
+  "gossip-vortex": {
+    "name": "gossip-vortex",
+    "version": "0.0.5"
   }
 }
