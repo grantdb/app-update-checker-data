@@ -3654,5 +3654,13 @@
   "mod-shieldd": {
     "name": "mod-shieldd",
     "version": "0.0.3"
+  },
+  "mage-tower": {
+    "name": "Mage Tower",
+    "version": "0.0.44"
+  },
+  "tripwire-mod": {
+    "name": "tripwire-mod",
+    "version": "0.1.0"
   }
 }
