@@ -193,7 +193,7 @@
   },
   "modqueue-tools": {
     "name": "Modqueue Tools",
-    "version": "1.3.2"
+    "version": "1.4.0"
   },
   "ban-purge": {
     "name": "Ban Purge",
