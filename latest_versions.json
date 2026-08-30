@@ -3622,5 +3622,17 @@
   "geodle": {
     "name": "geodle",
     "version": "0.3.0"
+  },
+  "wrose-sentinel": {
+    "name": "wrose-sentinel",
+    "version": "0.0.39"
+  },
+  "daily-hoops": {
+    "name": "Daily Hoops",
+    "version": "0.0.4"
+  },
+  "connectmepuzzle": {
+    "name": "connectmepuzzle",
+    "version": "1.0.0"
   }
 }
