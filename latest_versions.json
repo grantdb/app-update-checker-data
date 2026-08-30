@@ -3638,5 +3638,21 @@
   "mcupolls": {
     "name": "mcupolls",
     "version": "0.0.23"
+  },
+  "pulse-rhythm": {
+    "name": "pulse-rhythm",
+    "version": "0.0.6"
+  },
+  "langualad": {
+    "name": "languaLad",
+    "version": "0.0.12"
+  },
+  "sentinelai2026": {
+    "name": "Sentinel AI",
+    "version": "0.0.23"
+  },
+  "mod-shieldd": {
+    "name": "mod-shieldd",
+    "version": "0.0.3"
   }
 }
