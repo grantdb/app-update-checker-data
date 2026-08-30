@@ -3618,5 +3618,9 @@
   "goalsnap": {
     "name": "goalsnap",
     "version": "0.0.6"
+  },
+  "geodle": {
+    "name": "geodle",
+    "version": "0.3.0"
   }
 }
