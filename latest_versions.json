@@ -2521,7 +2521,7 @@
   },
   "snowballderby": {
     "name": "Snowball Derby",
-    "version": "0.9.0"
+    "version": "0.14.0"
   },
   "ssdi-assistance": {
     "name": "ssdi-assistance",
@@ -3598,5 +3598,9 @@
   "charge-the-coil": {
     "name": "CHARGE THE COIL",
     "version": "0.1.1"
+  },
+  "blindside-2": {
+    "name": "BlindsidePool",
+    "version": "0.4.0"
   }
 }
