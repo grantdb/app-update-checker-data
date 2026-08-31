@@ -693,7 +693,7 @@
   },
   "caption-contest": {
     "name": "caption-contest",
-    "version": "0.0.18"
+    "version": "0.0.22"
   },
   "game-of-guesses": {
     "name": "Interactive Guess and Choices",
