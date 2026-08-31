@@ -733,7 +733,7 @@
   },
   "modrelayhq": {
     "name": "modrelayhq",
-    "version": "0.0.92"
+    "version": "0.0.93"
   },
   "action-log": {
     "name": "Action Log",
@@ -781,7 +781,7 @@
   },
   "therepbot": {
     "name": "RepBot",
-    "version": "31.4.0"
+    "version": "31.5.3"
   },
   "dupedown": {
     "name": "dupedown",
