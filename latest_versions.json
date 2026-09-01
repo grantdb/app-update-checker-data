@@ -2986,5 +2986,9 @@
   "autoenforcer": {
     "name": "AutoEnforcer",
     "version": "0.0.58"
+  },
+  "policyops": {
+    "name": "PolicyOps",
+    "version": "0.0.12"
   }
 }
