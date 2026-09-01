@@ -1133,7 +1133,7 @@
   },
   "hestia-listens": {
     "name": "Hestia",
-    "version": "1.4.3"
+    "version": "1.5.1"
   },
   "ci-pixelary": {
     "name": "ci-pixelary",
