@@ -3006,5 +3006,9 @@
   "modmail-webhook": {
     "name": "modmail-webhook",
     "version": "1.0.0"
+  },
+  "swap-bot": {
+    "name": "Trade Confirmation Bot",
+    "version": "0.0.23"
   }
 }
