@@ -3022,5 +3022,21 @@
   "health-dashboard": {
     "name": "Health Dashboard",
     "version": "0.0.9"
+  },
+  "removetaggedpost": {
+    "name": "Remove flaired posts based on age",
+    "version": "0.0.8"
+  },
+  "weekly-offtopic": {
+    "name": "Weekly Stickied Off Topic Thread",
+    "version": "1.0.26"
+  },
+  "app-update-checker": {
+    "name": "App Update Checker",
+    "version": "0.0.75"
+  },
+  "modpilotdemo": {
+    "name": "ModPilot",
+    "version": "0.0.38"
   }
 }
