@@ -2974,5 +2974,17 @@
   "f1-central": {
     "name": "f1-central",
     "version": "0.1.17"
+  },
+  "automod-sim": {
+    "name": "AutoMod Playground",
+    "version": "0.0.8"
+  },
+  "hangout-map": {
+    "name": "MazWiz Hangout Map",
+    "version": "0.0.629"
+  },
+  "autoenforcer": {
+    "name": "AutoEnforcer",
+    "version": "0.0.58"
   }
 }
