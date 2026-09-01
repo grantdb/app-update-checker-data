@@ -1081,7 +1081,7 @@
   },
   "sticky-pro": {
     "name": "Sticky Pro",
-    "version": "1.0.107"
+    "version": "1.0.108"
   },
   "feature-board": {
     "name": "Feature Board",
@@ -2958,5 +2958,9 @@
   "mtgcf": {
     "name": "MtG CardFetcher",
     "version": "1.0.1"
+  },
+  "mod-team-actions": {
+    "name": "mod-team-actions",
+    "version": "0.0.6"
   }
 }
