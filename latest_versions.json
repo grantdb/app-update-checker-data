@@ -2962,5 +2962,9 @@
   "mod-team-actions": {
     "name": "mod-team-actions",
     "version": "0.0.6"
+  },
+  "ama-companion": {
+    "name": "AMA Companion",
+    "version": "0.0.4"
   }
 }
