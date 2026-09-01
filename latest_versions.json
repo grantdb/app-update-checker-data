@@ -3010,5 +3010,13 @@
   "swap-bot": {
     "name": "Trade Confirmation Bot",
     "version": "0.0.23"
+  },
+  "artooz-game": {
+    "name": "Artooz : Draw , Color and Remix!!",
+    "version": "0.0.16"
+  },
+  "release-announce": {
+    "name": "release-announce",
+    "version": "0.0.18"
   }
 }
