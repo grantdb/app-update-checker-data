@@ -2970,5 +2970,9 @@
   "comment-feed": {
     "name": "Comment Feed",
     "version": "0.1.0"
+  },
+  "f1-central": {
+    "name": "f1-central",
+    "version": "0.1.17"
   }
 }
