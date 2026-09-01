@@ -2954,5 +2954,9 @@
   "mod-shieldd": {
     "name": "mod-shieldd",
     "version": "0.0.3"
+  },
+  "mtgcf": {
+    "name": "MtG CardFetcher",
+    "version": "1.0.1"
   }
 }
