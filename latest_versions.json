@@ -1309,7 +1309,7 @@
   },
   "word-grind": {
     "name": "Word Grind",
-    "version": "0.1.1163"
+    "version": "0.1.1171"
   },
   "subpilot-app": {
     "name": "subpilot-app",
@@ -2465,11 +2465,11 @@
   },
   "element-synergy": {
     "name": "Element Synergy",
-    "version": "0.9.2"
+    "version": "0.9.4"
   },
   "arrowpuzzle": {
     "name": "Amaze Flow",
-    "version": "0.0.271"
+    "version": "0.0.280"
   },
   "notice-board": {
     "name": "Notice Board",
