@@ -1113,7 +1113,7 @@
   },
   "ninigrams-game": {
     "name": "Ninigrams",
-    "version": "0.1.35"
+    "version": "0.1.37"
   },
   "ratio-bobo": {
     "name": "Ratio! Bobobo! Motivate your users to contribute on some specific flair.",
@@ -2966,5 +2966,9 @@
   "ama-companion": {
     "name": "AMA Companion",
     "version": "0.0.4"
+  },
+  "comment-feed": {
+    "name": "Comment Feed",
+    "version": "0.1.0"
   }
 }
