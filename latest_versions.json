@@ -3142,5 +3142,13 @@
   "mochi-mochi-donuts": {
     "name": "Mochi Mochi Donuts",
     "version": "0.1.6"
+  },
+  "fit-the-word": {
+    "name": "Fit the Word",
+    "version": "0.23.501"
+  },
+  "curling-game": {
+    "name": "Curling - 2d",
+    "version": "0.3.0"
   }
 }
