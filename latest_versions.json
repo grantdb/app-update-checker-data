@@ -3190,5 +3190,13 @@
   "workit-app": {
     "name": "Workit",
     "version": "0.0.9"
+  },
+  "wordy-bunch": {
+    "name": "Wordy Bunch",
+    "version": "0.1.85"
+  },
+  "domain-guard": {
+    "name": "Domain Guard",
+    "version": "0.0.149"
   }
 }
