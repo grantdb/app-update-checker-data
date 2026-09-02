@@ -3038,5 +3038,17 @@
   "modpilotdemo": {
     "name": "ModPilot",
     "version": "0.0.38"
+  },
+  "texthelpermd": {
+    "name": "Text Helper MarkDown",
+    "version": "0.1.1"
+  },
+  "eventpulse": {
+    "name": "Event Plus",
+    "version": "0.0.23"
+  },
+  "nvda-chart": {
+    "name": "nvda-chart",
+    "version": "0.0.5"
   }
 }
