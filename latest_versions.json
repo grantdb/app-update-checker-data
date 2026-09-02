@@ -1445,7 +1445,7 @@
   },
   "qshots": {
     "name": "qshots",
-    "version": "0.0.191"
+    "version": "0.0.195"
   },
   "archive-all-mm": {
     "name": "Archive All Modmail",
@@ -3134,5 +3134,9 @@
   "detective-match": {
     "name": "Detective Match",
     "version": "0.0.16"
+  },
+  "sfmatchthreads": {
+    "name": "SFMatchThreadder",
+    "version": "1.2.0"
   }
 }
