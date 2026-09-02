@@ -3162,5 +3162,13 @@
   "pickem-game": {
     "name": "pickem-game",
     "version": "0.0.22"
+  },
+  "adv-feeds": {
+    "name": "ADV Feed Bot",
+    "version": "0.0.16"
+  },
+  "updateme-dev": {
+    "name": "updateme-dev",
+    "version": "0.0.10"
   }
 }
