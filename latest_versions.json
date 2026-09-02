@@ -3178,5 +3178,9 @@
   "swipespell": {
     "name": "SwipeSpell",
     "version": "0.0.6"
+  },
+  "expertreviewsapp": {
+    "name": "ReviewExpertsClub",
+    "version": "0.4.4"
   }
 }
