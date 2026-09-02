@@ -3174,5 +3174,9 @@
   "detectivesudoku": {
     "name": "Detective Sudoku",
     "version": "0.0.16"
+  },
+  "swipespell": {
+    "name": "SwipeSpell",
+    "version": "0.0.6"
   }
 }
