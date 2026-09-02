@@ -3126,5 +3126,13 @@
   "bareinfo-app": {
     "name": "BareInfo: Poll App",
     "version": "0.0.12"
+  },
+  "rim-rush": {
+    "name": "Rim Rush",
+    "version": "0.0.163"
+  },
+  "detective-match": {
+    "name": "Detective Match",
+    "version": "0.0.16"
   }
 }
