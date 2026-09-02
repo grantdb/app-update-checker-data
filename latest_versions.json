@@ -1601,7 +1601,7 @@
   },
   "yarnjampuzzle": {
     "name": "Yarn Jam",
-    "version": "0.0.103"
+    "version": "0.0.109"
   },
   "chessvault": {
     "name": "ChessForge",
@@ -3094,5 +3094,21 @@
   "vibe-mod": {
     "name": "vibe-mod",
     "version": "0.0.57"
+  },
+  "steampulse-game": {
+    "name": "Steam Game Live Stats From STEAMPULSE",
+    "version": "0.0.41"
+  },
+  "adv-live-feeds": {
+    "name": "ADV Live Feeds",
+    "version": "0.0.20"
+  },
+  "mod-reply": {
+    "name": "Mod Reply",
+    "version": "1.0.0"
+  },
+  "episodescheduler": {
+    "name": "EpisodeScheduler",
+    "version": "0.0.17"
   }
 }
