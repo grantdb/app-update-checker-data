@@ -3070,5 +3070,13 @@
   "shadow-mod": {
     "name": "ShadowMod",
     "version": "0.0.20"
+  },
+  "banned-list": {
+    "name": "banned-list",
+    "version": "0.25.0"
+  },
+  "soccer-predict": {
+    "name": "SoccerPredict",
+    "version": "0.1.0"
   }
 }
