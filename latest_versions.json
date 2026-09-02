@@ -3110,5 +3110,21 @@
   "episodescheduler": {
     "name": "EpisodeScheduler",
     "version": "0.0.17"
+  },
+  "wex-ai": {
+    "name": "wex-ai",
+    "version": "0.0.149"
+  },
+  "air-ride": {
+    "name": "air-ride",
+    "version": "0.0.4"
+  },
+  "typebattle-app": {
+    "name": "TypeBattle",
+    "version": "3.0.2"
+  },
+  "bareinfo-app": {
+    "name": "BareInfo: Poll App",
+    "version": "0.0.12"
   }
 }
