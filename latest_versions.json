@@ -3078,5 +3078,21 @@
   "soccer-predict": {
     "name": "SoccerPredict",
     "version": "0.1.0"
+  },
+  "modappstats": {
+    "name": "Moderator Applications",
+    "version": "0.0.4"
+  },
+  "humancheckpoint": {
+    "name": "Human Checkpoint",
+    "version": "1.0.35"
+  },
+  "det-equation": {
+    "name": "Detective Equation",
+    "version": "0.0.19"
+  },
+  "vibe-mod": {
+    "name": "vibe-mod",
+    "version": "0.0.57"
   }
 }
