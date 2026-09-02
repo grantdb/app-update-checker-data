@@ -3182,5 +3182,13 @@
   "expertreviewsapp": {
     "name": "ReviewExpertsClub",
     "version": "0.4.4"
+  },
+  "decrypttest": {
+    "name": "Decrypt",
+    "version": "1.1.2"
+  },
+  "workit-app": {
+    "name": "Workit",
+    "version": "0.0.9"
   }
 }
