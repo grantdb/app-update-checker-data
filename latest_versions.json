@@ -1449,7 +1449,7 @@
   },
   "archive-all-mm": {
     "name": "Archive All Modmail",
-    "version": "0.0.66"
+    "version": "0.0.68"
   },
   "wordmaxed-mini": {
     "name": "WordMaxed Mini",
@@ -3054,5 +3054,9 @@
   "shadowarchiver": {
     "name": "shadowarchiver",
     "version": "0.0.22"
+  },
+  "ghost-race": {
+    "name": "Spino Ghost Racing",
+    "version": "0.0.282"
   }
 }
