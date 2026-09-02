@@ -3050,5 +3050,9 @@
   "nvda-chart": {
     "name": "nvda-chart",
     "version": "0.0.5"
+  },
+  "shadowarchiver": {
+    "name": "shadowarchiver",
+    "version": "0.0.22"
   }
 }
