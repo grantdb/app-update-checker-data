@@ -3138,5 +3138,9 @@
   "sfmatchthreads": {
     "name": "SFMatchThreadder",
     "version": "1.2.0"
+  },
+  "mochi-mochi-donuts": {
+    "name": "Mochi Mochi Donuts",
+    "version": "0.1.6"
   }
 }
