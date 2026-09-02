@@ -3170,5 +3170,9 @@
   "updateme-dev": {
     "name": "updateme-dev",
     "version": "0.0.10"
+  },
+  "detectivesudoku": {
+    "name": "Detective Sudoku",
+    "version": "0.0.16"
   }
 }
