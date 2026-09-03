@@ -3242,5 +3242,21 @@
   "karma-grid": {
     "name": "karma-grid",
     "version": "0.0.7"
+  },
+  "blinkwords": {
+    "name": "blinkwords",
+    "version": "0.0.33"
+  },
+  "build-quiz": {
+    "name": "build-quiz",
+    "version": "0.0.95"
+  },
+  "bluff-bomb": {
+    "name": "Bluff Bomb",
+    "version": "0.1.13"
+  },
+  "summit-game": {
+    "name": "summit-game",
+    "version": "0.0.96"
   }
 }
