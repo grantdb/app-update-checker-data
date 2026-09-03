@@ -3338,5 +3338,21 @@
   "daily-sweepd": {
     "name": "Daily Sweepd",
     "version": "1.0.10"
+  },
+  "tilematch": {
+    "name": "tilematch",
+    "version": "0.5.0"
+  },
+  "chroma-canvas": {
+    "name": "chroma-canvas",
+    "version": "0.0.13"
+  },
+  "playscraper-bot": {
+    "name": "Playscraper Bot",
+    "version": "1.0.139"
+  },
+  "four-fours-game": {
+    "name": "Four Fours a Daily Math Puzzle",
+    "version": "0.0.4"
   }
 }
