@@ -3262,5 +3262,9 @@
   "cp-search": {
     "name": "Cult Podcasts Search",
     "version": "0.0.48"
+  },
+  "ava-battles": {
+    "name": "ava-battles",
+    "version": "0.0.19"
   }
 }
