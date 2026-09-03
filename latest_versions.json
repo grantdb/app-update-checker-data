@@ -3222,5 +3222,9 @@
   "trivia-hub": {
     "name": "Trivia Hub",
     "version": "0.0.11"
+  },
+  "provincials-app": {
+    "name": "provincials-app",
+    "version": "0.0.9"
   }
 }
