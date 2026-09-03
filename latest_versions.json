@@ -3210,5 +3210,9 @@
   "postcipher": {
     "name": "PostCipher",
     "version": "0.3.0"
+  },
+  "karmas-brick": {
+    "name": "karmas-brick",
+    "version": "0.0.15"
   }
 }
