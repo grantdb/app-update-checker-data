@@ -3334,5 +3334,9 @@
   "adv-roundup": {
     "name": "ADV Subreddit Roundup",
     "version": "0.0.9"
+  },
+  "daily-sweepd": {
+    "name": "Daily Sweepd",
+    "version": "1.0.10"
   }
 }
