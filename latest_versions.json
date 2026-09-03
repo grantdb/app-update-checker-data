@@ -3294,5 +3294,17 @@
   "top-gainer-ah": {
     "name": "top-gainer-ah",
     "version": "0.0.19"
+  },
+  "ahl-goalpost": {
+    "name": "ahl-goalpost",
+    "version": "2.18.13"
+  },
+  "sports-webapp": {
+    "name": "Sports Live Matchrooms",
+    "version": "0.0.17"
+  },
+  "sumwords-game": {
+    "name": "sumwords-game",
+    "version": "0.1.0"
   }
 }
