@@ -3318,5 +3318,21 @@
   "streakwar": {
     "name": "streakwar",
     "version": "0.0.10"
+  },
+  "shell-dojo": {
+    "name": "shell-dojo",
+    "version": "0.0.33"
+  },
+  "my2048city": {
+    "name": "my2048city",
+    "version": "0.0.18"
+  },
+  "track-buddy": {
+    "name": "Track Buddy",
+    "version": "1.0.9"
+  },
+  "adv-roundup": {
+    "name": "ADV Subreddit Roundup",
+    "version": "0.0.9"
   }
 }
