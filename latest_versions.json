@@ -3290,5 +3290,9 @@
   "crack-lock": {
     "name": "crack-lock",
     "version": "0.0.26"
+  },
+  "top-gainer-ah": {
+    "name": "top-gainer-ah",
+    "version": "0.0.19"
   }
 }
