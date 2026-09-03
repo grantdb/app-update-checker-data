@@ -3278,5 +3278,9 @@
   "community-recap": {
     "name": "community-recap",
     "version": "0.0.11"
+  },
+  "guesstheplant": {
+    "name": "GuessThePlant",
+    "version": "0.0.14"
   }
 }
