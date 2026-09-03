@@ -1705,7 +1705,7 @@
   },
   "user-guard": {
     "name": "User Guard",
-    "version": "0.0.70"
+    "version": "0.0.71"
   },
   "reply-timer": {
     "name": "OP Reply Enforcer (reply-timer)",
