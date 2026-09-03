@@ -3306,5 +3306,17 @@
   "sumwords-game": {
     "name": "sumwords-game",
     "version": "0.1.0"
+  },
+  "competitions-app": {
+    "name": "competitions-app",
+    "version": "0.0.31"
+  },
+  "dicedaemon": {
+    "name": "dicedaemon",
+    "version": "0.0.22"
+  },
+  "streakwar": {
+    "name": "streakwar",
+    "version": "0.0.10"
   }
 }
