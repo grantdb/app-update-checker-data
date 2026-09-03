@@ -3266,5 +3266,17 @@
   "ava-battles": {
     "name": "ava-battles",
     "version": "0.0.19"
+  },
+  "auto-highlights": {
+    "name": "Auto-Highlights",
+    "version": "0.1.0"
+  },
+  "insultguard": {
+    "name": "insultguard",
+    "version": "1.0.93"
+  },
+  "community-recap": {
+    "name": "community-recap",
+    "version": "0.0.11"
   }
 }
