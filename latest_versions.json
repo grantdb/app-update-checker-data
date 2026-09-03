@@ -3218,5 +3218,9 @@
   "reputibot": {
     "name": "ReputiBot - AI Trust Scoring for Mods",
     "version": "0.0.5"
+  },
+  "trivia-hub": {
+    "name": "Trivia Hub",
+    "version": "0.0.11"
   }
 }
