@@ -3282,5 +3282,13 @@
   "guesstheplant": {
     "name": "GuessThePlant",
     "version": "0.0.14"
+  },
+  "infinite-jumper": {
+    "name": "infinite-jumper",
+    "version": "0.0.5"
+  },
+  "crack-lock": {
+    "name": "crack-lock",
+    "version": "0.0.26"
   }
 }
