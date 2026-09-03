@@ -3214,5 +3214,9 @@
   "karmas-brick": {
     "name": "karmas-brick",
     "version": "0.0.15"
+  },
+  "reputibot": {
+    "name": "ReputiBot - AI Trust Scoring for Mods",
+    "version": "0.0.5"
   }
 }
