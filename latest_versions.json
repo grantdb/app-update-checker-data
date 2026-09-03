@@ -1825,7 +1825,7 @@
   },
   "pawdoku-mystery": {
     "name": "pawdoku-mystery",
-    "version": "0.0.10"
+    "version": "0.0.11"
   },
   "ragnirbot": {
     "name": "ragnirbot",
@@ -3234,5 +3234,13 @@
   "communitydash": {
     "name": "CommunityDash",
     "version": "0.0.12"
+  },
+  "military-flip": {
+    "name": "Military Flip",
+    "version": "0.0.21"
+  },
+  "karma-grid": {
+    "name": "karma-grid",
+    "version": "0.0.7"
   }
 }
