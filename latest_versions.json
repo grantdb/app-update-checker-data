@@ -3354,5 +3354,9 @@
   "four-fours-game": {
     "name": "Four Fours a Daily Math Puzzle",
     "version": "0.0.4"
+  },
+  "paint-it-memory": {
+    "name": "paint-it-memory",
+    "version": "0.0.5"
   }
 }
