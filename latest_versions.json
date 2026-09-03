@@ -1709,7 +1709,7 @@
   },
   "reply-timer": {
     "name": "OP Reply Enforcer (reply-timer)",
-    "version": "2.1.1"
+    "version": "3.0.0"
   },
   "chessmultiplayer": {
     "name": "chessmultiplayer",
@@ -3226,5 +3226,13 @@
   "provincials-app": {
     "name": "provincials-app",
     "version": "0.0.9"
+  },
+  "blocksweep": {
+    "name": "blocksweep",
+    "version": "0.4.0"
+  },
+  "communitydash": {
+    "name": "CommunityDash",
+    "version": "0.0.12"
   }
 }
