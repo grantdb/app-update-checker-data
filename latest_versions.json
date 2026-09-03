@@ -3198,5 +3198,17 @@
   "domain-guard": {
     "name": "Domain Guard",
     "version": "0.0.149"
+  },
+  "pomodorotime": {
+    "name": "Pomodoro Timer",
+    "version": "0.0.2"
+  },
+  "smackthatcaptcha": {
+    "name": "Smack That Captcha: The Frictionless, Gamified Spam Filter",
+    "version": "0.0.23"
+  },
+  "postcipher": {
+    "name": "PostCipher",
+    "version": "0.3.0"
   }
 }
