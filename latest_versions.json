@@ -3554,5 +3554,21 @@
   "print-analyzer": {
     "name": "Print-Analyzer",
     "version": "0.0.32"
+  },
+  "horcrux-game": {
+    "name": "horcrux-game",
+    "version": "0.0.1"
+  },
+  "flagit-game": {
+    "name": "flagit-game",
+    "version": "0.9.0"
+  },
+  "word-maestro": {
+    "name": "Word Maestro",
+    "version": "0.0.59"
+  },
+  "blastinfinitystones": {
+    "name": "BlastInfinityStones",
+    "version": "0.0.11"
   }
 }
