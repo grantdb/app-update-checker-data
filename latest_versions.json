@@ -3474,5 +3474,21 @@
   "hearts-by-farber": {
     "name": "hearts-by-farber",
     "version": "0.0.76"
+  },
+  "quantum-thrust": {
+    "name": "Quantum Thrust",
+    "version": "0.0.25"
+  },
+  "eclipse-game": {
+    "name": "eclipse-game",
+    "version": "0.0.38"
+  },
+  "staydownremoved": {
+    "name": "Staydown: and Removed",
+    "version": "0.0.2"
+  },
+  "subvoyager": {
+    "name": "subvoyager",
+    "version": "0.0.24"
   }
 }
