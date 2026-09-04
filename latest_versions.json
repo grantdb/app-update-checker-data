@@ -3378,5 +3378,21 @@
   "notthecolor": {
     "name": "notthecolor",
     "version": "0.0.7"
+  },
+  "camo-hunt": {
+    "name": "camo-hunt",
+    "version": "1.0.3"
+  },
+  "wasingface": {
+    "name": "wasingface",
+    "version": "0.0.3"
+  },
+  "daily-void": {
+    "name": "daily-void",
+    "version": "0.0.7"
+  },
+  "farfield-relay": {
+    "name": "farfield-relay",
+    "version": "0.0.4"
   }
 }
