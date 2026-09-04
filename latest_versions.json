@@ -3410,5 +3410,13 @@
   "deja-view-mod": {
     "name": "deja-view-mod",
     "version": "0.0.8"
+  },
+  "spot-nation": {
+    "name": "spot-nation",
+    "version": "0.2.0"
+  },
+  "playwallstreetle": {
+    "name": "PlayWallstreetle",
+    "version": "0.3.0"
   }
 }
