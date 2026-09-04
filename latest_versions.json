@@ -3490,5 +3490,17 @@
   "subvoyager": {
     "name": "subvoyager",
     "version": "0.0.24"
+  },
+  "profilepins": {
+    "name": "profilepins",
+    "version": "0.0.3"
+  },
+  "hexbind-game": {
+    "name": "HexBind",
+    "version": "0.0.9"
+  },
+  "predict-top-meme": {
+    "name": "Predict The Top Meme  Daily Challenge",
+    "version": "0.0.4"
   }
 }
