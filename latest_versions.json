@@ -3418,5 +3418,29 @@
   "playwallstreetle": {
     "name": "PlayWallstreetle",
     "version": "0.3.0"
+  },
+  "mahjong-pa-more": {
+    "name": "mahjong-pa-more",
+    "version": "0.0.4"
+  },
+  "sevenns-game": {
+    "name": "sevenns-game",
+    "version": "0.0.36"
+  },
+  "guesseddit": {
+    "name": "guesseddit",
+    "version": "0.0.81"
+  },
+  "triple-threatv2": {
+    "name": "triple-threatv2",
+    "version": "0.0.2"
+  },
+  "comment-summary": {
+    "name": "comment-summary",
+    "version": "0.0.8"
+  },
+  "screen-shot-bot": {
+    "name": "Screen Shot Bot",
+    "version": "1.0.78"
   }
 }
