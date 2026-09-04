@@ -2765,7 +2765,7 @@
   },
   "frog-spawned": {
     "name": "Frog Spawned",
-    "version": "0.0.31"
+    "version": "0.0.33"
   },
   "champdle": {
     "name": "champdle",
@@ -3506,5 +3506,9 @@
   "wrong-lane-racer": {
     "name": "wrong-lane-racer",
     "version": "0.0.27"
+  },
+  "midpoint-app": {
+    "name": "MIDPOINT",
+    "version": "0.0.11"
   }
 }
