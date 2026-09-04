@@ -3502,5 +3502,9 @@
   "predict-top-meme": {
     "name": "Predict The Top Meme  Daily Challenge",
     "version": "0.0.4"
+  },
+  "wrong-lane-racer": {
+    "name": "wrong-lane-racer",
+    "version": "0.0.27"
   }
 }
