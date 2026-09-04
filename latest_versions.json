@@ -3534,5 +3534,25 @@
   "hellishgolf": {
     "name": "hellishgolf",
     "version": "0.0.18"
+  },
+  "desklings": {
+    "name": "desklings",
+    "version": "0.0.7"
+  },
+  "cannons-and-castles": {
+    "name": "cannons-and-castles",
+    "version": "0.0.4"
+  },
+  "the-last-meridia": {
+    "name": "the-last-meridia",
+    "version": "0.0.11"
+  },
+  "rigger-game": {
+    "name": "RIGGED",
+    "version": "0.0.22"
+  },
+  "print-analyzer": {
+    "name": "Print-Analyzer",
+    "version": "0.0.32"
   }
 }
