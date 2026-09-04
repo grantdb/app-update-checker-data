@@ -3358,5 +3358,25 @@
   "paint-it-memory": {
     "name": "paint-it-memory",
     "version": "0.0.5"
+  },
+  "worldflaggames": {
+    "name": "worldflaggames",
+    "version": "0.0.4"
+  },
+  "topiclingo-daily": {
+    "name": "topiclingo-daily",
+    "version": "0.0.24"
+  },
+  "sky-road": {
+    "name": "sky-road",
+    "version": "0.0.11"
+  },
+  "daily-safe": {
+    "name": "daily-safe",
+    "version": "1.0.4"
+  },
+  "notthecolor": {
+    "name": "notthecolor",
+    "version": "0.0.7"
   }
 }
