@@ -2813,7 +2813,7 @@
   },
   "distrofeed-bot": {
     "name": "distrofeed-bot",
-    "version": "0.1.106"
+    "version": "0.1.108"
   },
   "foursome--game": {
     "name": "foursome--game",
@@ -3570,5 +3570,13 @@
   "blastinfinitystones": {
     "name": "BlastInfinityStones",
     "version": "0.0.11"
+  },
+  "remoteviewingapp": {
+    "name": "remoteviewingapp",
+    "version": "0.0.128"
+  },
+  "build-this": {
+    "name": "build-this",
+    "version": "0.0.4"
   }
 }
