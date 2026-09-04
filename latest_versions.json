@@ -3510,5 +3510,21 @@
   "midpoint-app": {
     "name": "MIDPOINT",
     "version": "0.0.11"
+  },
+  "locationguess": {
+    "name": "Guess the Place",
+    "version": "0.0.77"
+  },
+  "deckhaus": {
+    "name": "deckhaus",
+    "version": "0.0.29"
+  },
+  "the-open-world": {
+    "name": "The Open World",
+    "version": "0.108.0"
+  },
+  "hiveminded-app": {
+    "name": "Hiveminded",
+    "version": "0.0.8"
   }
 }
