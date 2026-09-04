@@ -3394,5 +3394,21 @@
   "farfield-relay": {
     "name": "farfield-relay",
     "version": "0.0.4"
+  },
+  "spell-royale": {
+    "name": "Spell Royale",
+    "version": "0.0.102"
+  },
+  "ride-bike": {
+    "name": "Ride Bike",
+    "version": "0.0.6"
+  },
+  "planetfall-game": {
+    "name": "planetfall-game",
+    "version": "0.0.84"
+  },
+  "deja-view-mod": {
+    "name": "deja-view-mod",
+    "version": "0.0.8"
   }
 }
