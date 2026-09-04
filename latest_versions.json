@@ -3526,5 +3526,13 @@
   "hiveminded-app": {
     "name": "Hiveminded",
     "version": "0.0.8"
+  },
+  "tf2-guess-the-map": {
+    "name": "TF2 Guess The Map",
+    "version": "0.0.29"
+  },
+  "hellishgolf": {
+    "name": "hellishgolf",
+    "version": "0.0.18"
   }
 }
