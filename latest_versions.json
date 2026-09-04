@@ -2773,7 +2773,7 @@
   },
   "only-op": {
     "name": "Only OP",
-    "version": "0.0.3"
+    "version": "0.0.7"
   },
   "nospellchecker": {
     "name": "nospellchecker",
@@ -3458,5 +3458,21 @@
   "grid-lock-game": {
     "name": "grid-lock-game",
     "version": "0.3.0"
+  },
+  "easterntactics": {
+    "name": "Eastern Tactics",
+    "version": "0.0.5"
+  },
+  "llo-snake": {
+    "name": "Laser Snake",
+    "version": "0.0.11"
+  },
+  "mirrormirror7771": {
+    "name": "Mirror Mirror",
+    "version": "0.0.18"
+  },
+  "hearts-by-farber": {
+    "name": "hearts-by-farber",
+    "version": "0.0.76"
   }
 }
