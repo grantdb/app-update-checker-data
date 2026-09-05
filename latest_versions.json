@@ -3578,5 +3578,9 @@
   "build-this": {
     "name": "build-this",
     "version": "0.0.4"
+  },
+  "wantedmissingmonster": {
+    "name": "wantedmissingmonster",
+    "version": "1.0.2"
   }
 }
