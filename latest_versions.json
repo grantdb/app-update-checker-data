@@ -217,11 +217,11 @@
   },
   "social-blacklist": {
     "name": "Social-Blacklist",
-    "version": "0.0.41"
+    "version": "0.0.43"
   },
   "sport-scoreboard": {
     "name": "NFL Football Scoreboard",
-    "version": "0.1.1"
+    "version": "0.1.2"
   },
   "qualityvote2": {
     "name": "QualityVote Reborn",
