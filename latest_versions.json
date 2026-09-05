@@ -169,7 +169,7 @@
   },
   "scoreboard-app": {
     "name": "Soccer Scoreboard App",
-    "version": "0.0.69"
+    "version": "0.0.70"
   },
   "queue-pruner": {
     "name": "Modqueue Pruner",
@@ -181,7 +181,7 @@
   },
   "community-chats": {
     "name": "Community Chats",
-    "version": "0.1.60"
+    "version": "0.1.64"
   },
   "image-polls": {
     "name": "Image Polls",
