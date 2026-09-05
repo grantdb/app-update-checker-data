@@ -3586,5 +3586,13 @@
   "you-are-the-cat": {
     "name": "you-are-the-cat",
     "version": "0.0.14"
+  },
+  "factor-frenzy": {
+    "name": "FactorFrenzy",
+    "version": "0.0.4"
+  },
+  "wsd-block-party": {
+    "name": "Block Party",
+    "version": "1.0.21"
   }
 }
