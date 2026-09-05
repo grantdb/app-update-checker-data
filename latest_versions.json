@@ -3594,5 +3594,13 @@
   "wsd-block-party": {
     "name": "Block Party",
     "version": "1.0.21"
+  },
+  "sudoku-sprint": {
+    "name": "Sudoku Sprint",
+    "version": "0.14.13"
+  },
+  "lasttitlestanding": {
+    "name": "Last Title Standing",
+    "version": "1.9.8"
   }
 }
