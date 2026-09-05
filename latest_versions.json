@@ -317,7 +317,7 @@
   },
   "basketball-app": {
     "name": "Basketball Scoreboard App",
-    "version": "0.0.18"
+    "version": "0.0.19"
   },
   "top-5-report": {
     "name": "Top 5 Posts",
@@ -325,7 +325,7 @@
   },
   "aiautomoderator": {
     "name": "AI AutoModerator",
-    "version": "2.1.55"
+    "version": "2.1.59"
   },
   "matchpal-live": {
     "name": "MatchPal.io  Live Football / Soccer Scores &amp; Auto Match Threads",
