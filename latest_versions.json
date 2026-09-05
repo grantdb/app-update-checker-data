@@ -3582,5 +3582,9 @@
   "wantedmissingmonster": {
     "name": "wantedmissingmonster",
     "version": "1.0.2"
+  },
+  "you-are-the-cat": {
+    "name": "you-are-the-cat",
+    "version": "0.0.14"
   }
 }
