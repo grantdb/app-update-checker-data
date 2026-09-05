@@ -121,7 +121,7 @@
   },
   "discord-relay": {
     "name": "Discord Relay",
-    "version": "2.6.2"
+    "version": "3.0.0"
   },
   "automod-app": {
     "name": "Mobile Automod",
