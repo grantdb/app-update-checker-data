@@ -3606,5 +3606,21 @@
   "clockshot-game": {
     "name": "clockshot-game",
     "version": "0.0.8"
+  },
+  "trait-card-rogue": {
+    "name": "Trait",
+    "version": "0.0.3"
+  },
+  "rulewiserr": {
+    "name": "rulewiserr",
+    "version": "0.0.20"
+  },
+  "draw-and-drive": {
+    "name": "DrawAndDrive",
+    "version": "0.0.15"
+  },
+  "theboxofficegame": {
+    "name": "theboxofficegame",
+    "version": "0.0.3"
   }
 }
