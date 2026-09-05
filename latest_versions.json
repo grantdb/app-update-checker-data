@@ -3626,5 +3626,13 @@
   "karmastep": {
     "name": "KarmaStep",
     "version": "0.0.44"
+  },
+  "supreme-moderator": {
+    "name": "supreme-moderator",
+    "version": "0.1.1"
+  },
+  "arrows-puzzle": {
+    "name": "arrows-puzzle",
+    "version": "0.0.15"
   }
 }
