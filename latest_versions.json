@@ -3602,5 +3602,9 @@
   "lasttitlestanding": {
     "name": "Last Title Standing",
     "version": "1.9.8"
+  },
+  "clockshot-game": {
+    "name": "clockshot-game",
+    "version": "0.0.8"
   }
 }
