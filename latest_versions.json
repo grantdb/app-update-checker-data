@@ -3622,5 +3622,9 @@
   "theboxofficegame": {
     "name": "theboxofficegame",
     "version": "0.0.3"
+  },
+  "karmastep": {
+    "name": "KarmaStep",
+    "version": "0.0.44"
   }
 }
