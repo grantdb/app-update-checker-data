@@ -801,7 +801,7 @@
   },
   "modqueue2discord": {
     "name": "Mod queue to Discord",
-    "version": "0.0.9"
+    "version": "0.0.13"
   },
   "crosspost-filter": {
     "name": "Crosspost Filter",
