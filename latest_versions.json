@@ -2493,7 +2493,7 @@
   },
   "mtgcf": {
     "name": "MtG CardFetcher",
-    "version": "1.0.1"
+    "version": "1.0.3"
   },
   "mod-team-actions": {
     "name": "mod-team-actions",
