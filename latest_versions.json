@@ -485,7 +485,7 @@
   },
   "cricket-app": {
     "name": "Cricket Scoreboard App",
-    "version": "0.0.12"
+    "version": "0.0.13"
   },
   "subchart": {
     "name": "Subreddit Subscriber Count Tracker",
@@ -549,7 +549,7 @@
   },
   "schedulerplus": {
     "name": "schedulerplus",
-    "version": "5.0.0"
+    "version": "5.0.2"
   },
   "report-dismisser": {
     "name": "Report Reasons Blacklist",
