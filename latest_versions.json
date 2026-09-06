@@ -921,7 +921,7 @@
   },
   "nhlgdtbot": {
     "name": "nhlgdtbot",
-    "version": "0.0.67"
+    "version": "0.1.0"
   },
   "verify-helper": {
     "name": "Verification Helper",
