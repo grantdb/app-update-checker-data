@@ -361,7 +361,7 @@
   },
   "bingo-post": {
     "name": "Bingo Post",
-    "version": "1.0.5"
+    "version": "1.0.6"
   },
   "criticalstateapp": {
     "name": "Critical State",
@@ -373,11 +373,11 @@
   },
   "mod-recruit": {
     "name": "Mod Recruit",
-    "version": "0.0.8"
+    "version": "0.0.9"
   },
   "spamlinkflagger": {
     "name": "Spam Link Flagger",
-    "version": "1.0.6"
+    "version": "1.1.0"
   },
   "only-flairs": {
     "name": "OnlyFlairs",
