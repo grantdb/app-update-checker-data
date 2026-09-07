@@ -2974,5 +2974,17 @@
   "modcommand": {
     "name": "modcommand",
     "version": "0.0.35"
+  },
+  "community-hammer": {
+    "name": "Community Hammer",
+    "version": "0.0.7"
+  },
+  "alan-foolster": {
+    "name": "Alan Foolster",
+    "version": "0.2.3"
+  },
+  "fact-or-cap": {
+    "name": "FactOrCap",
+    "version": "0.0.41"
   }
 }
