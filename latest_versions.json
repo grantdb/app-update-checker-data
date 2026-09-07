@@ -2966,5 +2966,9 @@
   "dejarepost": {
     "name": "Deja Repost",
     "version": "0.0.9"
+  },
+  "mlb-dinger": {
+    "name": "mlb-dinger",
+    "version": "1.40.1"
   }
 }
