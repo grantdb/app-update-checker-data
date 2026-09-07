@@ -2505,7 +2505,7 @@
   },
   "comment-feed": {
     "name": "Comment Feed",
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
   "f1-central": {
     "name": "f1-central",
@@ -2517,7 +2517,7 @@
   },
   "hangout-map": {
     "name": "MazWiz Hangout Map",
-    "version": "0.0.629"
+    "version": "0.0.641"
   },
   "autoenforcer": {
     "name": "AutoEnforcer",
