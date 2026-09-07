@@ -1113,7 +1113,7 @@
   },
   "ninigrams-game": {
     "name": "Ninigrams",
-    "version": "0.1.37"
+    "version": "0.1.39"
   },
   "ratio-bobo": {
     "name": "Ratio! Bobobo! Motivate your users to contribute on some specific flair.",
@@ -2129,7 +2129,7 @@
   },
   "bet-i-know": {
     "name": "Bet I know",
-    "version": "0.0.30"
+    "version": "0.0.31"
   },
   "custommute": {
     "name": "Custom Mute",
