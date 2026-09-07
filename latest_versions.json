@@ -1309,7 +1309,7 @@
   },
   "word-grind": {
     "name": "Word Grind",
-    "version": "0.1.1171"
+    "version": "0.1.1205"
   },
   "subpilot-app": {
     "name": "subpilot-app",
@@ -2970,5 +2970,9 @@
   "mlb-dinger": {
     "name": "mlb-dinger",
     "version": "1.40.1"
+  },
+  "modcommand": {
+    "name": "modcommand",
+    "version": "0.0.35"
   }
 }
