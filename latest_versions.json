@@ -2958,5 +2958,13 @@
   "arrows-puzzle": {
     "name": "arrows-puzzle",
     "version": "0.0.15"
+  },
+  "ai-checker": {
+    "name": "AI Checker",
+    "version": "0.0.86"
+  },
+  "dejarepost": {
+    "name": "Deja Repost",
+    "version": "0.0.9"
   }
 }
