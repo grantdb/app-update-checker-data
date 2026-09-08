@@ -3042,5 +3042,17 @@
   "quizy-car": {
     "name": "Anarchy quiz",
     "version": "0.0.1"
+  },
+  "stonefall99": {
+    "name": "Stonefall",
+    "version": "0.3.0"
+  },
+  "match-fixing": {
+    "name": "match-fixing",
+    "version": "0.0.226"
+  },
+  "wrose-sentinel": {
+    "name": "wrose-sentinel",
+    "version": "0.0.39"
   }
 }
