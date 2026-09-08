@@ -3010,5 +3010,9 @@
   "community-cleaner": {
     "name": "community-cleaner",
     "version": "0.0.10"
+  },
+  "app-shelf": {
+    "name": "App Shelf",
+    "version": "0.0.4"
   }
 }
