@@ -3090,5 +3090,17 @@
   "rollcalltool": {
     "name": "Roll Call",
     "version": "0.0.8"
+  },
+  "warning-track": {
+    "name": "Warning Track",
+    "version": "0.0.75"
+  },
+  "chess-puzzles": {
+    "name": "Chess Puzzle Game",
+    "version": "0.0.17"
+  },
+  "trustnet-mod": {
+    "name": "trustnet-mod",
+    "version": "0.0.32"
   }
 }
