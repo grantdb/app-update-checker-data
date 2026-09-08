@@ -3034,5 +3034,9 @@
   "fpl-community": {
     "name": "fpl-community",
     "version": "0.0.8"
+  },
+  "subnotify-app": {
+    "name": "SubNotify",
+    "version": "0.0.5"
   }
 }
