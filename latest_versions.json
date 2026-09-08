@@ -2998,5 +2998,17 @@
   "live-sticky": {
     "name": "LiveSticky",
     "version": "1.1.313"
+  },
+  "set-contestmode": {
+    "name": "set-contestmode",
+    "version": "0.0.1"
+  },
+  "prestigelab": {
+    "name": "Prestige",
+    "version": "1.1.2"
+  },
+  "community-cleaner": {
+    "name": "community-cleaner",
+    "version": "0.0.10"
   }
 }
