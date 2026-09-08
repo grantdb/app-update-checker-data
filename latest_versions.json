@@ -1489,7 +1489,7 @@
   },
   "word-guard": {
     "name": "Word Guard",
-    "version": "0.0.186"
+    "version": "0.0.187"
   },
   "sudo2026": {
     "name": "sudo2026",
@@ -3058,5 +3058,9 @@
   "mod-stats": {
     "name": "mod-stats",
     "version": "0.0.27"
+  },
+  "botverdict": {
+    "name": "botverdict",
+    "version": "0.0.16"
   }
 }
