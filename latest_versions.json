@@ -2693,7 +2693,7 @@
   },
   "wordy-bunch": {
     "name": "Wordy Bunch",
-    "version": "0.1.85"
+    "version": "0.1.86"
   },
   "pomodorotime": {
     "name": "Pomodoro Timer",
@@ -3122,5 +3122,9 @@
   "guessthebreed": {
     "name": "guessthebreed",
     "version": "0.7.3"
+  },
+  "mindtheword": {
+    "name": "mindtheword",
+    "version": "0.0.1"
   }
 }
