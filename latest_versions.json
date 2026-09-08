@@ -1645,7 +1645,7 @@
   },
   "user-board": {
     "name": "User Board",
-    "version": "0.0.34"
+    "version": "0.0.35"
   },
   "colloni-tuddlee": {
     "name": "Nuzzle-The-Puzzle",
@@ -3102,5 +3102,13 @@
   "trustnet-mod": {
     "name": "trustnet-mod",
     "version": "0.0.32"
+  },
+  "chaotic-wheels": {
+    "name": "Chaotic Wheels",
+    "version": "0.0.5"
+  },
+  "sub-feedback": {
+    "name": "Community Feedback",
+    "version": "0.0.21"
   }
 }
