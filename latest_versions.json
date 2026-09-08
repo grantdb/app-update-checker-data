@@ -3110,5 +3110,9 @@
   "sub-feedback": {
     "name": "Community Feedback",
     "version": "0.0.21"
+  },
+  "pulse-monitor": {
+    "name": "pulse-monitor",
+    "version": "0.0.11"
   }
 }
