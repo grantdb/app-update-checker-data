@@ -2986,5 +2986,17 @@
   "fact-or-cap": {
     "name": "FactOrCap",
     "version": "0.0.41"
+  },
+  "modecule1": {
+    "name": "modecule1",
+    "version": "0.0.13"
+  },
+  "comment-filter": {
+    "name": "Comment Filter",
+    "version": "0.0.4"
+  },
+  "live-sticky": {
+    "name": "LiveSticky",
+    "version": "1.1.313"
   }
 }
