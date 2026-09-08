@@ -3114,5 +3114,13 @@
   "pulse-monitor": {
     "name": "pulse-monitor",
     "version": "0.0.11"
+  },
+  "reference-registry": {
+    "name": "Reference Registry",
+    "version": "0.0.10"
+  },
+  "guessthebreed": {
+    "name": "guessthebreed",
+    "version": "0.7.3"
   }
 }
