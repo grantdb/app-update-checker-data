@@ -2653,7 +2653,7 @@
   },
   "fit-the-word": {
     "name": "Fit the Word",
-    "version": "0.23.501"
+    "version": "0.23.527"
   },
   "curling-game": {
     "name": "Curling - 2d",
@@ -3038,5 +3038,9 @@
   "subnotify-app": {
     "name": "SubNotify",
     "version": "0.0.5"
+  },
+  "quizy-car": {
+    "name": "Anarchy quiz",
+    "version": "0.0.1"
   }
 }
