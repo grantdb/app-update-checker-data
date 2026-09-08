@@ -1445,7 +1445,7 @@
   },
   "qshots": {
     "name": "qshots",
-    "version": "0.0.195"
+    "version": "0.0.197"
   },
   "archive-all-mm": {
     "name": "Archive All Modmail",
@@ -3014,5 +3014,9 @@
   "app-shelf": {
     "name": "App Shelf",
     "version": "0.0.4"
+  },
+  "tsla-chart": {
+    "name": "tsla-chart",
+    "version": "0.0.15"
   }
 }
