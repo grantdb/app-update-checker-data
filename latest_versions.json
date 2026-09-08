@@ -3026,5 +3026,13 @@
   "wordblast": {
     "name": "wordblast",
     "version": "0.0.4"
+  },
+  "zipcons": {
+    "name": "ZipCons",
+    "version": "0.0.36"
+  },
+  "fpl-community": {
+    "name": "fpl-community",
+    "version": "0.0.8"
   }
 }
