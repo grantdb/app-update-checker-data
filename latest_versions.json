@@ -1365,7 +1365,7 @@
   },
   "pwhl-goalpost": {
     "name": "pwhl-goalpost",
-    "version": "2.18.13"
+    "version": "2.31.2"
   },
   "discussion-rank-post": {
     "name": "Community Rate (test)",
@@ -3018,5 +3018,13 @@
   "tsla-chart": {
     "name": "tsla-chart",
     "version": "0.0.15"
+  },
+  "secourses-pin": {
+    "name": "Full Card Pin",
+    "version": "0.0.31"
+  },
+  "wordblast": {
+    "name": "wordblast",
+    "version": "0.0.4"
   }
 }
