@@ -1341,7 +1341,7 @@
   },
   "nhl-goalpost": {
     "name": "nhl-goalpost",
-    "version": "2.18.13"
+    "version": "2.31.2"
   },
   "cgbaov2": {
     "name": "CollabGuard",
@@ -1449,7 +1449,7 @@
   },
   "archive-all-mm": {
     "name": "Archive All Modmail",
-    "version": "0.0.68"
+    "version": "0.0.69"
   },
   "wordmaxed-mini": {
     "name": "WordMaxed Mini",
