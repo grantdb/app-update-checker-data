@@ -3054,5 +3054,9 @@
   "wrose-sentinel": {
     "name": "wrose-sentinel",
     "version": "0.0.39"
+  },
+  "mod-stats": {
+    "name": "mod-stats",
+    "version": "0.0.27"
   }
 }
