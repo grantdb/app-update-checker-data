@@ -3062,5 +3062,17 @@
   "botverdict": {
     "name": "botverdict",
     "version": "0.0.16"
+  },
+  "arrowtix": {
+    "name": "Arrowtix - Puzzle Escape Arrow",
+    "version": "0.0.15"
+  },
+  "modqueue-checker": {
+    "name": "Modqueue Checker",
+    "version": "0.0.3"
+  },
+  "scary-adventures": {
+    "name": "Scary Adventures",
+    "version": "0.0.12"
   }
 }
