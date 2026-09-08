@@ -3074,5 +3074,13 @@
   "scary-adventures": {
     "name": "Scary Adventures",
     "version": "0.0.12"
+  },
+  "click-bait-game": {
+    "name": "Click Bait Game",
+    "version": "0.0.62"
+  },
+  "giveawayapp": {
+    "name": "Giveaway Maker",
+    "version": "0.0.6"
   }
 }
