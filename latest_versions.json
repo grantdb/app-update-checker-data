@@ -3194,5 +3194,13 @@
   "karrouet": {
     "name": "karrouet",
     "version": "0.0.6"
+  },
+  "number-math": {
+    "name": "Numble",
+    "version": "0.3.0"
+  },
+  "bc101bot": {
+    "name": "BC101Bot",
+    "version": "0.0.6"
   }
 }
