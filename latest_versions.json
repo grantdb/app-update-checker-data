@@ -3178,5 +3178,21 @@
   "seedclash": {
     "name": "seedclash",
     "version": "0.0.45"
+  },
+  "modvitals": {
+    "name": "modvitals",
+    "version": "0.0.16"
+  },
+  "meetyou-games": {
+    "name": "MeetYou Puzzles",
+    "version": "0.0.10"
+  },
+  "zenqueue-mod": {
+    "name": "zenqueue-mod",
+    "version": "0.0.8"
+  },
+  "karrouet": {
+    "name": "karrouet",
+    "version": "0.0.6"
   }
 }
