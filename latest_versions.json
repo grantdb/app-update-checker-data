@@ -2729,7 +2729,7 @@
   },
   "build-quiz": {
     "name": "build-quiz",
-    "version": "0.0.95"
+    "version": "0.0.100"
   },
   "auto-highlights": {
     "name": "Auto-Highlights",
@@ -3282,5 +3282,13 @@
   "movies-app": {
     "name": "Movies",
     "version": "0.0.75"
+  },
+  "dice-battle-dev": {
+    "name": "Dice Fight",
+    "version": "0.0.109"
+  },
+  "riftboundfetcher": {
+    "name": "riftboundfetcher",
+    "version": "0.1.21"
   }
 }
