@@ -2737,7 +2737,7 @@
   },
   "community-recap": {
     "name": "community-recap",
-    "version": "0.0.11"
+    "version": "0.0.13"
   },
   "infinite-jumper": {
     "name": "infinite-jumper",
@@ -3126,5 +3126,9 @@
   "mindtheword": {
     "name": "mindtheword",
     "version": "0.0.1"
+  },
+  "ember-world": {
+    "name": "ember-world",
+    "version": "0.0.39"
   }
 }
