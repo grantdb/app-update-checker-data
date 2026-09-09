@@ -3290,5 +3290,17 @@
   "riftboundfetcher": {
     "name": "riftboundfetcher",
     "version": "0.1.21"
+  },
+  "royaldle": {
+    "name": "royaldle",
+    "version": "0.3.0"
+  },
+  "w0uld-u-rath3r": {
+    "name": "w0uld-u-rath3r",
+    "version": "0.0.3"
+  },
+  "scramgram-game": {
+    "name": "Scramgram",
+    "version": "0.0.26"
   }
 }
