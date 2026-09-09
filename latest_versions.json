@@ -2669,7 +2669,7 @@
   },
   "pickem-game": {
     "name": "pickem-game",
-    "version": "0.0.22"
+    "version": "0.0.26"
   },
   "adv-feeds": {
     "name": "ADV Feed Bot",
@@ -2749,7 +2749,7 @@
   },
   "ahl-goalpost": {
     "name": "ahl-goalpost",
-    "version": "2.18.13"
+    "version": "2.31.10"
   },
   "sports-webapp": {
     "name": "Sports Live Matchrooms",
@@ -3270,5 +3270,17 @@
   "guesstheelogame": {
     "name": "Guess the Elo",
     "version": "0.0.4"
+  },
+  "us-stock-market": {
+    "name": "The US Stock Market - S&amp;P , NASDAQ",
+    "version": "0.0.8"
+  },
+  "numberguess": {
+    "name": "Number Guess Game",
+    "version": "0.0.15"
+  },
+  "movies-app": {
+    "name": "Movies",
+    "version": "0.0.75"
   }
 }
