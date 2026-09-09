@@ -3310,5 +3310,13 @@
   "garden-play": {
     "name": "garden-play",
     "version": "0.0.21"
+  },
+  "chess-board": {
+    "name": "chess-board",
+    "version": "0.0.155"
+  },
+  "modgather": {
+    "name": "ModGather",
+    "version": "0.0.3"
   }
 }
