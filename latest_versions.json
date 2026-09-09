@@ -3302,5 +3302,13 @@
   "scramgram-game": {
     "name": "Scramgram",
     "version": "0.0.26"
+  },
+  "substeward": {
+    "name": "SubSteward",
+    "version": "0.2.0"
+  },
+  "garden-play": {
+    "name": "garden-play",
+    "version": "0.0.21"
   }
 }
