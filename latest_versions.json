@@ -3326,5 +3326,29 @@
   "karmic-cards": {
     "name": "Karmic Cards",
     "version": "0.0.7"
+  },
+  "modmailmanager": {
+    "name": "ModMailManager",
+    "version": "0.0.55"
+  },
+  "the-prisma": {
+    "name": "The PRISMA",
+    "version": "0.0.53"
+  },
+  "hindsight-game": {
+    "name": "hindsight-game",
+    "version": "0.0.6"
+  },
+  "keep-us-loud": {
+    "name": "Keep Us Loud - arena sports games for fans",
+    "version": "0.0.10"
+  },
+  "reveal-trap": {
+    "name": "reveal-trap",
+    "version": "0.0.5"
+  },
+  "amputatorbot": {
+    "name": "AmputatorBot",
+    "version": "5.1.3"
   }
 }
