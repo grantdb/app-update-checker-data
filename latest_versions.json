@@ -3234,5 +3234,17 @@
   "flairguard-app": {
     "name": "flairguard-app",
     "version": "0.0.23"
+  },
+  "personalprevent": {
+    "name": "Personal Prevent",
+    "version": "0.0.1"
+  },
+  "bad-cards-game": {
+    "name": "Bad Cards",
+    "version": "0.0.104"
+  },
+  "socialchecks": {
+    "name": "socialchecks",
+    "version": "0.0.18"
   }
 }
