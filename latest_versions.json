@@ -2309,7 +2309,7 @@
   },
   "words-by-farber": {
     "name": "Words by Farber",
-    "version": "0.0.75"
+    "version": "0.0.78"
   },
   "pipe-panic": {
     "name": "Pipe Panic",
@@ -3130,5 +3130,17 @@
   "ember-world": {
     "name": "ember-world",
     "version": "0.0.39"
+  },
+  "subtebot": {
+    "name": "subtebot",
+    "version": "0.0.12"
+  },
+  "ghost-detector": {
+    "name": "ghost-detector",
+    "version": "1.0.9"
+  },
+  "wikiappend": {
+    "name": "WikiMate",
+    "version": "0.0.2"
   }
 }
