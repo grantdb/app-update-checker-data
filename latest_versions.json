@@ -3258,5 +3258,9 @@
   "datetime-global": {
     "name": "datetime-global",
     "version": "0.0.4"
+  },
+  "chaoscollabstory": {
+    "name": "chaoscollabstory",
+    "version": "0.0.3"
   }
 }
