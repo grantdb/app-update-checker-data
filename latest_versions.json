@@ -3318,5 +3318,13 @@
   "modgather": {
     "name": "ModGather",
     "version": "0.0.3"
+  },
+  "flip-cards": {
+    "name": "FlipCards",
+    "version": "0.0.13"
+  },
+  "karmic-cards": {
+    "name": "Karmic Cards",
+    "version": "0.0.7"
   }
 }
