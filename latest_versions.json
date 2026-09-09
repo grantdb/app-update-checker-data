@@ -3142,5 +3142,17 @@
   "wikiappend": {
     "name": "WikiMate",
     "version": "0.0.2"
+  },
+  "nfj-fpl": {
+    "name": "NFJ FPL Standings",
+    "version": "0.0.8"
+  },
+  "plsdontdestroy": {
+    "name": "Please Don&#39;t Destroy",
+    "version": "1.0.22"
+  },
+  "stackgame": {
+    "name": "stackgame",
+    "version": "0.0.9"
   }
 }
