@@ -3262,5 +3262,13 @@
   "chaoscollabstory": {
     "name": "chaoscollabstory",
     "version": "0.0.3"
+  },
+  "dimensions5d": {
+    "name": "dimensions5d",
+    "version": "0.0.4"
+  },
+  "guesstheelogame": {
+    "name": "Guess the Elo",
+    "version": "0.0.4"
   }
 }
