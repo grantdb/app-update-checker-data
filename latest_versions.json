@@ -1697,7 +1697,7 @@
   },
   "pawdoku-mystery": {
     "name": "pawdoku-mystery",
-    "version": "0.0.11"
+    "version": "0.0.12"
   },
   "ragnirbot": {
     "name": "ragnirbot",
@@ -3154,5 +3154,13 @@
   "stackgame": {
     "name": "stackgame",
     "version": "0.0.9"
+  },
+  "bugshelper": {
+    "name": "bugshelper",
+    "version": "0.0.27"
+  },
+  "pixelkickers": {
+    "name": "Pixel Kickers",
+    "version": "0.0.63"
   }
 }
