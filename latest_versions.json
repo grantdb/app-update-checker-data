@@ -3246,5 +3246,17 @@
   "socialchecks": {
     "name": "socialchecks",
     "version": "0.0.18"
+  },
+  "epic-pong": {
+    "name": "Epic Pong",
+    "version": "0.0.2"
+  },
+  "droppy-blocky": {
+    "name": "Droppy Blocky",
+    "version": "0.0.31"
+  },
+  "datetime-global": {
+    "name": "datetime-global",
+    "version": "0.0.4"
   }
 }
