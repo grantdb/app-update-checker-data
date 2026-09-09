@@ -3166,5 +3166,17 @@
   "zippuzzle": {
     "name": "Zip Puzzle",
     "version": "0.0.28"
+  },
+  "paddleborn": {
+    "name": "paddleborn",
+    "version": "0.0.21"
+  },
+  "smilestetris": {
+    "name": "smilestetris",
+    "version": "0.0.13"
+  },
+  "seedclash": {
+    "name": "seedclash",
+    "version": "0.0.45"
   }
 }
