@@ -3202,5 +3202,25 @@
   "bc101bot": {
     "name": "BC101Bot",
     "version": "0.0.6"
+  },
+  "prism-panic": {
+    "name": "PrismPanic",
+    "version": "0.0.48"
+  },
+  "sub-olympics": {
+    "name": "sub-olympics",
+    "version": "0.1.14"
+  },
+  "redacted-app": {
+    "name": "redacted-app",
+    "version": "0.0.5"
+  },
+  "huckid": {
+    "name": "HuckID",
+    "version": "0.0.15"
+  },
+  "metricshourcom": {
+    "name": "Metricshour Market Battle",
+    "version": "0.0.21"
   }
 }
