@@ -3350,5 +3350,9 @@
   "amputatorbot": {
     "name": "AmputatorBot",
     "version": "5.1.3"
+  },
+  "tr4pline": {
+    "name": "tr4pline",
+    "version": "0.0.6"
   }
 }
