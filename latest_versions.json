@@ -3362,5 +3362,17 @@
   "dropstackgame": {
     "name": "dropstackgame",
     "version": "0.0.5"
+  },
+  "wordpool-app": {
+    "name": "wordpool-app",
+    "version": "0.0.5"
+  },
+  "hexenquest": {
+    "name": "hexenquest",
+    "version": "1.0.0"
+  },
+  "bubblegum-blitz": {
+    "name": "bubblegum-blitz",
+    "version": "0.0.43"
   }
 }
