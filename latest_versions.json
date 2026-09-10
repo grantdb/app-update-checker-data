@@ -3358,5 +3358,9 @@
   "connectmepuzzle": {
     "name": "connectmepuzzle",
     "version": "1.0.0"
+  },
+  "dropstackgame": {
+    "name": "dropstackgame",
+    "version": "0.0.5"
   }
 }
