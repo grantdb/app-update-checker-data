@@ -3398,5 +3398,21 @@
   "tunnellogic": {
     "name": "Tunnel Logic",
     "version": "0.0.23"
+  },
+  "karmacritter": {
+    "name": "KarmaCritter",
+    "version": "1.0.5"
+  },
+  "post-da-awards": {
+    "name": "post-da-awards",
+    "version": "0.0.8"
+  },
+  "goat-mode": {
+    "name": "goat-mode",
+    "version": "0.0.148"
+  },
+  "memory-grove": {
+    "name": "Memory Grove",
+    "version": "0.0.3"
   }
 }
