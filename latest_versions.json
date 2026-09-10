@@ -3482,5 +3482,9 @@
   "eight-0fc": {
     "name": "eight-0fc",
     "version": "1.0.0"
+  },
+  "final-word-showdown": {
+    "name": "final-word-showdown",
+    "version": "1.0.0"
   }
 }
