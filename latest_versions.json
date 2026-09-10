@@ -2789,7 +2789,7 @@
   },
   "playscraper-bot": {
     "name": "Playscraper Bot",
-    "version": "1.0.139"
+    "version": "1.0.141"
   },
   "four-fours-game": {
     "name": "Four Fours a Daily Math Puzzle",
@@ -3526,5 +3526,17 @@
   "lunchline-dispatch": {
     "name": "lunchline-dispatch",
     "version": "0.0.8"
+  },
+  "color-lock": {
+    "name": "color-lock",
+    "version": "0.0.25"
+  },
+  "unriddle-quotes": {
+    "name": "UnRiddle",
+    "version": "1.8.12"
+  },
+  "scanlock": {
+    "name": "scanlock",
+    "version": "0.0.3"
   }
 }
