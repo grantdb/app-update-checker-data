@@ -3502,5 +3502,17 @@
   "dust-bot": {
     "name": "Dust Bot - Sliding Puzzle Game",
     "version": "0.0.2"
+  },
+  "tripwire-mod": {
+    "name": "tripwire-mod",
+    "version": "0.1.0"
+  },
+  "appealdesq": {
+    "name": "appealdesq",
+    "version": "0.0.24"
+  },
+  "lighthouse-lh": {
+    "name": "lighthouse-lh",
+    "version": "0.0.13"
   }
 }
