@@ -3414,5 +3414,9 @@
   "memory-grove": {
     "name": "Memory Grove",
     "version": "0.0.3"
+  },
+  "goalsnap": {
+    "name": "goalsnap",
+    "version": "0.0.6"
   }
 }
