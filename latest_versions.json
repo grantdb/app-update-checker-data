@@ -3426,5 +3426,13 @@
   "charge-the-coil": {
     "name": "CHARGE THE COIL",
     "version": "0.1.1"
+  },
+  "tc-ra": {
+    "name": "tc-ra",
+    "version": "0.0.22"
+  },
+  "newcomer-concierge": {
+    "name": "newcomer-concierge",
+    "version": "0.0.14"
   }
 }
