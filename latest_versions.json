@@ -3486,5 +3486,17 @@
   "final-word-showdown": {
     "name": "final-word-showdown",
     "version": "1.0.0"
+  },
+  "feng-shui-8-bit": {
+    "name": "feng-shui-8-bit",
+    "version": "0.0.13"
+  },
+  "magic-football": {
+    "name": "Magic Football  Tactical 1v1",
+    "version": "0.0.31"
+  },
+  "tickerdrop": {
+    "name": "tickerdrop",
+    "version": "0.0.11"
   }
 }
