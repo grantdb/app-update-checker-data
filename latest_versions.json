@@ -3450,5 +3450,21 @@
   "pawtrends": {
     "name": "pawtrends",
     "version": "0.0.12"
+  },
+  "karmacourtmod": {
+    "name": "KarmaCourt Mod",
+    "version": "0.0.17"
+  },
+  "lieordiegame": {
+    "name": "Lie or Die",
+    "version": "0.0.41"
+  },
+  "aitacheck": {
+    "name": "aitacheck",
+    "version": "0.0.187"
+  },
+  "foldably": {
+    "name": "foldably",
+    "version": "0.0.25"
   }
 }
