@@ -2905,7 +2905,7 @@
   },
   "tf2-guess-the-map": {
     "name": "TF2 Guess The Map",
-    "version": "0.0.29"
+    "version": "0.0.32"
   },
   "desklings": {
     "name": "desklings",
@@ -3434,5 +3434,13 @@
   "newcomer-concierge": {
     "name": "newcomer-concierge",
     "version": "0.0.14"
+  },
+  "ghost-rally": {
+    "name": "Ghost Rally",
+    "version": "0.0.14"
+  },
+  "stackline-game": {
+    "name": "stackline-game",
+    "version": "0.0.5"
   }
 }
