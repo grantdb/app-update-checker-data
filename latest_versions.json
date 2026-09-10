@@ -2801,7 +2801,7 @@
   },
   "topiclingo-daily": {
     "name": "topiclingo-daily",
-    "version": "0.0.24"
+    "version": "0.0.27"
   },
   "sky-road": {
     "name": "sky-road",
@@ -3537,6 +3537,10 @@
   },
   "scanlock": {
     "name": "scanlock",
+    "version": "0.0.3"
+  },
+  "dupe-detector": {
+    "name": "dupe-detector",
     "version": "0.0.3"
   }
 }
