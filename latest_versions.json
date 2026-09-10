@@ -2885,7 +2885,7 @@
   },
   "hexbind-game": {
     "name": "HexBind",
-    "version": "0.0.9"
+    "version": "0.0.15"
   },
   "predict-top-meme": {
     "name": "Predict The Top Meme  Daily Challenge",
@@ -3442,5 +3442,13 @@
   "stackline-game": {
     "name": "stackline-game",
     "version": "0.0.5"
+  },
+  "filter-guard": {
+    "name": "filter-guard",
+    "version": "0.0.78"
+  },
+  "pawtrends": {
+    "name": "pawtrends",
+    "version": "0.0.12"
   }
 }
