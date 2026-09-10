@@ -3514,5 +3514,17 @@
   "lighthouse-lh": {
     "name": "lighthouse-lh",
     "version": "0.0.13"
+  },
+  "pulseguard-dev": {
+    "name": "PulseGuard",
+    "version": "0.0.8"
+  },
+  "hitorquit-app": {
+    "name": "HitOrQuit",
+    "version": "0.3.15"
+  },
+  "lunchline-dispatch": {
+    "name": "lunchline-dispatch",
+    "version": "0.0.8"
   }
 }
