@@ -3354,5 +3354,9 @@
   "tr4pline": {
     "name": "tr4pline",
     "version": "0.0.6"
+  },
+  "connectmepuzzle": {
+    "name": "connectmepuzzle",
+    "version": "1.0.0"
   }
 }
