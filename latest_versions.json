@@ -3498,5 +3498,9 @@
   "tickerdrop": {
     "name": "tickerdrop",
     "version": "0.0.11"
+  },
+  "dust-bot": {
+    "name": "Dust Bot - Sliding Puzzle Game",
+    "version": "0.0.2"
   }
 }
