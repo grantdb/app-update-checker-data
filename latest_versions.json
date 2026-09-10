@@ -3374,5 +3374,29 @@
   "bubblegum-blitz": {
     "name": "bubblegum-blitz",
     "version": "0.0.43"
+  },
+  "structureviewer": {
+    "name": "StructureViewer",
+    "version": "0.0.12"
+  },
+  "hot-type-game": {
+    "name": "Hot Type - Learn to Type",
+    "version": "0.0.10"
+  },
+  "thread-tamer": {
+    "name": "thread-tamer",
+    "version": "0.0.3"
+  },
+  "three-d-maze": {
+    "name": "ThreeDMaze",
+    "version": "0.6.0"
+  },
+  "ring-escape": {
+    "name": "Ring Escape",
+    "version": "0.0.66"
+  },
+  "tunnellogic": {
+    "name": "Tunnel Logic",
+    "version": "0.0.23"
   }
 }
