@@ -3418,5 +3418,13 @@
   "goalsnap": {
     "name": "goalsnap",
     "version": "0.0.6"
+  },
+  "map-posts": {
+    "name": "map-posts",
+    "version": "0.0.14"
+  },
+  "charge-the-coil": {
+    "name": "CHARGE THE COIL",
+    "version": "0.1.1"
   }
 }
