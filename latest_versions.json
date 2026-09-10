@@ -3466,5 +3466,21 @@
   "foldably": {
     "name": "foldably",
     "version": "0.0.25"
+  },
+  "playcrambld": {
+    "name": "CRAMBLD",
+    "version": "0.0.8"
+  },
+  "repostsniff": {
+    "name": "RepostSniff",
+    "version": "0.0.4"
+  },
+  "dailyspeedway": {
+    "name": "dailyspeedway",
+    "version": "0.0.30"
+  },
+  "eight-0fc": {
+    "name": "eight-0fc",
+    "version": "1.0.0"
   }
 }
