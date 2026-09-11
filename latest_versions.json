@@ -3586,5 +3586,25 @@
   "rescue-guard": {
     "name": "Rescue Guard",
     "version": "0.0.19"
+  },
+  "chess-puzless": {
+    "name": "chess-puzless",
+    "version": "1.0.5"
+  },
+  "frontlines-rts": {
+    "name": "frontlines-rts",
+    "version": "0.0.3"
+  },
+  "chart-js": {
+    "name": "chart-js",
+    "version": "0.31.0"
+  },
+  "selfmute-app": {
+    "name": "Self Mute",
+    "version": "0.0.3"
+  },
+  "qinnobattle": {
+    "name": "qinnobattle",
+    "version": "0.0.2"
   }
 }
