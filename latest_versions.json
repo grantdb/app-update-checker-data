@@ -3562,5 +3562,13 @@
   "mazendav": {
     "name": "Mazenda",
     "version": "0.0.134"
+  },
+  "socialgrid3d": {
+    "name": "socialgrid3d",
+    "version": "0.0.62"
+  },
+  "bodoland-trivia": {
+    "name": "bodoland-trivia",
+    "version": "0.0.30"
   }
 }
