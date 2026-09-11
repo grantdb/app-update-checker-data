@@ -2465,7 +2465,7 @@
   },
   "community-draw": {
     "name": "Community Draw",
-    "version": "0.0.46"
+    "version": "0.0.49"
   },
   "blindside-2": {
     "name": "BlindsidePool",
@@ -3570,5 +3570,21 @@
   "bodoland-trivia": {
     "name": "bodoland-trivia",
     "version": "0.0.30"
+  },
+  "mystic-car-resto": {
+    "name": "mysticar",
+    "version": "0.0.157"
+  },
+  "crown-n-chaos": {
+    "name": "crown-n-chaos",
+    "version": "0.3.0"
+  },
+  "flair-verifier": {
+    "name": "flair-verifier",
+    "version": "0.0.2"
+  },
+  "rescue-guard": {
+    "name": "Rescue Guard",
+    "version": "0.0.19"
   }
 }
