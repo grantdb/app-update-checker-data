@@ -3542,5 +3542,13 @@
   "dupe-detector": {
     "name": "dupe-detector",
     "version": "0.0.3"
+  },
+  "trivelagames": {
+    "name": "Trivela",
+    "version": "0.0.15"
+  },
+  "mod-review-guard": {
+    "name": "Mod Review Guard",
+    "version": "0.0.5"
   }
 }
