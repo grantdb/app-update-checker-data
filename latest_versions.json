@@ -3618,5 +3618,25 @@
   "gunsofboom00": {
     "name": "gunsofboom00",
     "version": "0.0.9"
+  },
+  "test-block-log": {
+    "name": "test-block-log",
+    "version": "0.0.4"
+  },
+  "shadespoteye": {
+    "name": "shadespoteye",
+    "version": "0.0.2"
+  },
+  "ag-badging": {
+    "name": "ag-badging",
+    "version": "0.0.1"
+  },
+  "foldbound-26": {
+    "name": "foldbound-26",
+    "version": "0.0.8"
+  },
+  "wing-it---frog": {
+    "name": "Wing It, Frog!",
+    "version": "0.0.5"
   }
 }
