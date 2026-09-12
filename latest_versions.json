@@ -445,7 +445,7 @@
   },
   "crosspost-manager": {
     "name": "Crosspost Manager",
-    "version": "0.0.60"
+    "version": "0.0.65"
   },
   "removalreasonids": {
     "name": "Show Removal Reason IDs",
@@ -497,7 +497,7 @@
   },
   "crosspost-tattler": {
     "name": "Crosspost Tattler",
-    "version": "0.0.44"
+    "version": "0.0.49"
   },
   "crosspost-guard": {
     "name": "Crosspost Guard",
