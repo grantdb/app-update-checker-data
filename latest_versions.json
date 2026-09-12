@@ -873,7 +873,7 @@
   },
   "nflgdtbot": {
     "name": "nflgdtbot",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "twkchat": {
     "name": "twkchat",
@@ -913,7 +913,7 @@
   },
   "modnote-sync": {
     "name": "Mod Note Sync",
-    "version": "0.0.13"
+    "version": "0.0.14"
   },
   "gamedaylive": {
     "name": "GameDayLive",
