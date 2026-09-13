@@ -1129,7 +1129,7 @@
   },
   "link-scheduler": {
     "name": "Scheduler",
-    "version": "0.0.112"
+    "version": "0.0.116"
   },
   "hestia-listens": {
     "name": "Hestia",
