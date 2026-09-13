@@ -1133,7 +1133,7 @@
   },
   "hestia-listens": {
     "name": "Hestia",
-    "version": "1.5.3"
+    "version": "1.6.1"
   },
   "ci-pixelary": {
     "name": "ci-pixelary",
@@ -1260,8 +1260,8 @@
     "version": "0.0.15"
   },
   "community-form": {
-    "name": "Community Forms",
-    "version": "0.0.128"
+    "name": "Community Form",
+    "version": "0.0.129"
   },
   "giveaway-manager": {
     "name": "Giveaway Manager",
