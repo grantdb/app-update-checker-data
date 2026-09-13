@@ -861,7 +861,7 @@
   },
   "adv-core": {
     "name": "ADV Core Bot",
-    "version": "0.0.389"
+    "version": "0.0.392"
   },
   "frequentmuter": {
     "name": "Frequency Muter",
@@ -957,7 +957,7 @@
   },
   "autoban-ext": {
     "name": "Automoderator Ban Extension",
-    "version": "0.0.10"
+    "version": "0.0.13"
   },
   "commentvoter": {
     "name": "Comment Voter",
@@ -2425,7 +2425,7 @@
   },
   "dejarepost": {
     "name": "Deja Repost",
-    "version": "0.0.9"
+    "version": "0.0.11"
   },
   "mlb-dinger": {
     "name": "mlb-dinger",
