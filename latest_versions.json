@@ -3010,5 +3010,17 @@
   "tile-connect": {
     "name": "tile-connect",
     "version": "0.0.4"
+  },
+  "format-guard": {
+    "name": "format-guard",
+    "version": "0.0.66"
+  },
+  "play-2048": {
+    "name": "Game 2048",
+    "version": "0.0.35"
+  },
+  "scroll-r": {
+    "name": "Scroll-r",
+    "version": "0.0.3"
   }
 }
