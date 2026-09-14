@@ -2541,7 +2541,7 @@
   },
   "trustnet-mod": {
     "name": "trustnet-mod",
-    "version": "0.0.32"
+    "version": "0.0.34"
   },
   "chaotic-wheels": {
     "name": "Chaotic Wheels",
@@ -2986,5 +2986,13 @@
   "typebattle-app": {
     "name": "TypeBattle",
     "version": "3.0.2"
+  },
+  "bareinfo-app": {
+    "name": "BareInfo: Poll App",
+    "version": "0.0.12"
+  },
+  "solitaireclassic": {
+    "name": "Daily Solitaire",
+    "version": "0.5.51"
   }
 }
