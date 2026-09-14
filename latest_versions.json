@@ -2998,5 +2998,17 @@
   "guess-the-candle": {
     "name": "Guess The Candle",
     "version": "0.0.133"
+  },
+  "automod-easy": {
+    "name": "AutoMod Easy",
+    "version": "0.0.138"
+  },
+  "gamepadtest": {
+    "name": "Gamepad Tester",
+    "version": "0.0.12"
+  },
+  "tile-connect": {
+    "name": "tile-connect",
+    "version": "0.0.4"
   }
 }
