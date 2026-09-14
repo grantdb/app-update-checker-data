@@ -2533,7 +2533,7 @@
   },
   "warning-track": {
     "name": "Warning Track",
-    "version": "0.0.75"
+    "version": "0.0.77"
   },
   "chess-puzzles": {
     "name": "Chess Puzzle Game",
@@ -2954,5 +2954,9 @@
   "photopuzzlegame": {
     "name": "Photo Puzzle Game",
     "version": "0.0.6"
+  },
+  "det-equation": {
+    "name": "Detective Equation",
+    "version": "0.0.19"
   }
 }
