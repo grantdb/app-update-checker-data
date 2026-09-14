@@ -2934,5 +2934,9 @@
   "endofthread-bot": {
     "name": "endofthread-bot",
     "version": "0.0.67"
+  },
+  "kitty-dash": {
+    "name": "Kitty Dash",
+    "version": "0.0.26"
   }
 }
