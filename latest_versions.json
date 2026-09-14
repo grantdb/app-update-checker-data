@@ -2938,5 +2938,21 @@
   "kitty-dash": {
     "name": "Kitty Dash",
     "version": "0.0.26"
+  },
+  "finddit-app": {
+    "name": "finddit-app",
+    "version": "1.2.5"
+  },
+  "ten-blitz": {
+    "name": "ten-blitz",
+    "version": "0.1.28"
+  },
+  "yarnjampuzzle": {
+    "name": "Yarn Jam",
+    "version": "0.0.117"
+  },
+  "photopuzzlegame": {
+    "name": "Photo Puzzle Game",
+    "version": "0.0.6"
   }
 }
