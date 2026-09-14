@@ -1461,7 +1461,7 @@
   },
   "word-guard": {
     "name": "Word Guard",
-    "version": "0.0.187"
+    "version": "0.0.188"
   },
   "mtgdecks": {
     "name": "MTG Deck Lab",
@@ -2994,5 +2994,9 @@
   "solitaireclassic": {
     "name": "Daily Solitaire",
     "version": "0.5.51"
+  },
+  "guess-the-candle": {
+    "name": "Guess The Candle",
+    "version": "0.0.133"
   }
 }
