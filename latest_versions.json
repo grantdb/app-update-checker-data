@@ -2930,5 +2930,9 @@
   "wing-it---frog": {
     "name": "Wing It, Frog!",
     "version": "0.0.5"
+  },
+  "endofthread-bot": {
+    "name": "endofthread-bot",
+    "version": "0.0.67"
   }
 }
