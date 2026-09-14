@@ -2970,5 +2970,21 @@
   "modappstats": {
     "name": "Moderator Applications",
     "version": "0.0.4"
+  },
+  "soccer-predict": {
+    "name": "SoccerPredict",
+    "version": "0.1.0"
+  },
+  "ladder-climb": {
+    "name": "Ladder Climb",
+    "version": "0.3.3"
+  },
+  "moderator-sentient": {
+    "name": "Moderator Sentient",
+    "version": "0.0.27"
+  },
+  "typebattle-app": {
+    "name": "TypeBattle",
+    "version": "3.0.2"
   }
 }
