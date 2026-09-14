@@ -3038,5 +3038,13 @@
   "votingmanagement": {
     "name": "votingmanagement",
     "version": "0.0.4"
+  },
+  "swipespell": {
+    "name": "SwipeSpell",
+    "version": "0.0.6"
+  },
+  "mod-mailer-app": {
+    "name": "Mod Mailer",
+    "version": "0.1.2"
   }
 }
