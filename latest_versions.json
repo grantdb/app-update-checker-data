@@ -3238,5 +3238,17 @@
   "ttokdoku": {
     "name": "TtokDoku",
     "version": "0.3.34"
+  },
+  "top-gainer-ah": {
+    "name": "top-gainer-ah",
+    "version": "0.0.19"
+  },
+  "activestreamers": {
+    "name": "Twitch Streamers &amp; Steam Price Preview",
+    "version": "0.0.24"
+  },
+  "chessmultiplayer": {
+    "name": "chessmultiplayer",
+    "version": "0.0.11"
   }
 }
