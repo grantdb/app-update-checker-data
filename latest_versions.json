@@ -3130,5 +3130,9 @@
   "filament-frenzy": {
     "name": "filament-frenzy",
     "version": "0.3.0"
+  },
+  "fantasy-league": {
+    "name": "Fantasy League",
+    "version": "0.0.18"
   }
 }
