@@ -3134,5 +3134,25 @@
   "fantasy-league": {
     "name": "Fantasy League",
     "version": "0.0.18"
+  },
+  "mcrashers": {
+    "name": "Multiplication Crashers",
+    "version": "1.0.14"
+  },
+  "answer-triage": {
+    "name": "answer-triage",
+    "version": "0.0.2"
+  },
+  "auracouncil": {
+    "name": "auracouncil",
+    "version": "0.0.13"
+  },
+  "dph-bot": {
+    "name": "dph-bot",
+    "version": "0.0.16"
+  },
+  "flairscanner": {
+    "name": "Flair Scanner",
+    "version": "0.0.13"
   }
 }
