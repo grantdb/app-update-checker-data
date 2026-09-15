@@ -3154,5 +3154,13 @@
   "flairscanner": {
     "name": "Flair Scanner",
     "version": "0.0.13"
+  },
+  "spiredle": {
+    "name": "spiredle",
+    "version": "0.0.5"
+  },
+  "capydoku-puzzle": {
+    "name": "capydoku-puzzle",
+    "version": "1.1.2"
   }
 }
