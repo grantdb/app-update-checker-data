@@ -3190,5 +3190,17 @@
   "b00minb0x": {
     "name": "b00minb0x",
     "version": "0.0.6"
+  },
+  "modtower": {
+    "name": "modtower",
+    "version": "1.0.1"
+  },
+  "karmuseum": {
+    "name": "Karmuseum",
+    "version": "0.0.7"
+  },
+  "bluff-bomb": {
+    "name": "Bluff Bomb",
+    "version": "0.1.13"
   }
 }
