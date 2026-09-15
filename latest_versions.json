@@ -3186,5 +3186,9 @@
   "everything-app": {
     "name": "everything-app",
     "version": "0.0.2"
+  },
+  "b00minb0x": {
+    "name": "b00minb0x",
+    "version": "0.0.6"
   }
 }
