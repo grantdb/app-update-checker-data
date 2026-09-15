@@ -1981,7 +1981,7 @@
   },
   "mlb-scores": {
     "name": "MLB Scoreboard App",
-    "version": "0.0.205"
+    "version": "0.0.206"
   },
   "ai-guard": {
     "name": "ai-guard",
@@ -3054,5 +3054,21 @@
   "audioforyou": {
     "name": "Saiddit",
     "version": "0.0.25"
+  },
+  "pixel-peeker": {
+    "name": "Pixel Peeker",
+    "version": "0.0.68"
+  },
+  "chain-rules": {
+    "name": "chain-rules",
+    "version": "1.5.1"
+  },
+  "cascade-ban": {
+    "name": "cascade-ban",
+    "version": "0.0.6"
+  },
+  "matchmadnessgame": {
+    "name": "matchmadnessgame",
+    "version": "0.0.22"
   }
 }
