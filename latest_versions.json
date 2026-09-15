@@ -3106,5 +3106,17 @@
   "ava-battles": {
     "name": "ava-battles",
     "version": "0.0.19"
+  },
+  "blackout-sq356": {
+    "name": "blackout-sq356",
+    "version": "0.0.15"
+  },
+  "mini-racer": {
+    "name": "Mini Racer",
+    "version": "2.3.1"
+  },
+  "luckypeopleonly": {
+    "name": "luckypeopleonly",
+    "version": "0.0.6"
   }
 }
