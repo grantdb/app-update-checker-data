@@ -3118,5 +3118,17 @@
   "luckypeopleonly": {
     "name": "luckypeopleonly",
     "version": "0.0.6"
+  },
+  "block-down": {
+    "name": "block-down",
+    "version": "0.0.46"
+  },
+  "snoosings": {
+    "name": "snoosings",
+    "version": "0.0.32"
+  },
+  "filament-frenzy": {
+    "name": "filament-frenzy",
+    "version": "0.3.0"
   }
 }
