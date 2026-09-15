@@ -3250,5 +3250,17 @@
   "chessmultiplayer": {
     "name": "chessmultiplayer",
     "version": "0.0.11"
+  },
+  "reply-coach": {
+    "name": "reply-coach",
+    "version": "0.0.3"
+  },
+  "x-squares": {
+    "name": "x-squares",
+    "version": "0.0.8"
+  },
+  "stemdaily": {
+    "name": "stemdaily",
+    "version": "0.0.8"
   }
 }
