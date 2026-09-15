@@ -1637,7 +1637,7 @@
   },
   "valcordia-space": {
     "name": "Valcordia Space",
-    "version": "1.4.83"
+    "version": "1.5.2"
   },
   "fruitcrushgame": {
     "name": "FruitCrush",
@@ -3262,5 +3262,13 @@
   "stemdaily": {
     "name": "stemdaily",
     "version": "0.0.8"
+  },
+  "gmepriceticker": {
+    "name": "Stock price ticker",
+    "version": "1.0.0"
+  },
+  "merge-royal": {
+    "name": "merge-royal",
+    "version": "0.0.6"
   }
 }
