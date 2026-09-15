@@ -3078,5 +3078,13 @@
   "votierapp": {
     "name": "VoTier",
     "version": "0.11.1"
+  },
+  "community-rate": {
+    "name": "Community Rate",
+    "version": "0.0.5"
+  },
+  "domain-guard": {
+    "name": "Domain Guard",
+    "version": "0.0.154"
   }
 }
