@@ -3046,5 +3046,13 @@
   "mod-mailer-app": {
     "name": "Mod Mailer",
     "version": "0.1.2"
+  },
+  "slideblast-rdt": {
+    "name": "SlideBlast - Fruit Merge Puzzle",
+    "version": "0.0.17"
+  },
+  "audioforyou": {
+    "name": "Saiddit",
+    "version": "0.0.25"
   }
 }
