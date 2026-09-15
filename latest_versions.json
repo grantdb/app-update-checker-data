@@ -2265,7 +2265,7 @@
   },
   "build-quiz": {
     "name": "build-quiz",
-    "version": "0.0.100"
+    "version": "0.0.102"
   },
   "community-recap": {
     "name": "community-recap",
@@ -3306,5 +3306,25 @@
   "tilerush": {
     "name": "Tile Rush",
     "version": "0.0.30"
+  },
+  "cyber-pong": {
+    "name": "Cyber Pong",
+    "version": "0.0.7"
+  },
+  "summit-game": {
+    "name": "summit-game",
+    "version": "0.0.96"
+  },
+  "gearit-up": {
+    "name": "gearit-up",
+    "version": "0.2.0"
+  },
+  "blinkwords": {
+    "name": "blinkwords",
+    "version": "0.0.33"
+  },
+  "military-flip": {
+    "name": "Military Flip",
+    "version": "0.0.21"
   }
 }
