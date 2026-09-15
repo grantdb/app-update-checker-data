@@ -3070,5 +3070,13 @@
   "matchmadnessgame": {
     "name": "matchmadnessgame",
     "version": "0.0.22"
+  },
+  "matchpal-fantasy": {
+    "name": "MatchPal.io - Football / Soccer Fantasy Game",
+    "version": "0.0.35"
+  },
+  "votierapp": {
+    "name": "VoTier",
+    "version": "0.11.1"
   }
 }
