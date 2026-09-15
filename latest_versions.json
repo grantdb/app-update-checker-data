@@ -3282,5 +3282,29 @@
   "playpixelbeads": {
     "name": "playpixelbeads",
     "version": "0.0.194"
+  },
+  "dinorumble1": {
+    "name": "dinorumble1",
+    "version": "0.17.0"
+  },
+  "porosity-quiz": {
+    "name": "porosity-quiz",
+    "version": "0.0.6"
+  },
+  "ttol-game": {
+    "name": "ttol-game",
+    "version": "0.0.9"
+  },
+  "sql-arena": {
+    "name": "sql-arena",
+    "version": "0.0.36"
+  },
+  "streak-club": {
+    "name": "Streak Club",
+    "version": "0.0.38"
+  },
+  "tilerush": {
+    "name": "Tile Rush",
+    "version": "0.0.30"
   }
 }
