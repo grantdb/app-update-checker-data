@@ -3214,5 +3214,29 @@
   "queuecascade": {
     "name": "Queue Cascade",
     "version": "0.0.15"
+  },
+  "top-of-the-heap": {
+    "name": "top-of-the-heap",
+    "version": "1.0.1"
+  },
+  "ledger-quest": {
+    "name": "ledger-quest",
+    "version": "0.0.11"
+  },
+  "spyshot001": {
+    "name": "SpyShot",
+    "version": "0.0.17"
+  },
+  "jigsaw-ug": {
+    "name": "Jigsaw.ug  Community Puzzles",
+    "version": "0.0.35"
+  },
+  "nospambot": {
+    "name": "No Spam Bot",
+    "version": "0.0.6"
+  },
+  "ttokdoku": {
+    "name": "TtokDoku",
+    "version": "0.3.34"
   }
 }
