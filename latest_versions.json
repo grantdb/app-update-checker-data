@@ -3086,5 +3086,25 @@
   "domain-guard": {
     "name": "Domain Guard",
     "version": "0.0.154"
+  },
+  "streamer-stocks": {
+    "name": "streamer-stocks",
+    "version": "0.0.3"
+  },
+  "git-age-checker": {
+    "name": "Git Age Checker",
+    "version": "0.0.6"
+  },
+  "mod-notes-memo": {
+    "name": "ModNotes Memo",
+    "version": "0.0.18"
+  },
+  "triviachallenge2": {
+    "name": "Trivia sport",
+    "version": "0.0.37"
+  },
+  "ava-battles": {
+    "name": "ava-battles",
+    "version": "0.0.19"
   }
 }
