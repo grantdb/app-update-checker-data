@@ -3270,5 +3270,17 @@
   "merge-royal": {
     "name": "merge-royal",
     "version": "0.0.6"
+  },
+  "urjo-game": {
+    "name": "Urjo",
+    "version": "0.9.17"
+  },
+  "logiclens-stu": {
+    "name": "Stu Steelman",
+    "version": "0.0.12"
+  },
+  "playpixelbeads": {
+    "name": "playpixelbeads",
+    "version": "0.0.194"
   }
 }
