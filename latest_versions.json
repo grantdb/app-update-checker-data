@@ -3390,5 +3390,29 @@
   "trivia-champ": {
     "name": "trivia-champ",
     "version": "0.0.4"
+  },
+  "mahjong-pa-more": {
+    "name": "mahjong-pa-more",
+    "version": "0.0.4"
+  },
+  "triple-threatv2": {
+    "name": "triple-threatv2",
+    "version": "0.0.2"
+  },
+  "screen-shot-bot": {
+    "name": "Screen Shot Bot",
+    "version": "1.0.82"
+  },
+  "mlb--scoreboard": {
+    "name": "mlb--scoreboard",
+    "version": "1.0.0"
+  },
+  "mongotowers": {
+    "name": "mongotowers",
+    "version": "0.0.36"
+  },
+  "sudoku-sprint": {
+    "name": "Sudoku Sprint",
+    "version": "0.14.13"
   }
 }
