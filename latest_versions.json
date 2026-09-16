@@ -3422,5 +3422,25 @@
   "wsd-block-party": {
     "name": "Block Party",
     "version": "1.0.21"
+  },
+  "planet-swarm": {
+    "name": "planet-swarm",
+    "version": "0.0.6"
+  },
+  "try2048": {
+    "name": "try2048",
+    "version": "0.0.4"
+  },
+  "thread-heist": {
+    "name": "THREAD HEIST",
+    "version": "0.0.3"
+  },
+  "hueflowdigital": {
+    "name": "HueFlow - Digital",
+    "version": "0.0.10"
+  },
+  "thebidroom": {
+    "name": "Bid &amp; Auction",
+    "version": "1.0.22"
   }
 }
