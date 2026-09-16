@@ -3462,5 +3462,21 @@
   "fatastrophic": {
     "name": "fatastrophic",
     "version": "1.0.8"
+  },
+  "numblitz": {
+    "name": "numblitz",
+    "version": "0.0.17"
+  },
+  "countryboard": {
+    "name": "countryboard",
+    "version": "0.0.6"
+  },
+  "ballparkdaily": {
+    "name": "BallparkDaily",
+    "version": "0.0.26"
+  },
+  "super-charts": {
+    "name": "Super Charts",
+    "version": "0.0.16"
   }
 }
