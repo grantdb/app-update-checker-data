@@ -3362,5 +3362,21 @@
   "tronlegacy1999": {
     "name": "tronlegacy1999",
     "version": "0.0.2"
+  },
+  "theboxofficegame": {
+    "name": "theboxofficegame",
+    "version": "0.0.3"
+  },
+  "draw-and-drive": {
+    "name": "DrawAndDrive",
+    "version": "0.0.15"
+  },
+  "hiveminded-app": {
+    "name": "Hiveminded",
+    "version": "0.0.8"
+  },
+  "trait-card-rogue": {
+    "name": "Trait",
+    "version": "0.0.3"
   }
 }
