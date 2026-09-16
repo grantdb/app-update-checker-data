@@ -3414,5 +3414,13 @@
   "sudoku-sprint": {
     "name": "Sudoku Sprint",
     "version": "0.14.13"
+  },
+  "legend-sim": {
+    "name": "Legend Sim",
+    "version": "0.0.12"
+  },
+  "wsd-block-party": {
+    "name": "Block Party",
+    "version": "1.0.21"
   }
 }
