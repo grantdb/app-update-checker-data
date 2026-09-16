@@ -3542,5 +3542,21 @@
   "se7en-letters": {
     "name": "se7en-letters",
     "version": "0.0.12"
+  },
+  "chapter-ii": {
+    "name": "chapter-ii",
+    "version": "0.0.4"
+  },
+  "fotographic63": {
+    "name": "GridRecall",
+    "version": "0.0.4"
+  },
+  "grid-lock-game": {
+    "name": "grid-lock-game",
+    "version": "0.3.0"
+  },
+  "globalvibemarket": {
+    "name": "globalvibemarket",
+    "version": "0.0.49"
   }
 }
