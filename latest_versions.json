@@ -3382,5 +3382,13 @@
   "slidereveal-app": {
     "name": "slidereveal-app",
     "version": "0.0.19"
+  },
+  "stockmarketcap": {
+    "name": "stockmarketcap",
+    "version": "0.0.3"
+  },
+  "trivia-champ": {
+    "name": "trivia-champ",
+    "version": "0.0.4"
   }
 }
