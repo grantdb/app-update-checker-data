@@ -3354,5 +3354,13 @@
   "troll-defuse": {
     "name": "Troll Defuse",
     "version": "0.3.16"
+  },
+  "playwallstreetle": {
+    "name": "PlayWallstreetle",
+    "version": "0.3.0"
+  },
+  "tronlegacy1999": {
+    "name": "tronlegacy1999",
+    "version": "0.0.2"
   }
 }
