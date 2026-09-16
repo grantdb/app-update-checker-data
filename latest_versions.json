@@ -3334,5 +3334,13 @@
   "escape-to-spire": {
     "name": "escape-to-spire",
     "version": "0.3.0"
+  },
+  "revelia-horoscop": {
+    "name": "Revelia Horoscope",
+    "version": "0.0.17"
+  },
+  "cfb-game-threads": {
+    "name": "CFB Game Threads",
+    "version": "1.0.3"
   }
 }
