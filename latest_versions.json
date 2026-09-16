@@ -3574,5 +3574,21 @@
   "cube-2048": {
     "name": "3d-2048",
     "version": "0.0.17"
+  },
+  "remoteviewingapp": {
+    "name": "remoteviewingapp",
+    "version": "0.0.128"
+  },
+  "chroma-canvas": {
+    "name": "chroma-canvas",
+    "version": "0.0.13"
+  },
+  "crowdcontext": {
+    "name": "crowdcontext",
+    "version": "0.0.6"
+  },
+  "mind-vault": {
+    "name": "mind-vault",
+    "version": "0.0.26"
   }
 }
