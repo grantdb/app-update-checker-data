@@ -3510,5 +3510,21 @@
   "gamino-app": {
     "name": "gamino-app",
     "version": "0.0.116"
+  },
+  "shrijacked": {
+    "name": "Receipts",
+    "version": "0.0.11"
+  },
+  "burnedgame": {
+    "name": "burnedgame",
+    "version": "1.1.2"
+  },
+  "mod-aegis": {
+    "name": "AegisMod",
+    "version": "0.0.5"
+  },
+  "limbo-game": {
+    "name": "limbodaily",
+    "version": "0.0.8"
   }
 }
