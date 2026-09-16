@@ -3378,5 +3378,9 @@
   "trait-card-rogue": {
     "name": "Trait",
     "version": "0.0.3"
+  },
+  "slidereveal-app": {
+    "name": "slidereveal-app",
+    "version": "0.0.19"
   }
 }
