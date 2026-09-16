@@ -3558,5 +3558,21 @@
   "globalvibemarket": {
     "name": "globalvibemarket",
     "version": "0.0.49"
+  },
+  "postready-details": {
+    "name": "PostReady",
+    "version": "1.0.0"
+  },
+  "time-sorceror": {
+    "name": "time-sorceror",
+    "version": "0.0.6"
+  },
+  "modbrief": {
+    "name": "ContextLens",
+    "version": "0.0.21"
+  },
+  "cube-2048": {
+    "name": "3d-2048",
+    "version": "0.0.17"
   }
 }
