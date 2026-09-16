@@ -3442,5 +3442,25 @@
   "thebidroom": {
     "name": "Bid &amp; Auction",
     "version": "1.0.22"
+  },
+  "hellishgolf": {
+    "name": "hellishgolf",
+    "version": "0.0.18"
+  },
+  "modtrials": {
+    "name": "modtrials",
+    "version": "0.0.22"
+  },
+  "theomegafund": {
+    "name": "TheOmegaFund",
+    "version": "0.0.4"
+  },
+  "playdroplings": {
+    "name": "playdroplings",
+    "version": "0.0.3"
+  },
+  "fatastrophic": {
+    "name": "fatastrophic",
+    "version": "1.0.8"
   }
 }
