@@ -3526,5 +3526,21 @@
   "limbo-game": {
     "name": "limbodaily",
     "version": "0.0.8"
+  },
+  "zencrossbow": {
+    "name": "Zencrossbow",
+    "version": "0.0.16"
+  },
+  "seedmap3d": {
+    "name": "Seed Map 3D Viewer for Minecraft",
+    "version": "0.0.36"
+  },
+  "sub-vs-sub": {
+    "name": "Sub vs Sub",
+    "version": "1.0.4"
+  },
+  "se7en-letters": {
+    "name": "se7en-letters",
+    "version": "0.0.12"
   }
 }
