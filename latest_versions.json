@@ -3326,5 +3326,9 @@
   "military-flip": {
     "name": "Military Flip",
     "version": "0.0.21"
+  },
+  "burger-merger": {
+    "name": "Burger Merger",
+    "version": "0.1.16"
   }
 }
