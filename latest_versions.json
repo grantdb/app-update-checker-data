@@ -3342,5 +3342,17 @@
   "cfb-game-threads": {
     "name": "CFB Game Threads",
     "version": "1.0.3"
+  },
+  "adv-roundup": {
+    "name": "ADV Subreddit Roundup",
+    "version": "0.0.9"
+  },
+  "sudokupuzzle-app": {
+    "name": "sudokupuzzle-app",
+    "version": "0.0.12"
+  },
+  "troll-defuse": {
+    "name": "Troll Defuse",
+    "version": "0.3.16"
   }
 }
