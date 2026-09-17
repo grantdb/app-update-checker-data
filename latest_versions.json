@@ -3662,5 +3662,21 @@
   "worldflaggames": {
     "name": "worldflaggames",
     "version": "0.0.6"
+  },
+  "farfield-relay": {
+    "name": "Farfield Relay",
+    "version": "0.0.6"
+  },
+  "you-are-the-cat": {
+    "name": "you-are-the-cat",
+    "version": "0.0.14"
+  },
+  "goosematch": {
+    "name": "Goose Match  Daily Match-3 Puzzle",
+    "version": "1.0.0"
+  },
+  "active-users-only": {
+    "name": "active-users-only",
+    "version": "1.0.2"
   }
 }
