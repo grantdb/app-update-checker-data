@@ -2769,7 +2769,7 @@
   },
   "ring-escape": {
     "name": "Ring Escape",
-    "version": "0.0.66"
+    "version": "0.0.67"
   },
   "tunnellogic": {
     "name": "Tunnel Logic",
@@ -3638,5 +3638,21 @@
   "clone-dodge": {
     "name": "Clone Dodge",
     "version": "1.0.0"
+  },
+  "trove-daily": {
+    "name": "Trove: Daily Personality Game",
+    "version": "0.1.1"
+  },
+  "postpause": {
+    "name": "PostPause",
+    "version": "1.0.2"
+  },
+  "comment-summary": {
+    "name": "comment-summary",
+    "version": "0.0.8"
+  },
+  "modqueuecue": {
+    "name": "modqueuecue",
+    "version": "0.0.4"
   }
 }
