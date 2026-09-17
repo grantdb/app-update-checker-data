@@ -2801,7 +2801,7 @@
   },
   "filter-guard": {
     "name": "filter-guard",
-    "version": "0.0.78"
+    "version": "0.0.81"
   },
   "pawtrends": {
     "name": "pawtrends",
@@ -3605,6 +3605,10 @@
   },
   "good-citizen-app": {
     "name": "good-citizen-app",
+    "version": "0.0.7"
+  },
+  "daily-void": {
+    "name": "daily-void",
     "version": "0.0.7"
   }
 }
