@@ -3594,5 +3594,17 @@
   "low-ball-it": {
     "name": "low-ball-it",
     "version": "0.0.31"
+  },
+  "midpoint-app": {
+    "name": "MIDPOINT",
+    "version": "0.0.11"
+  },
+  "traffic-escape": {
+    "name": "traffic-escape",
+    "version": "0.0.18"
+  },
+  "good-citizen-app": {
+    "name": "good-citizen-app",
+    "version": "0.0.7"
   }
 }
