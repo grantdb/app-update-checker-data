@@ -3626,5 +3626,17 @@
   "tapword": {
     "name": "TapWord",
     "version": "0.0.11"
+  },
+  "build-this": {
+    "name": "build-this",
+    "version": "0.0.4"
+  },
+  "plumbi-app": {
+    "name": "plumbi-app",
+    "version": "0.0.6"
+  },
+  "clone-dodge": {
+    "name": "Clone Dodge",
+    "version": "1.0.0"
   }
 }
