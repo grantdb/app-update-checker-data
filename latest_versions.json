@@ -3610,5 +3610,21 @@
   "daily-void": {
     "name": "daily-void",
     "version": "0.0.7"
+  },
+  "fourcasting": {
+    "name": "fourcasting",
+    "version": "0.0.46"
+  },
+  "dict-fills": {
+    "name": "Dictionary Fills",
+    "version": "0.0.11"
+  },
+  "triviarena-quiz": {
+    "name": "triviarena-quiz",
+    "version": "0.0.12"
+  },
+  "tapword": {
+    "name": "TapWord",
+    "version": "0.0.11"
   }
 }
