@@ -3654,5 +3654,13 @@
   "modqueuecue": {
     "name": "modqueuecue",
     "version": "0.0.4"
+  },
+  "rsnl-videos": {
+    "name": "rSNL-Videos",
+    "version": "0.0.8"
+  },
+  "worldflaggames": {
+    "name": "worldflaggames",
+    "version": "0.0.6"
   }
 }
