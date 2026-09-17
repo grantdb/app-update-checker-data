@@ -325,7 +325,7 @@
   },
   "aiautomoderator": {
     "name": "AI AutoModerator",
-    "version": "2.1.62"
+    "version": "2.1.68"
   },
   "matchpal-live": {
     "name": "MatchPal.io  Live Football / Soccer Scores &amp; Auto Match Threads",
@@ -357,7 +357,7 @@
   },
   "automod-neo": {
     "name": "Automod Neo",
-    "version": "0.6.2"
+    "version": "0.7.0"
   },
   "bingo-post": {
     "name": "Bingo Post",
