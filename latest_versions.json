@@ -3590,5 +3590,9 @@
   "mind-vault": {
     "name": "mind-vault",
     "version": "0.0.26"
+  },
+  "low-ball-it": {
+    "name": "low-ball-it",
+    "version": "0.0.31"
   }
 }
