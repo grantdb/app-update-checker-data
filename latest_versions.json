@@ -461,7 +461,7 @@
   },
   "quiz-planet-game": {
     "name": "Quiz Planet",
-    "version": "0.0.70"
+    "version": "0.0.71"
   },
   "el-commentator": {
     "name": "El-Commentator: Use comment template to quickly add information under specific posts.",
@@ -497,7 +497,7 @@
   },
   "crosspost-tattler": {
     "name": "Crosspost Tattler",
-    "version": "0.0.49"
+    "version": "0.0.56"
   },
   "crosspost-guard": {
     "name": "Crosspost Guard",
