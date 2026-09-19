@@ -1741,7 +1741,7 @@
   },
   "post-title-check": {
     "name": "Post Title Check",
-    "version": "0.0.85"
+    "version": "0.0.87"
   },
   "mod-bridge": {
     "name": "mod-bridge",
@@ -1929,7 +1929,7 @@
   },
   "f1-central": {
     "name": "f1-central",
-    "version": "0.1.17"
+    "version": "0.1.18"
   },
   "automod-sim": {
     "name": "AutoMod Playground",
