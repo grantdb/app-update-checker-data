@@ -1261,7 +1261,7 @@
   },
   "community-form": {
     "name": "Community Form",
-    "version": "0.0.129"
+    "version": "0.0.146"
   },
   "giveaway-manager": {
     "name": "Giveaway Manager",
@@ -3038,5 +3038,9 @@
   "modqueuecue": {
     "name": "modqueuecue",
     "version": "0.0.4"
+  },
+  "rule5bot": {
+    "name": "rule5bot",
+    "version": "1.0.20"
   }
 }
