@@ -3058,5 +3058,21 @@
   "cribbageslots": {
     "name": "Cribbage Casino",
     "version": "0.0.45"
+  },
+  "pinned-menuboard": {
+    "name": "Pinned Menuboard",
+    "version": "0.0.79"
+  },
+  "redbkup": {
+    "name": "redbkup",
+    "version": "0.0.30"
+  },
+  "regular-tasks-bot": {
+    "name": "regular-tasks-bot",
+    "version": "1.0.0"
+  },
+  "sfmatchthreads": {
+    "name": "SFMatchThreadder",
+    "version": "1.2.0"
   }
 }
