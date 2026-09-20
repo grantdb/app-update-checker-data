@@ -1457,7 +1457,7 @@
   },
   "word-guard": {
     "name": "Word Guard",
-    "version": "0.0.188"
+    "version": "0.0.192"
   },
   "mtgdecks": {
     "name": "MTG Deck Lab",
@@ -3082,5 +3082,13 @@
   "game-aint-real": {
     "name": "AIn&#39;t Real",
     "version": "2.5.5"
+  },
+  "detectiveslider": {
+    "name": "Detective Slider",
+    "version": "0.0.12"
+  },
+  "auto-highlights": {
+    "name": "Auto-Highlights",
+    "version": "0.1.1"
   }
 }
