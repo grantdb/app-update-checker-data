@@ -3106,5 +3106,21 @@
   "user-guard": {
     "name": "User Guard",
     "version": "0.0.76"
+  },
+  "sumitgame": {
+    "name": "sumitgame",
+    "version": "0.0.16"
+  },
+  "wicket-alert": {
+    "name": "Wicket Alert",
+    "version": "0.0.10"
+  },
+  "mindtheword": {
+    "name": "mindtheword",
+    "version": "0.0.1"
+  },
+  "decrypttest": {
+    "name": "Decrypt",
+    "version": "1.1.2"
   }
 }
