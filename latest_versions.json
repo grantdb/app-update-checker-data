@@ -3042,5 +3042,9 @@
   "rule5bot": {
     "name": "rule5bot",
     "version": "1.0.20"
+  },
+  "diagramapp": {
+    "name": "Diagram App",
+    "version": "0.0.20"
   }
 }
