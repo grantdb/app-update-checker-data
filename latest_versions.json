@@ -2537,7 +2537,7 @@
   },
   "yarnjampuzzle": {
     "name": "Yarn Jam",
-    "version": "0.0.117"
+    "version": "0.0.119"
   },
   "photopuzzlegame": {
     "name": "Photo Puzzle Game",
@@ -3054,5 +3054,9 @@
   "botverdict": {
     "name": "botverdict",
     "version": "0.0.16"
+  },
+  "cribbageslots": {
+    "name": "Cribbage Casino",
+    "version": "0.0.45"
   }
 }
