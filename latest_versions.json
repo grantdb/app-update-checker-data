@@ -3122,5 +3122,17 @@
   "decrypttest": {
     "name": "Decrypt",
     "version": "1.1.2"
+  },
+  "proximity-app": {
+    "name": "proximity-app",
+    "version": "0.0.10"
+  },
+  "detectivesudoku": {
+    "name": "Detective Sudoku",
+    "version": "0.0.16"
+  },
+  "corroborate-mod": {
+    "name": "Corroborate",
+    "version": "0.0.3"
   }
 }
