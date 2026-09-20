@@ -3046,5 +3046,13 @@
   "diagramapp": {
     "name": "Diagram App",
     "version": "0.0.20"
+  },
+  "mochi-mochi-donuts": {
+    "name": "Mochi Mochi Donuts",
+    "version": "0.1.6"
+  },
+  "botverdict": {
+    "name": "botverdict",
+    "version": "0.0.16"
   }
 }
