@@ -3074,5 +3074,13 @@
   "sfmatchthreads": {
     "name": "SFMatchThreadder",
     "version": "1.2.0"
+  },
+  "sub-reposter": {
+    "name": "sub-reposter",
+    "version": "1.1.0"
+  },
+  "game-aint-real": {
+    "name": "AIn&#39;t Real",
+    "version": "2.5.5"
   }
 }
