@@ -3182,5 +3182,25 @@
   "nfl-sidebar-schedule": {
     "name": "r/nfl sidebar schedule",
     "version": "0.0.4"
+  },
+  "decision-loop": {
+    "name": "Reddit Decision Loop",
+    "version": "0.0.2"
+  },
+  "lol-or-nope": {
+    "name": "lol-or-nope",
+    "version": "0.2.29"
+  },
+  "synapsecanvas": {
+    "name": "synapsecanvas",
+    "version": "0.0.68"
+  },
+  "guess-the-trade2": {
+    "name": "guess-the-trade2",
+    "version": "0.0.27"
+  },
+  "albus-dunbledore": {
+    "name": "Albus Dumbledore Bot",
+    "version": "0.0.46"
   }
 }
