@@ -3162,5 +3162,25 @@
   "wordy-bunch": {
     "name": "Wordy Bunch",
     "version": "0.1.86"
+  },
+  "check-ai": {
+    "name": "check-ai",
+    "version": "0.0.11"
+  },
+  "bubblesneverlie": {
+    "name": "Bubbles Never Lie",
+    "version": "0.2.1"
+  },
+  "strikesystem": {
+    "name": "strikesystem",
+    "version": "0.0.6"
+  },
+  "knobjam": {
+    "name": "KnobJam",
+    "version": "0.0.58"
+  },
+  "nfl-sidebar-schedule": {
+    "name": "r/nfl sidebar schedule",
+    "version": "0.0.4"
   }
 }
