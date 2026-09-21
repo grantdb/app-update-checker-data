@@ -3306,5 +3306,9 @@
   "substeward": {
     "name": "SubSteward",
     "version": "0.2.0"
+  },
+  "competitions-app": {
+    "name": "competitions-app",
+    "version": "0.0.31"
   }
 }
