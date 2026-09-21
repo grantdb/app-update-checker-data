@@ -3150,5 +3150,17 @@
   "mod-reply": {
     "name": "Mod Reply",
     "version": "1.0.0"
+  },
+  "fish-legends": {
+    "name": "fish-legends",
+    "version": "0.0.118"
+  },
+  "triage-hackaton": {
+    "name": "Triage",
+    "version": "0.0.176"
+  },
+  "wordy-bunch": {
+    "name": "Wordy Bunch",
+    "version": "0.1.86"
   }
 }
