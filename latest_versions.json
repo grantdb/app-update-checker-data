@@ -3214,5 +3214,17 @@
   "my-solitaire-games": {
     "name": "My Solitaire Card Game",
     "version": "0.0.47"
+  },
+  "droppy-blocky": {
+    "name": "Droppy Blocky",
+    "version": "0.0.31"
+  },
+  "three-of-six": {
+    "name": "Three of Six",
+    "version": "0.0.5"
+  },
+  "playscraper-bot": {
+    "name": "Playscraper Bot",
+    "version": "1.0.144"
   }
 }
