@@ -3334,5 +3334,17 @@
   "us-stock-market": {
     "name": "The US Stock Market - S&amp;P , NASDAQ",
     "version": "0.0.8"
+  },
+  "karmic-cards": {
+    "name": "Karmic Cards",
+    "version": "0.0.7"
+  },
+  "infinite-subs": {
+    "name": "infinite-subs",
+    "version": "0.1.7"
+  },
+  "mod-lens": {
+    "name": "mod-lens",
+    "version": "0.0.14"
   }
 }
