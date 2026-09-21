@@ -2085,7 +2085,7 @@
   },
   "build-quiz": {
     "name": "build-quiz",
-    "version": "0.0.102"
+    "version": "0.0.105"
   },
   "community-recap": {
     "name": "community-recap",
@@ -2661,7 +2661,7 @@
   },
   "block-down": {
     "name": "block-down",
-    "version": "0.0.46"
+    "version": "0.0.48"
   },
   "snoosings": {
     "name": "snoosings",
@@ -3329,6 +3329,10 @@
   },
   "nfj-fpl": {
     "name": "NFJ FPL Standings",
+    "version": "0.0.8"
+  },
+  "us-stock-market": {
+    "name": "The US Stock Market - S&amp;P , NASDAQ",
     "version": "0.0.8"
   }
 }
