@@ -2589,7 +2589,7 @@
   },
   "automod-easy": {
     "name": "AutoMod Easy",
-    "version": "0.0.138"
+    "version": "0.0.146"
   },
   "gamepadtest": {
     "name": "Gamepad Tester",
@@ -3142,5 +3142,13 @@
   "sudo2026": {
     "name": "sudo2026",
     "version": "0.0.34"
+  },
+  "wakelings-duel": {
+    "name": "Wakelings Duel",
+    "version": "0.0.23"
+  },
+  "mod-reply": {
+    "name": "Mod Reply",
+    "version": "1.0.0"
   }
 }
