@@ -3206,5 +3206,13 @@
   "linux-quest": {
     "name": "Linux Quest",
     "version": "0.0.126"
+  },
+  "cp-search": {
+    "name": "Cult Podcasts Search",
+    "version": "0.0.48"
+  },
+  "my-solitaire-games": {
+    "name": "My Solitaire Card Game",
+    "version": "0.0.47"
   }
 }
