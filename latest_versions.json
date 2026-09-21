@@ -2089,7 +2089,7 @@
   },
   "community-recap": {
     "name": "community-recap",
-    "version": "0.0.13"
+    "version": "0.0.15"
   },
   "infinite-jumper": {
     "name": "infinite-jumper",
@@ -3326,5 +3326,9 @@
   "only-op": {
     "name": "Only OP",
     "version": "0.0.7"
+  },
+  "nfj-fpl": {
+    "name": "NFJ FPL Standings",
+    "version": "0.0.8"
   }
 }
