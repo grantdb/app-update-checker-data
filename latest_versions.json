@@ -3230,5 +3230,21 @@
   "gift-tracker": {
     "name": "gift-tracker",
     "version": "0.2.2"
+  },
+  "post-flair-ratio": {
+    "name": "post-flair-ratio",
+    "version": "1.0.1"
+  },
+  "chessvault": {
+    "name": "ChessForge",
+    "version": "0.0.27"
+  },
+  "stargate-trivia": {
+    "name": "stargate-trivia",
+    "version": "0.0.127"
+  },
+  "exitmymaze": {
+    "name": "exitmymaze",
+    "version": "0.0.19"
   }
 }
