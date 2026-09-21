@@ -3246,5 +3246,17 @@
   "exitmymaze": {
     "name": "exitmymaze",
     "version": "0.0.19"
+  },
+  "cash-ladder": {
+    "name": "cash-ladder",
+    "version": "0.0.9"
+  },
+  "paddleborn": {
+    "name": "paddleborn",
+    "version": "0.0.21"
+  },
+  "etfshelf-widgets": {
+    "name": "etfshelf-widgets",
+    "version": "0.0.22"
   }
 }
