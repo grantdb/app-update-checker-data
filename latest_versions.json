@@ -3286,5 +3286,25 @@
   "daycount-flair": {
     "name": "daycount-flair",
     "version": "0.0.8"
+  },
+  "prismfallgame": {
+    "name": "Prismfall",
+    "version": "0.0.12"
+  },
+  "solar-calculator": {
+    "name": "solar-calculator",
+    "version": "0.0.209"
+  },
+  "sports-webapp": {
+    "name": "Sports Live Matchrooms",
+    "version": "0.0.17"
+  },
+  "insultguard": {
+    "name": "insultguard",
+    "version": "1.0.143"
+  },
+  "substeward": {
+    "name": "SubSteward",
+    "version": "0.2.0"
   }
 }
