@@ -3258,5 +3258,25 @@
   "etfshelf-widgets": {
     "name": "etfshelf-widgets",
     "version": "0.0.22"
+  },
+  "snapguess": {
+    "name": "Snap Guess",
+    "version": "0.0.24"
+  },
+  "karmas-brick": {
+    "name": "karmas-brick",
+    "version": "0.0.15"
+  },
+  "rankd-judge": {
+    "name": "rankd-judge",
+    "version": "0.0.9"
+  },
+  "sudoku-speed-run": {
+    "name": "Sudoku Speed Run",
+    "version": "0.0.5"
+  },
+  "trophy-case": {
+    "name": "trophy-case",
+    "version": "0.0.6"
   }
 }
