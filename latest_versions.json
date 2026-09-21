@@ -3226,5 +3226,9 @@
   "playscraper-bot": {
     "name": "Playscraper Bot",
     "version": "1.0.144"
+  },
+  "gift-tracker": {
+    "name": "gift-tracker",
+    "version": "0.2.2"
   }
 }
