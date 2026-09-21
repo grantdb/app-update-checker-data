@@ -3310,5 +3310,17 @@
   "competitions-app": {
     "name": "competitions-app",
     "version": "0.0.31"
+  },
+  "bubble-shooter-game": {
+    "name": "Bubble Shooter",
+    "version": "0.0.7"
+  },
+  "mod-review-guard": {
+    "name": "Mod Review Guard",
+    "version": "0.0.5"
+  },
+  "reveal-trap": {
+    "name": "reveal-trap",
+    "version": "0.0.5"
   }
 }
