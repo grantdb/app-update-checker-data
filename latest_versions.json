@@ -3566,5 +3566,9 @@
   "dietpolicee": {
     "name": "dietpolicee",
     "version": "0.0.19"
+  },
+  "gossip-vortex": {
+    "name": "gossip-vortex",
+    "version": "0.0.5"
   }
 }
