@@ -3554,5 +3554,17 @@
   "flag-blitz": {
     "name": "flag-blitz",
     "version": "0.0.36"
+  },
+  "speed-typer": {
+    "name": "speed-typer",
+    "version": "0.0.1"
+  },
+  "arrows-puzzle": {
+    "name": "arrows-puzzle",
+    "version": "0.0.15"
+  },
+  "dietpolicee": {
+    "name": "dietpolicee",
+    "version": "0.0.19"
   }
 }
