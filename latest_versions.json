@@ -3346,5 +3346,13 @@
   "mod-lens": {
     "name": "mod-lens",
     "version": "0.0.14"
+  },
+  "sub-deep-dive": {
+    "name": "sub-deep-dive",
+    "version": "0.0.3"
+  },
+  "flair-utility": {
+    "name": "Flair Utility",
+    "version": "0.0.6"
   }
 }
