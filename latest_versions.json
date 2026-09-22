@@ -3574,5 +3574,13 @@
   "play-mines-daily": {
     "name": "play-mines-daily",
     "version": "0.0.17"
+  },
+  "mcjbot-dupe-delete": {
+    "name": "MCJbot-dupe-delete",
+    "version": "0.0.12"
+  },
+  "constraintgame": {
+    "name": "constraintgame",
+    "version": "0.0.10"
   }
 }
