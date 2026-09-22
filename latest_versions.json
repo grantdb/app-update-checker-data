@@ -3362,5 +3362,9 @@
   "tech-screen": {
     "name": "tech-screen",
     "version": "0.0.24"
+  },
+  "bc101bot": {
+    "name": "BC101Bot",
+    "version": "0.0.6"
   }
 }
