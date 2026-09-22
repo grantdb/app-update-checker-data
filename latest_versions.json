@@ -3482,5 +3482,17 @@
   "subtebot": {
     "name": "subtebot",
     "version": "0.0.12"
+  },
+  "tap-the-beat": {
+    "name": "tap-the-beat",
+    "version": "0.0.5"
+  },
+  "hangman-hook": {
+    "name": "hangman-hook",
+    "version": "0.0.10"
+  },
+  "modqueue-coord": {
+    "name": "modqueue-coord",
+    "version": "0.0.31"
   }
 }
