@@ -3366,5 +3366,17 @@
   "bc101bot": {
     "name": "BC101Bot",
     "version": "0.0.6"
+  },
+  "grittyblocks": {
+    "name": "Gritty Blocks",
+    "version": "0.0.2"
+  },
+  "bulbrush": {
+    "name": "BulbRush",
+    "version": "0.0.50"
+  },
+  "scriptle-game": {
+    "name": "Scriptle",
+    "version": "0.0.22"
   }
 }
