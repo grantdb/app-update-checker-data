@@ -3406,5 +3406,29 @@
   "neetindia-guard": {
     "name": "neetindia-guard",
     "version": "0.0.24"
+  },
+  "frog-spawned": {
+    "name": "Frog Spawned",
+    "version": "0.0.33"
+  },
+  "champdle": {
+    "name": "champdle",
+    "version": "0.0.5"
+  },
+  "shadespoteye": {
+    "name": "shadespoteye",
+    "version": "0.0.2"
+  },
+  "test-block-log": {
+    "name": "test-block-log",
+    "version": "0.0.4"
+  },
+  "daily-guess-arena": {
+    "name": "daily-guess-arena",
+    "version": "0.0.4"
+  },
+  "dataengprep": {
+    "name": "dataengprep",
+    "version": "0.0.26"
   }
 }
