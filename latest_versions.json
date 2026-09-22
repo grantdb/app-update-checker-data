@@ -3534,5 +3534,25 @@
   "pathrush": {
     "name": "pathrush",
     "version": "1.0.44"
+  },
+  "soccer-star-play": {
+    "name": "soccer-star-play",
+    "version": "0.0.4"
+  },
+  "marsettler": {
+    "name": "marsettler",
+    "version": "0.2.1"
+  },
+  "the-open-world": {
+    "name": "The Open World",
+    "version": "0.108.0"
+  },
+  "cfb-scores": {
+    "name": "CFB Scoreboard App",
+    "version": "0.0.39"
+  },
+  "flag-blitz": {
+    "name": "flag-blitz",
+    "version": "0.0.36"
   }
 }
