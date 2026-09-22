@@ -2121,7 +2121,7 @@
   },
   "sevenns-game": {
     "name": "sevenns-game",
-    "version": "0.0.36"
+    "version": "0.0.63"
   },
   "easterntactics": {
     "name": "Eastern Tactics",
@@ -3590,5 +3590,13 @@
   "treasure-grid": {
     "name": "treasure-grid",
     "version": "0.0.145"
+  },
+  "cr-wordle": {
+    "name": "Clash Royale Wordle",
+    "version": "0.0.13"
+  },
+  "nospellchecker": {
+    "name": "nospellchecker",
+    "version": "1.0.2"
   }
 }
