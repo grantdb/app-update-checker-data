@@ -3390,5 +3390,9 @@
   "multiplication-game": {
     "name": "Multiplication Game",
     "version": "0.0.4"
+  },
+  "sudokugame": {
+    "name": "Sudoku",
+    "version": "0.0.43"
   }
 }
