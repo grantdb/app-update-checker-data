@@ -3430,5 +3430,21 @@
   "dataengprep": {
     "name": "dataengprep",
     "version": "0.0.26"
+  },
+  "clashdle": {
+    "name": "clashdle",
+    "version": "0.0.10"
+  },
+  "hexlifeapp": {
+    "name": "HexLife App",
+    "version": "0.0.8"
+  },
+  "relationtips": {
+    "name": "relationtips",
+    "version": "0.0.45"
+  },
+  "brainvita-app": {
+    "name": "brainvita-app",
+    "version": "0.0.7"
   }
 }
