@@ -3354,5 +3354,13 @@
   "flair-utility": {
     "name": "Flair Utility",
     "version": "0.0.6"
+  },
+  "chain-reaction-game": {
+    "name": "Chain Reaction",
+    "version": "0.9.0"
+  },
+  "tech-screen": {
+    "name": "tech-screen",
+    "version": "0.0.24"
   }
 }
