@@ -3470,5 +3470,17 @@
   "puzzle-15": {
     "name": "Puzzle 15",
     "version": "0.8.3"
+  },
+  "find-path": {
+    "name": "find-path",
+    "version": "0.0.4"
+  },
+  "gridblink": {
+    "name": "gridblink",
+    "version": "0.0.3"
+  },
+  "subtebot": {
+    "name": "subtebot",
+    "version": "0.0.12"
   }
 }
