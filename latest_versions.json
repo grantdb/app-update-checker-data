@@ -3446,5 +3446,29 @@
   "brainvita-app": {
     "name": "brainvita-app",
     "version": "0.0.7"
+  },
+  "guessclock": {
+    "name": "guessclock",
+    "version": "0.2.0"
+  },
+  "trajectory-daily": {
+    "name": "trajectory-daily",
+    "version": "0.0.3"
+  },
+  "mazendav": {
+    "name": "Mazenda",
+    "version": "0.0.134"
+  },
+  "unbanlab": {
+    "name": "unbanlab",
+    "version": "0.0.10"
+  },
+  "pourchestra": {
+    "name": "pourchestra",
+    "version": "1.0.6"
+  },
+  "puzzle-15": {
+    "name": "Puzzle 15",
+    "version": "0.8.3"
   }
 }
