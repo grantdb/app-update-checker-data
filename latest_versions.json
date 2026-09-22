@@ -3510,5 +3510,9 @@
   "memroulette": {
     "name": "MemeRoulette",
     "version": "0.0.5"
+  },
+  "fartknighter": {
+    "name": "fartknighter",
+    "version": "1.0.1"
   }
 }
