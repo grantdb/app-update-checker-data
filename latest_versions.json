@@ -3378,5 +3378,17 @@
   "scriptle-game": {
     "name": "Scriptle",
     "version": "0.0.22"
+  },
+  "site-status-alerts": {
+    "name": "Site Status Alerts",
+    "version": "1.0.2"
+  },
+  "subredit-guessr": {
+    "name": "subredit-guessr",
+    "version": "0.0.8"
+  },
+  "multiplication-game": {
+    "name": "Multiplication Game",
+    "version": "0.0.4"
   }
 }
