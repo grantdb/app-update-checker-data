@@ -2457,7 +2457,7 @@
   },
   "filter-guard": {
     "name": "filter-guard",
-    "version": "0.0.81"
+    "version": "0.0.84"
   },
   "pawtrends": {
     "name": "pawtrends",
@@ -3570,5 +3570,9 @@
   "gossip-vortex": {
     "name": "gossip-vortex",
     "version": "0.0.5"
+  },
+  "play-mines-daily": {
+    "name": "play-mines-daily",
+    "version": "0.0.17"
   }
 }
