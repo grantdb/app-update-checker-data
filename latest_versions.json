@@ -3514,5 +3514,25 @@
   "fartknighter": {
     "name": "fartknighter",
     "version": "1.0.1"
+  },
+  "reflex-challenge": {
+    "name": "reflex-challenge",
+    "version": "0.0.22"
+  },
+  "charge-the-coil": {
+    "name": "CHARGE THE COIL",
+    "version": "0.1.1"
+  },
+  "word-maestro": {
+    "name": "Word Maestro",
+    "version": "0.0.59"
+  },
+  "map-posts": {
+    "name": "map-posts",
+    "version": "0.0.15"
+  },
+  "pathrush": {
+    "name": "pathrush",
+    "version": "1.0.44"
   }
 }
