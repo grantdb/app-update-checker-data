@@ -3494,5 +3494,21 @@
   "modqueue-coord": {
     "name": "modqueue-coord",
     "version": "0.0.31"
+  },
+  "dreamcollab": {
+    "name": "dreamcollab",
+    "version": "0.0.14"
+  },
+  "gunsofboom00": {
+    "name": "gunsofboom00",
+    "version": "0.0.9"
+  },
+  "threadarcade": {
+    "name": "ThreadArcade: custom games for your community&#39;s topics",
+    "version": "0.0.4"
+  },
+  "memroulette": {
+    "name": "MemeRoulette",
+    "version": "0.0.5"
   }
 }
