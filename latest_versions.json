@@ -3638,5 +3638,13 @@
   "durak-mobile": {
     "name": "Durak  The Card Game",
     "version": "0.0.146"
+  },
+  "panzer-skirmish": {
+    "name": "Panzer Island: Skirmish",
+    "version": "0.0.30"
+  },
+  "doodlearenaa": {
+    "name": "doodlearenaa",
+    "version": "0.0.4"
   }
 }
