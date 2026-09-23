@@ -3654,5 +3654,25 @@
   "pinballkarma": {
     "name": "Pinball King Karma",
     "version": "1.8.17"
+  },
+  "skyforredbrain": {
+    "name": "skyforredbrain",
+    "version": "0.0.22"
+  },
+  "wobbletower": {
+    "name": "wobbletower",
+    "version": "0.0.16"
+  },
+  "test-tracker": {
+    "name": "TestTracker",
+    "version": "0.0.9"
+  },
+  "karmabattle26": {
+    "name": "Karma Battle",
+    "version": "0.0.10"
+  },
+  "word-toggle": {
+    "name": "word-toggle",
+    "version": "0.0.3"
   }
 }
