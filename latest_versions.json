@@ -3718,5 +3718,21 @@
   "card-cull": {
     "name": "card-cull",
     "version": "0.0.6"
+  },
+  "omnimod-dev": {
+    "name": "omnimod",
+    "version": "0.1.41"
+  },
+  "dot-pull": {
+    "name": "dot-pull",
+    "version": "0.0.4"
+  },
+  "desklings": {
+    "name": "desklings",
+    "version": "0.0.7"
+  },
+  "x-vote-bot": {
+    "name": "x-vote-bot",
+    "version": "0.0.15"
   }
 }
