@@ -3622,5 +3622,21 @@
   "venndi-game": {
     "name": "Venndi",
     "version": "0.0.4"
+  },
+  "bagh-bakri": {
+    "name": "Tigers vs Sheep",
+    "version": "0.0.11"
+  },
+  "distrofeed-bot": {
+    "name": "distrofeed-bot",
+    "version": "0.1.109"
+  },
+  "dialiloo": {
+    "name": "dialiloo",
+    "version": "0.0.9"
+  },
+  "durak-mobile": {
+    "name": "Durak  The Card Game",
+    "version": "0.0.146"
   }
 }
