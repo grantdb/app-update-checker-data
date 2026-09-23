@@ -3598,5 +3598,9 @@
   "nospellchecker": {
     "name": "nospellchecker",
     "version": "1.0.2"
+  },
+  "print-analyzer": {
+    "name": "Print-Analyzer",
+    "version": "0.0.32"
   }
 }
