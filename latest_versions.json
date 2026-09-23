@@ -3602,5 +3602,17 @@
   "print-analyzer": {
     "name": "Print-Analyzer",
     "version": "0.0.32"
+  },
+  "animecrown": {
+    "name": "Anime Crown",
+    "version": "0.0.8"
+  },
+  "pulseguard-dev": {
+    "name": "PulseGuard",
+    "version": "0.0.8"
+  },
+  "consensus-canvas": {
+    "name": "consensus-canvas",
+    "version": "1.0.3"
   }
 }
