@@ -3674,5 +3674,29 @@
   "word-toggle": {
     "name": "word-toggle",
     "version": "0.0.3"
+  },
+  "swiftswapgame": {
+    "name": "swiftswapgame",
+    "version": "1.2.1"
+  },
+  "prochamps": {
+    "name": "prochamps",
+    "version": "0.0.24"
+  },
+  "neon-path": {
+    "name": "neon-path",
+    "version": "0.0.37"
+  },
+  "paint-it-memory": {
+    "name": "paint-it-memory",
+    "version": "0.0.5"
+  },
+  "jonthedon-game": {
+    "name": "JonTheDon",
+    "version": "0.0.4"
+  },
+  "the-fysher": {
+    "name": "the-fysher",
+    "version": "0.0.4"
   }
 }
