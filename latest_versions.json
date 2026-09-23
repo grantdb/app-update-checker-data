@@ -325,7 +325,7 @@
   },
   "aiautomoderator": {
     "name": "AI AutoModerator",
-    "version": "2.1.68"
+    "version": "2.1.70"
   },
   "matchpal-live": {
     "name": "MatchPal.io  Live Football / Soccer Scores &amp; Auto Match Threads",
@@ -337,7 +337,7 @@
   },
   "ranker-app": {
     "name": "Interactive Posts",
-    "version": "0.0.153"
+    "version": "0.0.158"
   },
   "ratelimit-bot": {
     "name": "ratelimit-bot",
