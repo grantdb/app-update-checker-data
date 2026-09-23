@@ -2165,7 +2165,7 @@
   },
   "locationguess": {
     "name": "Guess the Place",
-    "version": "0.0.77"
+    "version": "0.0.103"
   },
   "tf2-guess-the-map": {
     "name": "TF2 Guess The Map",
@@ -3614,5 +3614,13 @@
   "consensus-canvas": {
     "name": "consensus-canvas",
     "version": "1.0.3"
+  },
+  "tumbelero": {
+    "name": "tumbelero",
+    "version": "0.0.7"
+  },
+  "venndi-game": {
+    "name": "Venndi",
+    "version": "0.0.4"
   }
 }
