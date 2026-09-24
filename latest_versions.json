@@ -1637,7 +1637,7 @@
   },
   "language-detector": {
     "name": "language-detector",
-    "version": "0.0.23"
+    "version": "0.0.26"
   },
   "scanslop": {
     "name": "Scan Slop",
