@@ -825,7 +825,7 @@
   },
   "comment-scout": {
     "name": "Comment Scout",
-    "version": "1.0.4"
+    "version": "1.0.5"
   },
   "crypto-market": {
     "name": "The Crypto Market",
@@ -873,7 +873,7 @@
   },
   "nflgdtbot": {
     "name": "nflgdtbot",
-    "version": "1.3.0"
+    "version": "1.5.0"
   },
   "twkchat": {
     "name": "twkchat",
