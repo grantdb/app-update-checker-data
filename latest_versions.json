@@ -1113,7 +1113,7 @@
   },
   "ninigrams-game": {
     "name": "Ninigrams",
-    "version": "0.1.43"
+    "version": "0.1.45"
   },
   "ratio-bobo": {
     "name": "Ratio! Bobobo! Motivate your users to contribute on some specific flair.",
@@ -1317,7 +1317,7 @@
   },
   "nhl-goalpost": {
     "name": "nhl-goalpost",
-    "version": "2.37.5"
+    "version": "2.61.0"
   },
   "huddle-mod": {
     "name": "Huddle",
