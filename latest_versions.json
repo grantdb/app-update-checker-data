@@ -2974,5 +2974,9 @@
   "expertreviewsapp": {
     "name": "ReviewExpertsClub",
     "version": "0.4.4"
+  },
+  "contributorstracker": {
+    "name": "Contributors Tracker: Track your best contributors!",
+    "version": "0.0.5"
   }
 }
