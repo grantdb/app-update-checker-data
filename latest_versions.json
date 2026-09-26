@@ -2553,7 +2553,7 @@
   },
   "linux-quest": {
     "name": "Linux Quest",
-    "version": "0.0.126"
+    "version": "0.0.127"
   },
   "my-solitaire-games": {
     "name": "My Solitaire Card Game",
@@ -3006,5 +3006,21 @@
   "wordsearchlink": {
     "name": "wordsearchlink",
     "version": "0.0.16"
+  },
+  "ghost-detector": {
+    "name": "ghost-detector",
+    "version": "1.0.9"
+  },
+  "fillables-app": {
+    "name": "Fillables",
+    "version": "0.0.5"
+  },
+  "sub-feedback": {
+    "name": "Community Feedback",
+    "version": "0.0.21"
+  },
+  "cluesword": {
+    "name": "cluesword",
+    "version": "0.2.0"
   }
 }
