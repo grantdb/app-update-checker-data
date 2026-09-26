@@ -2938,5 +2938,9 @@
   "match-fixing": {
     "name": "match-fixing",
     "version": "0.0.226"
+  },
+  "community-draw": {
+    "name": "Community Draw",
+    "version": "0.0.51"
   }
 }
