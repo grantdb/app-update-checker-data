@@ -2926,5 +2926,17 @@
   "nopermamute": {
     "name": "No Permamute",
     "version": "1.0.1"
+  },
+  "det-scramble": {
+    "name": "Detective Scramble",
+    "version": "0.0.28"
+  },
+  "post-update-link": {
+    "name": "post-update-link",
+    "version": "0.0.6"
+  },
+  "match-fixing": {
+    "name": "match-fixing",
+    "version": "0.0.226"
   }
 }
