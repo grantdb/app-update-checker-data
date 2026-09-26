@@ -2946,5 +2946,21 @@
   "rate-guard": {
     "name": "Rate Guard",
     "version": "0.0.15"
+  },
+  "air-ride": {
+    "name": "air-ride",
+    "version": "0.0.4"
+  },
+  "open-moderator": {
+    "name": "Open Moderator",
+    "version": "0.0.12"
+  },
+  "nfl-scores": {
+    "name": "NFL Scoreboard App",
+    "version": "0.0.113"
+  },
+  "logiclens-larry": {
+    "name": "Larry Logic - Mr. Logical Fallacy Detector",
+    "version": "0.0.12"
   }
 }
