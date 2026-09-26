@@ -2898,5 +2898,9 @@
   "x-vote-bot": {
     "name": "x-vote-bot",
     "version": "0.0.15"
+  },
+  "fairgiveaway": {
+    "name": "fairgiveaway",
+    "version": "0.0.20"
   }
 }
