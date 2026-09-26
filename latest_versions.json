@@ -2978,5 +2978,17 @@
   "contributorstracker": {
     "name": "Contributors Tracker: Track your best contributors!",
     "version": "0.0.5"
+  },
+  "triviachallenge2": {
+    "name": "Trivia sport",
+    "version": "0.0.37"
+  },
+  "idxstockinsight1": {
+    "name": "idxstockinsight1",
+    "version": "0.2.5"
+  },
+  "synchat": {
+    "name": "synchat",
+    "version": "0.0.5"
   }
 }
