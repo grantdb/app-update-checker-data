@@ -2906,5 +2906,21 @@
   "fit-the-word": {
     "name": "Fit the Word",
     "version": "0.23.545"
+  },
+  "humancheckpoint": {
+    "name": "Human Checkpoint",
+    "version": "1.0.35"
+  },
+  "rim-rush": {
+    "name": "Rim Rush",
+    "version": "0.0.163"
+  },
+  "mlb-scores": {
+    "name": "MLB Scoreboard App",
+    "version": "0.0.242"
+  },
+  "duplicate-guard": {
+    "name": "Duplicate Guard",
+    "version": "0.0.39"
   }
 }
