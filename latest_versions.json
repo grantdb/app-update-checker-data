@@ -2962,5 +2962,17 @@
   "logiclens-larry": {
     "name": "Larry Logic - Mr. Logical Fallacy Detector",
     "version": "0.0.12"
+  },
+  "useranalyzer": {
+    "name": "useranalyzer",
+    "version": "1.0.0"
+  },
+  "banned-list": {
+    "name": "banned-list",
+    "version": "0.25.0"
+  },
+  "expertreviewsapp": {
+    "name": "ReviewExpertsClub",
+    "version": "0.4.4"
   }
 }
