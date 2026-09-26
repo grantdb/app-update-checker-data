@@ -2193,7 +2193,7 @@
   },
   "automod-easy": {
     "name": "AutoMod Easy",
-    "version": "0.0.146"
+    "version": "0.0.150"
   },
   "gamepadtest": {
     "name": "Gamepad Tester",
@@ -2237,7 +2237,7 @@
   },
   "mini-racer": {
     "name": "Mini Racer",
-    "version": "2.3.1"
+    "version": "2.4.0"
   },
   "block-down": {
     "name": "block-down",
