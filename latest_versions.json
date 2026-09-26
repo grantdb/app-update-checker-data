@@ -1377,7 +1377,7 @@
   },
   "weathercast": {
     "name": "Weathercast",
-    "version": "0.0.28"
+    "version": "0.0.29"
   },
   "qshots": {
     "name": "qshots",
@@ -2922,5 +2922,9 @@
   "duplicate-guard": {
     "name": "Duplicate Guard",
     "version": "0.0.39"
+  },
+  "nopermamute": {
+    "name": "No Permamute",
+    "version": "1.0.1"
   }
 }
