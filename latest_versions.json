@@ -1397,11 +1397,11 @@
   },
   "dice-daemon": {
     "name": "Dice Daemon",
-    "version": "0.0.18"
+    "version": "0.0.19"
   },
   "word-guard": {
     "name": "Word Guard",
-    "version": "0.0.192"
+    "version": "0.0.193"
   },
   "slipstream-daily": {
     "name": "slipstream-daily",
