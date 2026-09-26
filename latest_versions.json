@@ -2942,5 +2942,9 @@
   "community-draw": {
     "name": "Community Draw",
     "version": "0.0.51"
+  },
+  "rate-guard": {
+    "name": "Rate Guard",
+    "version": "0.0.15"
   }
 }
