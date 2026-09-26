@@ -2902,5 +2902,9 @@
   "fairgiveaway": {
     "name": "fairgiveaway",
     "version": "0.0.20"
+  },
+  "fit-the-word": {
+    "name": "Fit the Word",
+    "version": "0.23.545"
   }
 }
