@@ -2990,5 +2990,21 @@
   "synchat": {
     "name": "synchat",
     "version": "0.0.5"
+  },
+  "mod-mailer-app": {
+    "name": "Mod Mailer",
+    "version": "0.1.2"
+  },
+  "challengeai": {
+    "name": "challengeai",
+    "version": "0.0.44"
+  },
+  "pulse-monitor": {
+    "name": "pulse-monitor",
+    "version": "0.0.11"
+  },
+  "wordsearchlink": {
+    "name": "wordsearchlink",
+    "version": "0.0.16"
   }
 }
