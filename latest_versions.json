@@ -3062,5 +3062,13 @@
   "botforlazymods": {
     "name": "botforlazymods",
     "version": "0.0.6"
+  },
+  "numberguess": {
+    "name": "Number Guess Game",
+    "version": "0.0.15"
+  },
+  "hangman-out": {
+    "name": "hangman-out",
+    "version": "0.0.11"
   }
 }
