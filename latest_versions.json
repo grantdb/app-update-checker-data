@@ -3118,5 +3118,21 @@
   "splash-siege": {
     "name": "splash-siege",
     "version": "0.0.6"
+  },
+  "reply-coach": {
+    "name": "reply-coach",
+    "version": "0.0.3"
+  },
+  "faction-warfare": {
+    "name": "Faction Warfare",
+    "version": "0.0.9"
+  },
+  "modbeacon": {
+    "name": "ModBeacon - Live Mod Presence",
+    "version": "0.0.17"
+  },
+  "bullshidolegends": {
+    "name": "bullshidolegends",
+    "version": "0.0.9"
   }
 }
