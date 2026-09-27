@@ -1845,7 +1845,7 @@
   },
   "track-buddy": {
     "name": "Track Buddy",
-    "version": "1.0.9"
+    "version": "1.0.11"
   },
   "daily-sweepd": {
     "name": "Daily Sweepd",
@@ -3178,5 +3178,9 @@
   "dph-bot": {
     "name": "dph-bot",
     "version": "0.0.18"
+  },
+  "ride-bike": {
+    "name": "Ride Bike",
+    "version": "0.0.6"
   }
 }
