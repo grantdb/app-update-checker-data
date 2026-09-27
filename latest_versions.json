@@ -3162,5 +3162,9 @@
   "memegrid": {
     "name": "Meme Grid",
     "version": "0.13.0"
+  },
+  "mcrashers": {
+    "name": "Multiplication Crashers",
+    "version": "1.0.14"
   }
 }
