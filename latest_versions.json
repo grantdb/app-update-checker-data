@@ -3158,5 +3158,9 @@
   "words-by-farber": {
     "name": "Words by Farber",
     "version": "0.0.78"
+  },
+  "memegrid": {
+    "name": "Meme Grid",
+    "version": "0.13.0"
   }
 }
