@@ -3022,5 +3022,25 @@
   "cluesword": {
     "name": "cluesword",
     "version": "0.2.0"
+  },
+  "herding-catz": {
+    "name": "herding-catz",
+    "version": "0.6.0"
+  },
+  "reference-registry": {
+    "name": "Reference Registry",
+    "version": "0.0.10"
+  },
+  "votingmanagement": {
+    "name": "votingmanagement",
+    "version": "0.0.4"
+  },
+  "chaotic-wheels": {
+    "name": "Chaotic Wheels",
+    "version": "0.0.5"
+  },
+  "ninjamail3": {
+    "name": "Ninja Mail",
+    "version": "0.0.10"
   }
 }
