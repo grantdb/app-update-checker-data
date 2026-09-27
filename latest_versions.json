@@ -3082,5 +3082,17 @@
   "answer-triage": {
     "name": "answer-triage",
     "version": "0.0.2"
+  },
+  "spiredle": {
+    "name": "spiredle",
+    "version": "0.0.5"
+  },
+  "battlelexicons": {
+    "name": "BattleLexicons",
+    "version": "1.0.13"
+  },
+  "hot-importer": {
+    "name": "hot-importer",
+    "version": "0.0.5"
   }
 }
