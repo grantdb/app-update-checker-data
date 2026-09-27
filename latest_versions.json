@@ -3154,5 +3154,9 @@
   "debate-league": {
     "name": "debate-league",
     "version": "0.0.66"
+  },
+  "words-by-farber": {
+    "name": "Words by Farber",
+    "version": "0.0.78"
   }
 }
