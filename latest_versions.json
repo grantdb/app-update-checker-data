@@ -3170,5 +3170,13 @@
   "dinorumble1": {
     "name": "dinorumble1",
     "version": "0.17.0"
+  },
+  "scramgram-game": {
+    "name": "Scramgram",
+    "version": "0.0.26"
+  },
+  "dph-bot": {
+    "name": "dph-bot",
+    "version": "0.0.18"
   }
 }
