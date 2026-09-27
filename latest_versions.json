@@ -3182,5 +3182,17 @@
   "ride-bike": {
     "name": "Ride Bike",
     "version": "0.0.6"
+  },
+  "guesstheelogame": {
+    "name": "Guess the Elo",
+    "version": "0.0.4"
+  },
+  "w0uld-u-rath3r": {
+    "name": "w0uld-u-rath3r",
+    "version": "0.0.3"
+  },
+  "lavaleap": {
+    "name": "lavaleap",
+    "version": "0.0.16"
   }
 }
