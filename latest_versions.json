@@ -2101,7 +2101,7 @@
   },
   "ring-escape": {
     "name": "Ring Escape",
-    "version": "0.0.67"
+    "version": "0.0.68"
   },
   "karmacritter": {
     "name": "KarmaCritter",
@@ -3206,5 +3206,13 @@
   "dicedaemon": {
     "name": "dicedaemon",
     "version": "0.0.22"
+  },
+  "the-daily-realm": {
+    "name": "The Daily Realm",
+    "version": "2.0.23"
+  },
+  "personalprevent": {
+    "name": "Personal Prevent",
+    "version": "0.0.1"
   }
 }
