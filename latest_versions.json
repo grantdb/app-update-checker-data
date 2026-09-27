@@ -2061,7 +2061,7 @@
   },
   "hucontroll": {
     "name": "HUconTroll",
-    "version": "1.0.21"
+    "version": "1.0.23"
   },
   "bad-cards-game": {
     "name": "Bad Cards",
@@ -3094,5 +3094,9 @@
   "hot-importer": {
     "name": "hot-importer",
     "version": "0.0.5"
+  },
+  "number-math": {
+    "name": "Numble",
+    "version": "0.3.0"
   }
 }
