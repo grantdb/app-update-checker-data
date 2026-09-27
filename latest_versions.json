@@ -2241,7 +2241,7 @@
   },
   "block-down": {
     "name": "block-down",
-    "version": "0.0.48"
+    "version": "0.0.53"
   },
   "snoosings": {
     "name": "snoosings",
@@ -3106,5 +3106,17 @@
   "play-daily-sudoku": {
     "name": "play-daily-sudoku",
     "version": "0.0.18"
+  },
+  "epic-pong": {
+    "name": "Epic Pong",
+    "version": "0.0.2"
+  },
+  "fillr-puzzle": {
+    "name": "fillr-puzzle",
+    "version": "0.0.17"
+  },
+  "splash-siege": {
+    "name": "splash-siege",
+    "version": "0.0.6"
   }
 }
