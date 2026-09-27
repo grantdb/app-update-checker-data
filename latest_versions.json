@@ -3222,5 +3222,9 @@
   "modvitals": {
     "name": "modvitals",
     "version": "0.0.16"
+  },
+  "smilestetris": {
+    "name": "smilestetris",
+    "version": "0.0.13"
   }
 }
