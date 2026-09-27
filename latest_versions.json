@@ -3194,5 +3194,17 @@
   "lavaleap": {
     "name": "lavaleap",
     "version": "0.0.16"
+  },
+  "modgather": {
+    "name": "ModGather",
+    "version": "0.0.3"
+  },
+  "tester-board": {
+    "name": "tester-board",
+    "version": "0.0.118"
+  },
+  "dicedaemon": {
+    "name": "dicedaemon",
+    "version": "0.0.22"
   }
 }
