@@ -3214,5 +3214,13 @@
   "personalprevent": {
     "name": "Personal Prevent",
     "version": "0.0.1"
+  },
+  "dimensions5d": {
+    "name": "dimensions5d",
+    "version": "0.0.4"
+  },
+  "modvitals": {
+    "name": "modvitals",
+    "version": "0.0.16"
   }
 }
