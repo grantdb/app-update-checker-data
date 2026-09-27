@@ -3166,5 +3166,9 @@
   "mcrashers": {
     "name": "Multiplication Crashers",
     "version": "1.0.14"
+  },
+  "dinorumble1": {
+    "name": "dinorumble1",
+    "version": "0.17.0"
   }
 }
