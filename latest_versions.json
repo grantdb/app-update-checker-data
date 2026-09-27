@@ -3042,5 +3042,21 @@
   "ninjamail3": {
     "name": "Ninja Mail",
     "version": "0.0.10"
+  },
+  "repostsniff": {
+    "name": "RepostSniff",
+    "version": "0.0.4"
+  },
+  "slideblast-rdt": {
+    "name": "SlideBlast - Fruit Merge Puzzle",
+    "version": "0.0.19"
+  },
+  "revelia-dream": {
+    "name": "Revelia Dreams",
+    "version": "0.0.11"
+  },
+  "tile-connect": {
+    "name": "tile-connect",
+    "version": "0.0.4"
   }
 }
