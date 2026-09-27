@@ -3058,5 +3058,9 @@
   "tile-connect": {
     "name": "tile-connect",
     "version": "0.0.4"
+  },
+  "botforlazymods": {
+    "name": "botforlazymods",
+    "version": "0.0.6"
   }
 }
