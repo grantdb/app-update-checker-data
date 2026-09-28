@@ -3446,5 +3446,17 @@
   "wayoff-game": {
     "name": "wayoff-game",
     "version": "0.0.7"
+  },
+  "breachline": {
+    "name": "breachline",
+    "version": "0.0.68"
+  },
+  "you-are-the-cat": {
+    "name": "you-are-the-cat",
+    "version": "0.0.14"
+  },
+  "pawsitivepalbot": {
+    "name": "pawsitivepalbot",
+    "version": "0.0.3"
   }
 }
