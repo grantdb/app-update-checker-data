@@ -3306,5 +3306,29 @@
   "foldably": {
     "name": "foldably",
     "version": "0.0.25"
+  },
+  "aitacheck": {
+    "name": "aitacheck",
+    "version": "0.0.187"
+  },
+  "low-ball-it": {
+    "name": "low-ball-it",
+    "version": "0.0.31"
+  },
+  "future-snake": {
+    "name": "Viral Future Snake Game | 1M+ Plays",
+    "version": "0.0.6"
+  },
+  "mystery-reveal": {
+    "name": "Mystery Reveal",
+    "version": "0.0.6"
+  },
+  "wantedmissingmonster": {
+    "name": "wantedmissingmonster",
+    "version": "1.0.2"
+  },
+  "dental-site-check": {
+    "name": "Dental Website Check",
+    "version": "0.0.3"
   }
 }
