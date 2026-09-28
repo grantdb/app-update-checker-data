@@ -3374,5 +3374,25 @@
   "slidereveal-app": {
     "name": "slidereveal-app",
     "version": "0.0.19"
+  },
+  "threados": {
+    "name": "threados",
+    "version": "0.0.2"
+  },
+  "farfield-relay": {
+    "name": "Farfield Relay",
+    "version": "0.0.6"
+  },
+  "circus-hero": {
+    "name": "Party Pop!",
+    "version": "0.0.18"
+  },
+  "karmastep": {
+    "name": "KarmaStep",
+    "version": "0.0.84"
+  },
+  "topiclingo-daily": {
+    "name": "topiclingo-daily",
+    "version": "0.0.27"
   }
 }
