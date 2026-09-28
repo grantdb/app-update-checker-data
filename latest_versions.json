@@ -3422,5 +3422,13 @@
   "retromoderator": {
     "name": "retromoderator",
     "version": "0.0.11"
+  },
+  "gem-rush-daily": {
+    "name": "Gem Rush",
+    "version": "0.0.6"
+  },
+  "four-fours-game": {
+    "name": "Four Fours a Daily Math Puzzle",
+    "version": "0.0.4"
   }
 }
