@@ -3418,5 +3418,9 @@
   "fruitcrushgame": {
     "name": "FruitCrush",
     "version": "0.0.4"
+  },
+  "retromoderator": {
+    "name": "retromoderator",
+    "version": "0.0.11"
   }
 }
