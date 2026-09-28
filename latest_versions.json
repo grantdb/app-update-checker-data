@@ -3470,5 +3470,13 @@
   "gate-defender": {
     "name": "gate-defender",
     "version": "0.0.101"
+  },
+  "escalationradar": {
+    "name": "escalationradar",
+    "version": "0.0.3"
+  },
+  "acro-daily-poster": {
+    "name": "acro-daily-poster",
+    "version": "0.0.12"
   }
 }
