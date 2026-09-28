@@ -3330,5 +3330,29 @@
   "dental-site-check": {
     "name": "Dental Website Check",
     "version": "0.0.3"
+  },
+  "the-hampter-that-ran": {
+    "name": "The Hampter That Ran",
+    "version": "0.0.8"
+  },
+  "active-users-only": {
+    "name": "active-users-only",
+    "version": "1.0.2"
+  },
+  "goosematch": {
+    "name": "Goose Match  Daily Match-3 Puzzle",
+    "version": "1.0.0"
+  },
+  "worldflaggames": {
+    "name": "worldflaggames",
+    "version": "0.0.6"
+  },
+  "rsnl-videos": {
+    "name": "rSNL-Videos",
+    "version": "0.0.8"
+  },
+  "dropstackgame": {
+    "name": "dropstackgame",
+    "version": "0.0.5"
   }
 }
