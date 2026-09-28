@@ -3274,5 +3274,9 @@
   "hue-hunt": {
     "name": "hue-hunt",
     "version": "0.0.23"
+  },
+  "modsteward": {
+    "name": "modsteward",
+    "version": "1.0.2"
   }
 }
