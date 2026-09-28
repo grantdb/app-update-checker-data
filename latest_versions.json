@@ -3458,5 +3458,17 @@
   "pawsitivepalbot": {
     "name": "pawsitivepalbot",
     "version": "0.0.3"
+  },
+  "business-council": {
+    "name": "business-council",
+    "version": "0.0.19"
+  },
+  "predict-streak": {
+    "name": "predict-streak",
+    "version": "0.1.0"
+  },
+  "gate-defender": {
+    "name": "gate-defender",
+    "version": "0.0.101"
   }
 }
