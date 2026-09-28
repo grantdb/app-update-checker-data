@@ -3394,5 +3394,21 @@
   "topiclingo-daily": {
     "name": "topiclingo-daily",
     "version": "0.0.27"
+  },
+  "feng-shui-8-bit": {
+    "name": "feng-shui-8-bit",
+    "version": "0.0.13"
+  },
+  "bastion-td": {
+    "name": "Bastion TD",
+    "version": "0.0.6"
+  },
+  "magic-football": {
+    "name": "Magic Football  Tactical 1v1",
+    "version": "0.0.31"
+  },
+  "die-onthathill": {
+    "name": "die-onthathill",
+    "version": "0.0.9"
   }
 }
