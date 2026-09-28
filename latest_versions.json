@@ -3226,5 +3226,9 @@
   "smilestetris": {
     "name": "smilestetris",
     "version": "0.0.13"
+  },
+  "nba-voting": {
+    "name": "nba-voting",
+    "version": "0.0.2"
   }
 }
