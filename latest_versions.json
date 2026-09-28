@@ -3354,5 +3354,25 @@
   "dropstackgame": {
     "name": "dropstackgame",
     "version": "0.0.5"
+  },
+  "ssdi-assistance": {
+    "name": "ssdi-assistance",
+    "version": "0.0.12"
+  },
+  "deckhaus": {
+    "name": "deckhaus",
+    "version": "0.0.29"
+  },
+  "hottake-poll": {
+    "name": "HotTake Poll",
+    "version": "0.0.20"
+  },
+  "wikiscribe": {
+    "name": "WikiScribe",
+    "version": "0.0.16"
+  },
+  "slidereveal-app": {
+    "name": "slidereveal-app",
+    "version": "0.0.19"
   }
 }
