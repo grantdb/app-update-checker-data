@@ -3250,5 +3250,29 @@
   "neededapp": {
     "name": "neededapp",
     "version": "0.0.2"
+  },
+  "community-os": {
+    "name": "Community OS",
+    "version": "0.1.18"
+  },
+  "exact-center": {
+    "name": "exact-center",
+    "version": "0.0.2"
+  },
+  "geodle": {
+    "name": "geodle",
+    "version": "0.3.0"
+  },
+  "guesseddit": {
+    "name": "guesseddit",
+    "version": "0.0.81"
+  },
+  "daily-1a": {
+    "name": "Daily 1A",
+    "version": "0.0.5"
+  },
+  "hue-hunt": {
+    "name": "hue-hunt",
+    "version": "0.0.23"
   }
 }
