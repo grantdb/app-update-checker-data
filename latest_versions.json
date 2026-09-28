@@ -3410,5 +3410,13 @@
   "die-onthathill": {
     "name": "die-onthathill",
     "version": "0.0.9"
+  },
+  "mcupolls": {
+    "name": "mcupolls",
+    "version": "0.0.23"
+  },
+  "fruitcrushgame": {
+    "name": "FruitCrush",
+    "version": "0.0.4"
   }
 }
