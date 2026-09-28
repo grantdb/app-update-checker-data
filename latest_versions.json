@@ -3478,5 +3478,13 @@
   "acro-daily-poster": {
     "name": "acro-daily-poster",
     "version": "0.0.12"
+  },
+  "drive-it-63": {
+    "name": "drive-it-63",
+    "version": "0.0.7"
+  },
+  "adv-verify": {
+    "name": "ADV Verify Bot",
+    "version": "0.0.19"
   }
 }
