@@ -3282,5 +3282,29 @@
   "block-unlock": {
     "name": "block-unlock",
     "version": "0.0.7"
+  },
+  "zencrossbow": {
+    "name": "Zencrossbow",
+    "version": "0.0.16"
+  },
+  "eight-0fc": {
+    "name": "eight-0fc",
+    "version": "1.0.0"
+  },
+  "dailyspeedway": {
+    "name": "dailyspeedway",
+    "version": "0.0.30"
+  },
+  "factor-frenzy": {
+    "name": "FactorFrenzy",
+    "version": "0.0.4"
+  },
+  "playcrambld": {
+    "name": "CRAMBLD",
+    "version": "0.0.8"
+  },
+  "foldably": {
+    "name": "foldably",
+    "version": "0.0.25"
   }
 }
