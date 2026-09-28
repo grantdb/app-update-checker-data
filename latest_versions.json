@@ -3230,5 +3230,25 @@
   "nba-voting": {
     "name": "nba-voting",
     "version": "0.0.2"
+  },
+  "romkerl": {
+    "name": "romkerl",
+    "version": "0.1.8"
+  },
+  "chessmultiplayer": {
+    "name": "chessmultiplayer",
+    "version": "0.0.11"
+  },
+  "dice-battle-dev": {
+    "name": "Dice Fight",
+    "version": "0.0.125"
+  },
+  "tilematch": {
+    "name": "tilematch",
+    "version": "0.5.0"
+  },
+  "neededapp": {
+    "name": "neededapp",
+    "version": "0.0.2"
   }
 }
