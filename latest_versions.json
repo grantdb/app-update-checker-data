@@ -3598,5 +3598,17 @@
   "finddogs": {
     "name": "finddogs",
     "version": "0.0.14"
+  },
+  "scanlock": {
+    "name": "scanlock",
+    "version": "0.0.3"
+  },
+  "podium-predictor": {
+    "name": "podium-predictor",
+    "version": "0.0.20"
+  },
+  "financecalculator": {
+    "name": "Finance Calculator",
+    "version": "1.6.0"
   }
 }
