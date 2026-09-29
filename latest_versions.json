@@ -3610,5 +3610,17 @@
   "financecalculator": {
     "name": "Finance Calculator",
     "version": "1.6.0"
+  },
+  "stackline-game": {
+    "name": "stackline-game",
+    "version": "0.0.5"
+  },
+  "goat-mode": {
+    "name": "goat-mode",
+    "version": "0.0.148"
+  },
+  "post-da-awards": {
+    "name": "post-da-awards",
+    "version": "0.0.8"
   }
 }
