@@ -169,7 +169,7 @@
   },
   "scoreboard-app": {
     "name": "Soccer Scoreboard App",
-    "version": "0.0.70"
+    "version": "0.0.71"
   },
   "queue-pruner": {
     "name": "Modqueue Pruner",
