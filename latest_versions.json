@@ -3566,5 +3566,25 @@
   "flagit-game": {
     "name": "flagit-game",
     "version": "0.9.0"
+  },
+  "final-word-showdown": {
+    "name": "final-word-showdown",
+    "version": "1.0.0"
+  },
+  "dontk1llthefish": {
+    "name": "Don&#39;t Kill The Fish",
+    "version": "0.0.90"
+  },
+  "lunchline-dispatch": {
+    "name": "lunchline-dispatch",
+    "version": "0.0.8"
+  },
+  "color-lock": {
+    "name": "color-lock",
+    "version": "0.0.25"
+  },
+  "unriddle-quotes": {
+    "name": "UnRiddle",
+    "version": "1.8.14"
   }
 }
