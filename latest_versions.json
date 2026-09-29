@@ -3546,5 +3546,25 @@
   "travelwaivers": {
     "name": "travelwaivers",
     "version": "0.5.10"
+  },
+  "iq-daily": {
+    "name": "iq-daily",
+    "version": "0.0.14"
+  },
+  "aisafemod": {
+    "name": "aisafemod",
+    "version": "0.0.7"
+  },
+  "connectmepuzzle": {
+    "name": "connectmepuzzle",
+    "version": "1.0.0"
+  },
+  "top-answers": {
+    "name": "TopAnswer",
+    "version": "0.0.2"
+  },
+  "flagit-game": {
+    "name": "flagit-game",
+    "version": "0.9.0"
   }
 }
