@@ -3486,5 +3486,21 @@
   "adv-verify": {
     "name": "ADV Verify Bot",
     "version": "0.0.19"
+  },
+  "deja-view-mod": {
+    "name": "deja-view-mod",
+    "version": "0.0.8"
+  },
+  "crowdcurve": {
+    "name": "crowdcurve",
+    "version": "0.0.7"
+  },
+  "planetfall-game": {
+    "name": "planetfall-game",
+    "version": "0.0.84"
+  },
+  "horcrux-game": {
+    "name": "horcrux-game",
+    "version": "0.0.1"
   }
 }
