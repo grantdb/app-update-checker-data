@@ -3514,5 +3514,13 @@
   "wiki-bridge": {
     "name": "wiki-bridge",
     "version": "0.0.3"
+  },
+  "tg-bb-mkt": {
+    "name": "tg-bb-mkt",
+    "version": "0.0.3"
+  },
+  "alkabot": {
+    "name": "Alka",
+    "version": "0.0.12"
   }
 }
