@@ -1877,7 +1877,7 @@
   },
   "hearts-by-farber": {
     "name": "hearts-by-farber",
-    "version": "0.0.80"
+    "version": "0.0.83"
   },
   "quantum-thrust": {
     "name": "Quantum Thrust",
@@ -3502,5 +3502,17 @@
   "horcrux-game": {
     "name": "horcrux-game",
     "version": "0.0.1"
+  },
+  "ssrmbctd": {
+    "name": "ssrmbctd",
+    "version": "0.0.5"
+  },
+  "focani-daily": {
+    "name": "Focani Daily",
+    "version": "0.0.9"
+  },
+  "wiki-bridge": {
+    "name": "wiki-bridge",
+    "version": "0.0.3"
   }
 }
