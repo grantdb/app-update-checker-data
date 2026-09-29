@@ -37,7 +37,7 @@
   },
   "subscriber-goal": {
     "name": "Subscriber Goal",
-    "version": "2.1.5"
+    "version": "2.1.7"
   },
   "sub-stats-bot": {
     "name": "Subreddit Statistics",
@@ -45,7 +45,7 @@
   },
   "community-home": {
     "name": "Community Home",
-    "version": "1.5.3"
+    "version": "1.5.5"
   },
   "banhammerapp": {
     "name": "Banhammer",
