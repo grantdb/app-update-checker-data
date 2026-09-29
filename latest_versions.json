@@ -3586,5 +3586,17 @@
   "unriddle-quotes": {
     "name": "UnRiddle",
     "version": "1.8.14"
+  },
+  "pocket-plot-98": {
+    "name": "pocket-plot-98",
+    "version": "1.1.0"
+  },
+  "prediction-league": {
+    "name": "prediction-league",
+    "version": "0.0.5"
+  },
+  "finddogs": {
+    "name": "finddogs",
+    "version": "0.0.14"
   }
 }
