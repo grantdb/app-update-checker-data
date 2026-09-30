@@ -705,7 +705,7 @@
   },
   "modmailtranslate": {
     "name": "Modmail Translator",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "rss-post-bot": {
     "name": "rss-post-bot",
@@ -1585,7 +1585,7 @@
   },
   "mtgcf": {
     "name": "MtG CardFetcher",
-    "version": "1.0.3"
+    "version": "1.0.5"
   },
   "mod-team-actions": {
     "name": "mod-team-actions",
