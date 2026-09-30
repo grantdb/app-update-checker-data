@@ -629,7 +629,7 @@
   },
   "cricket-match": {
     "name": "Cricket Match",
-    "version": "0.8.19"
+    "version": "0.8.23"
   },
   "dev-insights": {
     "name": "Dev Insights",
@@ -657,7 +657,7 @@
   },
   "formula1-app": {
     "name": "Formula 1 Tracker",
-    "version": "2.8.0"
+    "version": "2.8.1"
   },
   "wikipublish": {
     "name": "Wiki Publish",
