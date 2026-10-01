@@ -1533,7 +1533,7 @@
   },
   "shuffle-it": {
     "name": "shuffle-it",
-    "version": "0.1.5"
+    "version": "0.2.1"
   },
   "pick-a-partridge": {
     "name": "Pick-A-Partridge",
@@ -2293,7 +2293,7 @@
   },
   "cfb-scores": {
     "name": "CFB Scoreboard App",
-    "version": "0.0.39"
+    "version": "0.0.46"
   },
   "speed-typer": {
     "name": "speed-typer",
