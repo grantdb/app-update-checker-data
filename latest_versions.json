@@ -2834,5 +2834,17 @@
   "eventpulse": {
     "name": "Event Plus",
     "version": "0.0.23"
+  },
+  "removetaggedpost": {
+    "name": "Remove flaired posts based on age",
+    "version": "0.0.8"
+  },
+  "botprints": {
+    "name": "BotPrints",
+    "version": "1.0.5"
+  },
+  "nfl-flair-select": {
+    "name": "r/NFL Flair Select",
+    "version": "0.0.8"
   }
 }
