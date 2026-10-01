@@ -2810,5 +2810,13 @@
   "adv-feeds": {
     "name": "ADV Feed Bot",
     "version": "0.0.21"
+  },
+  "ahl-goalpost": {
+    "name": "ahl-goalpost",
+    "version": "2.91.10"
+  },
+  "miirps-app": {
+    "name": "Miirps",
+    "version": "0.0.66"
   }
 }
