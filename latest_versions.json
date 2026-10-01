@@ -1609,7 +1609,7 @@
   },
   "hangout-map": {
     "name": "MazWiz Hangout Map",
-    "version": "0.0.686"
+    "version": "0.0.693"
   },
   "autoenforcer": {
     "name": "AutoEnforcer",
@@ -2806,5 +2806,9 @@
   "post-da-awards": {
     "name": "post-da-awards",
     "version": "0.0.8"
+  },
+  "adv-feeds": {
+    "name": "ADV Feed Bot",
+    "version": "0.0.21"
   }
 }
