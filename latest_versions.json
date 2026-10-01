@@ -1177,7 +1177,7 @@
   },
   "word-herd": {
     "name": "Daily Mix",
-    "version": "0.1.4"
+    "version": "0.1.5"
   },
   "modboard": {
     "name": "Mod Board",
@@ -1601,7 +1601,7 @@
   },
   "f1-central": {
     "name": "f1-central",
-    "version": "0.1.18"
+    "version": "0.1.19"
   },
   "automod-sim": {
     "name": "AutoMod Playground",
