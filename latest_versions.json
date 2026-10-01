@@ -2826,5 +2826,13 @@
   "pewpoliquiz": {
     "name": "PewPoliQuiz",
     "version": "1.0.9"
+  },
+  "diagramapp": {
+    "name": "Diagram App",
+    "version": "0.0.20"
+  },
+  "eventpulse": {
+    "name": "Event Plus",
+    "version": "0.0.23"
   }
 }
