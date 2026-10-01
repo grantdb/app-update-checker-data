@@ -1285,7 +1285,7 @@
   },
   "word-grind": {
     "name": "Word Grind",
-    "version": "0.1.1257"
+    "version": "0.1.1259"
   },
   "public-mod-log": {
     "name": "Public Mod Log &amp; Insights",
@@ -2818,5 +2818,13 @@
   "miirps-app": {
     "name": "Miirps",
     "version": "0.0.66"
+  },
+  "swap-bot": {
+    "name": "Trade Confirmation Bot",
+    "version": "0.0.23"
+  },
+  "pewpoliquiz": {
+    "name": "PewPoliQuiz",
+    "version": "1.0.9"
   }
 }
