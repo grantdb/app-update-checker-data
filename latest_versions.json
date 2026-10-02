@@ -2934,5 +2934,9 @@
   "tdfdealthread": {
     "name": "TDF Deal Thread",
     "version": "0.0.8"
+  },
+  "pixel-peeker": {
+    "name": "Pixel Peeker",
+    "version": "0.0.68"
   }
 }
