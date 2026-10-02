@@ -2998,5 +2998,13 @@
   "karmafarmerrpg": {
     "name": "karmafarmerrpg",
     "version": "0.0.53"
+  },
+  "strikesystem": {
+    "name": "strikesystem",
+    "version": "0.0.6"
+  },
+  "mtgdecks": {
+    "name": "MTG Deck Lab",
+    "version": "0.0.10"
   }
 }
