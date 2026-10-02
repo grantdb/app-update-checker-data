@@ -2858,5 +2858,13 @@
   "pixel-prophecy": {
     "name": "pixel-prophecy",
     "version": "0.0.4"
+  },
+  "alchemygame": {
+    "name": "Alchemy",
+    "version": "0.3.6"
+  },
+  "user-board": {
+    "name": "User Board",
+    "version": "0.0.43"
   }
 }
