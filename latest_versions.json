@@ -1353,7 +1353,7 @@
   },
   "qshots": {
     "name": "qshots",
-    "version": "0.0.197"
+    "version": "0.0.201"
   },
   "penalty-rush": {
     "name": "Penalty Rush",
@@ -2982,5 +2982,21 @@
   "modanchor": {
     "name": "Mod Anchor",
     "version": "1.0.3"
+  },
+  "postcipher": {
+    "name": "PostCipher",
+    "version": "0.3.0"
+  },
+  "ragnirbot": {
+    "name": "ragnirbot",
+    "version": "0.0.4"
+  },
+  "queuecascade": {
+    "name": "Queue Cascade",
+    "version": "0.0.15"
+  },
+  "karmafarmerrpg": {
+    "name": "karmafarmerrpg",
+    "version": "0.0.53"
   }
 }
