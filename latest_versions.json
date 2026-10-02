@@ -2910,5 +2910,9 @@
   "community-cleaner": {
     "name": "community-cleaner",
     "version": "0.0.10"
+  },
+  "scary-adventures": {
+    "name": "Scary Adventures",
+    "version": "0.0.12"
   }
 }
