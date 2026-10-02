@@ -2886,5 +2886,17 @@
   "moderator-sentient": {
     "name": "Moderator Sentient",
     "version": "0.0.29"
+  },
+  "tarot-cat-puzzle": {
+    "name": "Tarot Cat Puzzle",
+    "version": "0.0.50"
+  },
+  "archive-all-mm": {
+    "name": "Archive All Modmail",
+    "version": "0.0.70"
+  },
+  "simple-checklist": {
+    "name": "Simple Checklist",
+    "version": "0.0.32"
   }
 }
