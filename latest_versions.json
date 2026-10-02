@@ -2938,5 +2938,21 @@
   "pixel-peeker": {
     "name": "Pixel Peeker",
     "version": "0.0.68"
+  },
+  "vibe-mod": {
+    "name": "vibe-mod",
+    "version": "0.0.57"
+  },
+  "stonefall99": {
+    "name": "Stonefall",
+    "version": "0.3.7"
+  },
+  "ladder-climb": {
+    "name": "Ladder Climb",
+    "version": "0.3.3"
+  },
+  "modappstats": {
+    "name": "Moderator Applications",
+    "version": "0.0.4"
   }
 }
