@@ -2954,5 +2954,13 @@
   "modappstats": {
     "name": "Moderator Applications",
     "version": "0.0.4"
+  },
+  "workit-app": {
+    "name": "Workit",
+    "version": "0.0.9"
+  },
+  "community-rate": {
+    "name": "Community Rate",
+    "version": "0.0.5"
   }
 }
