@@ -2914,5 +2914,9 @@
   "scary-adventures": {
     "name": "Scary Adventures",
     "version": "0.0.12"
+  },
+  "swipespell": {
+    "name": "SwipeSpell",
+    "version": "0.0.6"
   }
 }
