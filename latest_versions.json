@@ -2878,5 +2878,13 @@
   "health-dashboard": {
     "name": "Health Dashboard",
     "version": "0.0.9"
+  },
+  "cooldown-cop": {
+    "name": "Cooldown Cop",
+    "version": "0.0.20"
+  },
+  "moderator-sentient": {
+    "name": "Moderator Sentient",
+    "version": "0.0.29"
   }
 }
