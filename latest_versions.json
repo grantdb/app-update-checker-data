@@ -2846,5 +2846,13 @@
   "nfl-flair-select": {
     "name": "r/NFL Flair Select",
     "version": "0.0.8"
+  },
+  "modpilotdemo": {
+    "name": "ModPilot",
+    "version": "0.0.38"
+  },
+  "mod-snapshot": {
+    "name": "Mod Snapshot",
+    "version": "0.0.82"
   }
 }
