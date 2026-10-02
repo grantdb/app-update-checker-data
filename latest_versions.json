@@ -2005,7 +2005,7 @@
   },
   "cfb-game-threads": {
     "name": "CFB Game Threads",
-    "version": "1.0.5"
+    "version": "1.0.6"
   },
   "tronlegacy1999": {
     "name": "tronlegacy1999",
@@ -2365,7 +2365,7 @@
   },
   "nfl-scores": {
     "name": "NFL Scoreboard App",
-    "version": "0.0.113"
+    "version": "0.0.119"
   },
   "logiclens-larry": {
     "name": "Larry Logic - Mr. Logical Fallacy Detector",
@@ -2898,5 +2898,9 @@
   "simple-checklist": {
     "name": "Simple Checklist",
     "version": "0.0.32"
+  },
+  "email-verify": {
+    "name": "email-verify",
+    "version": "0.0.49"
   }
 }
