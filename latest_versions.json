@@ -1937,7 +1937,7 @@
   },
   "mini-racer": {
     "name": "Mini Racer",
-    "version": "2.4.0"
+    "version": "2.4.1"
   },
   "block-down": {
     "name": "block-down",
@@ -2357,7 +2357,7 @@
   },
   "community-draw": {
     "name": "Community Draw",
-    "version": "0.0.51"
+    "version": "0.0.52"
   },
   "air-ride": {
     "name": "air-ride",
@@ -2926,5 +2926,13 @@
   "photopuzzlegame": {
     "name": "Photo Puzzle Game",
     "version": "0.0.6"
+  },
+  "movies-app": {
+    "name": "Movies",
+    "version": "0.0.89"
+  },
+  "tdfdealthread": {
+    "name": "TDF Deal Thread",
+    "version": "0.0.8"
   }
 }
