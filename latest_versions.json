@@ -2962,5 +2962,25 @@
   "community-rate": {
     "name": "Community Rate",
     "version": "0.0.5"
+  },
+  "everything-app": {
+    "name": "everything-app",
+    "version": "0.0.2"
+  },
+  "votierapp": {
+    "name": "VoTier",
+    "version": "1.0.0"
+  },
+  "wikisync": {
+    "name": "wikisync",
+    "version": "0.0.2"
+  },
+  "luckypeopleonly": {
+    "name": "luckypeopleonly",
+    "version": "0.0.6"
+  },
+  "modanchor": {
+    "name": "Mod Anchor",
+    "version": "1.0.3"
   }
 }
