@@ -1369,7 +1369,7 @@
   },
   "dice-daemon": {
     "name": "Dice Daemon",
-    "version": "0.0.19"
+    "version": "0.0.20"
   },
   "slipstream-daily": {
     "name": "slipstream-daily",
@@ -2917,6 +2917,14 @@
   },
   "swipespell": {
     "name": "SwipeSpell",
+    "version": "0.0.6"
+  },
+  "recipe-scale": {
+    "name": "recipe-scale",
+    "version": "0.0.29"
+  },
+  "photopuzzlegame": {
+    "name": "Photo Puzzle Game",
     "version": "0.0.6"
   }
 }
