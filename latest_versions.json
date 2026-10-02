@@ -2854,5 +2854,9 @@
   "mod-snapshot": {
     "name": "Mod Snapshot",
     "version": "0.0.82"
+  },
+  "pixel-prophecy": {
+    "name": "pixel-prophecy",
+    "version": "0.0.4"
   }
 }
