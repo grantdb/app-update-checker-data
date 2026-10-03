@@ -3090,5 +3090,13 @@
   "good-citizen-app": {
     "name": "good-citizen-app",
     "version": "0.0.7"
+  },
+  "gearit-up": {
+    "name": "gearit-up",
+    "version": "0.2.0"
+  },
+  "blinkwords": {
+    "name": "blinkwords",
+    "version": "0.0.33"
   }
 }
