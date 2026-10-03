@@ -3006,5 +3006,13 @@
   "mtgdecks": {
     "name": "MTG Deck Lab",
     "version": "0.0.10"
+  },
+  "orik-app": {
+    "name": "Pixel Wars",
+    "version": "0.0.4"
+  },
+  "decrypttest": {
+    "name": "Decrypt",
+    "version": "1.1.2"
   }
 }
