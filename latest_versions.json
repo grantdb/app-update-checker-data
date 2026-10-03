@@ -3194,5 +3194,9 @@
   "karmuseum": {
     "name": "Karmuseum",
     "version": "0.0.7"
+  },
+  "logiclens-stu": {
+    "name": "Stu Steelman",
+    "version": "0.0.12"
   }
 }
