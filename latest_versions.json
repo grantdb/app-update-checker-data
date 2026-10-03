@@ -3038,5 +3038,17 @@
   "connexio-mutex": {
     "name": "Connexio MuteX",
     "version": "0.0.12"
+  },
+  "tilerush": {
+    "name": "Tile Rush",
+    "version": "0.0.30"
+  },
+  "exitmymaze": {
+    "name": "exitmymaze",
+    "version": "0.0.19"
+  },
+  "mindustry-bot": {
+    "name": "Mindustry Tool",
+    "version": "0.0.4"
   }
 }
