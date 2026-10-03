@@ -3114,5 +3114,29 @@
   "whoami-app": {
     "name": "Who am I?",
     "version": "0.0.5"
+  },
+  "tickerdrop": {
+    "name": "tickerdrop",
+    "version": "0.0.11"
+  },
+  "spyshot001": {
+    "name": "SpyShot",
+    "version": "0.0.17"
+  },
+  "flairguard-app": {
+    "name": "flairguard-app",
+    "version": "0.0.23"
+  },
+  "mod-review-guard": {
+    "name": "Mod Review Guard",
+    "version": "0.0.5"
+  },
+  "reveal-trap": {
+    "name": "reveal-trap",
+    "version": "0.0.5"
+  },
+  "top-of-the-heap": {
+    "name": "top-of-the-heap",
+    "version": "1.0.1"
   }
 }
