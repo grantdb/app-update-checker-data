@@ -3078,5 +3078,17 @@
   "mr-approve": {
     "name": "mr-approve",
     "version": "1.1.3"
+  },
+  "seedclash": {
+    "name": "seedclash",
+    "version": "0.0.45"
+  },
+  "pixelkickers": {
+    "name": "Pixel Kickers",
+    "version": "0.0.63"
+  },
+  "good-citizen-app": {
+    "name": "good-citizen-app",
+    "version": "0.0.7"
   }
 }
