@@ -3050,5 +3050,21 @@
   "mindustry-bot": {
     "name": "Mindustry Tool",
     "version": "0.0.4"
+  },
+  "flair-impact": {
+    "name": "Flair Impact  Community Discussion &amp; Flair Insights",
+    "version": "0.0.8"
+  },
+  "bugshelper": {
+    "name": "bugshelper",
+    "version": "0.0.27"
+  },
+  "fantasy-league": {
+    "name": "Fantasy League",
+    "version": "0.0.18"
+  },
+  "make-to-ten": {
+    "name": "Make To Ten",
+    "version": "0.0.36"
   }
 }
