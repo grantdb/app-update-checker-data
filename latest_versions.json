@@ -3026,5 +3026,9 @@
   "pomodorotime": {
     "name": "Pomodoro Timer",
     "version": "0.0.2"
+  },
+  "wordseekr2": {
+    "name": "Wordseekr Quotes",
+    "version": "0.2.37"
   }
 }
