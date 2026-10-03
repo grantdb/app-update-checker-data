@@ -3198,5 +3198,17 @@
   "logiclens-stu": {
     "name": "Stu Steelman",
     "version": "0.0.12"
+  },
+  "versedb-app": {
+    "name": "VerseDB",
+    "version": "0.0.18"
+  },
+  "sumwords-game": {
+    "name": "sumwords-game",
+    "version": "0.1.0"
+  },
+  "competitions-app": {
+    "name": "competitions-app",
+    "version": "0.0.31"
   }
 }
