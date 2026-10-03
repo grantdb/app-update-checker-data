@@ -1697,7 +1697,7 @@
   },
   "track-buddy": {
     "name": "Track Buddy",
-    "version": "1.0.11"
+    "version": "1.0.12"
   },
   "daily-sweepd": {
     "name": "Daily Sweepd",
@@ -3098,5 +3098,17 @@
   "blinkwords": {
     "name": "blinkwords",
     "version": "0.0.33"
+  },
+  "bit-drops": {
+    "name": "bit-drops",
+    "version": "0.1.10"
+  },
+  "activestreamers": {
+    "name": "Twitch Streamers &amp; Steam Price Preview",
+    "version": "0.0.24"
+  },
+  "a-news-bot": {
+    "name": "a-news-bot",
+    "version": "0.0.13"
   }
 }
