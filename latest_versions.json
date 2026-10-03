@@ -3074,5 +3074,9 @@
   "sudokugame": {
     "name": "Sudoku",
     "version": "0.0.43"
+  },
+  "mr-approve": {
+    "name": "mr-approve",
+    "version": "1.1.3"
   }
 }
