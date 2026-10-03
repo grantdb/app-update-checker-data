@@ -3182,5 +3182,17 @@
   "pawdoku-mystery": {
     "name": "pawdoku-mystery",
     "version": "0.0.14"
+  },
+  "insultguard": {
+    "name": "insultguard",
+    "version": "1.0.145"
+  },
+  "garden-play": {
+    "name": "garden-play",
+    "version": "0.0.21"
+  },
+  "karmuseum": {
+    "name": "Karmuseum",
+    "version": "0.0.7"
   }
 }
