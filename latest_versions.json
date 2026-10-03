@@ -3138,5 +3138,25 @@
   "top-of-the-heap": {
     "name": "top-of-the-heap",
     "version": "1.0.1"
+  },
+  "jigsaw-ug": {
+    "name": "Jigsaw.ug  Community Puzzles",
+    "version": "0.0.35"
+  },
+  "sports-webapp": {
+    "name": "Sports Live Matchrooms",
+    "version": "0.0.17"
+  },
+  "bluff-bomb": {
+    "name": "Bluff Bomb",
+    "version": "0.1.13"
+  },
+  "wriddler-game": {
+    "name": "Wriddler",
+    "version": "0.0.49"
+  },
+  "amputatorbot": {
+    "name": "AmputatorBot",
+    "version": "5.1.3"
   }
 }
