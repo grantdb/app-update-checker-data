@@ -3066,5 +3066,13 @@
   "make-to-ten": {
     "name": "Make To Ten",
     "version": "0.0.36"
+  },
+  "cash-ladder": {
+    "name": "cash-ladder",
+    "version": "0.0.9"
+  },
+  "sudokugame": {
+    "name": "Sudoku",
+    "version": "0.0.43"
   }
 }
