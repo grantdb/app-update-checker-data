@@ -3110,5 +3110,9 @@
   "a-news-bot": {
     "name": "a-news-bot",
     "version": "0.0.13"
+  },
+  "whoami-app": {
+    "name": "Who am I?",
+    "version": "0.0.5"
   }
 }
