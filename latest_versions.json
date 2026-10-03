@@ -3030,5 +3030,9 @@
   "wordseekr2": {
     "name": "Wordseekr Quotes",
     "version": "0.2.37"
+  },
+  "us-stock-market": {
+    "name": "The US Stock Market - S&amp;P , NASDAQ",
+    "version": "0.0.8"
   }
 }
