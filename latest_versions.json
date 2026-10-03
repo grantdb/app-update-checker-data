@@ -3034,5 +3034,9 @@
   "us-stock-market": {
     "name": "The US Stock Market - S&amp;P , NASDAQ",
     "version": "0.0.8"
+  },
+  "connexio-mutex": {
+    "name": "Connexio MuteX",
+    "version": "0.0.12"
   }
 }
