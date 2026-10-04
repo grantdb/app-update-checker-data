@@ -3270,5 +3270,21 @@
   "daily-void": {
     "name": "daily-void",
     "version": "0.0.7"
+  },
+  "bubblegum-blitz": {
+    "name": "bubblegum-blitz",
+    "version": "0.0.49"
+  },
+  "hexenquest": {
+    "name": "hexenquest",
+    "version": "1.0.0"
+  },
+  "wordpool-app": {
+    "name": "wordpool-app",
+    "version": "0.0.5"
+  },
+  "brickbreakdaily": {
+    "name": "brickbreakdaily",
+    "version": "0.0.6"
   }
 }
