@@ -3218,5 +3218,13 @@
   "majority-game": {
     "name": "majority-game",
     "version": "0.0.5"
+  },
+  "ballest-patch-bot": {
+    "name": "Ballest Updates",
+    "version": "0.0.7"
+  },
+  "neon-2048": {
+    "name": "Neon 2048 Brain game | Beat the best",
+    "version": "0.0.10"
   }
 }
