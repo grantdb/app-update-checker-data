@@ -3330,5 +3330,29 @@
   "wsd-block-party": {
     "name": "Block Party",
     "version": "1.0.24"
+  },
+  "sudoku-sprint": {
+    "name": "Sudoku Sprint",
+    "version": "0.14.13"
+  },
+  "mlb--scoreboard": {
+    "name": "mlb--scoreboard",
+    "version": "1.0.0"
+  },
+  "trolleyproblemm": {
+    "name": "The Trolley Problem",
+    "version": "1.1.9"
+  },
+  "mongotowers": {
+    "name": "MongoTowers",
+    "version": "0.0.36"
+  },
+  "pathgame": {
+    "name": "pathgame",
+    "version": "0.6.15"
+  },
+  "worldcup-tables": {
+    "name": "worldcup-tables",
+    "version": "0.0.8"
   }
 }
