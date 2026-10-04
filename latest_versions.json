@@ -3246,5 +3246,25 @@
   "daily-safe": {
     "name": "daily-safe",
     "version": "1.0.4"
+  },
+  "votasanremo": {
+    "name": "votasanremo",
+    "version": "0.0.8"
+  },
+  "notthecolor": {
+    "name": "notthecolor",
+    "version": "0.0.7"
+  },
+  "camo-hunt": {
+    "name": "camo-hunt",
+    "version": "1.0.3"
+  },
+  "burnedgame": {
+    "name": "burnedgame",
+    "version": "1.1.2"
+  },
+  "wasingface": {
+    "name": "wasingface",
+    "version": "0.0.3"
   }
 }
