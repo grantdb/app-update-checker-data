@@ -3226,5 +3226,13 @@
   "neon-2048": {
     "name": "Neon 2048 Brain game | Beat the best",
     "version": "0.0.10"
+  },
+  "meltdown-room": {
+    "name": "meltdown-room",
+    "version": "0.0.6"
+  },
+  "crack-lock": {
+    "name": "crack-lock",
+    "version": "0.0.26"
   }
 }
