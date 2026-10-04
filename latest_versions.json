@@ -3354,5 +3354,29 @@
   "worldcup-tables": {
     "name": "worldcup-tables",
     "version": "0.0.8"
+  },
+  "reminiding-you": {
+    "name": "Reminiding You : Reminder for Post/Comment",
+    "version": "0.0.4"
+  },
+  "tapword": {
+    "name": "TapWord",
+    "version": "0.0.11"
+  },
+  "seedmap3d": {
+    "name": "Seed Map 3D Viewer for Minecraft",
+    "version": "0.0.36"
+  },
+  "limbo-game": {
+    "name": "limbodaily",
+    "version": "0.0.8"
+  },
+  "word-arena-iii": {
+    "name": "word-arena-iii",
+    "version": "0.0.7"
+  },
+  "time-sorceror": {
+    "name": "time-sorceror",
+    "version": "0.0.6"
   }
 }
