@@ -3318,5 +3318,9 @@
   "subtebot": {
     "name": "subtebot",
     "version": "0.0.12"
+  },
+  "digits-game": {
+    "name": "digits-game",
+    "version": "0.1.3"
   }
 }
