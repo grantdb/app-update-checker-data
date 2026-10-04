@@ -3414,5 +3414,17 @@
   "drone-horizon-mini": {
     "name": "Drone Horizon: Mini Flight",
     "version": "1.0.3"
+  },
+  "mailguardian3": {
+    "name": "Mail Guardian",
+    "version": "0.0.3"
+  },
+  "structureviewer": {
+    "name": "StructureViewer",
+    "version": "0.0.12"
+  },
+  "puzzle-10x10-game": {
+    "name": "10x10 Puzzle Game",
+    "version": "1.0.4"
   }
 }
