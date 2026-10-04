@@ -3266,5 +3266,9 @@
   "wasingface": {
     "name": "wasingface",
     "version": "0.0.3"
+  },
+  "daily-void": {
+    "name": "daily-void",
+    "version": "0.0.7"
   }
 }
