@@ -3402,5 +3402,17 @@
   "chapter-ii": {
     "name": "chapter-ii",
     "version": "0.0.4"
+  },
+  "maze-heist": {
+    "name": "Operation Blueprint job",
+    "version": "0.0.35"
+  },
+  "nuke-self-feedback": {
+    "name": "nuke-self-feedback",
+    "version": "0.0.7"
+  },
+  "drone-horizon-mini": {
+    "name": "Drone Horizon: Mini Flight",
+    "version": "1.0.3"
   }
 }
