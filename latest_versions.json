@@ -3426,5 +3426,21 @@
   "puzzle-10x10-game": {
     "name": "10x10 Puzzle Game",
     "version": "1.0.4"
+  },
+  "daily-guess-arena": {
+    "name": "daily-guess-arena",
+    "version": "0.0.4"
+  },
+  "dataengprep": {
+    "name": "dataengprep",
+    "version": "0.0.26"
+  },
+  "judgement-legacy": {
+    "name": "Judgement AITA Bot",
+    "version": "0.0.5"
+  },
+  "raidpulse": {
+    "name": "raidpulse",
+    "version": "0.0.5"
   }
 }
