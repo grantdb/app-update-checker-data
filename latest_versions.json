@@ -3378,5 +3378,29 @@
   "time-sorceror": {
     "name": "time-sorceror",
     "version": "0.0.6"
+  },
+  "cube-2048": {
+    "name": "3d-2048",
+    "version": "0.0.17"
+  },
+  "modbrief": {
+    "name": "ContextLens",
+    "version": "0.0.21"
+  },
+  "globalvibemarket": {
+    "name": "globalvibemarket",
+    "version": "0.0.49"
+  },
+  "planet-swarm": {
+    "name": "planet-swarm",
+    "version": "0.0.6"
+  },
+  "fotographic63": {
+    "name": "GridRecall",
+    "version": "0.0.4"
+  },
+  "chapter-ii": {
+    "name": "chapter-ii",
+    "version": "0.0.4"
   }
 }
