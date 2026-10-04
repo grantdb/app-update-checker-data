@@ -3306,5 +3306,17 @@
   "ballparkdaily": {
     "name": "BallparkDaily",
     "version": "0.0.26"
+  },
+  "fruit-merge-new": {
+    "name": "fruitzilla",
+    "version": "0.0.9"
+  },
+  "plsdontdestroy": {
+    "name": "Please Don&#39;t Destroy",
+    "version": "1.0.22"
+  },
+  "subtebot": {
+    "name": "subtebot",
+    "version": "0.0.12"
   }
 }
