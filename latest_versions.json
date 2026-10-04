@@ -3286,5 +3286,25 @@
   "brickbreakdaily": {
     "name": "brickbreakdaily",
     "version": "0.0.6"
+  },
+  "save-pip": {
+    "name": "Save Pip",
+    "version": "0.0.12"
+  },
+  "birds-vs-bats": {
+    "name": "Birds vs Bats",
+    "version": "0.0.13"
+  },
+  "the-last-meridia": {
+    "name": "the-last-meridia",
+    "version": "0.0.11"
+  },
+  "spot-nation": {
+    "name": "spot-nation",
+    "version": "0.2.0"
+  },
+  "ballparkdaily": {
+    "name": "BallparkDaily",
+    "version": "0.0.26"
   }
 }
