@@ -3234,5 +3234,17 @@
   "crack-lock": {
     "name": "crack-lock",
     "version": "0.0.26"
+  },
+  "qinnobattle": {
+    "name": "qinnobattle",
+    "version": "0.0.2"
+  },
+  "draw-and-drive": {
+    "name": "DrawAndDrive",
+    "version": "0.0.15"
+  },
+  "daily-safe": {
+    "name": "daily-safe",
+    "version": "1.0.4"
   }
 }
