@@ -3446,5 +3446,17 @@
   "ember-platformer": {
     "name": "ember-platformer",
     "version": "1.0.1"
+  },
+  "fleet-duel": {
+    "name": "Fleet Duel",
+    "version": "1.8.37"
+  },
+  "posts-to-discord": {
+    "name": "Posts to Discord",
+    "version": "0.0.9"
+  },
+  "cryptoguesser2": {
+    "name": "CryptoGuesser",
+    "version": "0.0.21"
   }
 }
