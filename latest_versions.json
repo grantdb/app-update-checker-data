@@ -3442,5 +3442,9 @@
   "raidpulse": {
     "name": "raidpulse",
     "version": "0.0.5"
+  },
+  "ember-platformer": {
+    "name": "ember-platformer",
+    "version": "1.0.1"
   }
 }
