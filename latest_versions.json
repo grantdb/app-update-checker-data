@@ -3210,5 +3210,13 @@
   "competitions-app": {
     "name": "competitions-app",
     "version": "0.0.31"
+  },
+  "atomsgame": {
+    "name": "Meltdown",
+    "version": "0.0.11"
+  },
+  "majority-game": {
+    "name": "majority-game",
+    "version": "0.0.5"
   }
 }
