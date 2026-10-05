@@ -3586,5 +3586,9 @@
   "subvoyager": {
     "name": "subvoyager",
     "version": "0.0.24"
+  },
+  "profilepins": {
+    "name": "profilepins",
+    "version": "0.0.3"
   }
 }
