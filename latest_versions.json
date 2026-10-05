@@ -3502,5 +3502,21 @@
   "gamino-app": {
     "name": "gamino-app",
     "version": "0.0.116"
+  },
+  "mcjbot-dupe-delete": {
+    "name": "MCJbot-dupe-delete",
+    "version": "0.0.12"
+  },
+  "gunsofboom00": {
+    "name": "gunsofboom00",
+    "version": "0.0.9"
+  },
+  "play-mines-daily": {
+    "name": "play-mines-daily",
+    "version": "0.0.17"
+  },
+  "play-daily-solitaire": {
+    "name": "play-daily-solitaire",
+    "version": "0.0.18"
   }
 }
