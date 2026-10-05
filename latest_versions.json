@@ -3590,5 +3590,9 @@
   "profilepins": {
     "name": "profilepins",
     "version": "0.0.3"
+  },
+  "gameloop5": {
+    "name": "LOOP5",
+    "version": "0.0.14"
   }
 }
