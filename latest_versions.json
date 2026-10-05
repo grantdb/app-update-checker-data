@@ -3550,5 +3550,29 @@
   "pyramid-dive": {
     "name": "pyramid-dive",
     "version": "0.0.5"
+  },
+  "tunnellogic": {
+    "name": "Tunnel Logic",
+    "version": "0.0.23"
+  },
+  "github-meta": {
+    "name": "github-meta",
+    "version": "1.0.1"
+  },
+  "buried-worlds": {
+    "name": "Buried Worlds",
+    "version": "1.0.1"
+  },
+  "etfshelf-widgets": {
+    "name": "etfshelf-widgets",
+    "version": "0.0.22"
+  },
+  "kariaaworks": {
+    "name": "kariaaworks",
+    "version": "0.0.45"
+  },
+  "thread-tamer": {
+    "name": "thread-tamer",
+    "version": "0.0.3"
   }
 }
