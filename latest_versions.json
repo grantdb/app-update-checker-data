@@ -3518,5 +3518,21 @@
   "play-daily-solitaire": {
     "name": "play-daily-solitaire",
     "version": "0.0.18"
+  },
+  "panzer-skirmish": {
+    "name": "Panzer Island: Skirmish",
+    "version": "0.0.30"
+  },
+  "pulseguard-dev": {
+    "name": "PulseGuard",
+    "version": "0.0.8"
+  },
+  "venndi-game": {
+    "name": "Venndi",
+    "version": "0.0.4"
+  },
+  "digestive-system-3d": {
+    "name": "digestive-system-3d",
+    "version": "0.0.3"
   }
 }
