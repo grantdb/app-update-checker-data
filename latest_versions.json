@@ -3458,5 +3458,21 @@
   "cryptoguesser2": {
     "name": "CryptoGuesser",
     "version": "0.0.21"
+  },
+  "rule-replacer": {
+    "name": "Alan&#39;s Rule Replacer",
+    "version": "0.1.4"
+  },
+  "karmabattle26": {
+    "name": "Karma Battle",
+    "version": "0.0.10"
+  },
+  "chinesepuzzle": {
+    "name": "chinesepuzzle",
+    "version": "0.0.15"
+  },
+  "crown-n-chaos": {
+    "name": "crown-n-chaos",
+    "version": "0.3.0"
   }
 }
