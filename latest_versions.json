@@ -3582,5 +3582,9 @@
   "hot-type-game": {
     "name": "Hot Type - Learn to Type",
     "version": "0.0.10"
+  },
+  "subvoyager": {
+    "name": "subvoyager",
+    "version": "0.0.24"
   }
 }
