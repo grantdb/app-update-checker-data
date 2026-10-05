@@ -3534,5 +3534,21 @@
   "digestive-system-3d": {
     "name": "digestive-system-3d",
     "version": "0.0.3"
+  },
+  "locationguess": {
+    "name": "Guess the Place",
+    "version": "0.0.103"
+  },
+  "sayitintherapy": {
+    "name": "SayItInTherapy",
+    "version": "0.0.29"
+  },
+  "kanban-board": {
+    "name": "kanban-board",
+    "version": "0.0.5"
+  },
+  "pyramid-dive": {
+    "name": "pyramid-dive",
+    "version": "0.0.5"
   }
 }
