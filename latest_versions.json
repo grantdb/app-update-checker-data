@@ -2958,5 +2958,9 @@
   "mlb-scores": {
     "name": "MLB Scoreboard App",
     "version": "0.0.272"
+  },
+  "mod-stats": {
+    "name": "mod-stats",
+    "version": "0.0.27"
   }
 }
