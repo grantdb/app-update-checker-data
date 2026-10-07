@@ -1113,7 +1113,7 @@
   },
   "ninigrams-game": {
     "name": "Ninigrams",
-    "version": "0.1.45"
+    "version": "0.1.47"
   },
   "ratio-bobo": {
     "name": "Ratio! Bobobo! Motivate your users to contribute on some specific flair.",
@@ -1533,7 +1533,7 @@
   },
   "modmail-webhook": {
     "name": "modmail-webhook",
-    "version": "1.0.0"
+    "version": "1.2.0"
   },
   "artooz-game": {
     "name": "Artooz : Draw , Color and Remix!!",
@@ -2954,5 +2954,9 @@
   "gameloop5": {
     "name": "LOOP5",
     "version": "0.0.14"
+  },
+  "mlb-scores": {
+    "name": "MLB Scoreboard App",
+    "version": "0.0.272"
   }
 }
