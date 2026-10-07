@@ -1645,7 +1645,7 @@
   },
   "live-sticky": {
     "name": "LiveSticky",
-    "version": "1.1.318"
+    "version": "1.1.319"
   },
   "set-contestmode": {
     "name": "set-contestmode",
@@ -2369,7 +2369,7 @@
   },
   "swap-bot": {
     "name": "Trade Confirmation Bot",
-    "version": "0.0.23"
+    "version": "0.0.25"
   },
   "pewpoliquiz": {
     "name": "PewPoliQuiz",
