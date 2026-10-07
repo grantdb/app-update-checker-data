@@ -969,7 +969,7 @@
   },
   "top-commenters": {
     "name": "Top Commenters",
-    "version": "0.0.24"
+    "version": "0.0.27"
   },
   "adv-wiki": {
     "name": "ADV Wiki Editor",
@@ -1129,7 +1129,7 @@
   },
   "link-scheduler": {
     "name": "Scheduler",
-    "version": "0.0.116"
+    "version": "1.0.0"
   },
   "hestia-listens": {
     "name": "Hestia",
@@ -1293,7 +1293,7 @@
   },
   "nhl-goalpost": {
     "name": "nhl-goalpost",
-    "version": "2.91.10"
+    "version": "2.102.0"
   },
   "huddle-mod": {
     "name": "Huddle",
