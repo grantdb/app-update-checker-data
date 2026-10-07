@@ -1625,7 +1625,7 @@
   },
   "mlb-dinger": {
     "name": "mlb-dinger",
-    "version": "2.37.13"
+    "version": "2.43.0"
   },
   "modcommand": {
     "name": "modcommand",
@@ -2357,7 +2357,7 @@
   },
   "adv-feeds": {
     "name": "ADV Feed Bot",
-    "version": "0.0.21"
+    "version": "0.0.22"
   },
   "ahl-goalpost": {
     "name": "ahl-goalpost",
