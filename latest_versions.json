@@ -1805,7 +1805,7 @@
   },
   "cfb-game-threads": {
     "name": "CFB Game Threads",
-    "version": "1.0.6"
+    "version": "1.1.0"
   },
   "tronlegacy1999": {
     "name": "tronlegacy1999",
@@ -3014,5 +3014,13 @@
   "cgbaov2": {
     "name": "CollabGuard",
     "version": "0.1.10"
+  },
+  "mochi-mochi-donuts": {
+    "name": "Mochi Mochi Donuts",
+    "version": "0.1.6"
+  },
+  "shadowarchiver": {
+    "name": "shadowarchiver",
+    "version": "0.0.22"
   }
 }
