@@ -3066,5 +3066,9 @@
   "quizy-car": {
     "name": "Anarchy quiz",
     "version": "0.0.1"
+  },
+  "guess-the-candle": {
+    "name": "Guess The Candle",
+    "version": "0.0.133"
   }
 }
