@@ -3050,5 +3050,17 @@
   "open-moderator": {
     "name": "Open Moderator",
     "version": "0.0.12"
+  },
+  "newsoccertrivia": {
+    "name": "newsoccertrivia",
+    "version": "0.0.23"
+  },
+  "subnotify-app": {
+    "name": "SubNotify",
+    "version": "0.0.5"
+  },
+  "scanslop": {
+    "name": "Scan Slop",
+    "version": "0.0.67"
   }
 }
