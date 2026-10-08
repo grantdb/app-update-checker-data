@@ -2469,7 +2469,7 @@
   },
   "stonefall99": {
     "name": "Stonefall",
-    "version": "0.3.7"
+    "version": "0.3.10"
   },
   "ladder-climb": {
     "name": "Ladder Climb",
@@ -3062,5 +3062,9 @@
   "scanslop": {
     "name": "Scan Slop",
     "version": "0.0.67"
+  },
+  "quizy-car": {
+    "name": "Anarchy quiz",
+    "version": "0.0.1"
   }
 }
