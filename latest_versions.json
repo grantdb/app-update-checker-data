@@ -1577,7 +1577,7 @@
   },
   "wex-ai": {
     "name": "wex-ai",
-    "version": "0.0.149"
+    "version": "0.0.151"
   },
   "detective-match": {
     "name": "Detective Match",
@@ -2982,5 +2982,13 @@
   "mod-bridge": {
     "name": "mod-bridge",
     "version": "0.0.6"
+  },
+  "modecule1": {
+    "name": "modecule1",
+    "version": "0.0.13"
+  },
+  "gif-enigma": {
+    "name": "GIF Enigma",
+    "version": "3.20.7"
   }
 }
