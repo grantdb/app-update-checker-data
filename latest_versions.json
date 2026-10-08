@@ -3022,5 +3022,9 @@
   "shadowarchiver": {
     "name": "shadowarchiver",
     "version": "0.0.22"
+  },
+  "dungeondaily": {
+    "name": "Daily Dungeon",
+    "version": "0.0.9"
   }
 }
