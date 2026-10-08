@@ -2970,5 +2970,17 @@
   "giveaway-manager": {
     "name": "Giveaway Manager",
     "version": "0.0.3"
+  },
+  "anti-farmer": {
+    "name": "anti-farmer",
+    "version": "0.0.4"
+  },
+  "arrowpuzzle": {
+    "name": "Amaze Flow",
+    "version": "0.0.329"
+  },
+  "mod-bridge": {
+    "name": "mod-bridge",
+    "version": "0.0.6"
   }
 }
