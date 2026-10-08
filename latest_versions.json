@@ -3006,5 +3006,13 @@
   "pwhl-goalpost": {
     "name": "pwhl-goalpost",
     "version": "2.102.0"
+  },
+  "wordblast": {
+    "name": "wordblast",
+    "version": "0.0.4"
+  },
+  "cgbaov2": {
+    "name": "CollabGuard",
+    "version": "0.1.10"
   }
 }
