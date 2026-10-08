@@ -3046,5 +3046,9 @@
   "threadboard": {
     "name": "threadboard",
     "version": "0.0.3"
+  },
+  "open-moderator": {
+    "name": "Open Moderator",
+    "version": "0.0.12"
   }
 }
