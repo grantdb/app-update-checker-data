@@ -3026,5 +3026,13 @@
   "dungeondaily": {
     "name": "Daily Dungeon",
     "version": "0.0.9"
+  },
+  "pinned-menuboard": {
+    "name": "Pinned Menuboard",
+    "version": "0.0.80"
+  },
+  "poker-room": {
+    "name": "Poker Room",
+    "version": "0.0.5"
   }
 }
