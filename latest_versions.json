@@ -3070,5 +3070,13 @@
   "guess-the-candle": {
     "name": "Guess The Candle",
     "version": "0.0.133"
+  },
+  "auto-highlights": {
+    "name": "Auto-Highlights",
+    "version": "0.1.1"
+  },
+  "ava-battles": {
+    "name": "ava-battles",
+    "version": "0.0.29"
   }
 }
