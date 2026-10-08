@@ -3078,5 +3078,9 @@
   "ava-battles": {
     "name": "ava-battles",
     "version": "0.0.29"
+  },
+  "mobrush-3d": {
+    "name": "mobrush-3d",
+    "version": "0.5.29"
   }
 }
