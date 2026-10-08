@@ -3034,5 +3034,17 @@
   "poker-room": {
     "name": "Poker Room",
     "version": "0.0.5"
+  },
+  "game-aint-real": {
+    "name": "AIn&#39;t Real",
+    "version": "2.6.0"
+  },
+  "solitaireclassic": {
+    "name": "Daily Solitaire",
+    "version": "0.5.51"
+  },
+  "threadboard": {
+    "name": "threadboard",
+    "version": "0.0.3"
   }
 }
