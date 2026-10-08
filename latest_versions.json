@@ -2962,5 +2962,13 @@
   "mod-stats": {
     "name": "mod-stats",
     "version": "0.0.27"
+  },
+  "release-announce": {
+    "name": "release-announce",
+    "version": "0.0.18"
+  },
+  "giveaway-manager": {
+    "name": "Giveaway Manager",
+    "version": "0.0.3"
   }
 }
