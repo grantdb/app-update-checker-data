@@ -3086,5 +3086,13 @@
   "click-bait-game": {
     "name": "Click Bait Game",
     "version": "0.0.62"
+  },
+  "mit-3dvenue-app2": {
+    "name": "mit-3dvenue",
+    "version": "0.0.10"
+  },
+  "adv-live-feeds": {
+    "name": "ADV Live Feeds",
+    "version": "0.0.20"
   }
 }
