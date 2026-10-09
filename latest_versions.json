@@ -3170,5 +3170,25 @@
   "word-guard": {
     "name": "Word Guard",
     "version": "0.0.193"
+  },
+  "tf2-guess-the-map": {
+    "name": "TF2 Guess The Map",
+    "version": "0.0.48"
+  },
+  "expertreviewsapp": {
+    "name": "ReviewExpertsClub",
+    "version": "0.4.5"
+  },
+  "tile-connect": {
+    "name": "tile-connect",
+    "version": "0.0.4"
+  },
+  "redacted-app": {
+    "name": "redacted-app",
+    "version": "0.0.5"
+  },
+  "format-guard": {
+    "name": "format-guard",
+    "version": "0.0.68"
   }
 }
