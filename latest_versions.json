@@ -3094,5 +3094,9 @@
   "adv-live-feeds": {
     "name": "ADV Live Feeds",
     "version": "0.0.20"
+  },
+  "gif-guardian": {
+    "name": "Gif-Guardian",
+    "version": "0.0.15"
   }
 }
