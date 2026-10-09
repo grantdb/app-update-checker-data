@@ -3158,5 +3158,13 @@
   "subfusion2": {
     "name": "SubFusion",
     "version": "0.0.7"
+  },
+  "reflect-daily": {
+    "name": "Buddha Quotes",
+    "version": "0.0.10"
+  },
+  "community-recap": {
+    "name": "community-recap",
+    "version": "0.0.15"
   }
 }
