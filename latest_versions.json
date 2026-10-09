@@ -3242,5 +3242,25 @@
   "multiplication-game": {
     "name": "Multiplication Game",
     "version": "0.0.5"
+  },
+  "karrouet": {
+    "name": "karrouet",
+    "version": "0.0.6"
+  },
+  "letterloo": {
+    "name": "letterloo",
+    "version": "0.3.39"
+  },
+  "infinite-jumper": {
+    "name": "infinite-jumper",
+    "version": "0.0.5"
+  },
+  "number-math": {
+    "name": "Numble",
+    "version": "0.3.0"
+  },
+  "hucontroll": {
+    "name": "HUconTroll",
+    "version": "1.0.23"
   }
 }
