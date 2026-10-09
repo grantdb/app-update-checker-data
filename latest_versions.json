@@ -3122,5 +3122,25 @@
   "mma-parlay-lab": {
     "name": "MMA Parlay Lab",
     "version": "0.0.9"
+  },
+  "groupmessenger": {
+    "name": "Group Messenger",
+    "version": "0.0.18"
+  },
+  "comment-picker": {
+    "name": "Comment Raffler",
+    "version": "0.0.26"
+  },
+  "financecalculator": {
+    "name": "Finance Calculator",
+    "version": "1.7.0"
+  },
+  "sudo2026": {
+    "name": "sudo2026",
+    "version": "0.0.34"
+  },
+  "daycount-flair": {
+    "name": "daycount-flair",
+    "version": "0.0.8"
   }
 }
