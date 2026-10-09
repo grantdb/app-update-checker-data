@@ -3154,5 +3154,9 @@
   "queuelens-pro": {
     "name": "QueueLens",
     "version": "0.0.20"
+  },
+  "subfusion2": {
+    "name": "SubFusion",
+    "version": "0.0.7"
   }
 }
