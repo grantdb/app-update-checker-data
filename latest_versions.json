@@ -3142,5 +3142,9 @@
   "daycount-flair": {
     "name": "daycount-flair",
     "version": "0.0.8"
+  },
+  "fish-legends": {
+    "name": "fish-legends",
+    "version": "0.0.118"
   }
 }
