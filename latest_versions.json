@@ -3306,5 +3306,9 @@
   "gem-rush-daily": {
     "name": "Gem Rush",
     "version": "0.0.7"
+  },
+  "playscraper-bot": {
+    "name": "Playscraper Bot",
+    "version": "1.0.144"
   }
 }
