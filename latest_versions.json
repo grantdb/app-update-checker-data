@@ -3214,5 +3214,21 @@
   "detectivesudoku": {
     "name": "Detective Sudoku",
     "version": "0.0.16"
+  },
+  "sayhellofromme": {
+    "name": "sayhellofromme",
+    "version": "0.0.1"
+  },
+  "threadarcade": {
+    "name": "ThreadArcade: custom games for your community&#39;s topics",
+    "version": "0.0.5"
+  },
+  "verbrush-game": {
+    "name": "VERBRUSH",
+    "version": "0.0.6"
+  },
+  "provincials-app": {
+    "name": "provincials-app",
+    "version": "0.0.9"
   }
 }
