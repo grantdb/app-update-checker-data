@@ -3310,5 +3310,9 @@
   "playscraper-bot": {
     "name": "Playscraper Bot",
     "version": "1.0.144"
+  },
+  "overtake-game": {
+    "name": "Rally Sleuth",
+    "version": "0.0.20"
   }
 }
