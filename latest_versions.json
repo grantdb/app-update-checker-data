@@ -3166,5 +3166,9 @@
   "community-recap": {
     "name": "community-recap",
     "version": "0.0.15"
+  },
+  "word-guard": {
+    "name": "Word Guard",
+    "version": "0.0.193"
   }
 }
