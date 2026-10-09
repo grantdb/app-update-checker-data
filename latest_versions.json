@@ -3318,5 +3318,21 @@
   "b00minb0x": {
     "name": "b00minb0x",
     "version": "0.0.6"
+  },
+  "chaoscollabstory": {
+    "name": "chaoscollabstory",
+    "version": "0.0.3"
+  },
+  "my-social-links": {
+    "name": "My Social Links",
+    "version": "1.0.1"
+  },
+  "daily-tower": {
+    "name": "Moonstack",
+    "version": "0.0.5"
+  },
+  "challenge-tracker": {
+    "name": "challenge-tracker",
+    "version": "0.0.5"
   }
 }
