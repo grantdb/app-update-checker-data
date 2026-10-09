@@ -3230,5 +3230,17 @@
   "provincials-app": {
     "name": "provincials-app",
     "version": "0.0.9"
+  },
+  "daily-hoops": {
+    "name": "Daily Hoops",
+    "version": "0.0.4"
+  },
+  "ledger-quest": {
+    "name": "ledger-quest",
+    "version": "0.0.11"
+  },
+  "multiplication-game": {
+    "name": "Multiplication Game",
+    "version": "0.0.5"
   }
 }
