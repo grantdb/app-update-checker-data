@@ -3334,5 +3334,21 @@
   "challenge-tracker": {
     "name": "challenge-tracker",
     "version": "0.0.5"
+  },
+  "streakwar": {
+    "name": "streakwar",
+    "version": "0.0.10"
+  },
+  "porosity-quiz": {
+    "name": "porosity-quiz",
+    "version": "0.0.6"
+  },
+  "cyber-pong": {
+    "name": "Cyber Pong",
+    "version": "0.0.7"
+  },
+  "summit-game": {
+    "name": "summit-game",
+    "version": "0.0.96"
   }
 }
