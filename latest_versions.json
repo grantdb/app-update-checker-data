@@ -3262,5 +3262,25 @@
   "hucontroll": {
     "name": "HUconTroll",
     "version": "1.0.23"
+  },
+  "mineralterminal": {
+    "name": "mineralterminal",
+    "version": "0.0.281"
+  },
+  "prism-panic": {
+    "name": "PrismPanic",
+    "version": "0.0.48"
+  },
+  "sub-olympics": {
+    "name": "sub-olympics",
+    "version": "0.1.14"
+  },
+  "huckid": {
+    "name": "HuckID",
+    "version": "0.0.15"
+  },
+  "hott-take": {
+    "name": "hott-take",
+    "version": "0.1.0"
   }
 }
