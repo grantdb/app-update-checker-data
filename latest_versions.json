@@ -3106,5 +3106,21 @@
   "flapdiy": {
     "name": "FlapLab",
     "version": "0.0.65"
+  },
+  "bubble-shooter-game": {
+    "name": "Bubble Shooter",
+    "version": "0.0.20"
+  },
+  "triage-hackaton": {
+    "name": "Triage",
+    "version": "0.0.176"
+  },
+  "brainsprint-2d": {
+    "name": "brainsprint-2d",
+    "version": "0.0.15"
+  },
+  "mma-parlay-lab": {
+    "name": "MMA Parlay Lab",
+    "version": "0.0.9"
   }
 }
