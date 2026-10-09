@@ -3146,5 +3146,13 @@
   "fish-legends": {
     "name": "fish-legends",
     "version": "0.0.118"
+  },
+  "matchmadnessgame": {
+    "name": "matchmadnessgame",
+    "version": "0.0.22"
+  },
+  "queuelens-pro": {
+    "name": "QueueLens",
+    "version": "0.0.20"
   }
 }
