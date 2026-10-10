@@ -3538,5 +3538,21 @@
   "connectmepuzzle": {
     "name": "connectmepuzzle",
     "version": "1.0.0"
+  },
+  "arrow-blocks": {
+    "name": "arrow-blocks",
+    "version": "0.0.6"
+  },
+  "jobyap-bot": {
+    "name": "JobYap Recommender",
+    "version": "0.0.35"
+  },
+  "flag-blitz": {
+    "name": "flag-blitz",
+    "version": "0.0.36"
+  },
+  "tier-list-builder": {
+    "name": "Tier List Builder",
+    "version": "1.0.0"
   }
 }
