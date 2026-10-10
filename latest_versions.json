@@ -3518,5 +3518,13 @@
   "pathrush": {
     "name": "pathrush",
     "version": "1.0.44"
+  },
+  "blob-drop": {
+    "name": "Blob Drop",
+    "version": "0.2.0"
+  },
+  "active-users-only": {
+    "name": "active-users-only",
+    "version": "1.0.2"
   }
 }
