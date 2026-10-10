@@ -3454,5 +3454,17 @@
   "epic-pong": {
     "name": "Epic Pong",
     "version": "0.0.2"
+  },
+  "adv-roundup": {
+    "name": "ADV Subreddit Roundup",
+    "version": "0.0.9"
+  },
+  "tester-board": {
+    "name": "tester-board",
+    "version": "0.0.118"
+  },
+  "splash-siege": {
+    "name": "splash-siege",
+    "version": "0.0.6"
   }
 }
