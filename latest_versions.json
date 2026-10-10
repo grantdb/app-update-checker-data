@@ -3526,5 +3526,17 @@
   "active-users-only": {
     "name": "active-users-only",
     "version": "1.0.2"
+  },
+  "trait-card-rogue": {
+    "name": "Trait",
+    "version": "0.0.3"
+  },
+  "volt-math-duel": {
+    "name": "volt-math-duel",
+    "version": "0.0.5"
+  },
+  "connectmepuzzle": {
+    "name": "connectmepuzzle",
+    "version": "1.0.0"
   }
 }
