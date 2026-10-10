@@ -3554,5 +3554,13 @@
   "tier-list-builder": {
     "name": "Tier List Builder",
     "version": "1.0.0"
+  },
+  "adv-verify": {
+    "name": "ADV Verify Bot",
+    "version": "0.0.19"
+  },
+  "cavsbot": {
+    "name": "CavsBot",
+    "version": "1.0.0"
   }
 }
