@@ -3470,5 +3470,9 @@
   "pincommenter": {
     "name": "Expanded Sticky",
     "version": "0.2.1"
+  },
+  "fillr-puzzle": {
+    "name": "fillr-puzzle",
+    "version": "0.0.17"
   }
 }
