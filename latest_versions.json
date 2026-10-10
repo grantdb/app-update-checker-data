@@ -3566,5 +3566,17 @@
   "sub-scheduler": {
     "name": "sub-scheduler",
     "version": "0.0.17"
+  },
+  "playwallstreetle": {
+    "name": "PlayWallstreetle",
+    "version": "0.3.0"
+  },
+  "fatastrophic": {
+    "name": "fatastrophic",
+    "version": "1.0.8"
+  },
+  "socialgrid3d": {
+    "name": "socialgrid3d",
+    "version": "0.0.62"
   }
 }
