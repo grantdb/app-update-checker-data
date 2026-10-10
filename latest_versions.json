@@ -3370,5 +3370,17 @@
   "wr-bot": {
     "name": "wr-bot",
     "version": "0.0.5"
+  },
+  "free-bet-magic": {
+    "name": "Free Bet Magic",
+    "version": "0.0.39"
+  },
+  "three-of-six": {
+    "name": "Three of Six",
+    "version": "0.0.5"
+  },
+  "test-tracker": {
+    "name": "TestTracker",
+    "version": "0.0.9"
   }
 }
