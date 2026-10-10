@@ -3422,5 +3422,17 @@
   "escuchar-post": {
     "name": "Lector de Texto - Text to Voice",
     "version": "0.0.2"
+  },
+  "granny-vs-robot": {
+    "name": "granny-vs-robot",
+    "version": "0.0.337"
+  },
+  "word-strands": {
+    "name": "Daily Grid",
+    "version": "0.1.4"
+  },
+  "troll-defuse": {
+    "name": "Troll Defuse",
+    "version": "0.3.17"
   }
 }
