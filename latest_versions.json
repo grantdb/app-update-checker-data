@@ -3350,5 +3350,13 @@
   "summit-game": {
     "name": "summit-game",
     "version": "0.0.96"
+  },
+  "ttokdoku": {
+    "name": "TtokDoku",
+    "version": "0.3.34"
+  },
+  "stackgame": {
+    "name": "stackgame",
+    "version": "0.0.9"
   }
 }
