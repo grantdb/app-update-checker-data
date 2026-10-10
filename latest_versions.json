@@ -2657,7 +2657,7 @@
   },
   "pawdoku-mystery": {
     "name": "pawdoku-mystery",
-    "version": "0.0.14"
+    "version": "0.0.15"
   },
   "insultguard": {
     "name": "insultguard",
@@ -3434,5 +3434,17 @@
   "troll-defuse": {
     "name": "Troll Defuse",
     "version": "0.3.17"
+  },
+  "urjo-game": {
+    "name": "Urjo",
+    "version": "0.9.17"
+  },
+  "memory-matches": {
+    "name": "Memory Match",
+    "version": "1.0.73"
+  },
+  "cribbage-daily": {
+    "name": "Cribbage Daily Hand",
+    "version": "0.2.16"
   }
 }
