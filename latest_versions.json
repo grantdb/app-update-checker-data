@@ -2601,7 +2601,7 @@
   },
   "a-news-bot": {
     "name": "a-news-bot",
-    "version": "0.0.13"
+    "version": "0.0.18"
   },
   "whoami-app": {
     "name": "Who am I?",
@@ -3382,5 +3382,9 @@
   "test-tracker": {
     "name": "TestTracker",
     "version": "0.0.9"
+  },
+  "guesstheplant": {
+    "name": "GuessThePlant",
+    "version": "0.0.14"
   }
 }
