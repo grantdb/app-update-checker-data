@@ -3390,5 +3390,13 @@
   "smilestetris": {
     "name": "smilestetris",
     "version": "0.0.13"
+  },
+  "dph-bot": {
+    "name": "dph-bot",
+    "version": "0.0.24"
+  },
+  "bulbrush": {
+    "name": "BulbRush",
+    "version": "0.0.50"
   }
 }
