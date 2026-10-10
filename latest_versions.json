@@ -3386,5 +3386,9 @@
   "guesstheplant": {
     "name": "GuessThePlant",
     "version": "0.0.14"
+  },
+  "smilestetris": {
+    "name": "smilestetris",
+    "version": "0.0.13"
   }
 }
