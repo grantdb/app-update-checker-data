@@ -3358,5 +3358,17 @@
   "stackgame": {
     "name": "stackgame",
     "version": "0.0.9"
+  },
+  "nospambot": {
+    "name": "No Spam Bot",
+    "version": "0.0.6"
+  },
+  "threados": {
+    "name": "threados",
+    "version": "0.0.2"
+  },
+  "wr-bot": {
+    "name": "wr-bot",
+    "version": "0.0.5"
   }
 }
