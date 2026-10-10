@@ -3474,5 +3474,25 @@
   "fillr-puzzle": {
     "name": "fillr-puzzle",
     "version": "0.0.17"
+  },
+  "personalprevent": {
+    "name": "Personal Prevent",
+    "version": "0.0.1"
+  },
+  "the-daily-realm": {
+    "name": "The Daily Realm",
+    "version": "2.0.23"
+  },
+  "mod-lens": {
+    "name": "mod-lens",
+    "version": "0.0.14"
+  },
+  "subredit-guessr": {
+    "name": "subredit-guessr",
+    "version": "0.0.8"
+  },
+  "guesseddit": {
+    "name": "guesseddit",
+    "version": "0.0.81"
   }
 }
