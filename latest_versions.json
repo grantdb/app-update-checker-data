@@ -2685,7 +2685,7 @@
   },
   "atomsgame": {
     "name": "Meltdown",
-    "version": "0.0.11"
+    "version": "0.0.12"
   },
   "ballest-patch-bot": {
     "name": "Ballest Updates",
@@ -3398,5 +3398,17 @@
   "bulbrush": {
     "name": "BulbRush",
     "version": "0.0.50"
+  },
+  "grittyblocks": {
+    "name": "Gritty Blocks",
+    "version": "0.0.2"
+  },
+  "top-gainer-ah": {
+    "name": "top-gainer-ah",
+    "version": "0.0.19"
+  },
+  "dice-battle-dev": {
+    "name": "Dice Fight",
+    "version": "0.0.131"
   }
 }
