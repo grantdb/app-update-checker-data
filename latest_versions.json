@@ -2269,7 +2269,7 @@
   },
   "gate-defender": {
     "name": "gate-defender",
-    "version": "0.0.101"
+    "version": "0.0.102"
   },
   "escalationradar": {
     "name": "escalationradar",
@@ -2893,7 +2893,7 @@
   },
   "mcjbot-dupe-delete": {
     "name": "MCJbot-dupe-delete",
-    "version": "0.0.12"
+    "version": "0.0.16"
   },
   "gunsofboom00": {
     "name": "gunsofboom00",
