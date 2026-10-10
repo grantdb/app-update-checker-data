@@ -2661,7 +2661,7 @@
   },
   "insultguard": {
     "name": "insultguard",
-    "version": "1.0.145"
+    "version": "1.0.149"
   },
   "garden-play": {
     "name": "garden-play",
@@ -3466,5 +3466,9 @@
   "splash-siege": {
     "name": "splash-siege",
     "version": "0.0.6"
+  },
+  "pincommenter": {
+    "name": "Expanded Sticky",
+    "version": "0.2.1"
   }
 }
