@@ -1821,7 +1821,7 @@
   },
   "sub-vs-sub": {
     "name": "Sub vs Sub",
-    "version": "1.0.4"
+    "version": "1.0.8"
   },
   "se7en-letters": {
     "name": "se7en-letters",
@@ -3562,5 +3562,9 @@
   "cavsbot": {
     "name": "CavsBot",
     "version": "1.0.0"
+  },
+  "sub-scheduler": {
+    "name": "sub-scheduler",
+    "version": "0.0.17"
   }
 }
