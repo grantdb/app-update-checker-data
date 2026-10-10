@@ -3494,5 +3494,29 @@
   "guesseddit": {
     "name": "guesseddit",
     "version": "0.0.81"
+  },
+  "trivelagames": {
+    "name": "Trivela",
+    "version": "0.0.15"
+  },
+  "gossip-vortex": {
+    "name": "gossip-vortex",
+    "version": "0.0.5"
+  },
+  "dietpolicee": {
+    "name": "dietpolicee",
+    "version": "0.0.19"
+  },
+  "arrows-puzzle": {
+    "name": "arrows-puzzle",
+    "version": "0.0.15"
+  },
+  "marsettler": {
+    "name": "marsettler",
+    "version": "0.2.1"
+  },
+  "pathrush": {
+    "name": "pathrush",
+    "version": "1.0.44"
   }
 }
