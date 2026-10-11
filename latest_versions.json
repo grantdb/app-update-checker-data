@@ -3618,5 +3618,25 @@
   "penpal-confirmation": {
     "name": "Penpal Confirmation Bot",
     "version": "1.0.1"
+  },
+  "farfield-relay": {
+    "name": "Farfield Relay",
+    "version": "0.0.6"
+  },
+  "circus-hero": {
+    "name": "Party Pop!",
+    "version": "0.0.18"
+  },
+  "karmastep": {
+    "name": "KarmaStep",
+    "version": "0.0.84"
+  },
+  "mod-aegis": {
+    "name": "AegisMod",
+    "version": "0.0.5"
+  },
+  "theboxofficegame": {
+    "name": "theboxofficegame",
+    "version": "0.0.3"
   }
 }
