@@ -165,7 +165,7 @@
   },
   "flairandapprove": {
     "name": "Update flair, Approve user and Approve post",
-    "version": "0.0.42"
+    "version": "0.0.45"
   },
   "scoreboard-app": {
     "name": "Soccer Scoreboard App",
