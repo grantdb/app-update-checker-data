@@ -3638,5 +3638,21 @@
   "theboxofficegame": {
     "name": "theboxofficegame",
     "version": "0.0.3"
+  },
+  "baublink": {
+    "name": "baublink",
+    "version": "0.0.8"
+  },
+  "rulewiserr": {
+    "name": "rulewiserr",
+    "version": "0.0.20"
+  },
+  "wayoff-game": {
+    "name": "wayoff-game",
+    "version": "0.0.7"
+  },
+  "ghostline-daily": {
+    "name": "ghostline-daily",
+    "version": "0.0.4"
   }
 }
