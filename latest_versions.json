@@ -1613,7 +1613,7 @@
   },
   "hearts-by-farber": {
     "name": "hearts-by-farber",
-    "version": "0.0.83"
+    "version": "0.0.84"
   },
   "ai-checker": {
     "name": "AI Checker",
@@ -3694,5 +3694,13 @@
   "pontis-daily": {
     "name": "Pontis: Daily Bridges Puzzle",
     "version": "0.0.32"
+  },
+  "tg-bb-mkt": {
+    "name": "tg-bb-mkt",
+    "version": "0.0.3"
+  },
+  "community-os": {
+    "name": "Community OS",
+    "version": "0.1.18"
   }
 }
