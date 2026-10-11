@@ -3666,5 +3666,25 @@
   "modqueuecue": {
     "name": "modqueuecue",
     "version": "0.0.4"
+  },
+  "playboop": {
+    "name": "boop",
+    "version": "0.0.17"
+  },
+  "appealdesq": {
+    "name": "appealdesq",
+    "version": "0.0.24"
+  },
+  "magic-chess-3d": {
+    "name": "Chess: Magic Chess 3D",
+    "version": "0.0.17"
+  },
+  "remoteviewingapp": {
+    "name": "remoteviewingapp",
+    "version": "0.0.128"
+  },
+  "chroma-canvas": {
+    "name": "chroma-canvas",
+    "version": "0.0.13"
   }
 }
