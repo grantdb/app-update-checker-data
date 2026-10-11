@@ -3598,5 +3598,25 @@
   "fruitcrushgame": {
     "name": "FruitCrush",
     "version": "0.0.4"
+  },
+  "dust-bot": {
+    "name": "Dust Bot - Sliding Puzzle Game",
+    "version": "0.0.2"
+  },
+  "beim-type-racer": {
+    "name": "beim-type-racer",
+    "version": "0.0.25"
+  },
+  "tripwire-mod": {
+    "name": "tripwire-mod",
+    "version": "0.1.0"
+  },
+  "slidereveal-app": {
+    "name": "slidereveal-app",
+    "version": "0.0.19"
+  },
+  "penpal-confirmation": {
+    "name": "Penpal Confirmation Bot",
+    "version": "1.0.1"
   }
 }
