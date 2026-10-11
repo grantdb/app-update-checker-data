@@ -3686,5 +3686,13 @@
   "chroma-canvas": {
     "name": "chroma-canvas",
     "version": "0.0.13"
+  },
+  "legend-sim": {
+    "name": "Legend Sim",
+    "version": "0.0.12"
+  },
+  "pontis-daily": {
+    "name": "Pontis: Daily Bridges Puzzle",
+    "version": "0.0.32"
   }
 }
