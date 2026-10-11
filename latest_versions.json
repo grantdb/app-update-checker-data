@@ -192,8 +192,8 @@
     "version": "0.0.29"
   },
   "modqueue-tools": {
-    "name": "Modqueue Tools",
-    "version": "1.4.0"
+    "name": "Modqueue Tools and Alerts",
+    "version": "1.5.0"
   },
   "ban-purge": {
     "name": "Ban Purge",
