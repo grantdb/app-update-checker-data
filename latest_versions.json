@@ -3702,5 +3702,29 @@
   "community-os": {
     "name": "Community OS",
     "version": "0.1.18"
+  },
+  "exact-center": {
+    "name": "exact-center",
+    "version": "0.0.2"
+  },
+  "goldkurs-daily": {
+    "name": "Goldkurs Daily",
+    "version": "0.0.13"
+  },
+  "geodle": {
+    "name": "geodle",
+    "version": "0.3.0"
+  },
+  "learning-group": {
+    "name": "Learning Group",
+    "version": "1.1.10"
+  },
+  "neetindia-guard": {
+    "name": "neetindia-guard",
+    "version": "0.0.24"
+  },
+  "daily-1a": {
+    "name": "Daily 1A",
+    "version": "0.0.5"
   }
 }
