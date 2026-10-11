@@ -211,10 +211,6 @@
     "name": "User Flair Bot",
     "version": "0.0.6"
   },
-  "discordditapp": {
-    "name": "Discorddit",
-    "version": "0.0.32"
-  },
   "social-blacklist": {
     "name": "Social-Blacklist",
     "version": "0.0.43"
@@ -1359,25 +1355,13 @@
     "name": "wordpaws",
     "version": "1.2.0"
   },
-  "colloni-tuddlee": {
-    "name": "Nuzzle-The-Puzzle",
-    "version": "0.16.55"
-  },
   "redit-wrapped": {
     "name": "redit-wrapped",
     "version": "0.0.6"
   },
-  "space-jewel": {
-    "name": "GreedGalaxy",
-    "version": "0.0.126"
-  },
   "modsandbox": {
     "name": "ModSandbox  AutoMod Rule Tester",
     "version": "0.0.19"
-  },
-  "pick-tracker": {
-    "name": "PickTracker",
-    "version": "0.0.5"
   },
   "canucknews-bot": {
     "name": "canucknews-bot",
@@ -1387,10 +1371,6 @@
     "name": "Valcordia Space",
     "version": "1.5.2"
   },
-  "word-royale": {
-    "name": "word-royale",
-    "version": "1.0.8"
-  },
   "auto-remove-notice": {
     "name": "Auto Remove Notice",
     "version": "0.0.13"
@@ -1398,10 +1378,6 @@
   "post-limiter": {
     "name": "post-limiter",
     "version": "0.0.4"
-  },
-  "guard-hub": {
-    "name": "guard-hub",
-    "version": "0.0.12"
   },
   "drama-radar": {
     "name": "drama-radar",
@@ -1478,10 +1454,6 @@
   "ai-guard": {
     "name": "ai-guard",
     "version": "0.0.8"
-  },
-  "suhdokuh": {
-    "name": "suhdokuh",
-    "version": "0.0.68"
   },
   "mtgcf": {
     "name": "MtG CardFetcher",
@@ -1595,17 +1567,9 @@
     "name": "build-quiz",
     "version": "0.0.105"
   },
-  "track-buddy": {
-    "name": "Track Buddy",
-    "version": "1.0.12"
-  },
   "daily-sweepd": {
     "name": "Daily Sweepd",
     "version": "1.0.10"
-  },
-  "spell-royale": {
-    "name": "Spell Royale",
-    "version": "0.0.102"
   },
   "easterntactics": {
     "name": "Eastern Tactics",
@@ -1679,17 +1643,9 @@
     "name": "guessthebreed",
     "version": "0.7.3"
   },
-  "zippuzzle": {
-    "name": "Zip Puzzle",
-    "version": "0.0.28"
-  },
   "datetime-global": {
     "name": "datetime-global",
     "version": "0.0.4"
-  },
-  "riftboundfetcher": {
-    "name": "riftboundfetcher",
-    "version": "0.1.21"
   },
   "flip-cards": {
     "name": "FlipCards",
@@ -1747,14 +1703,6 @@
     "name": "Gamepad Tester",
     "version": "0.0.12"
   },
-  "chain-rules": {
-    "name": "chain-rules",
-    "version": "1.5.1"
-  },
-  "cascade-ban": {
-    "name": "cascade-ban",
-    "version": "0.0.6"
-  },
   "blackout-sq356": {
     "name": "blackout-sq356",
     "version": "0.0.15"
@@ -1781,10 +1729,6 @@
   },
   "x-squares": {
     "name": "x-squares",
-    "version": "0.0.8"
-  },
-  "stemdaily": {
-    "name": "stemdaily",
     "version": "0.0.8"
   },
   "sql-arena": {
@@ -1899,14 +1843,6 @@
     "name": "Snap Guess",
     "version": "0.0.24"
   },
-  "sudoku-speed-run": {
-    "name": "Sudoku Speed Run",
-    "version": "0.0.5"
-  },
-  "trophy-case": {
-    "name": "trophy-case",
-    "version": "0.0.6"
-  },
   "substeward": {
     "name": "SubSteward",
     "version": "0.2.0"
@@ -1919,33 +1855,9 @@
     "name": "Karmic Cards",
     "version": "0.0.7"
   },
-  "infinite-subs": {
-    "name": "infinite-subs",
-    "version": "0.1.7"
-  },
   "bc101bot": {
     "name": "BC101Bot",
     "version": "0.0.6"
-  },
-  "site-status-alerts": {
-    "name": "Site Status Alerts",
-    "version": "1.0.2"
-  },
-  "frog-spawned": {
-    "name": "Frog Spawned",
-    "version": "0.0.33"
-  },
-  "champdle": {
-    "name": "champdle",
-    "version": "0.0.5"
-  },
-  "shadespoteye": {
-    "name": "shadespoteye",
-    "version": "0.0.2"
-  },
-  "test-block-log": {
-    "name": "test-block-log",
-    "version": "0.0.4"
   },
   "clashdle": {
     "name": "clashdle",
@@ -1959,17 +1871,9 @@
     "name": "find-path",
     "version": "0.0.4"
   },
-  "gridblink": {
-    "name": "gridblink",
-    "version": "0.0.3"
-  },
   "tap-the-beat": {
     "name": "tap-the-beat",
     "version": "0.0.5"
-  },
-  "fartknighter": {
-    "name": "fartknighter",
-    "version": "1.0.1"
   },
   "cfb-scores": {
     "name": "CFB Scoreboard App",
@@ -1990,14 +1894,6 @@
   "cr-wordle": {
     "name": "Clash Royale Wordle",
     "version": "0.0.13"
-  },
-  "nospellchecker": {
-    "name": "nospellchecker",
-    "version": "1.0.2"
-  },
-  "durak-mobile": {
-    "name": "Durak  The Card Game",
-    "version": "0.0.146"
   },
   "paint-it-memory": {
     "name": "paint-it-memory",
@@ -2031,21 +1927,9 @@
     "name": "Larry Logic - Mr. Logical Fallacy Detector",
     "version": "0.0.12"
   },
-  "banned-list": {
-    "name": "banned-list",
-    "version": "0.25.0"
-  },
   "triviachallenge2": {
     "name": "Trivia sport",
     "version": "0.0.37"
-  },
-  "idxstockinsight1": {
-    "name": "idxstockinsight1",
-    "version": "0.2.5"
-  },
-  "mod-mailer-app": {
-    "name": "Mod Mailer",
-    "version": "0.1.2"
   },
   "challengeai": {
     "name": "challengeai",
@@ -2067,10 +1951,6 @@
     "name": "Fillables",
     "version": "0.0.5"
   },
-  "sub-feedback": {
-    "name": "Community Feedback",
-    "version": "0.0.21"
-  },
   "cluesword": {
     "name": "cluesword",
     "version": "0.2.0"
@@ -2086,10 +1966,6 @@
   "votingmanagement": {
     "name": "votingmanagement",
     "version": "0.0.4"
-  },
-  "chaotic-wheels": {
-    "name": "Chaotic Wheels",
-    "version": "0.0.5"
   },
   "ninjamail3": {
     "name": "Ninja Mail",
@@ -2127,10 +2003,6 @@
     "name": "hot-importer",
     "version": "0.0.5"
   },
-  "reply-coach": {
-    "name": "reply-coach",
-    "version": "0.0.3"
-  },
   "modbeacon": {
     "name": "ModBeacon - Live Mod Presence",
     "version": "0.0.17"
@@ -2151,10 +2023,6 @@
     "name": "ember-world",
     "version": "0.0.39"
   },
-  "debate-league": {
-    "name": "debate-league",
-    "version": "0.0.66"
-  },
   "words-by-farber": {
     "name": "Words by Farber",
     "version": "0.0.78"
@@ -2162,10 +2030,6 @@
   "memegrid": {
     "name": "Meme Grid",
     "version": "0.13.0"
-  },
-  "mcrashers": {
-    "name": "Multiplication Crashers",
-    "version": "1.0.14"
   },
   "dinorumble1": {
     "name": "dinorumble1",
@@ -2183,10 +2047,6 @@
     "name": "Guess the Elo",
     "version": "0.0.4"
   },
-  "modvitals": {
-    "name": "modvitals",
-    "version": "0.0.16"
-  },
   "nba-voting": {
     "name": "nba-voting",
     "version": "0.0.2"
@@ -2194,10 +2054,6 @@
   "romkerl": {
     "name": "romkerl",
     "version": "0.1.8"
-  },
-  "tilematch": {
-    "name": "tilematch",
-    "version": "0.5.0"
   },
   "zencrossbow": {
     "name": "Zencrossbow",
@@ -2231,37 +2087,13 @@
     "name": "low-ball-it",
     "version": "0.0.31"
   },
-  "mystery-reveal": {
-    "name": "Mystery Reveal",
-    "version": "0.0.6"
-  },
-  "wantedmissingmonster": {
-    "name": "wantedmissingmonster",
-    "version": "1.0.2"
-  },
-  "dental-site-check": {
-    "name": "Dental Website Check",
-    "version": "0.0.3"
-  },
   "the-hampter-that-ran": {
     "name": "The Hampter That Ran",
     "version": "0.0.8"
   },
-  "ssdi-assistance": {
-    "name": "ssdi-assistance",
-    "version": "0.0.12"
-  },
   "memory-grove": {
     "name": "Memory Grove",
     "version": "0.0.3"
-  },
-  "chibi-mystery": {
-    "name": "chibi-mystery",
-    "version": "0.0.6"
-  },
-  "you-are-the-cat": {
-    "name": "you-are-the-cat",
-    "version": "0.0.14"
   },
   "pawsitivepalbot": {
     "name": "pawsitivepalbot",
@@ -2291,37 +2123,13 @@
     "name": "planetfall-game",
     "version": "0.0.84"
   },
-  "horcrux-game": {
-    "name": "horcrux-game",
-    "version": "0.0.1"
-  },
   "ssrmbctd": {
     "name": "ssrmbctd",
     "version": "0.0.5"
   },
-  "focani-daily": {
-    "name": "Focani Daily",
-    "version": "0.0.9"
-  },
   "wiki-bridge": {
     "name": "wiki-bridge",
     "version": "0.0.3"
-  },
-  "alkabot": {
-    "name": "Alka",
-    "version": "0.0.12"
-  },
-  "nmsce-flair-app": {
-    "name": "nmsce-flair-app",
-    "version": "0.0.8"
-  },
-  "speed-math": {
-    "name": "speed-math",
-    "version": "0.0.20"
-  },
-  "terravote": {
-    "name": "TerraVote",
-    "version": "2.0.23"
   },
   "voxxo-2": {
     "name": "voxxo-2",
@@ -2342,10 +2150,6 @@
   "aisafemod": {
     "name": "aisafemod",
     "version": "0.0.7"
-  },
-  "dontk1llthefish": {
-    "name": "Don&#39;t Kill The Fish",
-    "version": "0.0.90"
   },
   "finddogs": {
     "name": "finddogs",
@@ -2491,10 +2295,6 @@
     "name": "luckypeopleonly",
     "version": "0.0.6"
   },
-  "postcipher": {
-    "name": "PostCipher",
-    "version": "0.3.0"
-  },
   "ragnirbot": {
     "name": "ragnirbot",
     "version": "0.0.4"
@@ -2503,21 +2303,9 @@
     "name": "Queue Cascade",
     "version": "0.0.15"
   },
-  "strikesystem": {
-    "name": "strikesystem",
-    "version": "0.0.6"
-  },
-  "mtgdecks": {
-    "name": "MTG Deck Lab",
-    "version": "0.0.10"
-  },
   "orik-app": {
     "name": "Pixel Wars",
     "version": "0.0.4"
-  },
-  "decrypttest": {
-    "name": "Decrypt",
-    "version": "1.1.2"
   },
   "subhunter-app": {
     "name": "subhunter-app",
@@ -2527,57 +2315,13 @@
     "name": "QueensQuest",
     "version": "0.0.5"
   },
-  "pomodorotime": {
-    "name": "Pomodoro Timer",
-    "version": "0.0.2"
-  },
   "wordseekr2": {
     "name": "Wordseekr Quotes",
     "version": "0.2.37"
   },
-  "us-stock-market": {
-    "name": "The US Stock Market - S&amp;P , NASDAQ",
-    "version": "0.0.8"
-  },
-  "connexio-mutex": {
-    "name": "Connexio MuteX",
-    "version": "0.0.12"
-  },
   "tilerush": {
     "name": "Tile Rush",
     "version": "0.0.30"
-  },
-  "mindustry-bot": {
-    "name": "Mindustry Tool",
-    "version": "0.0.4"
-  },
-  "flair-impact": {
-    "name": "Flair Impact  Community Discussion &amp; Flair Insights",
-    "version": "0.0.8"
-  },
-  "make-to-ten": {
-    "name": "Make To Ten",
-    "version": "0.0.36"
-  },
-  "cash-ladder": {
-    "name": "cash-ladder",
-    "version": "0.0.9"
-  },
-  "sudokugame": {
-    "name": "Sudoku",
-    "version": "0.0.43"
-  },
-  "mr-approve": {
-    "name": "mr-approve",
-    "version": "1.1.3"
-  },
-  "seedclash": {
-    "name": "seedclash",
-    "version": "0.0.45"
-  },
-  "pixelkickers": {
-    "name": "Pixel Kickers",
-    "version": "0.0.63"
   },
   "good-citizen-app": {
     "name": "good-citizen-app",
@@ -2619,30 +2363,6 @@
     "name": "flairguard-app",
     "version": "0.0.23"
   },
-  "mod-review-guard": {
-    "name": "Mod Review Guard",
-    "version": "0.0.5"
-  },
-  "reveal-trap": {
-    "name": "reveal-trap",
-    "version": "0.0.5"
-  },
-  "top-of-the-heap": {
-    "name": "top-of-the-heap",
-    "version": "1.0.1"
-  },
-  "jigsaw-ug": {
-    "name": "Jigsaw.ug  Community Puzzles",
-    "version": "0.0.35"
-  },
-  "sports-webapp": {
-    "name": "Sports Live Matchrooms",
-    "version": "0.0.17"
-  },
-  "bluff-bomb": {
-    "name": "Bluff Bomb",
-    "version": "0.1.13"
-  },
   "wriddler-game": {
     "name": "Wriddler",
     "version": "0.0.49"
@@ -2667,14 +2387,6 @@
     "name": "garden-play",
     "version": "0.0.21"
   },
-  "logiclens-stu": {
-    "name": "Stu Steelman",
-    "version": "0.0.12"
-  },
-  "versedb-app": {
-    "name": "VerseDB",
-    "version": "0.0.18"
-  },
   "sumwords-game": {
     "name": "sumwords-game",
     "version": "0.1.0"
@@ -2682,10 +2394,6 @@
   "competitions-app": {
     "name": "competitions-app",
     "version": "0.0.31"
-  },
-  "atomsgame": {
-    "name": "Meltdown",
-    "version": "0.0.12"
   },
   "ballest-patch-bot": {
     "name": "Ballest Updates",
@@ -2703,24 +2411,12 @@
     "name": "qinnobattle",
     "version": "0.0.2"
   },
-  "draw-and-drive": {
-    "name": "DrawAndDrive",
-    "version": "0.0.15"
-  },
   "votasanremo": {
     "name": "votasanremo",
     "version": "0.0.8"
   },
   "notthecolor": {
     "name": "notthecolor",
-    "version": "0.0.7"
-  },
-  "wasingface": {
-    "name": "wasingface",
-    "version": "0.0.3"
-  },
-  "daily-void": {
-    "name": "daily-void",
     "version": "0.0.7"
   },
   "bubblegum-blitz": {
@@ -2755,41 +2451,13 @@
     "name": "spot-nation",
     "version": "0.2.0"
   },
-  "ballparkdaily": {
-    "name": "BallparkDaily",
-    "version": "0.0.26"
-  },
-  "fruit-merge-new": {
-    "name": "fruitzilla",
-    "version": "0.0.9"
-  },
-  "plsdontdestroy": {
-    "name": "Please Don&#39;t Destroy",
-    "version": "1.0.22"
-  },
   "subtebot": {
     "name": "subtebot",
     "version": "0.0.12"
   },
-  "wsd-block-party": {
-    "name": "Block Party",
-    "version": "1.0.24"
-  },
-  "sudoku-sprint": {
-    "name": "Sudoku Sprint",
-    "version": "0.14.13"
-  },
   "mlb--scoreboard": {
     "name": "mlb--scoreboard",
     "version": "1.0.0"
-  },
-  "trolleyproblemm": {
-    "name": "The Trolley Problem",
-    "version": "1.1.9"
-  },
-  "mongotowers": {
-    "name": "MongoTowers",
-    "version": "0.0.36"
   },
   "pathgame": {
     "name": "pathgame",
@@ -2847,17 +2515,9 @@
     "name": "chapter-ii",
     "version": "0.0.4"
   },
-  "mailguardian3": {
-    "name": "Mail Guardian",
-    "version": "0.0.3"
-  },
   "daily-guess-arena": {
     "name": "daily-guess-arena",
     "version": "0.0.4"
-  },
-  "dataengprep": {
-    "name": "dataengprep",
-    "version": "0.0.26"
   },
   "fleet-duel": {
     "name": "Fleet Duel",
@@ -2879,10 +2539,6 @@
     "name": "consensus-canvas",
     "version": "1.0.3"
   },
-  "forest-rescue": {
-    "name": "forest-rescue",
-    "version": "0.0.2"
-  },
   "cannons-and-castles": {
     "name": "cannons-and-castles",
     "version": "0.0.4"
@@ -2890,10 +2546,6 @@
   "gamino-app": {
     "name": "gamino-app",
     "version": "0.0.116"
-  },
-  "mcjbot-dupe-delete": {
-    "name": "MCJbot-dupe-delete",
-    "version": "0.0.16"
   },
   "gunsofboom00": {
     "name": "gunsofboom00",
@@ -2938,14 +2590,6 @@
   "pyramid-dive": {
     "name": "pyramid-dive",
     "version": "0.0.5"
-  },
-  "github-meta": {
-    "name": "github-meta",
-    "version": "1.0.1"
-  },
-  "buried-worlds": {
-    "name": "Buried Worlds",
-    "version": "1.0.1"
   },
   "kariaaworks": {
     "name": "kariaaworks",
@@ -3095,10 +2739,6 @@
     "name": "ADV Live Feeds",
     "version": "0.0.20"
   },
-  "gif-guardian": {
-    "name": "Gif-Guardian",
-    "version": "0.0.15"
-  },
   "soccer-star-play": {
     "name": "soccer-star-play",
     "version": "0.0.4"
@@ -3106,14 +2746,6 @@
   "flapdiy": {
     "name": "FlapLab",
     "version": "0.0.65"
-  },
-  "bubble-shooter-game": {
-    "name": "Bubble Shooter",
-    "version": "0.0.20"
-  },
-  "triage-hackaton": {
-    "name": "Triage",
-    "version": "0.0.176"
   },
   "brainsprint-2d": {
     "name": "brainsprint-2d",
@@ -3123,10 +2755,6 @@
     "name": "MMA Parlay Lab",
     "version": "0.0.9"
   },
-  "groupmessenger": {
-    "name": "Group Messenger",
-    "version": "0.0.18"
-  },
   "comment-picker": {
     "name": "Comment Raffler",
     "version": "0.0.26"
@@ -3134,10 +2762,6 @@
   "financecalculator": {
     "name": "Finance Calculator",
     "version": "1.7.0"
-  },
-  "sudo2026": {
-    "name": "sudo2026",
-    "version": "0.0.34"
   },
   "daycount-flair": {
     "name": "daycount-flair",
@@ -3166,10 +2790,6 @@
   "community-recap": {
     "name": "community-recap",
     "version": "0.0.15"
-  },
-  "word-guard": {
-    "name": "Word Guard",
-    "version": "0.0.193"
   },
   "tf2-guess-the-map": {
     "name": "TF2 Guess The Map",
@@ -3223,10 +2843,6 @@
     "name": "ThreadArcade: custom games for your community&#39;s topics",
     "version": "0.0.5"
   },
-  "verbrush-game": {
-    "name": "VERBRUSH",
-    "version": "0.0.6"
-  },
   "provincials-app": {
     "name": "provincials-app",
     "version": "0.0.9"
@@ -3242,10 +2858,6 @@
   "multiplication-game": {
     "name": "Multiplication Game",
     "version": "0.0.5"
-  },
-  "karrouet": {
-    "name": "karrouet",
-    "version": "0.0.6"
   },
   "letterloo": {
     "name": "letterloo",
@@ -3271,18 +2883,6 @@
     "name": "PrismPanic",
     "version": "0.0.48"
   },
-  "sub-olympics": {
-    "name": "sub-olympics",
-    "version": "0.1.14"
-  },
-  "huckid": {
-    "name": "HuckID",
-    "version": "0.0.15"
-  },
-  "hott-take": {
-    "name": "hott-take",
-    "version": "0.1.0"
-  },
   "escape-to-spire": {
     "name": "escape-to-spire",
     "version": "0.3.0"
@@ -3291,17 +2891,9 @@
     "name": "Screen Shot Bot",
     "version": "1.0.82"
   },
-  "playpixelbeads": {
-    "name": "Pixel Beads",
-    "version": "0.0.217"
-  },
   "my-solitaire-games": {
     "name": "My Solitaire Card Game",
     "version": "0.0.47"
-  },
-  "droppy-blocky": {
-    "name": "Droppy Blocky",
-    "version": "0.0.31"
   },
   "gem-rush-daily": {
     "name": "Gem Rush",
@@ -3311,29 +2903,9 @@
     "name": "Playscraper Bot",
     "version": "1.0.144"
   },
-  "overtake-game": {
-    "name": "Rally Sleuth",
-    "version": "0.0.20"
-  },
   "b00minb0x": {
     "name": "b00minb0x",
     "version": "0.0.6"
-  },
-  "chaoscollabstory": {
-    "name": "chaoscollabstory",
-    "version": "0.0.3"
-  },
-  "my-social-links": {
-    "name": "My Social Links",
-    "version": "1.0.1"
-  },
-  "daily-tower": {
-    "name": "Moonstack",
-    "version": "0.0.5"
-  },
-  "challenge-tracker": {
-    "name": "challenge-tracker",
-    "version": "0.0.5"
   },
   "streakwar": {
     "name": "streakwar",
@@ -3347,21 +2919,9 @@
     "name": "Cyber Pong",
     "version": "0.0.7"
   },
-  "summit-game": {
-    "name": "summit-game",
-    "version": "0.0.96"
-  },
-  "ttokdoku": {
-    "name": "TtokDoku",
-    "version": "0.3.34"
-  },
   "stackgame": {
     "name": "stackgame",
     "version": "0.0.9"
-  },
-  "nospambot": {
-    "name": "No Spam Bot",
-    "version": "0.0.6"
   },
   "threados": {
     "name": "threados",
@@ -3371,10 +2931,6 @@
     "name": "wr-bot",
     "version": "0.0.5"
   },
-  "free-bet-magic": {
-    "name": "Free Bet Magic",
-    "version": "0.0.39"
-  },
   "three-of-six": {
     "name": "Three of Six",
     "version": "0.0.5"
@@ -3382,14 +2938,6 @@
   "test-tracker": {
     "name": "TestTracker",
     "version": "0.0.9"
-  },
-  "guesstheplant": {
-    "name": "GuessThePlant",
-    "version": "0.0.14"
-  },
-  "smilestetris": {
-    "name": "smilestetris",
-    "version": "0.0.13"
   },
   "dph-bot": {
     "name": "dph-bot",
@@ -3402,10 +2950,6 @@
   "grittyblocks": {
     "name": "Gritty Blocks",
     "version": "0.0.2"
-  },
-  "top-gainer-ah": {
-    "name": "top-gainer-ah",
-    "version": "0.0.19"
   },
   "dice-battle-dev": {
     "name": "Dice Fight",
@@ -3427,17 +2971,9 @@
     "name": "granny-vs-robot",
     "version": "0.0.337"
   },
-  "word-strands": {
-    "name": "Daily Grid",
-    "version": "0.1.4"
-  },
   "troll-defuse": {
     "name": "Troll Defuse",
     "version": "0.3.17"
-  },
-  "urjo-game": {
-    "name": "Urjo",
-    "version": "0.9.17"
   },
   "memory-matches": {
     "name": "Memory Match",
@@ -3455,14 +2991,6 @@
     "name": "Epic Pong",
     "version": "0.0.2"
   },
-  "adv-roundup": {
-    "name": "ADV Subreddit Roundup",
-    "version": "0.0.9"
-  },
-  "tester-board": {
-    "name": "tester-board",
-    "version": "0.0.118"
-  },
   "splash-siege": {
     "name": "splash-siege",
     "version": "0.0.6"
@@ -3479,36 +3007,12 @@
     "name": "Personal Prevent",
     "version": "0.0.1"
   },
-  "the-daily-realm": {
-    "name": "The Daily Realm",
-    "version": "2.0.23"
-  },
-  "mod-lens": {
-    "name": "mod-lens",
-    "version": "0.0.14"
-  },
-  "subredit-guessr": {
-    "name": "subredit-guessr",
-    "version": "0.0.8"
-  },
   "guesseddit": {
     "name": "guesseddit",
     "version": "0.0.81"
   },
   "trivelagames": {
     "name": "Trivela",
-    "version": "0.0.15"
-  },
-  "gossip-vortex": {
-    "name": "gossip-vortex",
-    "version": "0.0.5"
-  },
-  "dietpolicee": {
-    "name": "dietpolicee",
-    "version": "0.0.19"
-  },
-  "arrows-puzzle": {
-    "name": "arrows-puzzle",
     "version": "0.0.15"
   },
   "marsettler": {
@@ -3518,18 +3022,6 @@
   "pathrush": {
     "name": "pathrush",
     "version": "1.0.44"
-  },
-  "blob-drop": {
-    "name": "Blob Drop",
-    "version": "0.2.0"
-  },
-  "active-users-only": {
-    "name": "active-users-only",
-    "version": "1.0.2"
-  },
-  "trait-card-rogue": {
-    "name": "Trait",
-    "version": "0.0.3"
   },
   "volt-math-duel": {
     "name": "volt-math-duel",
@@ -3543,18 +3035,6 @@
     "name": "arrow-blocks",
     "version": "0.0.6"
   },
-  "jobyap-bot": {
-    "name": "JobYap Recommender",
-    "version": "0.0.35"
-  },
-  "flag-blitz": {
-    "name": "flag-blitz",
-    "version": "0.0.36"
-  },
-  "tier-list-builder": {
-    "name": "Tier List Builder",
-    "version": "1.0.0"
-  },
   "adv-verify": {
     "name": "ADV Verify Bot",
     "version": "0.0.19"
@@ -3562,10 +3042,6 @@
   "cavsbot": {
     "name": "CavsBot",
     "version": "1.0.0"
-  },
-  "sub-scheduler": {
-    "name": "sub-scheduler",
-    "version": "0.0.17"
   },
   "playwallstreetle": {
     "name": "PlayWallstreetle",
@@ -3578,26 +3054,6 @@
   "socialgrid3d": {
     "name": "socialgrid3d",
     "version": "0.0.62"
-  },
-  "arushiji": {
-    "name": "Arushi Ji",
-    "version": "1.1.0"
-  },
-  "memogrid": {
-    "name": "memogrid",
-    "version": "0.0.2"
-  },
-  "only-op": {
-    "name": "Only OP",
-    "version": "0.0.7"
-  },
-  "mcupolls": {
-    "name": "mcupolls",
-    "version": "0.0.23"
-  },
-  "fruitcrushgame": {
-    "name": "FruitCrush",
-    "version": "0.0.4"
   },
   "dust-bot": {
     "name": "Dust Bot - Sliding Puzzle Game",
@@ -3635,26 +3091,6 @@
     "name": "AegisMod",
     "version": "0.0.5"
   },
-  "theboxofficegame": {
-    "name": "theboxofficegame",
-    "version": "0.0.3"
-  },
-  "baublink": {
-    "name": "baublink",
-    "version": "0.0.8"
-  },
-  "rulewiserr": {
-    "name": "rulewiserr",
-    "version": "0.0.20"
-  },
-  "wayoff-game": {
-    "name": "wayoff-game",
-    "version": "0.0.7"
-  },
-  "ghostline-daily": {
-    "name": "ghostline-daily",
-    "version": "0.0.4"
-  },
   "pulserank-daily": {
     "name": "pulserank-daily",
     "version": "1.0.1"
@@ -3663,10 +3099,6 @@
     "name": "lighthouse-lh",
     "version": "0.0.13"
   },
-  "modqueuecue": {
-    "name": "modqueuecue",
-    "version": "0.0.4"
-  },
   "playboop": {
     "name": "boop",
     "version": "0.0.17"
@@ -3674,18 +3106,6 @@
   "appealdesq": {
     "name": "appealdesq",
     "version": "0.0.24"
-  },
-  "magic-chess-3d": {
-    "name": "Chess: Magic Chess 3D",
-    "version": "0.0.17"
-  },
-  "remoteviewingapp": {
-    "name": "remoteviewingapp",
-    "version": "0.0.128"
-  },
-  "chroma-canvas": {
-    "name": "chroma-canvas",
-    "version": "0.0.13"
   },
   "legend-sim": {
     "name": "Legend Sim",
