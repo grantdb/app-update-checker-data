@@ -3578,5 +3578,25 @@
   "socialgrid3d": {
     "name": "socialgrid3d",
     "version": "0.0.62"
+  },
+  "arushiji": {
+    "name": "Arushi Ji",
+    "version": "1.1.0"
+  },
+  "memogrid": {
+    "name": "memogrid",
+    "version": "0.0.2"
+  },
+  "only-op": {
+    "name": "Only OP",
+    "version": "0.0.7"
+  },
+  "mcupolls": {
+    "name": "mcupolls",
+    "version": "0.0.23"
+  },
+  "fruitcrushgame": {
+    "name": "FruitCrush",
+    "version": "0.0.4"
   }
 }
