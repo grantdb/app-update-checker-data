@@ -3654,5 +3654,17 @@
   "ghostline-daily": {
     "name": "ghostline-daily",
     "version": "0.0.4"
+  },
+  "pulserank-daily": {
+    "name": "pulserank-daily",
+    "version": "1.0.1"
+  },
+  "lighthouse-lh": {
+    "name": "lighthouse-lh",
+    "version": "0.0.13"
+  },
+  "modqueuecue": {
+    "name": "modqueuecue",
+    "version": "0.0.4"
   }
 }
