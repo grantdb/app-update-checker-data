@@ -777,7 +777,7 @@
   },
   "therepbot": {
     "name": "RepBot",
-    "version": "31.6.8"
+    "version": "31.6.16"
   },
   "dupedown": {
     "name": "dupedown",
@@ -1289,7 +1289,7 @@
   },
   "nhl-goalpost": {
     "name": "nhl-goalpost",
-    "version": "2.102.0"
+    "version": "3.10.1"
   },
   "huddle-mod": {
     "name": "Huddle",
