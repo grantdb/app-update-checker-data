@@ -1441,7 +1441,7 @@
   },
   "language-detector": {
     "name": "language-detector",
-    "version": "0.0.26"
+    "version": "0.0.28"
   },
   "galactica-cmd": {
     "name": "Galactica Command",
