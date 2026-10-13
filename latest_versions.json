@@ -3146,5 +3146,9 @@
   "daily-1a": {
     "name": "Daily 1A",
     "version": "0.0.5"
+  },
+  "sumgrids": {
+    "name": "sumgrids",
+    "version": "0.0.114"
   }
 }
