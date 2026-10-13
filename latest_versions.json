@@ -1109,7 +1109,7 @@
   },
   "ninigrams-game": {
     "name": "Ninigrams",
-    "version": "0.1.47"
+    "version": "0.1.53"
   },
   "ratio-bobo": {
     "name": "Ratio! Bobobo! Motivate your users to contribute on some specific flair.",
@@ -2173,7 +2173,7 @@
   },
   "swap-bot": {
     "name": "Trade Confirmation Bot",
-    "version": "0.0.25"
+    "version": "0.0.44"
   },
   "pewpoliquiz": {
     "name": "PewPoliQuiz",
