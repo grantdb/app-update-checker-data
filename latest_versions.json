@@ -1181,7 +1181,7 @@
   },
   "midi-mini-music": {
     "name": "Midi Mini Music: Hommage to tongue drums.",
-    "version": "0.0.27"
+    "version": "0.0.36"
   },
   "lockedin-app": {
     "name": "LockedIn: Predictions &amp; Polls",
@@ -3150,5 +3150,9 @@
   "sumgrids": {
     "name": "sumgrids",
     "version": "0.0.114"
+  },
+  "retromoderator": {
+    "name": "retromoderator",
+    "version": "0.0.11"
   }
 }
