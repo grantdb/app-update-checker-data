@@ -881,7 +881,7 @@
   },
   "word-hunt": {
     "name": "Daily Guess",
-    "version": "0.1.24"
+    "version": "0.1.25"
   },
   "flair-fixer": {
     "name": "Flair Fixer",
@@ -1877,7 +1877,7 @@
   },
   "cfb-scores": {
     "name": "CFB Scoreboard App",
-    "version": "0.0.46"
+    "version": "0.0.55"
   },
   "speed-typer": {
     "name": "speed-typer",
