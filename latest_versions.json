@@ -3226,5 +3226,13 @@
   "bubble-bursts": {
     "name": "bubble-bursts",
     "version": "0.0.12"
+  },
+  "discussion-rank-post": {
+    "name": "Community Rate (test)",
+    "version": "0.0.37"
+  },
+  "contributorstracker": {
+    "name": "Contributors Tracker: Track your best contributors!",
+    "version": "0.0.5"
   }
 }
