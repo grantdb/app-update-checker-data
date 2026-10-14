@@ -3282,5 +3282,13 @@
   "ten-blitz": {
     "name": "ten-blitz",
     "version": "0.1.32"
+  },
+  "modmailmanager": {
+    "name": "ModMailManager",
+    "version": "0.0.57"
+  },
+  "arrowtix": {
+    "name": "Arrowtix - Puzzle Escape Arrow",
+    "version": "0.0.15"
   }
 }
