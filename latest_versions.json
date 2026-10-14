@@ -3234,5 +3234,17 @@
   "contributorstracker": {
     "name": "Contributors Tracker: Track your best contributors!",
     "version": "0.0.5"
+  },
+  "daily-blokk": {
+    "name": "Blokkit",
+    "version": "1.2.1"
+  },
+  "tsla-chart": {
+    "name": "tsla-chart",
+    "version": "0.0.15"
+  },
+  "cjk-lookup": {
+    "name": "CJK Lookup - A Chinese, Japanese, and Korean dictionary",
+    "version": "1.1.3"
   }
 }
