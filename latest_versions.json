@@ -3306,5 +3306,13 @@
   "community-draw": {
     "name": "Community Draw",
     "version": "0.0.58"
+  },
+  "parawall-block": {
+    "name": "Textwall Blocker",
+    "version": "0.0.9"
+  },
+  "modappstats": {
+    "name": "Moderator Applications",
+    "version": "0.0.4"
   }
 }
