@@ -2633,7 +2633,7 @@
   },
   "gif-enigma": {
     "name": "GIF Enigma",
-    "version": "3.20.7"
+    "version": "3.21.1"
   },
   "sub-reposter": {
     "name": "sub-reposter",
@@ -3214,5 +3214,17 @@
   "secourses-pin": {
     "name": "Full Card Pin",
     "version": "0.0.31"
+  },
+  "prestigelab": {
+    "name": "Prestige",
+    "version": "1.1.2"
+  },
+  "indiewikibuddy": {
+    "name": "Indie Wiki Buddy",
+    "version": "0.0.5"
+  },
+  "bubble-bursts": {
+    "name": "bubble-bursts",
+    "version": "0.0.12"
   }
 }
