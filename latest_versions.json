@@ -3250,5 +3250,17 @@
   "movies-app": {
     "name": "Movies &amp; Music",
     "version": "0.0.93"
+  },
+  "fit-the-word": {
+    "name": "Fit the Word",
+    "version": "0.23.545"
+  },
+  "fact-or-cap": {
+    "name": "FactOrCap",
+    "version": "0.0.41"
+  },
+  "r-humanoid": {
+    "name": "Humanoid",
+    "version": "1.0.6"
   }
 }
