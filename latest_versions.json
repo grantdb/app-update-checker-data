@@ -3154,5 +3154,9 @@
   "retromoderator": {
     "name": "retromoderator",
     "version": "0.0.11"
+  },
+  "negativereports": {
+    "name": "negativereports",
+    "version": "1.2.0"
   }
 }
