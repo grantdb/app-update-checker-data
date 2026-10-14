@@ -2245,7 +2245,7 @@
   },
   "designereyegame": {
     "name": "Designer Eye",
-    "version": "0.1.1"
+    "version": "0.1.5"
   },
   "community-cleaner": {
     "name": "community-cleaner",
@@ -3262,5 +3262,9 @@
   "r-humanoid": {
     "name": "Humanoid",
     "version": "1.0.6"
+  },
+  "fpl-community": {
+    "name": "fpl-community",
+    "version": "0.0.8"
   }
 }
