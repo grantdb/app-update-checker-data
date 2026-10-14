@@ -3194,5 +3194,25 @@
   "answervault": {
     "name": "Save Answer",
     "version": "0.0.4"
+  },
+  "sfmatchthreads": {
+    "name": "SFMatchThreadder",
+    "version": "1.3.2"
+  },
+  "echo-wiki": {
+    "name": "EchoWiki",
+    "version": "1.7.3"
+  },
+  "pixel-prophecy": {
+    "name": "pixel-prophecy",
+    "version": "0.0.4"
+  },
+  "cooldown-cop": {
+    "name": "Cooldown Cop",
+    "version": "0.0.22"
+  },
+  "secourses-pin": {
+    "name": "Full Card Pin",
+    "version": "0.0.31"
   }
 }
