@@ -1417,7 +1417,7 @@
   },
   "element-synergy": {
     "name": "Element Synergy",
-    "version": "0.9.5"
+    "version": "0.10.1"
   },
   "notice-board": {
     "name": "Notice Board",
@@ -3158,5 +3158,21 @@
   "negativereports": {
     "name": "negativereports",
     "version": "1.2.0"
+  },
+  "mod-reply": {
+    "name": "Mod Reply",
+    "version": "1.0.0"
+  },
+  "wipe-flair": {
+    "name": "Wipe Flair",
+    "version": "0.0.29"
+  },
+  "rate-guard": {
+    "name": "Rate Guard",
+    "version": "0.0.15"
+  },
+  "trust-restore-bot": {
+    "name": "trust-restore-bot",
+    "version": "0.0.7"
   }
 }
