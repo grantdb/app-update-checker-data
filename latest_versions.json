@@ -2273,7 +2273,7 @@
   },
   "stonefall99": {
     "name": "Stonefall",
-    "version": "0.3.10"
+    "version": "0.3.11"
   },
   "ladder-climb": {
     "name": "Ladder Climb",
@@ -3266,5 +3266,9 @@
   "fpl-community": {
     "name": "fpl-community",
     "version": "0.0.8"
+  },
+  "pixel-peeker": {
+    "name": "Pixel Peeker",
+    "version": "0.0.68"
   }
 }
