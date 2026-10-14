@@ -1549,7 +1549,7 @@
   },
   "wex-ai": {
     "name": "wex-ai",
-    "version": "0.0.151"
+    "version": "0.0.163"
   },
   "detective-match": {
     "name": "Detective Match",
@@ -3186,5 +3186,13 @@
   "detective-hunt": {
     "name": "Detective Search",
     "version": "0.0.13"
+  },
+  "matchpal-fantasy": {
+    "name": "MatchPal.io - Football / Soccer Fantasy Game",
+    "version": "0.0.35"
+  },
+  "answervault": {
+    "name": "Save Answer",
+    "version": "0.0.4"
   }
 }
