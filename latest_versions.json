@@ -3178,5 +3178,13 @@
   "airport-codes": {
     "name": "airport-codes",
     "version": "0.0.8"
+  },
+  "signal-relay": {
+    "name": "signal-relay",
+    "version": "0.0.25"
+  },
+  "detective-hunt": {
+    "name": "Detective Search",
+    "version": "0.0.13"
   }
 }
