@@ -3270,5 +3270,17 @@
   "pixel-peeker": {
     "name": "Pixel Peeker",
     "version": "0.0.68"
+  },
+  "votierapp": {
+    "name": "VoTier",
+    "version": "1.2.0"
+  },
+  "mini-racer": {
+    "name": "Mini Racer",
+    "version": "2.5.3"
+  },
+  "ten-blitz": {
+    "name": "ten-blitz",
+    "version": "0.1.32"
   }
 }
