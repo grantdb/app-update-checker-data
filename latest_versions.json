@@ -2621,7 +2621,7 @@
   },
   "arrowpuzzle": {
     "name": "Amaze Flow",
-    "version": "0.0.329"
+    "version": "0.0.331"
   },
   "mod-bridge": {
     "name": "mod-bridge",
@@ -2649,7 +2649,7 @@
   },
   "pwhl-goalpost": {
     "name": "pwhl-goalpost",
-    "version": "2.102.0"
+    "version": "3.12.1"
   },
   "wordblast": {
     "name": "wordblast",
