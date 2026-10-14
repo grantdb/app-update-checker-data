@@ -3290,5 +3290,21 @@
   "arrowtix": {
     "name": "Arrowtix - Puzzle Escape Arrow",
     "version": "0.0.15"
+  },
+  "detectivedaily": {
+    "name": "Detective Daily",
+    "version": "0.0.18"
+  },
+  "det-equation": {
+    "name": "Detective Equation",
+    "version": "0.0.19"
+  },
+  "community-hubs": {
+    "name": "community-hubs",
+    "version": "1.1.3"
+  },
+  "community-draw": {
+    "name": "Community Draw",
+    "version": "0.0.58"
   }
 }
