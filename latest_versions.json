@@ -3174,5 +3174,9 @@
   "trust-restore-bot": {
     "name": "trust-restore-bot",
     "version": "0.0.7"
+  },
+  "airport-codes": {
+    "name": "airport-codes",
+    "version": "0.0.8"
   }
 }
