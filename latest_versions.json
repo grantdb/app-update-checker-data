@@ -3402,5 +3402,13 @@
   "streamer-stocks": {
     "name": "streamer-stocks",
     "version": "0.0.3"
+  },
+  "mod-notes-memo": {
+    "name": "ModNotes Memo",
+    "version": "0.0.18"
+  },
+  "meme-caption": {
+    "name": "CapThat",
+    "version": "0.0.10"
   }
 }
