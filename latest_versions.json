@@ -3334,5 +3334,9 @@
   "nopermamute": {
     "name": "No Permamute",
     "version": "1.0.1"
+  },
+  "recipe-scale": {
+    "name": "recipe-scale",
+    "version": "0.0.31"
   }
 }
