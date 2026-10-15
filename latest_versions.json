@@ -3382,5 +3382,9 @@
   "synchat": {
     "name": "synchat",
     "version": "0.0.5"
+  },
+  "kitty-dash": {
+    "name": "Kitty Dash",
+    "version": "0.0.26"
   }
 }
