@@ -1749,7 +1749,7 @@
   },
   "cfb-game-threads": {
     "name": "CFB Game Threads",
-    "version": "1.1.0"
+    "version": "1.1.14"
   },
   "tronlegacy1999": {
     "name": "tronlegacy1999",
@@ -3338,5 +3338,9 @@
   "recipe-scale": {
     "name": "recipe-scale",
     "version": "0.0.31"
+  },
+  "weathercast": {
+    "name": "Weathercast",
+    "version": "0.0.30"
   }
 }
