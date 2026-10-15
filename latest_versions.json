@@ -3318,5 +3318,13 @@
   "firewatch17": {
     "name": "Firewatch: Incident Room for Reddit Mods",
     "version": "0.0.41"
+  },
+  "wrose-sentinel": {
+    "name": "wrose-sentinel",
+    "version": "0.0.39"
+  },
+  "reply-timer": {
+    "name": "OP Reply Enforcer (reply-timer)",
+    "version": "3.1.1"
   }
 }
