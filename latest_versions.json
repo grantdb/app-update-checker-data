@@ -2681,7 +2681,7 @@
   },
   "game-aint-real": {
     "name": "AIn&#39;t Real",
-    "version": "2.6.0"
+    "version": "2.6.1"
   },
   "solitaireclassic": {
     "name": "Daily Solitaire",
@@ -3326,5 +3326,13 @@
   "reply-timer": {
     "name": "OP Reply Enforcer (reply-timer)",
     "version": "3.1.1"
+  },
+  "tchartxyz": {
+    "name": "tchartxyz",
+    "version": "0.0.180"
+  },
+  "nopermamute": {
+    "name": "No Permamute",
+    "version": "1.0.1"
   }
 }
