@@ -3418,5 +3418,13 @@
   "water-lagoon": {
     "name": "Living Waters Lagoon",
     "version": "0.0.128"
+  },
+  "modmail-purge": {
+    "name": "modmail-purge",
+    "version": "0.0.4"
+  },
+  "chl-goalpost": {
+    "name": "chl-goalpost",
+    "version": "3.15.2"
   }
 }
