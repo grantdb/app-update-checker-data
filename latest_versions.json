@@ -3450,5 +3450,9 @@
   "nba-hub": {
     "name": "NBA Live App",
     "version": "0.0.68"
+  },
+  "wordy-bunch": {
+    "name": "Wordy Bunch",
+    "version": "0.2.710"
   }
 }
