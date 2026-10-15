@@ -3370,5 +3370,17 @@
   "useranalyzer": {
     "name": "useranalyzer",
     "version": "1.0.0"
+  },
+  "workit-app": {
+    "name": "Workit",
+    "version": "0.0.9"
+  },
+  "sumitgame": {
+    "name": "sumitgame",
+    "version": "0.0.16"
+  },
+  "synchat": {
+    "name": "synchat",
+    "version": "0.0.5"
   }
 }
