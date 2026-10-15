@@ -3314,5 +3314,9 @@
   "modappstats": {
     "name": "Moderator Applications",
     "version": "0.0.4"
+  },
+  "firewatch17": {
+    "name": "Firewatch: Incident Room for Reddit Mods",
+    "version": "0.0.41"
   }
 }
