@@ -3454,5 +3454,13 @@
   "wordy-bunch": {
     "name": "Wordy Bunch",
     "version": "0.2.710"
+  },
+  "knobjam": {
+    "name": "KnobJam",
+    "version": "0.0.58"
+  },
+  "supreme-moderator": {
+    "name": "supreme-moderator",
+    "version": "0.2.0"
   }
 }
