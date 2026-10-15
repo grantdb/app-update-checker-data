@@ -3346,5 +3346,25 @@
   "humancheckpoint": {
     "name": "Human Checkpoint",
     "version": "1.0.35"
+  },
+  "slideblast-rdt": {
+    "name": "SlideBlast - Fruit Merge Puzzle",
+    "version": "0.0.34"
+  },
+  "giveawayapp": {
+    "name": "Giveaway Maker",
+    "version": "0.0.6"
+  },
+  "rim-rush": {
+    "name": "Rim Rush",
+    "version": "0.0.163"
+  },
+  "soccer-predict": {
+    "name": "SoccerPredict",
+    "version": "0.1.0"
+  },
+  "duplicate-guard": {
+    "name": "Duplicate Guard",
+    "version": "0.0.39"
   }
 }
