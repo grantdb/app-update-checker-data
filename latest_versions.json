@@ -3410,5 +3410,13 @@
   "meme-caption": {
     "name": "CapThat",
     "version": "0.0.10"
+  },
+  "langualad": {
+    "name": "languaLad",
+    "version": "0.0.12"
+  },
+  "water-lagoon": {
+    "name": "Living Waters Lagoon",
+    "version": "0.0.128"
   }
 }
