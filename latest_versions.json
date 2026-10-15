@@ -3386,5 +3386,9 @@
   "kitty-dash": {
     "name": "Kitty Dash",
     "version": "0.0.26"
+  },
+  "modanchor": {
+    "name": "Mod Anchor",
+    "version": "1.0.3"
   }
 }
