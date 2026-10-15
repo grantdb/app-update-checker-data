@@ -2725,7 +2725,7 @@
   },
   "mobrush-3d": {
     "name": "mobrush-3d",
-    "version": "0.5.29"
+    "version": "0.5.32"
   },
   "click-bait-game": {
     "name": "Click Bait Game",
@@ -3342,5 +3342,9 @@
   "weathercast": {
     "name": "Weathercast",
     "version": "0.0.30"
+  },
+  "humancheckpoint": {
+    "name": "Human Checkpoint",
+    "version": "1.0.35"
   }
 }
