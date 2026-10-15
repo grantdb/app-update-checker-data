@@ -3426,5 +3426,13 @@
   "chl-goalpost": {
     "name": "chl-goalpost",
     "version": "3.15.2"
+  },
+  "audioforyou": {
+    "name": "Saiddit",
+    "version": "0.0.25"
+  },
+  "wakelings-duel": {
+    "name": "Wakelings Duel",
+    "version": "0.0.23"
   }
 }
