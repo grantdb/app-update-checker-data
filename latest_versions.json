@@ -3462,5 +3462,9 @@
   "supreme-moderator": {
     "name": "supreme-moderator",
     "version": "0.2.0"
+  },
+  "warning-track": {
+    "name": "Warning Track",
+    "version": "0.0.77"
   }
 }
