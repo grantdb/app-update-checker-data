@@ -3434,5 +3434,21 @@
   "wakelings-duel": {
     "name": "Wakelings Duel",
     "version": "0.0.23"
+  },
+  "pipe-panic": {
+    "name": "Pipe Panic",
+    "version": "0.3.98"
+  },
+  "check-ai": {
+    "name": "check-ai",
+    "version": "0.0.11"
+  },
+  "guardmyflair": {
+    "name": "guardmyflair",
+    "version": "0.0.11"
+  },
+  "nba-hub": {
+    "name": "NBA Live App",
+    "version": "0.0.68"
   }
 }
