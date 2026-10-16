@@ -3634,5 +3634,13 @@
   "ring-escape": {
     "name": "Ring Escape",
     "version": "0.0.69"
+  },
+  "metricshourcom": {
+    "name": "Metricshour Market Battle",
+    "version": "0.0.21"
+  },
+  "swarm-siege": {
+    "name": "swarm siege",
+    "version": "0.0.6"
   }
 }
