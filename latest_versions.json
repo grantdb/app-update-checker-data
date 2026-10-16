@@ -3550,5 +3550,25 @@
   "karma-economy": {
     "name": "karma-economy",
     "version": "0.0.12"
+  },
+  "pokevspoke": {
+    "name": "PokeVsPoke",
+    "version": "1.0.4"
+  },
+  "crack-lock": {
+    "name": "crack-lock",
+    "version": "0.0.26"
+  },
+  "repeat-comm-bot": {
+    "name": "repeat-comm-bot",
+    "version": "0.0.2"
+  },
+  "shell-dojo": {
+    "name": "shell-dojo",
+    "version": "0.0.33"
+  },
+  "revelia-horoscop": {
+    "name": "Revelia Horoscope",
+    "version": "0.0.17"
   }
 }
