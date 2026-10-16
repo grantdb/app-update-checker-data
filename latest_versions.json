@@ -3478,5 +3478,13 @@
   "the-debug-oracle": {
     "name": "the-debug-oracle",
     "version": "0.0.6"
+  },
+  "tennistrivia": {
+    "name": "tennistrivia",
+    "version": "0.0.8"
+  },
+  "word-shift": {
+    "name": "Rubilex",
+    "version": "0.1.2"
   }
 }
