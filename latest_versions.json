@@ -3510,5 +3510,9 @@
   "glanceeyestrong": {
     "name": "Glance Eye Strong",
     "version": "0.0.25"
+  },
+  "aoe4---leaderboard": {
+    "name": "aoe4---leaderboard",
+    "version": "0.0.6"
   }
 }
