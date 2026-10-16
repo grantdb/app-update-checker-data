@@ -2577,7 +2577,7 @@
   },
   "locationguess": {
     "name": "Guess the Place",
-    "version": "0.0.103"
+    "version": "0.0.114"
   },
   "sayitintherapy": {
     "name": "SayItInTherapy",
@@ -3542,5 +3542,13 @@
   "pickem-game": {
     "name": "pickem-game",
     "version": "0.0.28"
+  },
+  "fantasy-league": {
+    "name": "Fantasy League",
+    "version": "0.0.18"
+  },
+  "karma-economy": {
+    "name": "karma-economy",
+    "version": "0.0.12"
   }
 }
