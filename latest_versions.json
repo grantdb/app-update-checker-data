@@ -3526,5 +3526,9 @@
   "reputibot": {
     "name": "ReputiBot - AI Trust Scoring for Mods",
     "version": "0.0.5"
+  },
+  "flair-utility": {
+    "name": "Flair Utility",
+    "version": "0.0.6"
   }
 }
