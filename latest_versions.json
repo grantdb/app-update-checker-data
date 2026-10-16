@@ -2545,7 +2545,7 @@
   },
   "gamino-app": {
     "name": "gamino-app",
-    "version": "0.0.116"
+    "version": "0.0.146"
   },
   "gunsofboom00": {
     "name": "gunsofboom00",
@@ -3590,5 +3590,13 @@
   "triviaforge": {
     "name": "triviaforge",
     "version": "1.0.4"
+  },
+  "wikiappend": {
+    "name": "WikiMate",
+    "version": "0.0.2"
+  },
+  "thread-brawlers": {
+    "name": "Thread Brawlers",
+    "version": "0.0.34"
   }
 }
