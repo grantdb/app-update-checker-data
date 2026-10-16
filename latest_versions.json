@@ -3570,5 +3570,13 @@
   "revelia-horoscop": {
     "name": "Revelia Horoscope",
     "version": "0.0.17"
+  },
+  "w0uld-u-rath3r": {
+    "name": "w0uld-u-rath3r",
+    "version": "0.0.3"
+  },
+  "ttol-game": {
+    "name": "ttol-game",
+    "version": "0.0.9"
   }
 }
