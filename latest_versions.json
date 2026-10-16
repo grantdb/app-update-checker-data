@@ -3502,5 +3502,13 @@
   "my2048city": {
     "name": "my2048city",
     "version": "0.0.18"
+  },
+  "auracouncil": {
+    "name": "auracouncil",
+    "version": "0.0.13"
+  },
+  "glanceeyestrong": {
+    "name": "Glance Eye Strong",
+    "version": "0.0.25"
   }
 }
