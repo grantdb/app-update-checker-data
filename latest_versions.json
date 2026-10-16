@@ -3578,5 +3578,17 @@
   "ttol-game": {
     "name": "ttol-game",
     "version": "0.0.9"
+  },
+  "solitaire-royale": {
+    "name": "solitaire-royale",
+    "version": "0.0.8"
+  },
+  "scamindexfeed": {
+    "name": "scamindexfeed",
+    "version": "0.0.32"
+  },
+  "triviaforge": {
+    "name": "triviaforge",
+    "version": "1.0.4"
   }
 }
