@@ -3534,5 +3534,13 @@
   "faction-warfare": {
     "name": "Faction Warfare",
     "version": "0.0.9"
+  },
+  "chessmultiplayer": {
+    "name": "chessmultiplayer",
+    "version": "0.0.11"
+  },
+  "pickem-game": {
+    "name": "pickem-game",
+    "version": "0.0.28"
   }
 }
