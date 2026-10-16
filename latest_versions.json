@@ -3530,5 +3530,9 @@
   "flair-utility": {
     "name": "Flair Utility",
     "version": "0.0.6"
+  },
+  "faction-warfare": {
+    "name": "Faction Warfare",
+    "version": "0.0.9"
   }
 }
