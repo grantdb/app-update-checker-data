@@ -3598,5 +3598,13 @@
   "thread-brawlers": {
     "name": "Thread Brawlers",
     "version": "0.0.34"
+  },
+  "karmuseum": {
+    "name": "Karmuseum",
+    "version": "0.0.7"
+  },
+  "cp-search": {
+    "name": "Cult Podcasts Search",
+    "version": "0.0.48"
   }
 }
