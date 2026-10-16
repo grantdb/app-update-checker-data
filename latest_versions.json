@@ -3466,5 +3466,17 @@
   "warning-track": {
     "name": "Warning Track",
     "version": "0.0.77"
+  },
+  "socialchecks": {
+    "name": "socialchecks",
+    "version": "0.0.18"
+  },
+  "tech-screen": {
+    "name": "tech-screen",
+    "version": "0.0.24"
+  },
+  "the-debug-oracle": {
+    "name": "the-debug-oracle",
+    "version": "0.0.6"
   }
 }
