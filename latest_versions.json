@@ -2377,7 +2377,7 @@
   },
   "pawdoku-mystery": {
     "name": "pawdoku-mystery",
-    "version": "0.0.15"
+    "version": "0.0.16"
   },
   "insultguard": {
     "name": "insultguard",
@@ -2953,7 +2953,7 @@
   },
   "dice-battle-dev": {
     "name": "Dice Fight",
-    "version": "0.0.131"
+    "version": "0.0.136"
   },
   "gift-tracker": {
     "name": "gift-tracker",
@@ -3606,5 +3606,13 @@
   "cp-search": {
     "name": "Cult Podcasts Search",
     "version": "0.0.48"
+  },
+  "nflquiz": {
+    "name": "nflquiz",
+    "version": "0.0.25"
+  },
+  "block-down": {
+    "name": "block-down",
+    "version": "0.0.59"
   }
 }
