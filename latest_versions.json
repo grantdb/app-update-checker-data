@@ -2344,8 +2344,8 @@
     "version": "0.0.24"
   },
   "a-news-bot": {
-    "name": "a-news-bot",
-    "version": "0.0.18"
+    "name": "News Games Releases",
+    "version": "0.0.24"
   },
   "whoami-app": {
     "name": "Who am I?",
@@ -3642,5 +3642,13 @@
   "swarm-siege": {
     "name": "swarm siege",
     "version": "0.0.6"
+  },
+  "waiway-blindspot": {
+    "name": "waiway-blindspot",
+    "version": "0.0.3"
+  },
+  "hitorquit-app": {
+    "name": "HitOrQuit",
+    "version": "0.3.15"
   }
 }
