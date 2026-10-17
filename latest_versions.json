@@ -3730,5 +3730,17 @@
   "die-onthathill": {
     "name": "die-onthathill",
     "version": "0.0.9"
+  },
+  "littlewild-game": {
+    "name": "littlewild-game",
+    "version": "0.0.5"
+  },
+  "final-word-showdown": {
+    "name": "final-word-showdown",
+    "version": "1.0.0"
+  },
+  "feng-shui-8-bit": {
+    "name": "feng-shui-8-bit",
+    "version": "0.0.13"
   }
 }
