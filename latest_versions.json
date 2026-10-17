@@ -3674,5 +3674,17 @@
   "magic-football": {
     "name": "Magic Football  Tactical 1v1",
     "version": "0.0.31"
+  },
+  "relationtips": {
+    "name": "relationtips",
+    "version": "0.0.45"
+  },
+  "brainvita-app": {
+    "name": "brainvita-app",
+    "version": "0.0.7"
+  },
+  "guessclock": {
+    "name": "guessclock",
+    "version": "0.2.0"
   }
 }
