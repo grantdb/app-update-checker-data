@@ -2073,7 +2073,7 @@
   },
   "playcrambld": {
     "name": "CRAMBLD",
-    "version": "0.0.8"
+    "version": "0.0.12"
   },
   "foldably": {
     "name": "foldably",
@@ -3714,5 +3714,9 @@
   "roasts-and-comebacks": {
     "name": "Roasts and Comeback",
     "version": "0.0.2"
+  },
+  "zeus-trials": {
+    "name": "Zeus Trials",
+    "version": "0.0.6"
   }
 }
