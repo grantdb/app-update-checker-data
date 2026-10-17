@@ -161,7 +161,7 @@
   },
   "automod-sync": {
     "name": "Automod Sync",
-    "version": "1.3.4"
+    "version": "1.3.5"
   },
   "flairandapprove": {
     "name": "Update flair, Approve user and Approve post",
@@ -173,7 +173,7 @@
   },
   "queue-pruner": {
     "name": "Modqueue Pruner",
-    "version": "1.4.2"
+    "version": "1.5.1"
   },
   "erase-user": {
     "name": "erase-user - Ban. Erase. Mute. Instantly.",
