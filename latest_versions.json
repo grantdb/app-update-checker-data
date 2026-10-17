@@ -3774,5 +3774,21 @@
   "reflex-challenge": {
     "name": "reflex-challenge",
     "version": "0.0.22"
+  },
+  "charge-the-coil": {
+    "name": "CHARGE THE COIL",
+    "version": "0.1.1"
+  },
+  "word-maestro": {
+    "name": "Word Maestro",
+    "version": "0.0.59"
+  },
+  "desklings": {
+    "name": "desklings",
+    "version": "0.0.7"
+  },
+  "scanlock": {
+    "name": "scanlock",
+    "version": "0.0.3"
   }
 }
