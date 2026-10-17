@@ -3686,5 +3686,25 @@
   "guessclock": {
     "name": "guessclock",
     "version": "0.2.0"
+  },
+  "trajectory-daily": {
+    "name": "trajectory-daily",
+    "version": "0.0.3"
+  },
+  "mazendav": {
+    "name": "Mazenda",
+    "version": "0.0.134"
+  },
+  "puzzle-15": {
+    "name": "Puzzle 15",
+    "version": "0.8.3"
+  },
+  "postparts": {
+    "name": "Post Chain",
+    "version": "0.0.4"
+  },
+  "pourchestra": {
+    "name": "pourchestra",
+    "version": "1.0.6"
   }
 }
