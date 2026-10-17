@@ -3758,5 +3758,9 @@
   "karmacritter": {
     "name": "KarmaCritter",
     "version": "1.0.15"
+  },
+  "jzswitchboard": {
+    "name": "Switchboard",
+    "version": "0.0.2"
   }
 }
