@@ -3706,5 +3706,13 @@
   "pourchestra": {
     "name": "pourchestra",
     "version": "1.0.6"
+  },
+  "modsteward": {
+    "name": "modsteward",
+    "version": "1.0.2"
+  },
+  "roasts-and-comebacks": {
+    "name": "Roasts and Comeback",
+    "version": "0.0.2"
   }
 }
