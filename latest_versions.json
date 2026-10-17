@@ -3762,5 +3762,17 @@
   "jzswitchboard": {
     "name": "Switchboard",
     "version": "0.0.2"
+  },
+  "cartographer-daily": {
+    "name": "cartographer-daily",
+    "version": "0.0.2"
+  },
+  "foodoku": {
+    "name": "foodoku",
+    "version": "0.9.5"
+  },
+  "reflex-challenge": {
+    "name": "reflex-challenge",
+    "version": "0.0.22"
   }
 }
