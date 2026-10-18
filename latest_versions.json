@@ -441,7 +441,7 @@
   },
   "crosspost-manager": {
     "name": "Crosspost Manager",
-    "version": "1.0.0"
+    "version": "1.0.3"
   },
   "removalreasonids": {
     "name": "Show Removal Reason IDs",
