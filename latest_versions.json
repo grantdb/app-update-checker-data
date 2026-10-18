@@ -777,7 +777,7 @@
   },
   "therepbot": {
     "name": "RepBot",
-    "version": "31.6.16"
+    "version": "31.6.24"
   },
   "dupedown": {
     "name": "dupedown",
@@ -869,7 +869,7 @@
   },
   "nflgdtbot": {
     "name": "nflgdtbot",
-    "version": "1.7.1"
+    "version": "2.0.6"
   },
   "twkchat": {
     "name": "twkchat",
