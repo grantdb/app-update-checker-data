@@ -733,7 +733,7 @@
   },
   "action-log": {
     "name": "Action Log",
-    "version": "1.3.0"
+    "version": "1.4.2"
   },
   "a-calendar": {
     "name": "calendar: simple + quick subreddit events",
@@ -1289,7 +1289,7 @@
   },
   "nhl-goalpost": {
     "name": "nhl-goalpost",
-    "version": "3.10.1"
+    "version": "3.17.8"
   },
   "huddle-mod": {
     "name": "Huddle",
