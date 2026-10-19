@@ -765,7 +765,7 @@
   },
   "toolbox-pruner": {
     "name": "Toolbox Notes Pruner",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   "modscope": {
     "name": "ModScope",
@@ -925,7 +925,7 @@
   },
   "nba-scores": {
     "name": "NBA Scoreboard App",
-    "version": "0.1.43"
+    "version": "0.1.45"
   },
   "redact-helper": {
     "name": "Redact Helper",
