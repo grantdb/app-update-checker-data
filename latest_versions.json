@@ -857,7 +857,7 @@
   },
   "adv-core": {
     "name": "ADV Core Bot",
-    "version": "0.0.393"
+    "version": "0.0.394"
   },
   "frequentmuter": {
     "name": "Frequency Muter",
@@ -877,7 +877,7 @@
   },
   "youtube-gemini": {
     "name": "YouTube + Gemini Post",
-    "version": "0.2.0"
+    "version": "0.3.0"
   },
   "word-hunt": {
     "name": "Daily Guess",
