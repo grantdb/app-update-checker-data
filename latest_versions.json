@@ -1417,7 +1417,7 @@
   },
   "shuffle-it": {
     "name": "shuffle-it",
-    "version": "0.2.1"
+    "version": "0.3.1"
   },
   "pick-a-partridge": {
     "name": "Pick-A-Partridge",
@@ -2821,7 +2821,7 @@
   },
   "sumgrids": {
     "name": "sumgrids",
-    "version": "0.0.114"
+    "version": "0.0.116"
   },
   "retromoderator": {
     "name": "retromoderator",
