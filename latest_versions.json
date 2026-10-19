@@ -1401,7 +1401,7 @@
   },
   "post-title-check": {
     "name": "Post Title Check",
-    "version": "0.0.87"
+    "version": "0.0.88"
   },
   "element-synergy": {
     "name": "Element Synergy",
@@ -1621,7 +1621,7 @@
   },
   "trustnet-mod": {
     "name": "trustnet-mod",
-    "version": "0.0.34"
+    "version": "0.0.36"
   },
   "guessthebreed": {
     "name": "guessthebreed",
