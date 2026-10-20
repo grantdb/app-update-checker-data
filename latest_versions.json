@@ -1665,7 +1665,7 @@
   },
   "automod-easy": {
     "name": "AutoMod Easy",
-    "version": "0.0.150"
+    "version": "0.0.151"
   },
   "gamepadtest": {
     "name": "Gamepad Tester",
@@ -2125,7 +2125,7 @@
   },
   "email-verify": {
     "name": "email-verify",
-    "version": "0.0.49"
+    "version": "0.0.50"
   },
   "designereyegame": {
     "name": "Designer Eye",
