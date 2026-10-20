@@ -1341,7 +1341,7 @@
   },
   "dice-daemon": {
     "name": "Dice Daemon",
-    "version": "0.0.20"
+    "version": "0.0.21"
   },
   "slipstream-daily": {
     "name": "slipstream-daily",
