@@ -1537,7 +1537,7 @@
   },
   "wex-ai": {
     "name": "wex-ai",
-    "version": "0.0.163"
+    "version": "0.0.165"
   },
   "detective-match": {
     "name": "Detective Match",
@@ -2841,7 +2841,7 @@
   },
   "rate-guard": {
     "name": "Rate Guard",
-    "version": "0.0.15"
+    "version": "0.0.16"
   },
   "trust-restore-bot": {
     "name": "trust-restore-bot",
