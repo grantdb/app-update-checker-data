@@ -2109,7 +2109,7 @@
   },
   "moderator-sentient": {
     "name": "Moderator Sentient",
-    "version": "0.0.29"
+    "version": "0.0.30"
   },
   "tarot-cat-puzzle": {
     "name": "Tarot Cat Puzzle",
@@ -2869,7 +2869,7 @@
   },
   "sfmatchthreads": {
     "name": "SFMatchThreadder",
-    "version": "1.3.2"
+    "version": "1.3.14"
   },
   "echo-wiki": {
     "name": "EchoWiki",
