@@ -2429,7 +2429,7 @@
   },
   "gif-enigma": {
     "name": "GIF Enigma",
-    "version": "3.21.1"
+    "version": "3.23.1"
   },
   "sub-reposter": {
     "name": "sub-reposter",
@@ -3398,5 +3398,9 @@
   "scanlock": {
     "name": "scanlock",
     "version": "0.0.3"
+  },
+  "brigade-alarm": {
+    "name": "Brigade Alarm",
+    "version": "0.0.4"
   }
 }
