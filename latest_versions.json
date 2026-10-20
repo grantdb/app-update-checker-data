@@ -1653,7 +1653,7 @@
   },
   "yarnjampuzzle": {
     "name": "Yarn Jam",
-    "version": "0.0.124"
+    "version": "0.0.128"
   },
   "typebattle-app": {
     "name": "TypeBattle",
@@ -2949,11 +2949,11 @@
   },
   "mini-racer": {
     "name": "Mini Racer",
-    "version": "2.5.3"
+    "version": "2.6.0"
   },
   "ten-blitz": {
     "name": "ten-blitz",
-    "version": "0.1.32"
+    "version": "0.1.34"
   },
   "modmailmanager": {
     "name": "ModMailManager",
