@@ -3406,5 +3406,9 @@
   "game-dock": {
     "name": "Game Dock",
     "version": "0.1.22"
+  },
+  "connexio-mutex": {
+    "name": "Connexio MuteX",
+    "version": "0.0.12"
   }
 }
