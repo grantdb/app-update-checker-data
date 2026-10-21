@@ -2185,7 +2185,7 @@
   },
   "queuecascade": {
     "name": "Queue Cascade",
-    "version": "0.0.15"
+    "version": "0.0.16"
   },
   "orik-app": {
     "name": "Pixel Wars",
@@ -3033,7 +3033,7 @@
   },
   "duplicate-guard": {
     "name": "Duplicate Guard",
-    "version": "0.0.39"
+    "version": "0.0.40"
   },
   "useranalyzer": {
     "name": "useranalyzer",
@@ -3402,5 +3402,9 @@
   "brigade-alarm": {
     "name": "Brigade Alarm",
     "version": "0.0.4"
+  },
+  "game-dock": {
+    "name": "Game Dock",
+    "version": "0.1.22"
   }
 }
