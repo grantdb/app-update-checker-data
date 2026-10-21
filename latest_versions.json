@@ -2977,7 +2977,7 @@
   },
   "community-draw": {
     "name": "Community Draw",
-    "version": "0.0.58"
+    "version": "0.0.62"
   },
   "parawall-block": {
     "name": "Textwall Blocker",
@@ -3089,7 +3089,7 @@
   },
   "chl-goalpost": {
     "name": "chl-goalpost",
-    "version": "3.15.2"
+    "version": "3.32.2"
   },
   "audioforyou": {
     "name": "Saiddit",
