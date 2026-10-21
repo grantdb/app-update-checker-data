@@ -3013,7 +3013,7 @@
   },
   "weathercast": {
     "name": "Weathercast",
-    "version": "0.0.30"
+    "version": "0.0.32"
   },
   "humancheckpoint": {
     "name": "Human Checkpoint",
@@ -3410,5 +3410,21 @@
   "connexio-mutex": {
     "name": "Connexio MuteX",
     "version": "0.0.12"
+  },
+  "chaotic-wheels": {
+    "name": "Chaotic Wheels",
+    "version": "0.0.5"
+  },
+  "mod360pro": {
+    "name": "Mod360pro",
+    "version": "0.0.42"
+  },
+  "sudo2026": {
+    "name": "sudo2026",
+    "version": "0.0.34"
+  },
+  "smackthatcaptcha": {
+    "name": "Smack That Captcha: The Frictionless, Gamified Spam Filter",
+    "version": "0.0.23"
   }
 }
