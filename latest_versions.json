@@ -2244,8 +2244,8 @@
     "version": "0.0.28"
   },
   "pawdoku-mystery": {
-    "name": "pawdoku-mystery",
-    "version": "0.0.16"
+    "name": "Pawdoku Mystery",
+    "version": "0.0.19"
   },
   "sumwords-game": {
     "name": "sumwords-game",
@@ -3426,5 +3426,17 @@
   "smackthatcaptcha": {
     "name": "Smack That Captcha: The Frictionless, Gamified Spam Filter",
     "version": "0.0.23"
+  },
+  "my-social-links": {
+    "name": "My Social Links",
+    "version": "1.0.1"
+  },
+  "botforlazymods": {
+    "name": "botforlazymods",
+    "version": "0.0.6"
+  },
+  "pomodorotime": {
+    "name": "Pomodoro Timer",
+    "version": "0.0.2"
   }
 }
