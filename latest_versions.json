@@ -3606,5 +3606,17 @@
   "sudoku-speed-run": {
     "name": "Sudoku Speed Run",
     "version": "0.0.5"
+  },
+  "crickettrivia": {
+    "name": "crickettrivia",
+    "version": "0.0.26"
+  },
+  "prediction-league": {
+    "name": "prediction-league",
+    "version": "0.0.5"
+  },
+  "reply-coach": {
+    "name": "reply-coach",
+    "version": "0.0.3"
   }
 }
