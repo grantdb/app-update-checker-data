@@ -3494,5 +3494,17 @@
   "space-jewel": {
     "name": "GreedGalaxy",
     "version": "0.0.126"
+  },
+  "adv-roundup": {
+    "name": "ADV Subreddit Roundup",
+    "version": "0.0.9"
+  },
+  "free-bet-magic": {
+    "name": "Free Bet Magic",
+    "version": "0.0.39"
+  },
+  "debate-league": {
+    "name": "debate-league",
+    "version": "0.0.66"
   }
 }
