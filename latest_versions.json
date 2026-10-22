@@ -3558,5 +3558,13 @@
   "zenqueue-mod": {
     "name": "zenqueue-mod",
     "version": "0.0.8"
+  },
+  "stemdaily": {
+    "name": "stemdaily",
+    "version": "0.0.8"
+  },
+  "guesstheplant": {
+    "name": "GuessThePlant",
+    "version": "0.0.14"
   }
 }
