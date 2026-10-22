@@ -3654,5 +3654,13 @@
   "ttokdoku": {
     "name": "TtokDoku",
     "version": "0.3.34"
+  },
+  "orbit-pop-moa": {
+    "name": "Orbit Pop  Planet Adventure",
+    "version": "0.4.1"
+  },
+  "tilematch": {
+    "name": "tilematch",
+    "version": "0.5.0"
   }
 }
