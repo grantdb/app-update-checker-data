@@ -3506,5 +3506,9 @@
   "debate-league": {
     "name": "debate-league",
     "version": "0.0.66"
+  },
+  "droppy-blocky": {
+    "name": "Droppy Blocky",
+    "version": "0.0.31"
   }
 }
