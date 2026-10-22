@@ -3574,5 +3574,21 @@
   "rescue-guard": {
     "name": "Rescue Guard",
     "version": "0.0.25"
+  },
+  "mailguardian3": {
+    "name": "Mail Guardian",
+    "version": "0.0.3"
+  },
+  "f1-reaction": {
+    "name": "f1-reaction",
+    "version": "0.0.4"
+  },
+  "pixelkickers": {
+    "name": "Pixel Kickers",
+    "version": "0.0.63"
+  },
+  "mcrashers": {
+    "name": "Multiplication Crashers",
+    "version": "1.0.14"
   }
 }
