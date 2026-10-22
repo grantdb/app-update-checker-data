@@ -3542,5 +3542,17 @@
   "solar-calculator": {
     "name": "solar-calculator",
     "version": "0.0.209"
+  },
+  "prismfallgame": {
+    "name": "Prismfall",
+    "version": "0.0.12"
+  },
+  "make-to-ten": {
+    "name": "Make To Ten",
+    "version": "0.0.36"
+  },
+  "animecrown": {
+    "name": "Anime Crown",
+    "version": "0.0.8"
   }
 }
