@@ -3510,5 +3510,21 @@
   "droppy-blocky": {
     "name": "Droppy Blocky",
     "version": "0.0.31"
+  },
+  "sub-olympics": {
+    "name": "sub-olympics",
+    "version": "0.1.14"
+  },
+  "huckid": {
+    "name": "HuckID",
+    "version": "0.0.15"
+  },
+  "hott-take": {
+    "name": "hott-take",
+    "version": "0.1.0"
+  },
+  "modvitals": {
+    "name": "modvitals",
+    "version": "0.0.16"
   }
 }
