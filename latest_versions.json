@@ -2649,7 +2649,7 @@
   },
   "screen-shot-bot": {
     "name": "Screen Shot Bot",
-    "version": "1.0.82"
+    "version": "1.0.83"
   },
   "my-solitaire-games": {
     "name": "My Solitaire Card Game",
@@ -3526,5 +3526,21 @@
   "modvitals": {
     "name": "modvitals",
     "version": "0.0.16"
+  },
+  "playpixelbeads": {
+    "name": "Pixel Beads",
+    "version": "0.0.231"
+  },
+  "cash-ladder": {
+    "name": "cash-ladder",
+    "version": "0.0.9"
+  },
+  "seedclash": {
+    "name": "seedclash",
+    "version": "0.0.45"
+  },
+  "solar-calculator": {
+    "name": "solar-calculator",
+    "version": "0.0.209"
   }
 }
