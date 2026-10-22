@@ -3438,5 +3438,9 @@
   "pomodorotime": {
     "name": "Pomodoro Timer",
     "version": "0.0.2"
+  },
+  "decision-loop": {
+    "name": "Reddit Decision Loop",
+    "version": "0.0.2"
   }
 }
