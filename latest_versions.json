@@ -3666,5 +3666,13 @@
   "chess-board": {
     "name": "chess-board",
     "version": "0.0.157"
+  },
+  "summit-game": {
+    "name": "summit-game",
+    "version": "0.0.96"
+  },
+  "forest-rescue": {
+    "name": "forest-rescue",
+    "version": "0.0.2"
   }
 }
