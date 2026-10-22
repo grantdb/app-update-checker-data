@@ -3466,5 +3466,17 @@
   "sudokupuzzle-app": {
     "name": "sudokupuzzle-app",
     "version": "0.0.12"
+  },
+  "modgather": {
+    "name": "ModGather",
+    "version": "0.0.3"
+  },
+  "top-gainer-ah": {
+    "name": "top-gainer-ah",
+    "version": "0.0.19"
+  },
+  "tester-board": {
+    "name": "tester-board",
+    "version": "0.0.130"
   }
 }
