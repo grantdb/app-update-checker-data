@@ -3618,5 +3618,9 @@
   "reply-coach": {
     "name": "reply-coach",
     "version": "0.0.3"
+  },
+  "watchalong-matvt": {
+    "name": "watchalong-matvt",
+    "version": "0.0.4"
   }
 }
