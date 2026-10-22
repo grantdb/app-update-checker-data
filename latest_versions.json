@@ -2693,7 +2693,7 @@
   },
   "dice-battle-dev": {
     "name": "Dice Fight",
-    "version": "0.0.136"
+    "version": "0.0.139"
   },
   "escuchar-post": {
     "name": "Lector de Texto - Text to Voice",
@@ -3646,5 +3646,13 @@
   "bugshelper": {
     "name": "bugshelper",
     "version": "0.0.27"
+  },
+  "infinite-subs": {
+    "name": "infinite-subs",
+    "version": "0.1.7"
+  },
+  "ttokdoku": {
+    "name": "TtokDoku",
+    "version": "0.3.34"
   }
 }
