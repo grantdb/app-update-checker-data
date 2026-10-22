@@ -3622,5 +3622,13 @@
   "watchalong-matvt": {
     "name": "watchalong-matvt",
     "version": "0.0.4"
+  },
+  "imagecontextbot": {
+    "name": "ImageContextBot",
+    "version": "0.0.18"
+  },
+  "royaldle": {
+    "name": "royaldle",
+    "version": "0.3.0"
   }
 }
