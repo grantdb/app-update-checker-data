@@ -3630,5 +3630,21 @@
   "royaldle": {
     "name": "royaldle",
     "version": "0.3.0"
+  },
+  "smilestetris": {
+    "name": "smilestetris",
+    "version": "0.0.13"
+  },
+  "word-strands": {
+    "name": "Daily Grid",
+    "version": "0.1.4"
+  },
+  "trivia-hub": {
+    "name": "Trivia Hub",
+    "version": "0.0.18"
+  },
+  "bugshelper": {
+    "name": "bugshelper",
+    "version": "0.0.27"
   }
 }
