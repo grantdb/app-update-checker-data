@@ -2661,7 +2661,7 @@
   },
   "playscraper-bot": {
     "name": "Playscraper Bot",
-    "version": "1.0.144"
+    "version": "1.0.152"
   },
   "streakwar": {
     "name": "streakwar",
@@ -3553,6 +3553,10 @@
   },
   "animecrown": {
     "name": "Anime Crown",
+    "version": "0.0.8"
+  },
+  "zenqueue-mod": {
+    "name": "zenqueue-mod",
     "version": "0.0.8"
   }
 }
