@@ -2265,7 +2265,7 @@
   },
   "meltdown-room": {
     "name": "meltdown-room",
-    "version": "0.0.11"
+    "version": "0.0.13"
   },
   "votasanremo": {
     "name": "votasanremo",
@@ -3662,5 +3662,9 @@
   "tilematch": {
     "name": "tilematch",
     "version": "0.5.0"
+  },
+  "chess-board": {
+    "name": "chess-board",
+    "version": "0.0.157"
   }
 }
