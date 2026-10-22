@@ -3590,5 +3590,21 @@
   "mcrashers": {
     "name": "Multiplication Crashers",
     "version": "1.0.14"
+  },
+  "lavaleap": {
+    "name": "lavaleap",
+    "version": "0.0.16"
+  },
+  "trophy-case": {
+    "name": "trophy-case",
+    "version": "0.0.6"
+  },
+  "unanswered-alert": {
+    "name": "Unanswered Post Alert",
+    "version": "1.0.0"
+  },
+  "sudoku-speed-run": {
+    "name": "Sudoku Speed Run",
+    "version": "0.0.5"
   }
 }
