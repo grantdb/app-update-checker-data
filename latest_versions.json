@@ -3442,5 +3442,21 @@
   "decision-loop": {
     "name": "Reddit Decision Loop",
     "version": "0.0.2"
+  },
+  "mindustry-bot": {
+    "name": "Mindustry Tool",
+    "version": "0.0.4"
+  },
+  "namescore": {
+    "name": "NameScore  Live Football / Soccer Scores &amp; Match Threads",
+    "version": "0.0.20"
+  },
+  "dict-fills": {
+    "name": "Dictionary Fills",
+    "version": "0.0.11"
+  },
+  "comment-daemon": {
+    "name": "Comment Daemon",
+    "version": "0.0.14"
   }
 }
