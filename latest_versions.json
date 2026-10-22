@@ -3478,5 +3478,21 @@
   "tester-board": {
     "name": "tester-board",
     "version": "0.0.130"
+  },
+  "nospambot": {
+    "name": "No Spam Bot",
+    "version": "0.0.6"
+  },
+  "the-daily-realm": {
+    "name": "The Daily Realm",
+    "version": "2.0.23"
+  },
+  "mod-lens": {
+    "name": "mod-lens",
+    "version": "0.0.14"
+  },
+  "space-jewel": {
+    "name": "GreedGalaxy",
+    "version": "0.0.126"
   }
 }
