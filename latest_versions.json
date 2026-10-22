@@ -3458,5 +3458,13 @@
   "comment-daemon": {
     "name": "Comment Daemon",
     "version": "0.0.14"
+  },
+  "daily-tower": {
+    "name": "Moonstack",
+    "version": "0.0.5"
+  },
+  "sudokupuzzle-app": {
+    "name": "sudokupuzzle-app",
+    "version": "0.0.12"
   }
 }
