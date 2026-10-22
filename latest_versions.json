@@ -3257,7 +3257,7 @@
   },
   "ring-escape": {
     "name": "Ring Escape",
-    "version": "0.0.69"
+    "version": "0.0.71"
   },
   "metricshourcom": {
     "name": "Metricshour Market Battle",
@@ -3566,5 +3566,13 @@
   "guesstheplant": {
     "name": "GuessThePlant",
     "version": "0.0.14"
+  },
+  "paddleborn": {
+    "name": "paddleborn",
+    "version": "0.0.21"
+  },
+  "rescue-guard": {
+    "name": "Rescue Guard",
+    "version": "0.0.25"
   }
 }
