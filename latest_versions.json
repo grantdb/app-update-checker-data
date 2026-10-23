@@ -3730,5 +3730,25 @@
   "jonthedon-game": {
     "name": "JonTheDon",
     "version": "0.0.4"
+  },
+  "four-fours-game": {
+    "name": "Four Fours a Daily Math Puzzle",
+    "version": "0.0.4"
+  },
+  "troll-and-solve": {
+    "name": "troll-and-solve",
+    "version": "0.0.3"
+  },
+  "bouncestreak": {
+    "name": "BounceStreak",
+    "version": "0.7.0"
+  },
+  "bye-bye-ducks": {
+    "name": "Bye Bye Ducks",
+    "version": "0.6.3"
+  },
+  "midpoint-app": {
+    "name": "MIDPOINT",
+    "version": "0.0.11"
   }
 }
