@@ -3774,5 +3774,21 @@
   "typing-cowboy": {
     "name": "Typing Cowboy",
     "version": "0.0.9"
+  },
+  "cluck-cross-33610": {
+    "name": "cluck-cross-33610",
+    "version": "0.0.4"
+  },
+  "theboxofficegame": {
+    "name": "theboxofficegame",
+    "version": "0.0.3"
+  },
+  "buried-worlds": {
+    "name": "Buried Worlds",
+    "version": "1.0.1"
+  },
+  "rulewiserr": {
+    "name": "rulewiserr",
+    "version": "0.0.20"
   }
 }
