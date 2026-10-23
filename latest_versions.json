@@ -3241,7 +3241,7 @@
   },
   "block-down": {
     "name": "block-down",
-    "version": "0.0.59"
+    "version": "0.0.61"
   },
   "capydoku-puzzle": {
     "name": "capydoku-puzzle",
@@ -3674,5 +3674,13 @@
   "forest-rescue": {
     "name": "forest-rescue",
     "version": "0.0.2"
+  },
+  "logiclens-stu": {
+    "name": "Stu Steelman",
+    "version": "0.0.12"
+  },
+  "draw-and-drive": {
+    "name": "DrawAndDrive",
+    "version": "0.0.15"
   }
 }
