@@ -193,7 +193,7 @@
   },
   "modqueue-tools": {
     "name": "Modqueue Tools and Alerts",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "ban-purge": {
     "name": "Ban Purge",
@@ -353,7 +353,7 @@
   },
   "automod-neo": {
     "name": "Automod Neo",
-    "version": "0.8.0"
+    "version": "1.0.0"
   },
   "bingo-post": {
     "name": "Bingo Post",
