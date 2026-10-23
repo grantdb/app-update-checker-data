@@ -3750,5 +3750,25 @@
   "midpoint-app": {
     "name": "MIDPOINT",
     "version": "0.0.11"
+  },
+  "super-charts": {
+    "name": "Super Charts",
+    "version": "0.0.26"
+  },
+  "stockmarketloop-hub": {
+    "name": "StockMarketLoop HUB",
+    "version": "0.0.4"
+  },
+  "map-posts": {
+    "name": "map-posts",
+    "version": "0.0.15"
+  },
+  "hottake-poll": {
+    "name": "HotTake Poll",
+    "version": "0.0.20"
+  },
+  "mongotowers": {
+    "name": "MongoTowers",
+    "version": "0.0.40"
   }
 }
