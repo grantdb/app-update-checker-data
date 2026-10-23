@@ -3770,5 +3770,9 @@
   "mongotowers": {
     "name": "MongoTowers",
     "version": "0.0.40"
+  },
+  "typing-cowboy": {
+    "name": "Typing Cowboy",
+    "version": "0.0.9"
   }
 }
