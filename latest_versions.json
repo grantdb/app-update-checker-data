@@ -3682,5 +3682,29 @@
   "draw-and-drive": {
     "name": "DrawAndDrive",
     "version": "0.0.15"
+  },
+  "baublink": {
+    "name": "baublink",
+    "version": "0.0.8"
+  },
+  "trove-daily": {
+    "name": "Trove: Daily Personality Game",
+    "version": "0.1.1"
+  },
+  "fifawc2026": {
+    "name": "AllStar World Cup",
+    "version": "0.0.7"
+  },
+  "omnimod-dev": {
+    "name": "omnimod",
+    "version": "0.1.41"
+  },
+  "durak-mobile": {
+    "name": "Durak  The Card Game",
+    "version": "0.0.146"
+  },
+  "card-cull": {
+    "name": "card-cull",
+    "version": "0.0.6"
   }
 }
