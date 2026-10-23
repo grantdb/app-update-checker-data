@@ -3790,5 +3790,21 @@
   "rulewiserr": {
     "name": "rulewiserr",
     "version": "0.0.20"
+  },
+  "trait-card-rogue": {
+    "name": "Trait",
+    "version": "0.0.3"
+  },
+  "chibi-mystery": {
+    "name": "chibi-mystery",
+    "version": "0.0.6"
+  },
+  "atomsgame": {
+    "name": "Meltdown",
+    "version": "0.0.15"
+  },
+  "ebt-mute-on-ban": {
+    "name": "Ban &amp; Purge",
+    "version": "0.0.29"
   }
 }
