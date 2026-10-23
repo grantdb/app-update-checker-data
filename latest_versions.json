@@ -3806,5 +3806,21 @@
   "ebt-mute-on-ban": {
     "name": "Ban &amp; Purge",
     "version": "0.0.29"
+  },
+  "dialiloo": {
+    "name": "dialiloo",
+    "version": "0.0.9"
+  },
+  "bagh-bakri": {
+    "name": "Tigers vs Sheep",
+    "version": "0.0.11"
+  },
+  "distrofeed-bot": {
+    "name": "distrofeed-bot",
+    "version": "0.1.111"
+  },
+  "recidivistsentinel": {
+    "name": "Recidivist Sentinel",
+    "version": "0.0.27"
   }
 }
