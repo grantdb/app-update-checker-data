@@ -1,7 +1,7 @@
 {
   "bot-bouncer": {
     "name": "Bot Bouncer",
-    "version": "1.35.41"
+    "version": "1.35.66"
   },
   "comment-nuke": {
     "name": "Comment Mop",
@@ -21,7 +21,7 @@
   },
   "evasion-guard": {
     "name": "Evasion Guard",
-    "version": "1.4.9"
+    "version": "1.4.10"
   },
   "subscriber-count": {
     "name": "Subscriber Sidebar",
@@ -1347,10 +1347,6 @@
     "name": "slipstream-daily",
     "version": "0.3.8"
   },
-  "cube-xo": {
-    "name": "cube-xo",
-    "version": "0.0.14"
-  },
   "modsandbox": {
     "name": "ModSandbox  AutoMod Rule Tester",
     "version": "0.0.19"
@@ -1671,10 +1667,6 @@
     "name": "Gamepad Tester",
     "version": "0.0.12"
   },
-  "blackout-sq356": {
-    "name": "blackout-sq356",
-    "version": "0.0.15"
-  },
   "filament-frenzy": {
     "name": "filament-frenzy",
     "version": "0.3.0"
@@ -1714,10 +1706,6 @@
   "cfb-game-threads": {
     "name": "CFB Game Threads",
     "version": "1.1.14"
-  },
-  "tronlegacy1999": {
-    "name": "tronlegacy1999",
-    "version": "0.0.2"
   },
   "playlabwars": {
     "name": "PlayLabWars",
@@ -1771,10 +1759,6 @@
     "name": "r/nfl sidebar schedule",
     "version": "0.0.4"
   },
-  "synapsecanvas": {
-    "name": "synapsecanvas",
-    "version": "0.0.68"
-  },
   "guess-the-trade2": {
     "name": "guess-the-trade2",
     "version": "0.0.27"
@@ -1818,14 +1802,6 @@
   "cfb-scores": {
     "name": "CFB Scoreboard App",
     "version": "0.0.69"
-  },
-  "cr-wordle": {
-    "name": "Clash Royale Wordle",
-    "version": "0.0.13"
-  },
-  "paint-it-memory": {
-    "name": "paint-it-memory",
-    "version": "0.0.5"
   },
   "fairgiveaway": {
     "name": "fairgiveaway",
@@ -1899,10 +1875,6 @@
     "name": "RepostSniff",
     "version": "0.0.4"
   },
-  "numberguess": {
-    "name": "Number Guess Game",
-    "version": "0.0.15"
-  },
   "hangman-out": {
     "name": "hangman-out",
     "version": "0.0.11"
@@ -1914,10 +1886,6 @@
   "conto-interativo": {
     "name": "Interactive Storyteller",
     "version": "0.0.7"
-  },
-  "spiredle": {
-    "name": "spiredle",
-    "version": "0.0.5"
   },
   "battlelexicons": {
     "name": "BattleLexicons",
@@ -1939,14 +1907,6 @@
     "name": "paperiumposter",
     "version": "0.0.2"
   },
-  "link-guard": {
-    "name": "Link Guard",
-    "version": "0.0.22"
-  },
-  "ember-world": {
-    "name": "ember-world",
-    "version": "0.0.39"
-  },
   "dinorumble1": {
     "name": "dinorumble1",
     "version": "0.17.0"
@@ -1954,10 +1914,6 @@
   "guesstheelogame": {
     "name": "Guess the Elo",
     "version": "0.0.4"
-  },
-  "romkerl": {
-    "name": "romkerl",
-    "version": "0.1.8"
   },
   "zencrossbow": {
     "name": "Zencrossbow",
@@ -1999,14 +1955,6 @@
     "name": "pawsitivepalbot",
     "version": "0.0.3"
   },
-  "gate-defender": {
-    "name": "gate-defender",
-    "version": "0.0.102"
-  },
-  "acro-daily-poster": {
-    "name": "acro-daily-poster",
-    "version": "0.0.12"
-  },
   "deja-view-mod": {
     "name": "deja-view-mod",
     "version": "0.0.8"
@@ -2014,34 +1962,6 @@
   "planetfall-game": {
     "name": "planetfall-game",
     "version": "0.0.84"
-  },
-  "ssrmbctd": {
-    "name": "ssrmbctd",
-    "version": "0.0.5"
-  },
-  "wiki-bridge": {
-    "name": "wiki-bridge",
-    "version": "0.0.3"
-  },
-  "voxxo-2": {
-    "name": "voxxo-2",
-    "version": "0.0.5"
-  },
-  "minigawf": {
-    "name": "MiniGawf",
-    "version": "0.0.115"
-  },
-  "travelwaivers": {
-    "name": "travelwaivers",
-    "version": "0.5.10"
-  },
-  "iq-daily": {
-    "name": "iq-daily",
-    "version": "0.0.14"
-  },
-  "aisafemod": {
-    "name": "aisafemod",
-    "version": "0.0.7"
   },
   "adv-feeds": {
     "name": "ADV Feed Bot",
@@ -2199,10 +2119,6 @@
     "name": "QueensQuest",
     "version": "0.0.5"
   },
-  "wordseekr2": {
-    "name": "Wordseekr Quotes",
-    "version": "0.2.37"
-  },
   "good-citizen-app": {
     "name": "good-citizen-app",
     "version": "0.0.7"
@@ -2231,17 +2147,9 @@
     "name": "SpyShot",
     "version": "0.0.17"
   },
-  "flairguard-app": {
-    "name": "flairguard-app",
-    "version": "0.0.23"
-  },
   "tap-to-dark": {
     "name": "tap-to-dark",
     "version": "0.0.3"
-  },
-  "flip-match": {
-    "name": "Flip &amp; Match",
-    "version": "0.0.28"
   },
   "pawdoku-mystery": {
     "name": "Pawdoku Mystery",
@@ -2255,10 +2163,6 @@
     "name": "competitions-app",
     "version": "0.0.31"
   },
-  "ballest-patch-bot": {
-    "name": "Ballest Updates",
-    "version": "0.0.7"
-  },
   "neon-2048": {
     "name": "Neon 2048 Brain game | Beat the best",
     "version": "0.0.10"
@@ -2266,10 +2170,6 @@
   "meltdown-room": {
     "name": "meltdown-room",
     "version": "0.0.13"
-  },
-  "votasanremo": {
-    "name": "votasanremo",
-    "version": "0.0.8"
   },
   "bubblegum-blitz": {
     "name": "bubblegum-blitz",
@@ -2331,10 +2231,6 @@
     "name": "chapter-ii",
     "version": "0.0.4"
   },
-  "posts-to-discord": {
-    "name": "Posts to Discord",
-    "version": "0.0.9"
-  },
   "cryptoguesser2": {
     "name": "CryptoGuesser",
     "version": "0.0.21"
@@ -2359,41 +2255,13 @@
     "name": "play-daily-solitaire",
     "version": "0.0.18"
   },
-  "panzer-skirmish": {
-    "name": "Panzer Island: Skirmish",
-    "version": "0.0.30"
-  },
-  "pulseguard-dev": {
-    "name": "PulseGuard",
-    "version": "0.0.8"
-  },
-  "venndi-game": {
-    "name": "Venndi",
-    "version": "0.0.4"
-  },
   "digestive-system-3d": {
     "name": "digestive-system-3d",
     "version": "0.0.3"
   },
-  "locationguess": {
-    "name": "Guess the Place",
-    "version": "0.0.114"
-  },
   "sayitintherapy": {
     "name": "SayItInTherapy",
     "version": "0.0.29"
-  },
-  "kanban-board": {
-    "name": "kanban-board",
-    "version": "0.0.5"
-  },
-  "pyramid-dive": {
-    "name": "pyramid-dive",
-    "version": "0.0.5"
-  },
-  "kariaaworks": {
-    "name": "kariaaworks",
-    "version": "0.0.45"
   },
   "mlb-scores": {
     "name": "MLB Scoreboard App",
@@ -2551,10 +2419,6 @@
     "name": "comment raffler",
     "version": "0.0.33"
   },
-  "financecalculator": {
-    "name": "Finance Calculator",
-    "version": "1.7.0"
-  },
   "daycount-flair": {
     "name": "daycount-flair",
     "version": "0.0.8"
@@ -2570,10 +2434,6 @@
   "subfusion2": {
     "name": "SubFusion",
     "version": "0.0.7"
-  },
-  "reflect-daily": {
-    "name": "Buddha Quotes",
-    "version": "0.0.10"
   },
   "community-recap": {
     "name": "community-recap",
@@ -2643,10 +2503,6 @@
     "name": "PrismPanic",
     "version": "0.0.48"
   },
-  "escape-to-spire": {
-    "name": "escape-to-spire",
-    "version": "0.3.0"
-  },
   "screen-shot-bot": {
     "name": "Screen Shot Bot",
     "version": "1.0.83"
@@ -2658,14 +2514,6 @@
   "gem-rush-daily": {
     "name": "Gem Rush",
     "version": "0.0.7"
-  },
-  "playscraper-bot": {
-    "name": "Playscraper Bot",
-    "version": "1.0.152"
-  },
-  "streakwar": {
-    "name": "streakwar",
-    "version": "0.0.10"
   },
   "stackgame": {
     "name": "stackgame",
@@ -2679,10 +2527,6 @@
     "name": "wr-bot",
     "version": "0.0.5"
   },
-  "three-of-six": {
-    "name": "Three of Six",
-    "version": "0.0.5"
-  },
   "bulbrush": {
     "name": "BulbRush",
     "version": "0.0.50"
@@ -2690,10 +2534,6 @@
   "grittyblocks": {
     "name": "Gritty Blocks",
     "version": "0.0.2"
-  },
-  "dice-battle-dev": {
-    "name": "Dice Fight",
-    "version": "0.0.139"
   },
   "escuchar-post": {
     "name": "Lector de Texto - Text to Voice",
@@ -2731,14 +2571,6 @@
     "name": "pathrush",
     "version": "1.0.44"
   },
-  "volt-math-duel": {
-    "name": "volt-math-duel",
-    "version": "0.0.5"
-  },
-  "connectmepuzzle": {
-    "name": "connectmepuzzle",
-    "version": "1.0.0"
-  },
   "arrow-blocks": {
     "name": "arrow-blocks",
     "version": "0.0.6"
@@ -2746,18 +2578,6 @@
   "cavsbot": {
     "name": "CavsBot",
     "version": "1.0.6"
-  },
-  "playwallstreetle": {
-    "name": "PlayWallstreetle",
-    "version": "0.3.0"
-  },
-  "fatastrophic": {
-    "name": "fatastrophic",
-    "version": "1.0.8"
-  },
-  "socialgrid3d": {
-    "name": "socialgrid3d",
-    "version": "0.0.62"
   },
   "dust-bot": {
     "name": "Dust Bot - Sliding Puzzle Game",
@@ -2793,22 +2613,6 @@
   },
   "lighthouse-lh": {
     "name": "lighthouse-lh",
-    "version": "0.0.13"
-  },
-  "tg-bb-mkt": {
-    "name": "tg-bb-mkt",
-    "version": "0.0.3"
-  },
-  "community-os": {
-    "name": "Community OS",
-    "version": "0.1.18"
-  },
-  "exact-center": {
-    "name": "exact-center",
-    "version": "0.0.2"
-  },
-  "goldkurs-daily": {
-    "name": "Goldkurs Daily",
     "version": "0.0.13"
   },
   "neetindia-guard": {
@@ -3111,10 +2915,6 @@
     "name": "Wordy Bunch",
     "version": "0.2.710"
   },
-  "knobjam": {
-    "name": "KnobJam",
-    "version": "0.0.58"
-  },
   "supreme-moderator": {
     "name": "supreme-moderator",
     "version": "0.2.0"
@@ -3135,49 +2935,17 @@
     "name": "Rubilex",
     "version": "0.1.2"
   },
-  "bad-cards-game": {
-    "name": "Bad Cards",
-    "version": "0.0.104"
-  },
   "postpause": {
     "name": "PostPause",
     "version": "1.0.2"
-  },
-  "meetyou-games": {
-    "name": "MeetYou Puzzles",
-    "version": "0.0.10"
   },
   "my2048city": {
     "name": "my2048city",
     "version": "0.0.18"
   },
-  "auracouncil": {
-    "name": "auracouncil",
-    "version": "0.0.13"
-  },
-  "glanceeyestrong": {
-    "name": "Glance Eye Strong",
-    "version": "0.0.25"
-  },
-  "aoe4---leaderboard": {
-    "name": "aoe4---leaderboard",
-    "version": "0.0.6"
-  },
-  "sub-deep-dive": {
-    "name": "sub-deep-dive",
-    "version": "0.0.3"
-  },
-  "reputibot": {
-    "name": "ReputiBot - AI Trust Scoring for Mods",
-    "version": "0.0.5"
-  },
   "faction-warfare": {
     "name": "Faction Warfare",
     "version": "0.0.9"
-  },
-  "chessmultiplayer": {
-    "name": "chessmultiplayer",
-    "version": "0.0.11"
   },
   "fantasy-league": {
     "name": "Fantasy League",
@@ -3191,17 +2959,9 @@
     "name": "PokeVsPoke",
     "version": "1.0.4"
   },
-  "crack-lock": {
-    "name": "crack-lock",
-    "version": "0.0.26"
-  },
   "repeat-comm-bot": {
     "name": "repeat-comm-bot",
     "version": "0.0.2"
-  },
-  "shell-dojo": {
-    "name": "shell-dojo",
-    "version": "0.0.33"
   },
   "revelia-horoscop": {
     "name": "Revelia Horoscope",
@@ -3210,10 +2970,6 @@
   "w0uld-u-rath3r": {
     "name": "w0uld-u-rath3r",
     "version": "0.0.3"
-  },
-  "ttol-game": {
-    "name": "ttol-game",
-    "version": "0.0.9"
   },
   "solitaire-royale": {
     "name": "solitaire-royale",
@@ -3239,25 +2995,9 @@
     "name": "nflquiz",
     "version": "0.0.25"
   },
-  "block-down": {
-    "name": "block-down",
-    "version": "0.0.61"
-  },
-  "capydoku-puzzle": {
-    "name": "capydoku-puzzle",
-    "version": "1.1.2"
-  },
   "crowdcurve": {
     "name": "crowdcurve",
     "version": "0.0.7"
-  },
-  "karmas-brick": {
-    "name": "karmas-brick",
-    "version": "0.0.15"
-  },
-  "ring-escape": {
-    "name": "Ring Escape",
-    "version": "0.0.71"
   },
   "metricshourcom": {
     "name": "Metricshour Market Battle",
@@ -3270,10 +3010,6 @@
   "hitorquit-app": {
     "name": "HitOrQuit",
     "version": "0.3.15"
-  },
-  "color-lock": {
-    "name": "color-lock",
-    "version": "0.0.25"
   },
   "lunchline-dispatch": {
     "name": "lunchline-dispatch",
@@ -3295,26 +3031,6 @@
     "name": "Magic Football  Tactical 1v1",
     "version": "0.0.31"
   },
-  "relationtips": {
-    "name": "relationtips",
-    "version": "0.0.45"
-  },
-  "brainvita-app": {
-    "name": "brainvita-app",
-    "version": "0.0.7"
-  },
-  "guessclock": {
-    "name": "guessclock",
-    "version": "0.2.0"
-  },
-  "trajectory-daily": {
-    "name": "trajectory-daily",
-    "version": "0.0.3"
-  },
-  "mazendav": {
-    "name": "Mazenda",
-    "version": "0.0.134"
-  },
   "puzzle-15": {
     "name": "Puzzle 15",
     "version": "0.8.3"
@@ -3327,61 +3043,13 @@
     "name": "pourchestra",
     "version": "1.0.6"
   },
-  "modsteward": {
-    "name": "modsteward",
-    "version": "1.0.2"
-  },
   "roasts-and-comebacks": {
     "name": "Roasts and Comeback",
     "version": "0.0.2"
   },
-  "zeus-trials": {
-    "name": "Zeus Trials",
-    "version": "0.0.6"
-  },
-  "top-answers": {
-    "name": "TopAnswer",
-    "version": "0.0.2"
-  },
-  "flagit-game": {
-    "name": "flagit-game",
-    "version": "0.9.0"
-  },
   "final-word-showdown": {
     "name": "final-word-showdown",
     "version": "1.0.0"
-  },
-  "feng-shui-8-bit": {
-    "name": "feng-shui-8-bit",
-    "version": "0.0.13"
-  },
-  "seconditapp": {
-    "name": "seconditapp",
-    "version": "0.44.2"
-  },
-  "bastion-td": {
-    "name": "Bastion TD",
-    "version": "0.0.6"
-  },
-  "wordrung": {
-    "name": "wordrung",
-    "version": "0.0.7"
-  },
-  "karmacritter": {
-    "name": "KarmaCritter",
-    "version": "1.0.15"
-  },
-  "jzswitchboard": {
-    "name": "Switchboard",
-    "version": "0.0.2"
-  },
-  "cartographer-daily": {
-    "name": "cartographer-daily",
-    "version": "0.0.2"
-  },
-  "foodoku": {
-    "name": "foodoku",
-    "version": "0.9.5"
   },
   "reflex-challenge": {
     "name": "reflex-challenge",
@@ -3423,17 +3091,9 @@
     "name": "sudo2026",
     "version": "0.0.34"
   },
-  "smackthatcaptcha": {
-    "name": "Smack That Captcha: The Frictionless, Gamified Spam Filter",
-    "version": "0.0.23"
-  },
   "my-social-links": {
     "name": "My Social Links",
     "version": "1.0.1"
-  },
-  "botforlazymods": {
-    "name": "botforlazymods",
-    "version": "0.0.6"
   },
   "pomodorotime": {
     "name": "Pomodoro Timer",
@@ -3463,10 +3123,6 @@
     "name": "Moonstack",
     "version": "0.0.5"
   },
-  "sudokupuzzle-app": {
-    "name": "sudokupuzzle-app",
-    "version": "0.0.12"
-  },
   "modgather": {
     "name": "ModGather",
     "version": "0.0.3"
@@ -3482,10 +3138,6 @@
   "nospambot": {
     "name": "No Spam Bot",
     "version": "0.0.6"
-  },
-  "the-daily-realm": {
-    "name": "The Daily Realm",
-    "version": "2.0.23"
   },
   "mod-lens": {
     "name": "mod-lens",
@@ -3515,14 +3167,6 @@
     "name": "sub-olympics",
     "version": "0.1.14"
   },
-  "huckid": {
-    "name": "HuckID",
-    "version": "0.0.15"
-  },
-  "hott-take": {
-    "name": "hott-take",
-    "version": "0.1.0"
-  },
   "modvitals": {
     "name": "modvitals",
     "version": "0.0.16"
@@ -3530,10 +3174,6 @@
   "playpixelbeads": {
     "name": "Pixel Beads",
     "version": "0.0.231"
-  },
-  "cash-ladder": {
-    "name": "cash-ladder",
-    "version": "0.0.9"
   },
   "seedclash": {
     "name": "seedclash",
@@ -3543,22 +3183,6 @@
     "name": "solar-calculator",
     "version": "0.0.209"
   },
-  "prismfallgame": {
-    "name": "Prismfall",
-    "version": "0.0.12"
-  },
-  "make-to-ten": {
-    "name": "Make To Ten",
-    "version": "0.0.36"
-  },
-  "animecrown": {
-    "name": "Anime Crown",
-    "version": "0.0.8"
-  },
-  "zenqueue-mod": {
-    "name": "zenqueue-mod",
-    "version": "0.0.8"
-  },
   "stemdaily": {
     "name": "stemdaily",
     "version": "0.0.8"
@@ -3567,17 +3191,9 @@
     "name": "GuessThePlant",
     "version": "0.0.14"
   },
-  "paddleborn": {
-    "name": "paddleborn",
-    "version": "0.0.21"
-  },
   "rescue-guard": {
     "name": "Rescue Guard",
     "version": "0.0.25"
-  },
-  "mailguardian3": {
-    "name": "Mail Guardian",
-    "version": "0.0.3"
   },
   "f1-reaction": {
     "name": "f1-reaction",
@@ -3595,18 +3211,6 @@
     "name": "lavaleap",
     "version": "0.0.16"
   },
-  "trophy-case": {
-    "name": "trophy-case",
-    "version": "0.0.6"
-  },
-  "unanswered-alert": {
-    "name": "Unanswered Post Alert",
-    "version": "1.0.0"
-  },
-  "sudoku-speed-run": {
-    "name": "Sudoku Speed Run",
-    "version": "0.0.5"
-  },
   "crickettrivia": {
     "name": "crickettrivia",
     "version": "0.0.26"
@@ -3614,10 +3218,6 @@
   "prediction-league": {
     "name": "prediction-league",
     "version": "0.0.5"
-  },
-  "reply-coach": {
-    "name": "reply-coach",
-    "version": "0.0.3"
   },
   "watchalong-matvt": {
     "name": "watchalong-matvt",
@@ -3639,18 +3239,6 @@
     "name": "Daily Grid",
     "version": "0.1.4"
   },
-  "trivia-hub": {
-    "name": "Trivia Hub",
-    "version": "0.0.18"
-  },
-  "bugshelper": {
-    "name": "bugshelper",
-    "version": "0.0.27"
-  },
-  "infinite-subs": {
-    "name": "infinite-subs",
-    "version": "0.1.7"
-  },
   "ttokdoku": {
     "name": "TtokDoku",
     "version": "0.3.34"
@@ -3663,25 +3251,13 @@
     "name": "tilematch",
     "version": "0.5.0"
   },
-  "chess-board": {
-    "name": "chess-board",
-    "version": "0.0.157"
-  },
   "summit-game": {
     "name": "summit-game",
     "version": "0.0.96"
   },
-  "forest-rescue": {
-    "name": "forest-rescue",
-    "version": "0.0.2"
-  },
   "logiclens-stu": {
     "name": "Stu Steelman",
     "version": "0.0.12"
-  },
-  "draw-and-drive": {
-    "name": "DrawAndDrive",
-    "version": "0.0.15"
   },
   "baublink": {
     "name": "baublink",
@@ -3723,10 +3299,6 @@
     "name": "the-fysher",
     "version": "0.0.4"
   },
-  "keyboardtest": {
-    "name": "Keyboard Tester",
-    "version": "0.0.5"
-  },
   "jonthedon-game": {
     "name": "JonTheDon",
     "version": "0.0.4"
@@ -3739,14 +3311,6 @@
     "name": "troll-and-solve",
     "version": "0.0.3"
   },
-  "bouncestreak": {
-    "name": "BounceStreak",
-    "version": "0.7.0"
-  },
-  "bye-bye-ducks": {
-    "name": "Bye Bye Ducks",
-    "version": "0.6.3"
-  },
   "midpoint-app": {
     "name": "MIDPOINT",
     "version": "0.0.11"
@@ -3755,17 +3319,9 @@
     "name": "Super Charts",
     "version": "0.0.26"
   },
-  "stockmarketloop-hub": {
-    "name": "StockMarketLoop HUB",
-    "version": "0.0.4"
-  },
   "map-posts": {
     "name": "map-posts",
     "version": "0.0.15"
-  },
-  "hottake-poll": {
-    "name": "HotTake Poll",
-    "version": "0.0.20"
   },
   "mongotowers": {
     "name": "MongoTowers",
@@ -3783,26 +3339,6 @@
     "name": "theboxofficegame",
     "version": "0.0.3"
   },
-  "buried-worlds": {
-    "name": "Buried Worlds",
-    "version": "1.0.1"
-  },
-  "rulewiserr": {
-    "name": "rulewiserr",
-    "version": "0.0.20"
-  },
-  "trait-card-rogue": {
-    "name": "Trait",
-    "version": "0.0.3"
-  },
-  "chibi-mystery": {
-    "name": "chibi-mystery",
-    "version": "0.0.6"
-  },
-  "atomsgame": {
-    "name": "Meltdown",
-    "version": "0.0.15"
-  },
   "ebt-mute-on-ban": {
     "name": "Ban &amp; Purge",
     "version": "0.0.29"
@@ -3811,30 +3347,6 @@
     "name": "dialiloo",
     "version": "0.0.9"
   },
-  "bagh-bakri": {
-    "name": "Tigers vs Sheep",
-    "version": "0.0.11"
-  },
-  "distrofeed-bot": {
-    "name": "distrofeed-bot",
-    "version": "0.1.111"
-  },
-  "recidivistsentinel": {
-    "name": "Recidivist Sentinel",
-    "version": "0.0.27"
-  },
-  "mind-vault": {
-    "name": "mind-vault",
-    "version": "0.0.26"
-  },
-  "prochamps": {
-    "name": "prochamps",
-    "version": "0.0.24"
-  },
-  "build-this": {
-    "name": "build-this",
-    "version": "0.0.4"
-  },
   "arushiji": {
     "name": "Arushi Ji",
     "version": "1.1.0"
@@ -3842,9 +3354,5 @@
   "daily-void": {
     "name": "daily-void",
     "version": "0.0.7"
-  },
-  "plumbi-app": {
-    "name": "plumbi-app",
-    "version": "0.0.6"
   }
 }
