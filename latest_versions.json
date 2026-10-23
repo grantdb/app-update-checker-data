@@ -3826,5 +3826,25 @@
   "mind-vault": {
     "name": "mind-vault",
     "version": "0.0.26"
+  },
+  "prochamps": {
+    "name": "prochamps",
+    "version": "0.0.24"
+  },
+  "build-this": {
+    "name": "build-this",
+    "version": "0.0.4"
+  },
+  "arushiji": {
+    "name": "Arushi Ji",
+    "version": "1.1.0"
+  },
+  "daily-void": {
+    "name": "daily-void",
+    "version": "0.0.7"
+  },
+  "plumbi-app": {
+    "name": "plumbi-app",
+    "version": "0.0.6"
   }
 }
