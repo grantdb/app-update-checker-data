@@ -3822,5 +3822,9 @@
   "recidivistsentinel": {
     "name": "Recidivist Sentinel",
     "version": "0.0.27"
+  },
+  "mind-vault": {
+    "name": "mind-vault",
+    "version": "0.0.26"
   }
 }
