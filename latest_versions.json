@@ -3706,5 +3706,29 @@
   "card-cull": {
     "name": "card-cull",
     "version": "0.0.6"
+  },
+  "tipsey-delivery": {
+    "name": "tipsey",
+    "version": "0.0.62"
+  },
+  "foursome--game": {
+    "name": "foursome--game",
+    "version": "1.0.5"
+  },
+  "officeopsstudio": {
+    "name": "OfficeOps Studio",
+    "version": "0.0.5"
+  },
+  "the-fysher": {
+    "name": "the-fysher",
+    "version": "0.0.4"
+  },
+  "keyboardtest": {
+    "name": "Keyboard Tester",
+    "version": "0.0.5"
+  },
+  "jonthedon-game": {
+    "name": "JonTheDon",
+    "version": "0.0.4"
   }
 }
