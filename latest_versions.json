@@ -441,7 +441,7 @@
   },
   "crosspost-manager": {
     "name": "Crosspost Manager",
-    "version": "1.0.3"
+    "version": "1.0.4"
   },
   "removalreasonids": {
     "name": "Show Removal Reason IDs",
@@ -545,7 +545,7 @@
   },
   "schedulerplus": {
     "name": "schedulerplus",
-    "version": "6.0.0"
+    "version": "6.1.0"
   },
   "report-dismisser": {
     "name": "Report Reasons Blacklist",
