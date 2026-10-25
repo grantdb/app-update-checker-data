@@ -856,8 +856,8 @@
     "version": "0.0.14"
   },
   "adv-core": {
-    "name": "ADV Core Bot",
-    "version": "0.0.394"
+    "name": "ADV Core",
+    "version": "0.0.396"
   },
   "frequentmuter": {
     "name": "Frequency Muter",
@@ -1561,7 +1561,7 @@
   },
   "ai-checker": {
     "name": "AI Checker",
-    "version": "0.0.87"
+    "version": "0.0.88"
   },
   "dejarepost": {
     "name": "Deja Repost",
