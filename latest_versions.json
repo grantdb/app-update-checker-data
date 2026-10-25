@@ -2017,7 +2017,7 @@
   },
   "user-board": {
     "name": "User Board",
-    "version": "0.0.45"
+    "version": "0.0.48"
   },
   "banbunny-devvit": {
     "name": "BanBunny",
@@ -2909,7 +2909,7 @@
   },
   "nba-hub": {
     "name": "NBA Live App",
-    "version": "0.0.68"
+    "version": "0.0.70"
   },
   "wordy-bunch": {
     "name": "Wordy Bunch",
