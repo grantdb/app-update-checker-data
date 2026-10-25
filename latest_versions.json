@@ -1969,7 +1969,7 @@
   },
   "ahl-goalpost": {
     "name": "ahl-goalpost",
-    "version": "3.17.8"
+    "version": "3.39.7"
   },
   "miirps-app": {
     "name": "Miirps",
@@ -2629,7 +2629,7 @@
   },
   "retromoderator": {
     "name": "retromoderator",
-    "version": "0.0.11"
+    "version": "0.0.12"
   },
   "negativereports": {
     "name": "negativereports",
