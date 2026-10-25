@@ -917,7 +917,7 @@
   },
   "nhlgdtbot": {
     "name": "nhlgdtbot",
-    "version": "2.0.12"
+    "version": "2.0.14"
   },
   "verify-helper": {
     "name": "Verification Helper",
@@ -1569,7 +1569,7 @@
   },
   "mlb-dinger": {
     "name": "mlb-dinger",
-    "version": "3.12.1"
+    "version": "3.39.2"
   },
   "modcommand": {
     "name": "modcommand",
