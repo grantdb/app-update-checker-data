@@ -2297,7 +2297,7 @@
   },
   "gif-enigma": {
     "name": "GIF Enigma",
-    "version": "3.23.1"
+    "version": "3.23.3"
   },
   "sub-reposter": {
     "name": "sub-reposter",
@@ -3354,5 +3354,9 @@
   "daily-void": {
     "name": "daily-void",
     "version": "0.0.7"
+  },
+  "mod-mailer-app": {
+    "name": "Mod Mailer",
+    "version": "0.1.2"
   }
 }
