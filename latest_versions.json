@@ -1341,7 +1341,7 @@
   },
   "dice-daemon": {
     "name": "Dice Daemon",
-    "version": "0.0.21"
+    "version": "0.0.22"
   },
   "slipstream-daily": {
     "name": "slipstream-daily",
@@ -3109,7 +3109,7 @@
   },
   "namescore": {
     "name": "NameScore  Live Football / Soccer Scores &amp; Match Threads",
-    "version": "0.0.20"
+    "version": "0.0.28"
   },
   "dict-fills": {
     "name": "Dictionary Fills",
