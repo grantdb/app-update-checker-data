@@ -2645,7 +2645,7 @@
   },
   "rate-guard": {
     "name": "Rate Guard",
-    "version": "0.0.16"
+    "version": "0.0.17"
   },
   "trust-restore-bot": {
     "name": "trust-restore-bot",
@@ -2664,7 +2664,7 @@
     "version": "0.0.13"
   },
   "matchpal-fantasy": {
-    "name": "MatchPal.io - Football / Soccer Fantasy Game",
+    "name": "Football Fantasy Game",
     "version": "0.0.35"
   },
   "answervault": {
