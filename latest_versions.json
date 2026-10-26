@@ -3358,5 +3358,9 @@
   "mod-mailer-app": {
     "name": "Mod Mailer",
     "version": "0.1.2"
+  },
+  "subquizhost": {
+    "name": "subquizhost",
+    "version": "0.0.33"
   }
 }
