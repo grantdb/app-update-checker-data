@@ -1501,7 +1501,7 @@
   },
   "app-update-checker": {
     "name": "App Update Checker",
-    "version": "0.0.82"
+    "version": "0.0.85"
   },
   "texthelpermd": {
     "name": "Text Helper MarkDown",
