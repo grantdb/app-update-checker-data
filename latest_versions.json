@@ -2337,7 +2337,7 @@
   },
   "pinned-menuboard": {
     "name": "Pinned Menuboard",
-    "version": "0.0.83"
+    "version": "0.0.84"
   },
   "poker-room": {
     "name": "Poker Room",
@@ -2673,7 +2673,7 @@
   },
   "sfmatchthreads": {
     "name": "SFMatchThreadder",
-    "version": "1.3.14"
+    "version": "1.3.18"
   },
   "echo-wiki": {
     "name": "EchoWiki",
