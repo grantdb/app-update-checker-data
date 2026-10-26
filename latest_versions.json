@@ -2037,7 +2037,7 @@
   },
   "archive-all-mm": {
     "name": "Archive All Modmail",
-    "version": "0.0.71"
+    "version": "0.0.72"
   },
   "simple-checklist": {
     "name": "Simple Checklist",
@@ -2313,7 +2313,7 @@
   },
   "pwhl-goalpost": {
     "name": "pwhl-goalpost",
-    "version": "3.17.8"
+    "version": "3.39.7"
   },
   "wordblast": {
     "name": "wordblast",
