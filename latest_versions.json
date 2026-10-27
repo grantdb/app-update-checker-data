@@ -2349,7 +2349,7 @@
   },
   "solitaireclassic": {
     "name": "Daily Solitaire",
-    "version": "0.5.51"
+    "version": "0.5.63"
   },
   "threadboard": {
     "name": "threadboard",
@@ -2725,7 +2725,7 @@
   },
   "movies-app": {
     "name": "Movies &amp; Music",
-    "version": "0.0.103"
+    "version": "0.0.111"
   },
   "fit-the-word": {
     "name": "Fit the Word",
