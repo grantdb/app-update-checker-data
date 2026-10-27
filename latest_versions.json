@@ -3386,5 +3386,13 @@
   "crease-clash": {
     "name": "crease-clash",
     "version": "0.0.7"
+  },
+  "tf2-guess-the-map": {
+    "name": "TF2 Guess The Map",
+    "version": "0.0.51"
+  },
+  "botditor": {
+    "name": "Botditor",
+    "version": "1.5.0"
   }
 }
