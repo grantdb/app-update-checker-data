@@ -2105,7 +2105,7 @@
   },
   "queuecascade": {
     "name": "Queue Cascade",
-    "version": "0.0.16"
+    "version": "0.0.20"
   },
   "orik-app": {
     "name": "Pixel Wars",
@@ -3366,5 +3366,17 @@
   "adv-auto-moderator": {
     "name": "AutoModerator",
     "version": "0.0.4"
+  },
+  "pinned-hub": {
+    "name": "pinned-hub",
+    "version": "0.0.31"
+  },
+  "gif-guardian": {
+    "name": "Gif-Guardian",
+    "version": "0.0.34"
+  },
+  "word-guard": {
+    "name": "Word Guard",
+    "version": "0.0.198"
   }
 }
