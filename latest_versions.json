@@ -3402,5 +3402,17 @@
   "photogallerytest": {
     "name": "photogallerytest",
     "version": "0.0.6"
+  },
+  "guardmyflair": {
+    "name": "guardmyflair",
+    "version": "0.0.11"
+  },
+  "turbomod-bot": {
+    "name": "TurboMod-Bot",
+    "version": "0.1.6"
+  },
+  "mtgdecks": {
+    "name": "MTG Deck Lab",
+    "version": "0.0.10"
   }
 }
