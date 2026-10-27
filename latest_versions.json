@@ -2913,7 +2913,7 @@
   },
   "wordy-bunch": {
     "name": "Wordy Bunch",
-    "version": "0.2.710"
+    "version": "2.910.0"
   },
   "supreme-moderator": {
     "name": "supreme-moderator",
@@ -3362,5 +3362,9 @@
   "subquizhost": {
     "name": "subquizhost",
     "version": "0.0.33"
+  },
+  "adv-auto-moderator": {
+    "name": "AutoModerator",
+    "version": "0.0.4"
   }
 }
