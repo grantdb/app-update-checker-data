@@ -2781,7 +2781,7 @@
   },
   "community-draw": {
     "name": "Community Draw",
-    "version": "0.0.62"
+    "version": "0.0.63"
   },
   "parawall-block": {
     "name": "Textwall Blocker",
@@ -3378,5 +3378,9 @@
   "word-guard": {
     "name": "Word Guard",
     "version": "0.0.198"
+  },
+  "feed-relay": {
+    "name": "Feed Relay: RSS replacement, post alerts to Telegram, Slack, Discord",
+    "version": "0.0.2"
   }
 }
