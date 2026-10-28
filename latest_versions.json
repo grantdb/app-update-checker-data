@@ -3510,5 +3510,13 @@
   "multiplication-game": {
     "name": "Multiplication Game",
     "version": "0.0.5"
+  },
+  "warning-track": {
+    "name": "Warning Track",
+    "version": "0.0.77"
+  },
+  "gift-tracker": {
+    "name": "gift-tracker",
+    "version": "0.2.2"
   }
 }
