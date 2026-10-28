@@ -2153,7 +2153,7 @@
   },
   "pawdoku-mystery": {
     "name": "Pawdoku Mystery",
-    "version": "0.0.19"
+    "version": "0.0.22"
   },
   "sumwords-game": {
     "name": "sumwords-game",
@@ -3586,5 +3586,9 @@
   "versedb-app": {
     "name": "VerseDB",
     "version": "0.0.18"
+  },
+  "riftboundfetcher": {
+    "name": "riftboundfetcher",
+    "version": "0.1.25"
   }
 }
