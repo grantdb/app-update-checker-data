@@ -1769,7 +1769,7 @@
   },
   "linux-quest": {
     "name": "Linux Quest",
-    "version": "0.0.128"
+    "version": "0.0.130"
   },
   "snapguess": {
     "name": "Snap Guess",
@@ -3566,5 +3566,13 @@
   "amputatorbot": {
     "name": "AmputatorBot",
     "version": "5.1.4"
+  },
+  "infinite-jumper": {
+    "name": "infinite-jumper",
+    "version": "0.0.5"
+  },
+  "letterloo": {
+    "name": "letterloo",
+    "version": "0.3.39"
   }
 }
