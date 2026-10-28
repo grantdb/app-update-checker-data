@@ -3478,5 +3478,17 @@
   "redit-wrapped": {
     "name": "redit-wrapped",
     "version": "0.0.6"
+  },
+  "the-prisma": {
+    "name": "The PRISMA",
+    "version": "0.0.53"
+  },
+  "wordpaws": {
+    "name": "wordpaws",
+    "version": "1.2.0"
+  },
+  "provincials-app": {
+    "name": "provincials-app",
+    "version": "0.0.9"
   }
 }
