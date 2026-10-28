@@ -3426,5 +3426,17 @@
   "groupmessenger": {
     "name": "Group Messenger",
     "version": "0.0.18"
+  },
+  "git-age-checker": {
+    "name": "Git Age Checker",
+    "version": "0.0.6"
+  },
+  "a-news-bot": {
+    "name": "News Games Releases",
+    "version": "0.0.24"
+  },
+  "cascade-ban": {
+    "name": "cascade-ban",
+    "version": "0.0.6"
   }
 }
