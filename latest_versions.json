@@ -3438,5 +3438,13 @@
   "cascade-ban": {
     "name": "cascade-ban",
     "version": "0.0.6"
+  },
+  "rentguessr": {
+    "name": "rentguessr",
+    "version": "1.0.21"
+  },
+  "dicedaemon": {
+    "name": "dicedaemon",
+    "version": "0.0.22"
   }
 }
