@@ -3534,5 +3534,13 @@
   "neon-chess": {
     "name": "Neon Chess",
     "version": "0.0.18"
+  },
+  "fillr-puzzle": {
+    "name": "fillr-puzzle",
+    "version": "0.0.17"
+  },
+  "pixreveal": {
+    "name": "PixReveal: Guess the Pixel Art",
+    "version": "0.0.13"
   }
 }
