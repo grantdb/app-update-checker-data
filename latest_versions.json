@@ -3590,5 +3590,25 @@
   "riftboundfetcher": {
     "name": "riftboundfetcher",
     "version": "0.1.25"
+  },
+  "nbatrivia": {
+    "name": "nbatrivia",
+    "version": "0.0.25"
+  },
+  "urjo-game": {
+    "name": "Urjo",
+    "version": "0.9.17"
+  },
+  "rankd-judge": {
+    "name": "rankd-judge",
+    "version": "0.0.9"
+  },
+  "word-shards-game": {
+    "name": "word-shards-game",
+    "version": "0.0.2"
+  },
+  "snoosings": {
+    "name": "snoosings",
+    "version": "0.0.32"
   }
 }
