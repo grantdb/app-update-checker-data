@@ -1741,7 +1741,7 @@
   },
   "wordmaxed-mini": {
     "name": "WordMaxed Mini",
-    "version": "0.6.22"
+    "version": "0.6.29"
   },
   "test-app-6": {
     "name": "test-app-6",
@@ -3422,5 +3422,9 @@
   "decrypttest": {
     "name": "Decrypt",
     "version": "1.1.2"
+  },
+  "groupmessenger": {
+    "name": "Group Messenger",
+    "version": "0.0.18"
   }
 }
