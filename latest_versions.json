@@ -3454,5 +3454,17 @@
   "modlookout": {
     "name": "ModLookout",
     "version": "0.0.19"
+  },
+  "image-edit": {
+    "name": "Image Editor",
+    "version": "0.0.36"
+  },
+  "scriptle-game": {
+    "name": "Scriptle",
+    "version": "0.0.22"
+  },
+  "trace-race-game": {
+    "name": "Trace Race",
+    "version": "0.0.7"
   }
 }
