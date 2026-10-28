@@ -3490,5 +3490,13 @@
   "provincials-app": {
     "name": "provincials-app",
     "version": "0.0.9"
+  },
+  "keep-us-loud": {
+    "name": "Keep Us Loud - arena sports games for fans",
+    "version": "0.0.10"
+  },
+  "valcordia-space": {
+    "name": "Valcordia Space",
+    "version": "1.5.2"
   }
 }
