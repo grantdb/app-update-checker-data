@@ -3574,5 +3574,17 @@
   "letterloo": {
     "name": "letterloo",
     "version": "0.3.39"
+  },
+  "comment-summary": {
+    "name": "comment-summary",
+    "version": "0.0.8"
+  },
+  "substeward": {
+    "name": "SubSteward",
+    "version": "0.2.0"
+  },
+  "versedb-app": {
+    "name": "VerseDB",
+    "version": "0.0.18"
   }
 }
