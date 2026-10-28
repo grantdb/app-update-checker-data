@@ -3446,5 +3446,13 @@
   "dicedaemon": {
     "name": "dicedaemon",
     "version": "0.0.22"
+  },
+  "b00minb0x": {
+    "name": "b00minb0x",
+    "version": "0.0.6"
+  },
+  "modlookout": {
+    "name": "ModLookout",
+    "version": "0.0.19"
   }
 }
