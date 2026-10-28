@@ -3610,5 +3610,17 @@
   "snoosings": {
     "name": "snoosings",
     "version": "0.0.32"
+  },
+  "random-subreddit": {
+    "name": "random-subreddit",
+    "version": "0.1.0"
+  },
+  "military-flip": {
+    "name": "Military Flip",
+    "version": "0.0.21"
+  },
+  "gmepriceticker": {
+    "name": "Stock price ticker",
+    "version": "1.0.0"
   }
 }
