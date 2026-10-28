@@ -3518,5 +3518,21 @@
   "gift-tracker": {
     "name": "gift-tracker",
     "version": "0.2.2"
+  },
+  "splash-siege": {
+    "name": "splash-siege",
+    "version": "0.0.6"
+  },
+  "verbrush-game": {
+    "name": "VERBRUSH",
+    "version": "0.0.6"
+  },
+  "wikiappend": {
+    "name": "WikiMate",
+    "version": "0.0.2"
+  },
+  "neon-chess": {
+    "name": "Neon Chess",
+    "version": "0.0.18"
   }
 }
