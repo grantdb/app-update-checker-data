@@ -2917,7 +2917,7 @@
   },
   "supreme-moderator": {
     "name": "supreme-moderator",
-    "version": "0.2.0"
+    "version": "0.3.1"
   },
   "socialchecks": {
     "name": "socialchecks",
@@ -3550,5 +3550,9 @@
   "zippuzzle": {
     "name": "Zip Puzzle",
     "version": "0.0.28"
+  },
+  "dronepixel": {
+    "name": "PixelDrone",
+    "version": "0.1.4"
   }
 }
