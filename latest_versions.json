@@ -3498,5 +3498,17 @@
   "valcordia-space": {
     "name": "Valcordia Space",
     "version": "1.5.2"
+  },
+  "the-debug-oracle": {
+    "name": "the-debug-oracle",
+    "version": "0.0.6"
+  },
+  "answer-triage": {
+    "name": "answer-triage",
+    "version": "0.0.2"
+  },
+  "multiplication-game": {
+    "name": "Multiplication Game",
+    "version": "0.0.5"
   }
 }
