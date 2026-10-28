@@ -3466,5 +3466,13 @@
   "trace-race-game": {
     "name": "Trace Race",
     "version": "0.0.7"
+  },
+  "challenge-tracker": {
+    "name": "challenge-tracker",
+    "version": "0.0.5"
+  },
+  "site-status-alerts": {
+    "name": "Site Status Alerts",
+    "version": "1.0.2"
   }
 }
