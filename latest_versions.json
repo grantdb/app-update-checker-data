@@ -2577,7 +2577,7 @@
   },
   "cavsbot": {
     "name": "CavsBot",
-    "version": "1.0.6"
+    "version": "1.0.15"
   },
   "dust-bot": {
     "name": "Dust Bot - Sliding Puzzle Game",
@@ -3722,5 +3722,21 @@
   "rank-anything": {
     "name": "rank-anything",
     "version": "0.0.4"
+  },
+  "fleet-duel": {
+    "name": "Fleet Duel",
+    "version": "1.8.37"
+  },
+  "try2048": {
+    "name": "try2048",
+    "version": "0.0.4"
+  },
+  "clearestsignal": {
+    "name": "Clearest Signal",
+    "version": "1.1.13"
+  },
+  "arrows-puzzle": {
+    "name": "arrows-puzzle",
+    "version": "0.0.15"
   }
 }
