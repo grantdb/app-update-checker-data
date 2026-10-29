@@ -3642,5 +3642,13 @@
   "post-flair-ratio": {
     "name": "post-flair-ratio",
     "version": "1.0.1"
+  },
+  "memegrid": {
+    "name": "Meme Grid",
+    "version": "0.13.0"
+  },
+  "chessvault": {
+    "name": "ChessForge",
+    "version": "0.0.27"
   }
 }
