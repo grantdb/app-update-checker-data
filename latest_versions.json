@@ -3622,5 +3622,17 @@
   "gmepriceticker": {
     "name": "Stock price ticker",
     "version": "1.0.0"
+  },
+  "gearit-up": {
+    "name": "gearit-up",
+    "version": "0.2.0"
+  },
+  "tilerush": {
+    "name": "Tile Rush",
+    "version": "0.0.30"
+  },
+  "subredit-guessr": {
+    "name": "subredit-guessr",
+    "version": "0.0.8"
   }
 }
