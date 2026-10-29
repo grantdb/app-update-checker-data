@@ -73,7 +73,7 @@
   },
   "trendingtattler": {
     "name": "Trending Tattler",
-    "version": "1.7.3"
+    "version": "1.7.7"
   },
   "removed-posts": {
     "name": "Lock Removed Posts",
@@ -81,7 +81,7 @@
   },
   "image-magician": {
     "name": "Image Magician (Repost Moderation)",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   "read-the-rules": {
     "name": "Read The Rules",
