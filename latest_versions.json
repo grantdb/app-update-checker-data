@@ -3702,5 +3702,21 @@
   "pixel-rift": {
     "name": "pixel-rift",
     "version": "0.0.2"
+  },
+  "name-that-part-daily": {
+    "name": "Name That Part Daily",
+    "version": "0.0.5"
+  },
+  "arrell-idle": {
+    "name": "arrell-idle",
+    "version": "0.0.6"
+  },
+  "beim-type-racer": {
+    "name": "beim-type-racer",
+    "version": "0.0.25"
+  },
+  "littlewild-game": {
+    "name": "littlewild-game",
+    "version": "0.0.5"
   }
 }
