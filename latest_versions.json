@@ -1925,7 +1925,7 @@
   },
   "dailyspeedway": {
     "name": "dailyspeedway",
-    "version": "0.0.30"
+    "version": "0.0.31"
   },
   "factor-frenzy": {
     "name": "FactorFrenzy",
@@ -3690,5 +3690,17 @@
   "breachline": {
     "name": "breachline",
     "version": "0.0.68"
+  },
+  "unbanlab": {
+    "name": "unbanlab",
+    "version": "0.0.10"
+  },
+  "github-meta": {
+    "name": "github-meta",
+    "version": "1.0.1"
+  },
+  "pixel-rift": {
+    "name": "pixel-rift",
+    "version": "0.0.2"
   }
 }
