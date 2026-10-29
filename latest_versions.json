@@ -3738,5 +3738,21 @@
   "arrows-puzzle": {
     "name": "arrows-puzzle",
     "version": "0.0.15"
+  },
+  "msn-wink-memory-game": {
+    "name": "NETRO-G",
+    "version": "0.0.8"
+  },
+  "goalsnap": {
+    "name": "goalsnap",
+    "version": "0.0.6"
+  },
+  "karabogabot": {
+    "name": "KarabogaBot",
+    "version": "1.0.0"
+  },
+  "swiftswapgame": {
+    "name": "swiftswapgame",
+    "version": "1.2.1"
   }
 }
