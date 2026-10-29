@@ -3658,5 +3658,21 @@
   "track-buddy": {
     "name": "Track Buddy",
     "version": "1.0.13"
+  },
+  "reveal-trap": {
+    "name": "reveal-trap",
+    "version": "0.0.5"
+  },
+  "starforms-battle": {
+    "name": "Starforms : Idle Clicker",
+    "version": "0.0.9"
+  },
+  "top-of-the-heap": {
+    "name": "top-of-the-heap",
+    "version": "1.0.1"
+  },
+  "insultguard": {
+    "name": "insultguard",
+    "version": "1.0.149"
   }
 }
