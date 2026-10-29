@@ -2505,7 +2505,7 @@
   },
   "screen-shot-bot": {
     "name": "Screen Shot Bot",
-    "version": "1.0.83"
+    "version": "1.0.84"
   },
   "my-solitaire-games": {
     "name": "My Solitaire Card Game",
@@ -3173,7 +3173,7 @@
   },
   "playpixelbeads": {
     "name": "Pixel Beads",
-    "version": "0.0.231"
+    "version": "0.0.243"
   },
   "seedclash": {
     "name": "seedclash",
@@ -3650,5 +3650,13 @@
   "chessvault": {
     "name": "ChessForge",
     "version": "0.0.27"
+  },
+  "scamindexfeed": {
+    "name": "scamindexfeed",
+    "version": "0.0.32"
+  },
+  "track-buddy": {
+    "name": "Track Buddy",
+    "version": "1.0.13"
   }
 }
