@@ -3674,5 +3674,21 @@
   "insultguard": {
     "name": "insultguard",
     "version": "1.0.149"
+  },
+  "jigsaw-ug": {
+    "name": "Jigsaw.ug  Community Puzzles",
+    "version": "0.0.35"
+  },
+  "move-club": {
+    "name": "move-club",
+    "version": "0.5.1"
+  },
+  "sports-webapp": {
+    "name": "Sports Live Matchrooms",
+    "version": "0.0.17"
+  },
+  "breachline": {
+    "name": "breachline",
+    "version": "0.0.68"
   }
 }
