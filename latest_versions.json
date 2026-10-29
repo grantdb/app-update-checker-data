@@ -3754,5 +3754,29 @@
   "swiftswapgame": {
     "name": "swiftswapgame",
     "version": "1.2.1"
+  },
+  "snowballderby": {
+    "name": "Snowball Derby",
+    "version": "0.20.0"
+  },
+  "dontk1llthefish": {
+    "name": "Don&#39;t Kill The Fish",
+    "version": "0.0.90"
+  },
+  "stargate-trivia": {
+    "name": "stargate-trivia",
+    "version": "0.0.130"
+  },
+  "vipcentral": {
+    "name": "VIP Central",
+    "version": "1.0.6"
+  },
+  "mystery-reveal": {
+    "name": "Mystery Reveal",
+    "version": "0.0.6"
+  },
+  "dental-site-check": {
+    "name": "Dental Website Check",
+    "version": "0.0.3"
   }
 }
