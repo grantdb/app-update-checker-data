@@ -3778,5 +3778,25 @@
   "dental-site-check": {
     "name": "Dental Website Check",
     "version": "0.0.3"
+  },
+  "wantedmissingmonster": {
+    "name": "wantedmissingmonster",
+    "version": "1.0.2"
+  },
+  "blob-drop": {
+    "name": "Blob Drop",
+    "version": "0.2.0"
+  },
+  "active-users-only": {
+    "name": "active-users-only",
+    "version": "1.0.2"
+  },
+  "worldflaggames": {
+    "name": "worldflaggames",
+    "version": "0.0.6"
+  },
+  "pixelmatch3": {
+    "name": "Pixel Reveal",
+    "version": "0.0.65"
   }
 }
