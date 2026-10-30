@@ -1289,7 +1289,7 @@
   },
   "nhl-goalpost": {
     "name": "nhl-goalpost",
-    "version": "3.39.7"
+    "version": "3.59.3"
   },
   "huddle-mod": {
     "name": "Huddle",
@@ -1421,7 +1421,7 @@
   },
   "language-detector": {
     "name": "language-detector",
-    "version": "0.0.28"
+    "version": "0.0.31"
   },
   "galactica-cmd": {
     "name": "Galactica Command",
