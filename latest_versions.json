@@ -1457,7 +1457,7 @@
   },
   "hangout-map": {
     "name": "MazWiz Hangout Map",
-    "version": "0.0.736"
+    "version": "0.0.737"
   },
   "autoenforcer": {
     "name": "AutoEnforcer",
@@ -1781,7 +1781,7 @@
   },
   "nfl-scores": {
     "name": "NFL Scoreboard App",
-    "version": "0.0.157"
+    "version": "0.0.158"
   },
   "logiclens-larry": {
     "name": "Larry Logic - Mr. Logical Fallacy Detector",
