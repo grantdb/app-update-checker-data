@@ -917,7 +917,7 @@
   },
   "nhlgdtbot": {
     "name": "nhlgdtbot",
-    "version": "2.0.14"
+    "version": "2.3.0"
   },
   "verify-helper": {
     "name": "Verification Helper",
@@ -1245,7 +1245,7 @@
   },
   "community-form": {
     "name": "Community Form",
-    "version": "0.0.146"
+    "version": "0.0.147"
   },
   "hardcoverbot": {
     "name": "Unofficial Hardcover.app Bot",
