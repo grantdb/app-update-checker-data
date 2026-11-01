@@ -1889,7 +1889,7 @@
   },
   "ahl-goalpost": {
     "name": "ahl-goalpost",
-    "version": "3.39.7"
+    "version": "3.59.3"
   },
   "miirps-app": {
     "name": "Miirps",
@@ -3306,5 +3306,9 @@
   "pixelmatch3": {
     "name": "Pixel Reveal",
     "version": "0.0.65"
+  },
+  "panda-modbot": {
+    "name": "panda-modbot",
+    "version": "0.0.64"
   }
 }
