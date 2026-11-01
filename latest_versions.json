@@ -1997,7 +1997,7 @@
   },
   "stonefall99": {
     "name": "Stonefall",
-    "version": "0.3.15"
+    "version": "0.3.17"
   },
   "ladder-climb": {
     "name": "Ladder Climb",
@@ -2549,7 +2549,7 @@
   },
   "fact-or-cap": {
     "name": "FactOrCap",
-    "version": "0.0.41"
+    "version": "0.0.43"
   },
   "r-humanoid": {
     "name": "Humanoid",
