@@ -2480,8 +2480,8 @@
     "version": "0.0.13"
   },
   "matchpal-fantasy": {
-    "name": "Football Fantasy Game",
-    "version": "0.0.35"
+    "name": "MatchPal Football Fantasy",
+    "version": "0.0.65"
   },
   "answervault": {
     "name": "Save Answer",
@@ -3310,5 +3310,9 @@
   "panda-modbot": {
     "name": "panda-modbot",
     "version": "0.0.64"
+  },
+  "good-comments-immune": {
+    "name": "Good Comments Are Immune",
+    "version": "0.2.4"
   }
 }
