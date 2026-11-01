@@ -1929,7 +1929,7 @@
   },
   "mod-snapshot": {
     "name": "Mod Snapshot",
-    "version": "0.0.84"
+    "version": "0.0.85"
   },
   "alchemygame": {
     "name": "Alchemy",
@@ -1957,7 +1957,7 @@
   },
   "archive-all-mm": {
     "name": "Archive All Modmail",
-    "version": "0.0.72"
+    "version": "0.0.74"
   },
   "simple-checklist": {
     "name": "Simple Checklist",
