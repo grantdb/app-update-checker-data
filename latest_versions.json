@@ -1397,7 +1397,7 @@
   },
   "element-synergy": {
     "name": "Element Synergy",
-    "version": "0.10.5"
+    "version": "0.10.6"
   },
   "notice-board": {
     "name": "Notice Board",
@@ -3314,5 +3314,9 @@
   "good-comments-immune": {
     "name": "Good Comments Are Immune",
     "version": "0.2.4"
+  },
+  "projectile-merge": {
+    "name": "projectile-merge",
+    "version": "0.0.2"
   }
 }
