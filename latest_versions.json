@@ -3021,7 +3021,7 @@
   },
   "pinned-hub": {
     "name": "pinned-hub",
-    "version": "0.0.31"
+    "version": "0.0.32"
   },
   "gif-guardian": {
     "name": "Gif-Guardian",
@@ -3318,5 +3318,9 @@
   "projectile-merge": {
     "name": "projectile-merge",
     "version": "0.0.2"
+  },
+  "user-guard": {
+    "name": "User Guard",
+    "version": "0.0.79"
   }
 }
