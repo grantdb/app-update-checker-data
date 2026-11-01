@@ -2185,7 +2185,7 @@
   },
   "pwhl-goalpost": {
     "name": "pwhl-goalpost",
-    "version": "3.39.7"
+    "version": "3.59.3"
   },
   "wordblast": {
     "name": "wordblast",
@@ -3017,7 +3017,7 @@
   },
   "adv-auto-moderator": {
     "name": "AutoModerator",
-    "version": "0.0.4"
+    "version": "0.0.5"
   },
   "pinned-hub": {
     "name": "pinned-hub",
