@@ -2461,7 +2461,7 @@
   },
   "rate-guard": {
     "name": "Rate Guard",
-    "version": "0.0.17"
+    "version": "0.0.19"
   },
   "trust-restore-bot": {
     "name": "trust-restore-bot",
