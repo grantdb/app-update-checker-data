@@ -2653,7 +2653,7 @@
   },
   "duplicate-guard": {
     "name": "Duplicate Guard",
-    "version": "0.0.40"
+    "version": "0.0.41"
   },
   "useranalyzer": {
     "name": "useranalyzer",
@@ -3029,7 +3029,7 @@
   },
   "word-guard": {
     "name": "Word Guard",
-    "version": "0.0.198"
+    "version": "0.0.199"
   },
   "feed-relay": {
     "name": "Feed Relay: RSS replacement, post alerts to Telegram, Slack, Discord",
