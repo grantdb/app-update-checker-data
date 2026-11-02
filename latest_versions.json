@@ -3334,5 +3334,13 @@
   "sub-feedback": {
     "name": "Community Feedback",
     "version": "0.0.21"
+  },
+  "cube-xo": {
+    "name": "cube-xo",
+    "version": "0.0.14"
+  },
+  "slideblast-rdt": {
+    "name": "SlideBlast - Fruit Merge Puzzle",
+    "version": "0.0.34"
   }
 }
