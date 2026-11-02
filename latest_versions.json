@@ -3350,5 +3350,17 @@
   "pulse-monitor": {
     "name": "pulse-monitor",
     "version": "0.0.11"
+  },
+  "revelia-dream": {
+    "name": "Revelia Dreams",
+    "version": "0.0.11"
+  },
+  "numberguess": {
+    "name": "Number Guess Game",
+    "version": "0.0.15"
+  },
+  "trivia-hub": {
+    "name": "Trivia Hub",
+    "version": "0.0.18"
   }
 }
