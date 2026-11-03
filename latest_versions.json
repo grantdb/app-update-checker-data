@@ -3582,5 +3582,17 @@
   "spiredle": {
     "name": "spiredle",
     "version": "0.0.5"
+  },
+  "flair-utility": {
+    "name": "Flair Utility",
+    "version": "0.0.6"
+  },
+  "sub-deep-dive": {
+    "name": "sub-deep-dive",
+    "version": "0.0.3"
+  },
+  "chain-reaction-game": {
+    "name": "Chain Reaction",
+    "version": "0.10.0"
   }
 }
