@@ -3566,5 +3566,9 @@
   "patchpulseapp": {
     "name": "PatchPulse",
     "version": "0.0.38"
+  },
+  "mod-review-guard": {
+    "name": "Mod Review Guard",
+    "version": "0.0.5"
   }
 }
