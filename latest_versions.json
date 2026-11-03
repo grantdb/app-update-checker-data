@@ -3422,5 +3422,21 @@
   "merge-royal": {
     "name": "merge-royal",
     "version": "0.0.6"
+  },
+  "sub-streaks-tracker": {
+    "name": "Community Streak Tracker",
+    "version": "1.0.0"
+  },
+  "daily-gridlock": {
+    "name": "Daily Gridlock",
+    "version": "0.0.9"
+  },
+  "disc-golf-rush": {
+    "name": "disc-golf-rush-arcade",
+    "version": "0.0.5"
+  },
+  "huckid": {
+    "name": "HuckID",
+    "version": "0.0.15"
   }
 }
