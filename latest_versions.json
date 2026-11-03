@@ -3498,5 +3498,25 @@
   "streakwar": {
     "name": "streakwar",
     "version": "0.0.10"
+  },
+  "make-to-ten": {
+    "name": "Make To Ten",
+    "version": "0.0.36"
+  },
+  "cash-ladder": {
+    "name": "cash-ladder",
+    "version": "0.0.9"
+  },
+  "paddleborn": {
+    "name": "paddleborn",
+    "version": "0.0.21"
+  },
+  "mailguardian3": {
+    "name": "Mail Guardian",
+    "version": "0.0.3"
+  },
+  "zenqueue-mod": {
+    "name": "zenqueue-mod",
+    "version": "0.0.8"
   }
 }
