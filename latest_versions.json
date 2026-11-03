@@ -3554,5 +3554,17 @@
   "the-daily-realm": {
     "name": "The Daily Realm",
     "version": "2.0.23"
+  },
+  "crack-lock": {
+    "name": "crack-lock",
+    "version": "0.0.26"
+  },
+  "meetyou-games": {
+    "name": "MeetYou Puzzles",
+    "version": "0.0.10"
+  },
+  "patchpulseapp": {
+    "name": "PatchPulse",
+    "version": "0.0.38"
   }
 }
