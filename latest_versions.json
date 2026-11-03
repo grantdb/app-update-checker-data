@@ -3546,5 +3546,13 @@
   "daily-unscrew": {
     "name": "Daily Unscrew",
     "version": "0.0.9"
+  },
+  "daily9golf": {
+    "name": "Daily 9",
+    "version": "0.0.17"
+  },
+  "the-daily-realm": {
+    "name": "The Daily Realm",
+    "version": "2.0.23"
   }
 }
