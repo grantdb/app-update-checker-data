@@ -2725,7 +2725,7 @@
   },
   "supreme-moderator": {
     "name": "supreme-moderator",
-    "version": "0.3.1"
+    "version": "0.3.2"
   },
   "socialchecks": {
     "name": "socialchecks",
@@ -3478,5 +3478,9 @@
   "crossposter-app": {
     "name": "Crossposter App",
     "version": "0.0.2"
+  },
+  "megathread-keeper": {
+    "name": "Megathread Keeper",
+    "version": "1.0.0"
   }
 }
