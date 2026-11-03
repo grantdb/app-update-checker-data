@@ -3482,5 +3482,21 @@
   "megathread-keeper": {
     "name": "Megathread Keeper",
     "version": "1.0.0"
+  },
+  "unanswered-alert": {
+    "name": "Unanswered Post Alert",
+    "version": "1.0.0"
+  },
+  "hindsight-game": {
+    "name": "hindsight-game",
+    "version": "0.0.6"
+  },
+  "glanceeyestrong": {
+    "name": "Glance Eye Strong",
+    "version": "0.0.25"
+  },
+  "streakwar": {
+    "name": "streakwar",
+    "version": "0.0.10"
   }
 }
