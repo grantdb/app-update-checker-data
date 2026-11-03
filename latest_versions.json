@@ -2749,7 +2749,7 @@
   },
   "fantasy-league": {
     "name": "Fantasy League",
-    "version": "0.0.18"
+    "version": "0.0.20"
   },
   "thread-brawlers": {
     "name": "Thread Brawlers",
@@ -3462,5 +3462,13 @@
   "kickoff-legends": {
     "name": "Sweaty Pixels FC",
     "version": "0.0.15"
+  },
+  "auto-flair-suite": {
+    "name": "Report Threshold Flair",
+    "version": "0.0.4"
+  },
+  "bugshelper": {
+    "name": "bugshelper",
+    "version": "0.0.27"
   }
 }
