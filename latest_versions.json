@@ -3570,5 +3570,13 @@
   "mod-review-guard": {
     "name": "Mod Review Guard",
     "version": "0.0.5"
+  },
+  "sudokupuzzle-app": {
+    "name": "sudokupuzzle-app",
+    "version": "0.0.12"
+  },
+  "unlicencedwizard": {
+    "name": "unlicensed wizardry",
+    "version": "0.1.45"
   }
 }
