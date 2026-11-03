@@ -3370,5 +3370,25 @@
   "triage-hackaton": {
     "name": "Triage",
     "version": "0.0.176"
+  },
+  "financecalculator": {
+    "name": "Finance Calculator",
+    "version": "1.7.0"
+  },
+  "banned-list": {
+    "name": "banned-list",
+    "version": "0.25.0"
+  },
+  "reflect-daily": {
+    "name": "Buddha Quotes",
+    "version": "0.0.10"
+  },
+  "wordseekr2": {
+    "name": "Wordseekr Quotes",
+    "version": "0.2.37"
+  },
+  "check-ai": {
+    "name": "check-ai",
+    "version": "0.0.11"
   }
 }
