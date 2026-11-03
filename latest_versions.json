@@ -3362,5 +3362,13 @@
   "trivia-hub": {
     "name": "Trivia Hub",
     "version": "0.0.18"
+  },
+  "blackout-sq356": {
+    "name": "blackout-sq356",
+    "version": "0.0.15"
+  },
+  "triage-hackaton": {
+    "name": "Triage",
+    "version": "0.0.176"
   }
 }
