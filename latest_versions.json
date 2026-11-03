@@ -3470,5 +3470,13 @@
   "bugshelper": {
     "name": "bugshelper",
     "version": "0.0.27"
+  },
+  "exitmymaze": {
+    "name": "exitmymaze",
+    "version": "0.0.19"
+  },
+  "crossposter-app": {
+    "name": "Crossposter App",
+    "version": "0.0.2"
   }
 }
