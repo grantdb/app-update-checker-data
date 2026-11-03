@@ -2285,7 +2285,7 @@
   },
   "mma-parlay-lab": {
     "name": "MMA Parlay Lab",
-    "version": "0.0.9"
+    "version": "0.0.11"
   },
   "comment-picker": {
     "name": "comment raffler",
@@ -3390,5 +3390,17 @@
   "check-ai": {
     "name": "check-ai",
     "version": "0.0.11"
+  },
+  "smackthatcaptcha": {
+    "name": "Smack That Captcha: The Frictionless, Gamified Spam Filter",
+    "version": "0.0.23"
+  },
+  "bubble-shooter-game": {
+    "name": "Bubble Shooter",
+    "version": "0.0.20"
+  },
+  "knobjam": {
+    "name": "KnobJam",
+    "version": "0.0.58"
   }
 }
