@@ -3578,5 +3578,9 @@
   "unlicencedwizard": {
     "name": "unlicensed wizardry",
     "version": "0.1.45"
+  },
+  "spiredle": {
+    "name": "spiredle",
+    "version": "0.0.5"
   }
 }
