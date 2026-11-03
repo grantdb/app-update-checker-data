@@ -3438,5 +3438,17 @@
   "huckid": {
     "name": "HuckID",
     "version": "0.0.15"
+  },
+  "hott-take": {
+    "name": "hott-take",
+    "version": "0.1.0"
+  },
+  "dice-battle-dev": {
+    "name": "Dice Fight",
+    "version": "0.0.147"
+  },
+  "etfshelf-widgets": {
+    "name": "etfshelf-widgets",
+    "version": "0.0.27"
   }
 }
