@@ -3402,5 +3402,13 @@
   "knobjam": {
     "name": "KnobJam",
     "version": "0.0.58"
+  },
+  "lol-or-nope": {
+    "name": "lol-or-nope",
+    "version": "0.2.29"
+  },
+  "forest-rescue": {
+    "name": "forest-rescue",
+    "version": "0.0.2"
   }
 }
