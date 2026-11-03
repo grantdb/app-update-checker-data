@@ -3518,5 +3518,29 @@
   "zenqueue-mod": {
     "name": "zenqueue-mod",
     "version": "0.0.8"
+  },
+  "ring-escape": {
+    "name": "Ring Escape",
+    "version": "0.0.72"
+  },
+  "karmas-brick": {
+    "name": "karmas-brick",
+    "version": "0.0.15"
+  },
+  "sudoku-speed-run": {
+    "name": "Sudoku Speed Run",
+    "version": "0.0.5"
+  },
+  "mr-approve": {
+    "name": "mr-approve",
+    "version": "1.1.3"
+  },
+  "sudokugame": {
+    "name": "Sudoku",
+    "version": "0.0.47"
+  },
+  "pepe-gachi": {
+    "name": "pepe-gachi",
+    "version": "0.0.12"
   }
 }
