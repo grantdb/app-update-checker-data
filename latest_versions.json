@@ -3077,7 +3077,7 @@
   },
   "a-news-bot": {
     "name": "News Games Releases",
-    "version": "0.0.24"
+    "version": "0.0.28"
   },
   "cascade-ban": {
     "name": "cascade-ban",
@@ -3410,5 +3410,17 @@
   "forest-rescue": {
     "name": "forest-rescue",
     "version": "0.0.2"
+  },
+  "idxstockinsight1": {
+    "name": "idxstockinsight1",
+    "version": "0.2.5"
+  },
+  "nba-voting": {
+    "name": "nba-voting",
+    "version": "0.0.2"
+  },
+  "merge-royal": {
+    "name": "merge-royal",
+    "version": "0.0.6"
   }
 }
