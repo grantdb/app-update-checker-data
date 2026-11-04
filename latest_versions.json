@@ -3618,5 +3618,17 @@
   "reply-coach": {
     "name": "reply-coach",
     "version": "0.0.3"
+  },
+  "ember-world": {
+    "name": "ember-world",
+    "version": "0.0.39"
+  },
+  "goods-sort-packing": {
+    "name": "Goods Sort:PACKING PUZZLE",
+    "version": "0.0.5"
+  },
+  "wikiscribe": {
+    "name": "WikiScribe",
+    "version": "1.0.1"
   }
 }
