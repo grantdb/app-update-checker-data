@@ -3638,5 +3638,13 @@
   "block-down": {
     "name": "block-down",
     "version": "0.0.68"
+  },
+  "nfj-fpl": {
+    "name": "NFJ FPL Standings",
+    "version": "0.0.8"
+  },
+  "hucontroll": {
+    "name": "HUconTroll",
+    "version": "1.0.27"
   }
 }
