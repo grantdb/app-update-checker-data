@@ -3686,5 +3686,25 @@
   "thebidroom": {
     "name": "Bid &amp; Auction",
     "version": "1.0.22"
+  },
+  "slop-cops-tribunal": {
+    "name": "slop-cops-tribunal",
+    "version": "0.0.6"
+  },
+  "prop-tribunal-sim": {
+    "name": "prop-tribunal-sim",
+    "version": "0.0.6"
+  },
+  "quickresponse-bot": {
+    "name": "quickresponse-bot",
+    "version": "0.0.7"
+  },
+  "ember-platformer": {
+    "name": "ember-platformer",
+    "version": "1.0.1"
+  },
+  "playdroplings": {
+    "name": "playdroplings",
+    "version": "0.0.5"
   }
 }
