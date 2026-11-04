@@ -3670,5 +3670,17 @@
   "gridblink": {
     "name": "gridblink",
     "version": "0.0.3"
+  },
+  "cannons-and-castles": {
+    "name": "cannons-and-castles",
+    "version": "0.0.4"
+  },
+  "projectmask": {
+    "name": "Project Mask",
+    "version": "0.3.0"
+  },
+  "constraintgame": {
+    "name": "constraintgame",
+    "version": "0.0.10"
   }
 }
