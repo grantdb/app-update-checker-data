@@ -3654,5 +3654,9 @@
   "flip-match": {
     "name": "Flip &amp; Match",
     "version": "0.0.28"
+  },
+  "three-of-six": {
+    "name": "Three of Six",
+    "version": "0.0.5"
   }
 }
