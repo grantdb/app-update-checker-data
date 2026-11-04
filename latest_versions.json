@@ -3594,5 +3594,29 @@
   "chain-reaction-game": {
     "name": "Chain Reaction",
     "version": "0.10.0"
+  },
+  "karma-grid": {
+    "name": "karma-grid",
+    "version": "0.0.7"
+  },
+  "cribbage-daily": {
+    "name": "Cribbage Daily Hand",
+    "version": "0.2.29"
+  },
+  "pickem-game": {
+    "name": "pickem-game",
+    "version": "0.0.28"
+  },
+  "chessmultiplayer": {
+    "name": "chessmultiplayer",
+    "version": "0.0.11"
+  },
+  "bluff-bomb": {
+    "name": "Bluff Bomb",
+    "version": "0.1.13"
+  },
+  "reply-coach": {
+    "name": "reply-coach",
+    "version": "0.0.3"
   }
 }
