@@ -3646,5 +3646,13 @@
   "hucontroll": {
     "name": "HUconTroll",
     "version": "1.0.27"
+  },
+  "ledger-quest": {
+    "name": "ledger-quest",
+    "version": "0.0.11"
+  },
+  "flip-match": {
+    "name": "Flip &amp; Match",
+    "version": "0.0.28"
   }
 }
