@@ -3181,7 +3181,7 @@
   },
   "memory-matches": {
     "name": "Memory Match",
-    "version": "1.0.73"
+    "version": "1.0.79"
   },
   "amputatorbot": {
     "name": "AmputatorBot",
@@ -3630,5 +3630,13 @@
   "wikiscribe": {
     "name": "WikiScribe",
     "version": "1.0.1"
+  },
+  "overtake-game": {
+    "name": "Rally Sleuth",
+    "version": "0.0.37"
+  },
+  "block-down": {
+    "name": "block-down",
+    "version": "0.0.68"
   }
 }
