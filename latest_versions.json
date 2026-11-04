@@ -2401,7 +2401,7 @@
   },
   "cavsbot": {
     "name": "CavsBot",
-    "version": "1.0.15"
+    "version": "1.0.16"
   },
   "dust-bot": {
     "name": "Dust Bot - Sliding Puzzle Game",
@@ -3682,5 +3682,9 @@
   "constraintgame": {
     "name": "constraintgame",
     "version": "0.0.10"
+  },
+  "thebidroom": {
+    "name": "Bid &amp; Auction",
+    "version": "1.0.22"
   }
 }
