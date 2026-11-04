@@ -3666,5 +3666,9 @@
   "plumbi-app": {
     "name": "plumbi-app",
     "version": "0.0.6"
+  },
+  "gridblink": {
+    "name": "gridblink",
+    "version": "0.0.3"
   }
 }
