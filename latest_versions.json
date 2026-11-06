@@ -1109,7 +1109,7 @@
   },
   "ninigrams-game": {
     "name": "Ninigrams",
-    "version": "0.1.55"
+    "version": "0.1.59"
   },
   "ratio-bobo": {
     "name": "Ratio! Bobobo! Motivate your users to contribute on some specific flair.",
@@ -1265,7 +1265,7 @@
   },
   "word-grind": {
     "name": "Word Grind",
-    "version": "0.1.1295"
+    "version": "0.1.1311"
   },
   "public-mod-log": {
     "name": "Public Mod Log &amp; Insights",
