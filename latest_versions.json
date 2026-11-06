@@ -1241,7 +1241,7 @@
   },
   "community-form": {
     "name": "Community Form",
-    "version": "0.0.147"
+    "version": "0.0.153"
   },
   "hardcoverbot": {
     "name": "Unofficial Hardcover.app Bot",
@@ -1445,7 +1445,7 @@
   },
   "hangout-map": {
     "name": "MazWiz Hangout Map",
-    "version": "0.0.737"
+    "version": "0.0.742"
   },
   "autoenforcer": {
     "name": "AutoEnforcer",
