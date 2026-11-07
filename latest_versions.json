@@ -1789,7 +1789,7 @@
   },
   "ahl-goalpost": {
     "name": "ahl-goalpost",
-    "version": "3.59.3"
+    "version": "3.70.3"
   },
   "miirps-app": {
     "name": "Miirps",
@@ -2913,7 +2913,7 @@
   },
   "ncaa-scores": {
     "name": "NCAA Basketball Scoreboard",
-    "version": "0.0.23"
+    "version": "0.0.31"
   },
   "pulse-monitor": {
     "name": "pulse-monitor",
