@@ -1401,7 +1401,7 @@
   },
   "pick-a-partridge": {
     "name": "Pick-A-Partridge",
-    "version": "0.0.3"
+    "version": "0.9.5"
   },
   "live-community-chat": {
     "name": "Live Community Chat",
@@ -1513,7 +1513,7 @@
   },
   "wex-ai": {
     "name": "wex-ai",
-    "version": "0.0.165"
+    "version": "0.0.167"
   },
   "detective-match": {
     "name": "Detective Match",
