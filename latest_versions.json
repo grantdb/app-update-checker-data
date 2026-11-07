@@ -3142,5 +3142,9 @@
   "ember-platformer": {
     "name": "ember-platformer",
     "version": "1.0.1"
+  },
+  "queueclue": {
+    "name": "QueueClue",
+    "version": "0.0.16"
   }
 }
