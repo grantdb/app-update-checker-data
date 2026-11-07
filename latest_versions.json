@@ -2081,7 +2081,7 @@
   },
   "mochi-mochi-donuts": {
     "name": "Mochi Mochi Donuts",
-    "version": "0.1.21"
+    "version": "0.1.23"
   },
   "shadowarchiver": {
     "name": "shadowarchiver",
@@ -2417,7 +2417,7 @@
   },
   "recipe-scale": {
     "name": "recipe-scale",
-    "version": "0.0.31"
+    "version": "0.0.33"
   },
   "weathercast": {
     "name": "Weathercast",
@@ -3150,5 +3150,9 @@
   "flair-extender": {
     "name": "Flair Forge",
     "version": "0.0.11"
+  },
+  "geoctf": {
+    "name": "GeoCTF",
+    "version": "0.0.35"
   }
 }
