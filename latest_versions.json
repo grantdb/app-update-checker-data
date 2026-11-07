@@ -1004,8 +1004,8 @@
     "version": "0.2.15"
   },
   "xcancel-linker": {
-    "name": "XCancel Linker",
-    "version": "0.0.14"
+    "name": "X Mirror Linker",
+    "version": "0.0.15"
   },
   "reputation-flair": {
     "name": "reputation-flair",
@@ -1857,7 +1857,7 @@
   },
   "archive-all-mm": {
     "name": "Archive All Modmail",
-    "version": "0.0.74"
+    "version": "0.0.75"
   },
   "simple-checklist": {
     "name": "Simple Checklist",
@@ -1893,7 +1893,7 @@
   },
   "stonefall99": {
     "name": "Stonefall",
-    "version": "0.3.17"
+    "version": "0.3.20"
   },
   "ladder-climb": {
     "name": "Ladder Climb",
