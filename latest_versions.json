@@ -3174,5 +3174,17 @@
   "fish-legends": {
     "name": "fish-legends",
     "version": "0.0.118"
+  },
+  "streamer-stocks": {
+    "name": "streamer-stocks",
+    "version": "0.0.3"
+  },
+  "photogallerytest": {
+    "name": "photogallerytest",
+    "version": "0.0.6"
+  },
+  "curling-game": {
+    "name": "Curling - 2d",
+    "version": "0.3.0"
   }
 }
