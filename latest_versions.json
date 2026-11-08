@@ -2965,7 +2965,7 @@
   },
   "forest-rescue": {
     "name": "forest-rescue",
-    "version": "0.0.2"
+    "version": "0.0.3"
   },
   "idxstockinsight1": {
     "name": "idxstockinsight1",
@@ -3242,5 +3242,21 @@
   "watchalong-matvt": {
     "name": "watchalong-matvt",
     "version": "0.0.4"
+  },
+  "orik-app": {
+    "name": "Pixel Wars",
+    "version": "0.0.4"
+  },
+  "mod-warden": {
+    "name": "Mod Warden",
+    "version": "0.0.23"
+  },
+  "subhunter-app": {
+    "name": "subhunter-app",
+    "version": "0.0.20"
+  },
+  "dict-fills": {
+    "name": "Dictionary Fills",
+    "version": "0.0.11"
   }
 }
