@@ -3210,5 +3210,21 @@
   "rs-wiki-linker": {
     "name": "RS Wiki Linker",
     "version": "0.0.8"
+  },
+  "chain-rules": {
+    "name": "chain-rules",
+    "version": "1.5.1"
+  },
+  "qkiya-template": {
+    "name": "Create for Fun by Qkiya",
+    "version": "0.0.8"
+  },
+  "hangman-out": {
+    "name": "hangman-out",
+    "version": "0.0.11"
+  },
+  "ninjamail3": {
+    "name": "Ninja Mail",
+    "version": "0.0.10"
   }
 }
