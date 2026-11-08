@@ -3198,5 +3198,13 @@
   "wakelings-duel": {
     "name": "Wakelings Duel",
     "version": "0.0.23"
+  },
+  "reference-registry": {
+    "name": "Reference Registry",
+    "version": "0.0.10"
+  },
+  "ragnirbot": {
+    "name": "ragnirbot",
+    "version": "0.0.4"
   }
 }
