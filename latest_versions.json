@@ -3166,5 +3166,13 @@
   "us-stock-market": {
     "name": "The US Stock Market - S&amp;P , NASDAQ",
     "version": "0.0.8"
+  },
+  "flapdiy": {
+    "name": "FlapLab",
+    "version": "0.0.71"
+  },
+  "fish-legends": {
+    "name": "fish-legends",
+    "version": "0.0.118"
   }
 }
