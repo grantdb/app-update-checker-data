@@ -3226,5 +3226,21 @@
   "ninjamail3": {
     "name": "Ninja Mail",
     "version": "0.0.10"
+  },
+  "strikesystem": {
+    "name": "strikesystem",
+    "version": "0.0.6"
+  },
+  "queensquest-": {
+    "name": "QueensQuest",
+    "version": "0.0.5"
+  },
+  "pomodorotime": {
+    "name": "Pomodoro Timer",
+    "version": "0.0.2"
+  },
+  "watchalong-matvt": {
+    "name": "watchalong-matvt",
+    "version": "0.0.4"
   }
 }
