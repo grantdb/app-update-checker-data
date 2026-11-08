@@ -3154,5 +3154,9 @@
   "geoctf": {
     "name": "GeoCTF",
     "version": "0.0.35"
+  },
+  "seen-it-before": {
+    "name": "seen-it-before",
+    "version": "1.1.0"
   }
 }
