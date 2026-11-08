@@ -3206,5 +3206,9 @@
   "ragnirbot": {
     "name": "ragnirbot",
     "version": "0.0.4"
+  },
+  "rs-wiki-linker": {
+    "name": "RS Wiki Linker",
+    "version": "0.0.8"
   }
 }
