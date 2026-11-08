@@ -3186,5 +3186,17 @@
   "curling-game": {
     "name": "Curling - 2d",
     "version": "0.3.0"
+  },
+  "pipe-panic": {
+    "name": "Pipe Panic",
+    "version": "0.3.98"
+  },
+  "format-guard": {
+    "name": "format-guard",
+    "version": "0.0.73"
+  },
+  "wakelings-duel": {
+    "name": "Wakelings Duel",
+    "version": "0.0.23"
   }
 }
