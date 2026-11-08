@@ -2133,7 +2133,7 @@
   },
   "mobrush-3d": {
     "name": "mobrush-3d",
-    "version": "0.5.32"
+    "version": "0.5.35"
   },
   "click-bait-game": {
     "name": "Click Bait Game",
@@ -3158,5 +3158,13 @@
   "seen-it-before": {
     "name": "seen-it-before",
     "version": "1.1.0"
+  },
+  "all-you-can-vote": {
+    "name": "All You Can Vote",
+    "version": "0.0.13"
+  },
+  "us-stock-market": {
+    "name": "The US Stock Market - S&amp;P , NASDAQ",
+    "version": "0.0.8"
   }
 }
