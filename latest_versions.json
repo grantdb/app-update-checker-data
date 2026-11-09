@@ -3322,5 +3322,9 @@
   "mindustry-bot": {
     "name": "Mindustry Tool",
     "version": "0.0.4"
+  },
+  "mystery-hooper": {
+    "name": "mystery-hooper",
+    "version": "0.0.20"
   }
 }
