@@ -3358,5 +3358,21 @@
   "nestled-garden": {
     "name": "Nestled",
     "version": "0.0.10"
+  },
+  "auracouncil": {
+    "name": "auracouncil",
+    "version": "0.0.13"
+  },
+  "guesstheelogame": {
+    "name": "Guess the Elo",
+    "version": "0.0.4"
+  },
+  "dph-bot": {
+    "name": "dph-bot",
+    "version": "0.0.24"
+  },
+  "w0uld-u-rath3r": {
+    "name": "w0uld-u-rath3r",
+    "version": "0.0.3"
   }
 }
