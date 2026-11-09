@@ -2989,7 +2989,7 @@
   },
   "kickoff-legends": {
     "name": "Sweaty Pixels FC",
-    "version": "0.0.15"
+    "version": "0.0.16"
   },
   "auto-flair-suite": {
     "name": "Report Threshold Flair",
@@ -3282,5 +3282,21 @@
   "chaoscollabstory": {
     "name": "chaoscollabstory",
     "version": "0.0.3"
+  },
+  "space-jewel": {
+    "name": "GreedGalaxy",
+    "version": "0.0.126"
+  },
+  "insultguard": {
+    "name": "insultguard",
+    "version": "1.0.149"
+  },
+  "reputibot": {
+    "name": "ReputiBot - AI Trust Scoring for Mods",
+    "version": "0.0.5"
+  },
+  "dinorumble1": {
+    "name": "dinorumble1",
+    "version": "0.17.0"
   }
 }
