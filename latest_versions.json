@@ -3338,5 +3338,17 @@
   "word-strands": {
     "name": "Daily Grid",
     "version": "0.1.4"
+  },
+  "smilestetris": {
+    "name": "smilestetris",
+    "version": "0.0.13"
+  },
+  "boot-sale": {
+    "name": "boot-sale",
+    "version": "0.0.9"
+  },
+  "bit-drops": {
+    "name": "bit-drops",
+    "version": "0.1.10"
   }
 }
