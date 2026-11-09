@@ -3298,5 +3298,9 @@
   "dinorumble1": {
     "name": "dinorumble1",
     "version": "0.17.0"
+  },
+  "wiki-post-bot": {
+    "name": "Wiki Post Bot",
+    "version": "1.0.1"
   }
 }
