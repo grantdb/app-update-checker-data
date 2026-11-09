@@ -2997,7 +2997,7 @@
   },
   "bugshelper": {
     "name": "bugshelper",
-    "version": "0.0.27"
+    "version": "0.0.31"
   },
   "crossposter-app": {
     "name": "Crossposter App",
@@ -3382,5 +3382,17 @@
   "find-path": {
     "name": "find-path",
     "version": "0.0.4"
+  },
+  "number-math": {
+    "name": "Numble",
+    "version": "0.3.0"
+  },
+  "karmic-cards": {
+    "name": "Karmic Cards",
+    "version": "0.0.7"
+  },
+  "prism-panic": {
+    "name": "PrismPanic",
+    "version": "0.0.48"
   }
 }
