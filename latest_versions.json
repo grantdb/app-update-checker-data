@@ -3326,5 +3326,13 @@
   "mystery-hooper": {
     "name": "mystery-hooper",
     "version": "0.0.20"
+  },
+  "strike-bot": {
+    "name": "strike-bot",
+    "version": "0.0.12"
+  },
+  "tilerush": {
+    "name": "Tile Rush",
+    "version": "0.0.30"
   }
 }
