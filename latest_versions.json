@@ -3434,5 +3434,21 @@
   "porosity-quiz": {
     "name": "porosity-quiz",
     "version": "0.0.6"
+  },
+  "stemdaily": {
+    "name": "stemdaily",
+    "version": "0.0.8"
+  },
+  "activestreamers": {
+    "name": "Twitch Streamers &amp; Steam Price Preview",
+    "version": "0.0.24"
+  },
+  "tilt-daily-puzzle": {
+    "name": "tilt-daily-puzzle",
+    "version": "0.0.28"
+  },
+  "versedb-app": {
+    "name": "VerseDB",
+    "version": "0.0.18"
   }
 }
