@@ -3302,5 +3302,13 @@
   "wiki-post-bot": {
     "name": "Wiki Post Bot",
     "version": "1.0.1"
+  },
+  "bulbrush": {
+    "name": "BulbRush",
+    "version": "0.0.50"
+  },
+  "romkerl": {
+    "name": "romkerl",
+    "version": "0.1.8"
   }
 }
