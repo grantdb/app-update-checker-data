@@ -3414,5 +3414,25 @@
   "shell-dojo": {
     "name": "shell-dojo",
     "version": "0.0.33"
+  },
+  "summit-game": {
+    "name": "summit-game",
+    "version": "0.0.96"
+  },
+  "ebt-mute-on-ban": {
+    "name": "Ban &amp; Purge",
+    "version": "0.0.30"
+  },
+  "prismfallgame": {
+    "name": "Prismfall",
+    "version": "0.0.12"
+  },
+  "streak-club": {
+    "name": "Streak Club",
+    "version": "0.0.38"
+  },
+  "porosity-quiz": {
+    "name": "porosity-quiz",
+    "version": "0.0.6"
   }
 }
