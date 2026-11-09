@@ -2493,7 +2493,7 @@
   },
   "fantasy-league": {
     "name": "Fantasy League",
-    "version": "0.0.20"
+    "version": "0.0.22"
   },
   "thread-brawlers": {
     "name": "Thread Brawlers",
@@ -3274,5 +3274,13 @@
   "textingtheorybot": {
     "name": "Texting Theory Bot",
     "version": "3.50.5"
+  },
+  "grittyblocks": {
+    "name": "Gritty Blocks",
+    "version": "0.0.2"
+  },
+  "chaoscollabstory": {
+    "name": "chaoscollabstory",
+    "version": "0.0.3"
   }
 }
