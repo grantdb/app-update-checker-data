@@ -3374,5 +3374,13 @@
   "w0uld-u-rath3r": {
     "name": "w0uld-u-rath3r",
     "version": "0.0.3"
+  },
+  "redit-wrapped": {
+    "name": "redit-wrapped",
+    "version": "0.0.6"
+  },
+  "find-path": {
+    "name": "find-path",
+    "version": "0.0.4"
   }
 }
