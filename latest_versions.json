@@ -3258,5 +3258,21 @@
   "dict-fills": {
     "name": "Dictionary Fills",
     "version": "0.0.11"
+  },
+  "solar-calculator": {
+    "name": "solar-calculator",
+    "version": "0.0.209"
+  },
+  "karma-economy": {
+    "name": "karma-economy",
+    "version": "0.0.12"
+  },
+  "mineralterminal": {
+    "name": "mineralterminal",
+    "version": "0.0.281"
+  },
+  "textingtheorybot": {
+    "name": "Texting Theory Bot",
+    "version": "3.50.5"
   }
 }
