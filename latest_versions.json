@@ -3394,5 +3394,25 @@
   "prism-panic": {
     "name": "PrismPanic",
     "version": "0.0.48"
+  },
+  "ride-bike": {
+    "name": "Ride Bike",
+    "version": "0.0.6"
+  },
+  "reveal-trap": {
+    "name": "reveal-trap",
+    "version": "0.0.5"
+  },
+  "starforms-battle": {
+    "name": "Starforms : Idle Clicker",
+    "version": "0.0.10"
+  },
+  "troll-defuse": {
+    "name": "Troll Defuse",
+    "version": "0.3.17"
+  },
+  "shell-dojo": {
+    "name": "shell-dojo",
+    "version": "0.0.33"
   }
 }
