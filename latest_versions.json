@@ -3350,5 +3350,13 @@
   "bit-drops": {
     "name": "bit-drops",
     "version": "0.1.10"
+  },
+  "puff-seige": {
+    "name": "Puff Siege",
+    "version": "0.0.9"
+  },
+  "nestled-garden": {
+    "name": "Nestled",
+    "version": "0.0.10"
   }
 }
