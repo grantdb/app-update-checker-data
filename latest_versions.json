@@ -3334,5 +3334,9 @@
   "tilerush": {
     "name": "Tile Rush",
     "version": "0.0.30"
+  },
+  "word-strands": {
+    "name": "Daily Grid",
+    "version": "0.1.4"
   }
 }
