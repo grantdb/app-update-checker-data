@@ -3310,5 +3310,17 @@
   "romkerl": {
     "name": "romkerl",
     "version": "0.1.8"
+  },
+  "gem-rush-daily": {
+    "name": "Gem Rush",
+    "version": "0.0.7"
+  },
+  "infinite-subs": {
+    "name": "infinite-subs",
+    "version": "0.1.7"
+  },
+  "mindustry-bot": {
+    "name": "Mindustry Tool",
+    "version": "0.0.4"
   }
 }
