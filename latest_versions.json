@@ -3450,5 +3450,25 @@
   "versedb-app": {
     "name": "VerseDB",
     "version": "0.0.18"
+  },
+  "triviaforge": {
+    "name": "triviaforge",
+    "version": "1.0.7"
+  },
+  "substeward": {
+    "name": "SubSteward",
+    "version": "0.2.0"
+  },
+  "chess-board": {
+    "name": "chess-board",
+    "version": "0.0.157"
+  },
+  "rentguessr": {
+    "name": "rentguessr",
+    "version": "1.0.21"
+  },
+  "sumwords-game": {
+    "name": "sumwords-game",
+    "version": "0.1.0"
   }
 }
