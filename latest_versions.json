@@ -3482,5 +3482,13 @@
   "karrouet": {
     "name": "karrouet",
     "version": "0.0.6"
+  },
+  "daily-sweepd": {
+    "name": "Daily Sweepd",
+    "version": "1.0.10"
+  },
+  "blinkwords": {
+    "name": "blinkwords",
+    "version": "0.0.33"
   }
 }
