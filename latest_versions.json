@@ -3602,5 +3602,13 @@
   "peg-hero-daily": {
     "name": "peg-hero-daily",
     "version": "1.0.8"
+  },
+  "raidpulse": {
+    "name": "raidpulse",
+    "version": "0.0.5"
+  },
+  "relationtips": {
+    "name": "relationtips",
+    "version": "0.0.45"
   }
 }
