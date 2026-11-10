@@ -3490,5 +3490,17 @@
   "blinkwords": {
     "name": "blinkwords",
     "version": "0.0.33"
+  },
+  "tech-screen": {
+    "name": "tech-screen",
+    "version": "0.0.24"
+  },
+  "jigsaw-ug": {
+    "name": "Jigsaw.ug  Community Puzzles",
+    "version": "0.0.35"
+  },
+  "subvote-polls": {
+    "name": "subvote-polls",
+    "version": "0.0.11"
   }
 }
