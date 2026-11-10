@@ -3502,5 +3502,21 @@
   "subvote-polls": {
     "name": "subvote-polls",
     "version": "0.0.11"
+  },
+  "munsterbot": {
+    "name": "MunsterBot",
+    "version": "0.0.64"
+  },
+  "daily-minesweeper": {
+    "name": "Daily Minesweeper",
+    "version": "0.1.4"
+  },
+  "velvet-vault": {
+    "name": "The Velvet Vault | EPHEMERAL",
+    "version": "0.0.24"
+  },
+  "battlevote": {
+    "name": "Battle Vote",
+    "version": "0.0.7"
   }
 }
