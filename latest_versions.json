@@ -3526,5 +3526,13 @@
   "adv-roundup": {
     "name": "ADV Subreddit Roundup",
     "version": "0.0.9"
+  },
+  "nichenaut": {
+    "name": "nichenaut",
+    "version": "0.0.13"
+  },
+  "crowdclash": {
+    "name": "CrowdClash",
+    "version": "0.0.6"
   }
 }
