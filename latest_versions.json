@@ -3558,5 +3558,25 @@
   "farfield-relay": {
     "name": "Farfield Relay",
     "version": "0.0.6"
+  },
+  "play-daily-sudoku": {
+    "name": "play-daily-sudoku",
+    "version": "0.0.19"
+  },
+  "karmacritter": {
+    "name": "KarmaCritter",
+    "version": "1.0.15"
+  },
+  "bad-cards-game": {
+    "name": "Bad Cards",
+    "version": "0.0.104"
+  },
+  "dashgrid": {
+    "name": "dashgrid",
+    "version": "0.0.4"
+  },
+  "cartographer-daily": {
+    "name": "cartographer-daily",
+    "version": "0.0.2"
   }
 }
