@@ -3534,5 +3534,29 @@
   "crowdclash": {
     "name": "CrowdClash",
     "version": "0.0.6"
+  },
+  "wordhaven": {
+    "name": "wordhaven",
+    "version": "0.0.6"
+  },
+  "kariaaworks": {
+    "name": "kariaaworks",
+    "version": "0.0.45"
+  },
+  "modqueue-coord": {
+    "name": "modqueue-coord",
+    "version": "0.0.31"
+  },
+  "dreamcollab": {
+    "name": "dreamcollab",
+    "version": "0.0.14"
+  },
+  "tunnellogic": {
+    "name": "Tunnel Logic",
+    "version": "0.0.23"
+  },
+  "farfield-relay": {
+    "name": "Farfield Relay",
+    "version": "0.0.6"
   }
 }
