@@ -3622,5 +3622,17 @@
   "mazendav": {
     "name": "Mazenda",
     "version": "0.0.134"
+  },
+  "modsteward": {
+    "name": "modsteward",
+    "version": "1.0.2"
+  },
+  "lieordiegame": {
+    "name": "Lie or Die",
+    "version": "0.0.41"
+  },
+  "bondexp-apps-bob": {
+    "name": "QUACKAGEDDON: The Duck Has Left the Building",
+    "version": "0.0.4"
   }
 }
