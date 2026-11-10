@@ -1937,7 +1937,7 @@
   },
   "pawdoku-mystery": {
     "name": "Pawdoku Mystery",
-    "version": "0.0.25"
+    "version": "0.0.28"
   },
   "competitions-app": {
     "name": "competitions-app",
@@ -2625,7 +2625,7 @@
   },
   "logiclens-stu": {
     "name": "Stu Steelman",
-    "version": "0.0.12"
+    "version": "0.0.18"
   },
   "baublink": {
     "name": "baublink",
@@ -3518,5 +3518,13 @@
   "battlevote": {
     "name": "Battle Vote",
     "version": "0.0.7"
+  },
+  "words-by-farber": {
+    "name": "Words by Farber",
+    "version": "0.0.79"
+  },
+  "adv-roundup": {
+    "name": "ADV Subreddit Roundup",
+    "version": "0.0.9"
   }
 }
