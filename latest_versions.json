@@ -213,7 +213,7 @@
   },
   "social-blacklist": {
     "name": "Social-Blacklist",
-    "version": "0.0.49"
+    "version": "0.0.51"
   },
   "sport-scoreboard": {
     "name": "NFL Football Scoreboard",
@@ -225,7 +225,7 @@
   },
   "image-moderator": {
     "name": "Image Moderator",
-    "version": "1.2.3"
+    "version": "1.3.0"
   },
   "post-alerts": {
     "name": "Post Alerts",
