@@ -3666,5 +3666,21 @@
   "estimit": {
     "name": "estimit",
     "version": "0.0.8"
+  },
+  "postgraphs": {
+    "name": "postgraphs",
+    "version": "0.0.12"
+  },
+  "the-hampter-that-ran": {
+    "name": "The Hampter That Ran",
+    "version": "0.0.8"
+  },
+  "pathgame": {
+    "name": "pathgame",
+    "version": "0.6.15"
+  },
+  "worldcup-tables": {
+    "name": "worldcup-tables",
+    "version": "0.0.8"
   }
 }
