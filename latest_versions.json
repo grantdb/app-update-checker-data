@@ -3642,5 +3642,29 @@
   "trivelagames": {
     "name": "Trivela",
     "version": "0.0.15"
+  },
+  "dropstackgame": {
+    "name": "dropstackgame",
+    "version": "0.0.5"
+  },
+  "stockmarketloop-hub": {
+    "name": "StockMarketLoop HUB",
+    "version": "0.0.4"
+  },
+  "rsnl-videos": {
+    "name": "rSNL-Videos",
+    "version": "0.0.8"
+  },
+  "snack-attack-33610": {
+    "name": "snack-attack-33610",
+    "version": "0.0.3"
+  },
+  "punch-list-game": {
+    "name": "Hodi Maga: Punch List",
+    "version": "0.0.5"
+  },
+  "estimit": {
+    "name": "estimit",
+    "version": "0.0.8"
   }
 }
