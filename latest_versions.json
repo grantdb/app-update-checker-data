@@ -413,7 +413,7 @@
   },
   "pinned-comment": {
     "name": "Pinned Comment",
-    "version": "0.0.74"
+    "version": "0.0.78"
   },
   "soccer-stats": {
     "name": "Soccer Stats App",
@@ -545,7 +545,7 @@
   },
   "schedulerplus": {
     "name": "schedulerplus",
-    "version": "6.1.1"
+    "version": "7.0.0"
   },
   "report-dismisser": {
     "name": "Report Reasons Blacklist",
