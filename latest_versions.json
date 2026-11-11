@@ -3110,5 +3110,9 @@
   "worldcup-tables": {
     "name": "worldcup-tables",
     "version": "0.0.8"
+  },
+  "updatemebot": {
+    "name": "updateme-dev",
+    "version": "1.1.8"
   }
 }
