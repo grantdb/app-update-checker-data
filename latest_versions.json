@@ -1373,7 +1373,7 @@
   },
   "post-title-check": {
     "name": "Post Title Check",
-    "version": "0.0.90"
+    "version": "0.0.91"
   },
   "element-synergy": {
     "name": "Element Synergy",
@@ -2045,7 +2045,7 @@
   },
   "pincommenter": {
     "name": "Expanded Sticky",
-    "version": "0.2.1"
+    "version": "0.2.2"
   },
   "personalprevent": {
     "name": "Personal Prevent",
