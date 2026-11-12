@@ -1001,7 +1001,7 @@
   },
   "resource-reply": {
     "name": "Resource Reply",
-    "version": "0.2.15"
+    "version": "0.3.1"
   },
   "xcancel-linker": {
     "name": "X Mirror Linker",
