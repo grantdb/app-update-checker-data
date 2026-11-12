@@ -2424,7 +2424,7 @@
     "version": "0.0.34"
   },
   "feed-relay": {
-    "name": "Feed Relay: RSS replacement, post alerts to Telegram, Slack, Discord",
+    "name": "Feed Relay: Telegram, Slack, RSS, Discord alerts &amp; notifications",
     "version": "0.0.2"
   },
   "crease-clash": {
