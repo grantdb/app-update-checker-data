@@ -1509,7 +1509,7 @@
   },
   "ai-checker": {
     "name": "AI Checker",
-    "version": "0.0.90"
+    "version": "0.0.91"
   },
   "dejarepost": {
     "name": "Deja Repost",
@@ -3114,5 +3114,9 @@
   "updatemebot": {
     "name": "updateme-dev",
     "version": "1.1.8"
+  },
+  "listige-bot": {
+    "name": "Listige",
+    "version": "0.0.3"
   }
 }
