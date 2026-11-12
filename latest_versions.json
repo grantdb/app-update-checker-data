@@ -869,7 +869,7 @@
   },
   "nflgdtbot": {
     "name": "nflgdtbot",
-    "version": "2.3.0"
+    "version": "2.4.1"
   },
   "twkchat": {
     "name": "twkchat",
@@ -1657,7 +1657,7 @@
   },
   "cfb-scores": {
     "name": "CFB Scoreboard App",
-    "version": "0.0.82"
+    "version": "0.0.86"
   },
   "fairgiveaway": {
     "name": "fairgiveaway",
