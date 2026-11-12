@@ -1537,7 +1537,7 @@
   },
   "live-sticky": {
     "name": "LiveSticky",
-    "version": "1.1.319"
+    "version": "1.1.320"
   },
   "set-contestmode": {
     "name": "set-contestmode",
@@ -3118,5 +3118,9 @@
   "listige-bot": {
     "name": "Listige",
     "version": "0.0.3"
+  },
+  "my-social-links": {
+    "name": "My Social Links",
+    "version": "1.0.1"
   }
 }
