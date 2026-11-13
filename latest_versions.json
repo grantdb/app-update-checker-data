@@ -3122,5 +3122,9 @@
   "my-social-links": {
     "name": "My Social Links",
     "version": "1.0.1"
+  },
+  "campfire-missions": {
+    "name": "SubMissions",
+    "version": "0.0.23"
   }
 }
