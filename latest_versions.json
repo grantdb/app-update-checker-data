@@ -1585,7 +1585,7 @@
   },
   "automod-easy": {
     "name": "AutoMod Easy",
-    "version": "0.0.155"
+    "version": "0.0.156"
   },
   "flairscanner": {
     "name": "Flair Scanner",
@@ -1817,7 +1817,7 @@
   },
   "stonefall99": {
     "name": "Stonefall",
-    "version": "0.3.20"
+    "version": "0.3.22"
   },
   "ladder-climb": {
     "name": "Ladder Climb",
