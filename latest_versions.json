@@ -3130,5 +3130,9 @@
   "chl-goalpost": {
     "name": "chl-goalpost",
     "version": "3.76.9"
+  },
+  "giveawayapp": {
+    "name": "Giveaway Maker",
+    "version": "0.0.6"
   }
 }
