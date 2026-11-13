@@ -1773,7 +1773,7 @@
   },
   "moderator-sentient": {
     "name": "Moderator Sentient",
-    "version": "0.0.31"
+    "version": "0.0.33"
   },
   "tarot-cat-puzzle": {
     "name": "Tarot Cat Puzzle",
@@ -2413,7 +2413,7 @@
   },
   "adv-auto-moderator": {
     "name": "AutoModerator",
-    "version": "0.0.5"
+    "version": "0.0.6"
   },
   "pinned-hub": {
     "name": "pinned-hub",
