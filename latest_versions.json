@@ -1333,7 +1333,7 @@
   },
   "dice-daemon": {
     "name": "Dice Daemon",
-    "version": "0.0.22"
+    "version": "0.0.23"
   },
   "post-limiter": {
     "name": "post-limiter",
@@ -1941,7 +1941,7 @@
   },
   "pwhl-goalpost": {
     "name": "pwhl-goalpost",
-    "version": "3.70.3"
+    "version": "3.76.9"
   },
   "wordblast": {
     "name": "wordblast",
