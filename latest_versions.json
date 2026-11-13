@@ -3126,5 +3126,9 @@
   "campfire-missions": {
     "name": "SubMissions",
     "version": "0.0.23"
+  },
+  "chl-goalpost": {
+    "name": "chl-goalpost",
+    "version": "3.76.9"
   }
 }
