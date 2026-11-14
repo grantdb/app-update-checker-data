@@ -3154,5 +3154,13 @@
   "parawall-block": {
     "name": "Textwall Blocker",
     "version": "0.0.9"
+  },
+  "chess-puzzles": {
+    "name": "Chess Puzzle Game",
+    "version": "0.0.17"
+  },
+  "poker-room": {
+    "name": "Poker Room",
+    "version": "0.0.5"
   }
 }
