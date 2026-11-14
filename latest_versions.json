@@ -2269,7 +2269,7 @@
   },
   "wordy-bunch": {
     "name": "Wordy Bunch",
-    "version": "2.943.13"
+    "version": "2.943.34"
   },
   "postpause": {
     "name": "PostPause",
@@ -3170,5 +3170,9 @@
   "modmail-purge": {
     "name": "modmail-purge",
     "version": "0.0.4"
+  },
+  "uncommon-daily": {
+    "name": "Uncommon",
+    "version": "0.0.81"
   }
 }
