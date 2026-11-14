@@ -2729,7 +2729,7 @@
   },
   "flapdiy": {
     "name": "FlapLab",
-    "version": "0.0.71"
+    "version": "0.0.73"
   },
   "fish-legends": {
     "name": "fish-legends",
@@ -3250,5 +3250,17 @@
   "workit-app": {
     "name": "Workit",
     "version": "0.0.9"
+  },
+  "sumitgame": {
+    "name": "sumitgame",
+    "version": "0.0.16"
+  },
+  "karmafarmerrpg": {
+    "name": "karmafarmerrpg",
+    "version": "0.0.53"
+  },
+  "modsandbox": {
+    "name": "ModSandbox  AutoMod Rule Tester",
+    "version": "0.0.19"
   }
 }
