@@ -3262,5 +3262,13 @@
   "modsandbox": {
     "name": "ModSandbox  AutoMod Rule Tester",
     "version": "0.0.19"
+  },
+  "challengeai": {
+    "name": "challengeai",
+    "version": "0.0.44"
+  },
+  "soccer-star-play": {
+    "name": "soccer-star-play",
+    "version": "0.0.4"
   }
 }
