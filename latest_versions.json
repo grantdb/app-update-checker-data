@@ -3174,5 +3174,17 @@
   "uncommon-daily": {
     "name": "Uncommon",
     "version": "0.0.81"
+  },
+  "cube-xo": {
+    "name": "cube-xo",
+    "version": "0.0.14"
+  },
+  "queuelens-pro": {
+    "name": "QueueLens",
+    "version": "0.0.20"
+  },
+  "tf2-guess-the-map": {
+    "name": "TF2 Guess The Map",
+    "version": "0.0.54"
   }
 }
