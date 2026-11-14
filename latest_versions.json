@@ -2365,7 +2365,7 @@
   },
   "logiclens-stu": {
     "name": "Stu Steelman",
-    "version": "0.0.18"
+    "version": "0.0.22"
   },
   "trove-daily": {
     "name": "Trove: Daily Personality Game",
@@ -3138,5 +3138,9 @@
   "flair-auto-responder": {
     "name": "Flair Auto-Responder",
     "version": "0.0.5"
+  },
+  "sevenns-game": {
+    "name": "sevenns-game",
+    "version": "0.0.70"
   }
 }
