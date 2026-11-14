@@ -3210,5 +3210,17 @@
   "bareinfo-app": {
     "name": "BareInfo: Poll App",
     "version": "0.0.12"
+  },
+  "word-guard": {
+    "name": "Word Guard",
+    "version": "0.0.199"
+  },
+  "domain-guard": {
+    "name": "Domain Guard",
+    "version": "0.0.170"
+  },
+  "detconnections": {
+    "name": "Detective Connections",
+    "version": "0.0.16"
   }
 }
