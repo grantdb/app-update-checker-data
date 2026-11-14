@@ -3142,5 +3142,17 @@
   "sevenns-game": {
     "name": "sevenns-game",
     "version": "0.0.70"
+  },
+  "air-ride": {
+    "name": "air-ride",
+    "version": "0.0.4"
+  },
+  "sql-arena": {
+    "name": "sql-arena",
+    "version": "0.0.36"
+  },
+  "parawall-block": {
+    "name": "Textwall Blocker",
+    "version": "0.0.9"
   }
 }
