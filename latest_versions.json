@@ -3206,5 +3206,9 @@
   "warning-track": {
     "name": "Warning Track",
     "version": "0.0.77"
+  },
+  "bareinfo-app": {
+    "name": "BareInfo: Poll App",
+    "version": "0.0.12"
   }
 }
