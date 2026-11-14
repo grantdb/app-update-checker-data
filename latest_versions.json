@@ -1969,7 +1969,7 @@
   },
   "solitaireclassic": {
     "name": "Daily Solitaire",
-    "version": "0.5.80"
+    "version": "0.5.93"
   },
   "threadboard": {
     "name": "threadboard",
@@ -3162,5 +3162,13 @@
   "poker-room": {
     "name": "Poker Room",
     "version": "0.0.5"
+  },
+  "nopermamute": {
+    "name": "No Permamute",
+    "version": "1.0.1"
+  },
+  "modmail-purge": {
+    "name": "modmail-purge",
+    "version": "0.0.4"
   }
 }
