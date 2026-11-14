@@ -3234,5 +3234,9 @@
   "flair-impact": {
     "name": "Flair Impact  Community Discussion &amp; Flair Insights",
     "version": "0.0.10"
+  },
+  "matchmadnessgame": {
+    "name": "matchmadnessgame",
+    "version": "0.0.22"
   }
 }
