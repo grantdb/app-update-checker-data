@@ -2665,7 +2665,7 @@
   },
   "wikiscribe": {
     "name": "WikiScribe",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "nfj-fpl": {
     "name": "NFJ FPL Standings",
@@ -3190,5 +3190,21 @@
   "votingmanagement": {
     "name": "votingmanagement",
     "version": "0.0.4"
+  },
+  "guardmyflair": {
+    "name": "guardmyflair",
+    "version": "0.0.11"
+  },
+  "corroborate-mod": {
+    "name": "Corroborate",
+    "version": "0.0.3"
+  },
+  "triviachallenge2": {
+    "name": "Trivia sport",
+    "version": "0.0.37"
+  },
+  "warning-track": {
+    "name": "Warning Track",
+    "version": "0.0.77"
   }
 }
