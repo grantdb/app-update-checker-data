@@ -1633,7 +1633,7 @@
   },
   "regular-tasks-bot": {
     "name": "regular-tasks-bot",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "detectiveslider": {
     "name": "Detective Slider",
@@ -1677,7 +1677,7 @@
   },
   "logiclens-larry": {
     "name": "Larry Logic - Mr. Logical Fallacy Detector",
-    "version": "0.0.17"
+    "version": "0.0.21"
   },
   "ghost-detector": {
     "name": "ghost-detector",
@@ -3134,5 +3134,9 @@
   "giveawayapp": {
     "name": "Giveaway Maker",
     "version": "0.0.6"
+  },
+  "flair-auto-responder": {
+    "name": "Flair Auto-Responder",
+    "version": "0.0.5"
   }
 }
