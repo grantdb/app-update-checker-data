@@ -3310,5 +3310,21 @@
   "letterloo": {
     "name": "letterloo",
     "version": "0.3.39"
+  },
+  "escape-to-spire": {
+    "name": "escape-to-spire",
+    "version": "0.3.0"
+  },
+  "overtake-game": {
+    "name": "Rally Sleuth",
+    "version": "0.0.37"
+  },
+  "huckid": {
+    "name": "HuckID",
+    "version": "0.0.15"
+  },
+  "playpixelbeads": {
+    "name": "Pixel Beads",
+    "version": "0.0.285"
   }
 }
