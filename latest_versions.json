@@ -3338,5 +3338,13 @@
   "wriddler-game": {
     "name": "Wriddler",
     "version": "0.0.49"
+  },
+  "infinite-jumper": {
+    "name": "infinite-jumper",
+    "version": "0.0.5"
+  },
+  "rankd-judge": {
+    "name": "rankd-judge",
+    "version": "0.0.9"
   }
 }
