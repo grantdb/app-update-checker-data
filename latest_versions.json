@@ -3490,5 +3490,17 @@
   "karmuseum": {
     "name": "Karmuseum",
     "version": "0.0.7"
+  },
+  "epic-pong": {
+    "name": "Epic Pong",
+    "version": "0.0.2"
+  },
+  "cribbage-daily": {
+    "name": "Cribbage Daily Hand",
+    "version": "0.2.29"
+  },
+  "post-context-bot": {
+    "name": "Post Context Bot",
+    "version": "0.0.11"
   }
 }
