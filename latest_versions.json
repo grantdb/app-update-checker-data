@@ -3346,5 +3346,17 @@
   "rankd-judge": {
     "name": "rankd-judge",
     "version": "0.0.9"
+  },
+  "metricshourcom": {
+    "name": "Metricshour Market Battle",
+    "version": "0.0.21"
+  },
+  "watchesbot": {
+    "name": "WatchesBot",
+    "version": "0.0.18"
+  },
+  "royaldle": {
+    "name": "royaldle",
+    "version": "0.3.0"
   }
 }
