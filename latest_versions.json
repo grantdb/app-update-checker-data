@@ -3362,5 +3362,13 @@
   "glanceeyestrong": {
     "name": "Glance Eye Strong",
     "version": "0.0.25"
+  },
+  "daily-gridlock": {
+    "name": "Daily Gridlock",
+    "version": "0.0.11"
+  },
+  "sub-olympics": {
+    "name": "sub-olympics",
+    "version": "0.1.14"
   }
 }
