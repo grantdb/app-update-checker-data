@@ -3374,5 +3374,17 @@
   "word-apex": {
     "name": "WordApex",
     "version": "0.0.24"
+  },
+  "ttol-game": {
+    "name": "ttol-game",
+    "version": "0.0.9"
+  },
+  "battle-of-the-blinds": {
+    "name": "Battle of the Blinds",
+    "version": "0.0.3"
+  },
+  "ttokdoku": {
+    "name": "TtokDoku",
+    "version": "0.3.34"
   }
 }
