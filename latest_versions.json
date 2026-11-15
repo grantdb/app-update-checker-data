@@ -3466,5 +3466,17 @@
   "cyber-pong": {
     "name": "Cyber Pong",
     "version": "0.0.7"
+  },
+  "daily-tower": {
+    "name": "Moonstack",
+    "version": "0.0.5"
+  },
+  "thread-tamer": {
+    "name": "thread-tamer",
+    "version": "0.0.3"
+  },
+  "my-solitaire-games": {
+    "name": "My Solitaire Card Game",
+    "version": "0.0.47"
   }
 }
