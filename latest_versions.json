@@ -2821,7 +2821,7 @@
   },
   "bulbrush": {
     "name": "BulbRush",
-    "version": "0.0.50"
+    "version": "0.0.60"
   },
   "mindustry-bot": {
     "name": "Mindustry Tool",
@@ -3294,5 +3294,21 @@
   "mindtheword": {
     "name": "mindtheword",
     "version": "0.0.1"
+  },
+  "subredit-guessr": {
+    "name": "subredit-guessr",
+    "version": "0.0.8"
+  },
+  "bluff-bomb": {
+    "name": "Bluff Bomb",
+    "version": "0.1.13"
+  },
+  "goods-sort-packing": {
+    "name": "Goods Sort:PACKING PUZZLE",
+    "version": "0.0.5"
+  },
+  "letterloo": {
+    "name": "letterloo",
+    "version": "0.3.39"
   }
 }
