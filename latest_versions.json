@@ -3326,5 +3326,17 @@
   "playpixelbeads": {
     "name": "Pixel Beads",
     "version": "0.0.285"
+  },
+  "pixreveal": {
+    "name": "PixReveal: Guess the Pixel Art",
+    "version": "0.0.13"
+  },
+  "solitaire-royale": {
+    "name": "solitaire-royale",
+    "version": "0.0.8"
+  },
+  "wriddler-game": {
+    "name": "Wriddler",
+    "version": "0.0.49"
   }
 }
