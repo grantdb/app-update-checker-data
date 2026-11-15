@@ -3282,5 +3282,17 @@
   "gearit-up": {
     "name": "gearit-up",
     "version": "0.2.0"
+  },
+  "military-flip": {
+    "name": "Military Flip",
+    "version": "0.0.21"
+  },
+  "build-quiz": {
+    "name": "build-quiz",
+    "version": "0.0.105"
+  },
+  "mindtheword": {
+    "name": "mindtheword",
+    "version": "0.0.1"
   }
 }
