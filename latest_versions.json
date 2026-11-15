@@ -3454,5 +3454,17 @@
   "mod-review-guard": {
     "name": "Mod Review Guard",
     "version": "0.0.5"
+  },
+  "challenge-tracker": {
+    "name": "challenge-tracker",
+    "version": "0.0.5"
+  },
+  "riftboundfetcher": {
+    "name": "riftboundfetcher",
+    "version": "0.1.25"
+  },
+  "cyber-pong": {
+    "name": "Cyber Pong",
+    "version": "0.0.7"
   }
 }
