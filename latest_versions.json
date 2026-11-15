@@ -3370,5 +3370,9 @@
   "sub-olympics": {
     "name": "sub-olympics",
     "version": "0.1.14"
+  },
+  "word-apex": {
+    "name": "WordApex",
+    "version": "0.0.24"
   }
 }
