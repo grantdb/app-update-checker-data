@@ -3478,5 +3478,17 @@
   "my-solitaire-games": {
     "name": "My Solitaire Card Game",
     "version": "0.0.47"
+  },
+  "chain-reaction-game": {
+    "name": "Chain Reaction",
+    "version": "0.10.0"
+  },
+  "karma-grid": {
+    "name": "karma-grid",
+    "version": "0.0.7"
+  },
+  "karmuseum": {
+    "name": "Karmuseum",
+    "version": "0.0.7"
   }
 }
