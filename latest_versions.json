@@ -3270,5 +3270,17 @@
   "soccer-star-play": {
     "name": "soccer-star-play",
     "version": "0.0.4"
+  },
+  "guess-the-trade2": {
+    "name": "guess-the-trade2",
+    "version": "0.0.27"
+  },
+  "b00minb0x": {
+    "name": "b00minb0x",
+    "version": "0.0.6"
+  },
+  "gearit-up": {
+    "name": "gearit-up",
+    "version": "0.2.0"
   }
 }
