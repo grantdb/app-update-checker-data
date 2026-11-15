@@ -1845,7 +1845,7 @@
   },
   "pawdoku-mystery": {
     "name": "Pawdoku Mystery",
-    "version": "0.0.28"
+    "version": "0.0.30"
   },
   "competitions-app": {
     "name": "competitions-app",
@@ -3445,6 +3445,14 @@
   },
   "prediction-league": {
     "name": "prediction-league",
+    "version": "0.0.5"
+  },
+  "capydoku-puzzle": {
+    "name": "capydoku-puzzle",
+    "version": "1.1.2"
+  },
+  "mod-review-guard": {
+    "name": "Mod Review Guard",
     "version": "0.0.5"
   }
 }
