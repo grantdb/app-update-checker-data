@@ -3422,5 +3422,21 @@
   "debate-league": {
     "name": "debate-league",
     "version": "0.0.66"
+  },
+  "granny-vs-robot": {
+    "name": "granny-vs-robot",
+    "version": "0.0.337"
+  },
+  "mod360pro": {
+    "name": "Mod360pro",
+    "version": "0.0.58"
+  },
+  "wordburger-app": {
+    "name": "wordburger-app",
+    "version": "0.0.3"
+  },
+  "zippuzzle": {
+    "name": "Zip Puzzle",
+    "version": "0.0.29"
   }
 }
