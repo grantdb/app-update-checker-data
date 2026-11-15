@@ -2541,7 +2541,7 @@
   },
   "stargate-trivia": {
     "name": "stargate-trivia",
-    "version": "0.0.130"
+    "version": "0.0.131"
   },
   "active-users-only": {
     "name": "active-users-only",
@@ -3418,5 +3418,9 @@
   "guesstheplant": {
     "name": "GuessThePlant",
     "version": "0.0.14"
+  },
+  "debate-league": {
+    "name": "debate-league",
+    "version": "0.0.66"
   }
 }
