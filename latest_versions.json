@@ -3358,5 +3358,9 @@
   "royaldle": {
     "name": "royaldle",
     "version": "0.3.0"
+  },
+  "glanceeyestrong": {
+    "name": "Glance Eye Strong",
+    "version": "0.0.25"
   }
 }
