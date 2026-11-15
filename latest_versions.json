@@ -3394,5 +3394,13 @@
   "prothesmia": {
     "name": "prothesmia",
     "version": "0.0.11"
+  },
+  "waiway-blindspot": {
+    "name": "waiway-blindspot",
+    "version": "0.0.3"
+  },
+  "scramgram-game": {
+    "name": "Scramgram",
+    "version": "0.0.26"
   }
 }
