@@ -3410,5 +3410,13 @@
   "colloni-tuddlee": {
     "name": "Nuzzle-The-Puzzle",
     "version": "0.16.63"
+  },
+  "karmas-brick": {
+    "name": "karmas-brick",
+    "version": "0.0.15"
+  },
+  "guesstheplant": {
+    "name": "GuessThePlant",
+    "version": "0.0.14"
   }
 }
