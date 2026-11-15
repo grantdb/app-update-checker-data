@@ -3438,5 +3438,13 @@
   "zippuzzle": {
     "name": "Zip Puzzle",
     "version": "0.0.29"
+  },
+  "escuchar-post": {
+    "name": "Lector de Texto - Text to Voice",
+    "version": "0.0.2"
+  },
+  "prediction-league": {
+    "name": "prediction-league",
+    "version": "0.0.5"
   }
 }
