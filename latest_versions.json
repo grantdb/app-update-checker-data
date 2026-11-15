@@ -3402,5 +3402,13 @@
   "scramgram-game": {
     "name": "Scramgram",
     "version": "0.0.26"
+  },
+  "modgather": {
+    "name": "ModGather",
+    "version": "0.0.3"
+  },
+  "colloni-tuddlee": {
+    "name": "Nuzzle-The-Puzzle",
+    "version": "0.16.63"
   }
 }
