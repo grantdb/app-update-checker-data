@@ -3602,5 +3602,21 @@
   "paint-it-memory": {
     "name": "paint-it-memory",
     "version": "0.0.5"
+  },
+  "four-fours-game": {
+    "name": "Four Fours a Daily Math Puzzle",
+    "version": "0.0.4"
+  },
+  "the-fysher": {
+    "name": "the-fysher",
+    "version": "0.0.4"
+  },
+  "foursome--game": {
+    "name": "foursome--game",
+    "version": "1.0.5"
+  },
+  "tipsey-delivery": {
+    "name": "tipsey",
+    "version": "0.0.62"
   }
 }
