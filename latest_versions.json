@@ -3502,5 +3502,9 @@
   "post-context-bot": {
     "name": "Post Context Bot",
     "version": "0.0.11"
+  },
+  "crickettrivia": {
+    "name": "crickettrivia",
+    "version": "0.0.26"
   }
 }
