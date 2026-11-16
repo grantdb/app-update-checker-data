@@ -3562,5 +3562,21 @@
   "test-block-log": {
     "name": "test-block-log",
     "version": "0.0.4"
+  },
+  "eight-0fc": {
+    "name": "eight-0fc",
+    "version": "1.0.0"
+  },
+  "dailyspeedway": {
+    "name": "dailyspeedway",
+    "version": "0.0.31"
+  },
+  "factor-frenzy": {
+    "name": "FactorFrenzy",
+    "version": "0.0.4"
+  },
+  "playcrambld": {
+    "name": "CRAMBLD",
+    "version": "0.0.18"
   }
 }
