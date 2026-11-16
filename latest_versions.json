@@ -3626,5 +3626,25 @@
   "spades-game": {
     "name": "spades-game",
     "version": "1.1.0"
+  },
+  "frontlines-rts": {
+    "name": "frontlines-rts",
+    "version": "0.0.3"
+  },
+  "chess-puzless": {
+    "name": "chess-puzless",
+    "version": "1.0.5"
+  },
+  "flair-verifier": {
+    "name": "flair-verifier",
+    "version": "0.0.2"
+  },
+  "wobbletower": {
+    "name": "wobbletower",
+    "version": "0.0.16"
+  },
+  "triviarena-quiz": {
+    "name": "triviarena-quiz",
+    "version": "0.0.12"
   }
 }
