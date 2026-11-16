@@ -3052,7 +3052,7 @@
     "version": "0.0.5"
   },
   "peg-hero-daily": {
-    "name": "peg-hero-daily",
+    "name": "Peg Hero",
     "version": "1.0.8"
   },
   "raidpulse": {
@@ -3554,5 +3554,13 @@
   "traffic-escape": {
     "name": "traffic-escape",
     "version": "0.0.18"
+  },
+  "shadespoteye": {
+    "name": "shadespoteye",
+    "version": "0.0.2"
+  },
+  "test-block-log": {
+    "name": "test-block-log",
+    "version": "0.0.4"
   }
 }
