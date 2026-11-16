@@ -3522,5 +3522,21 @@
   "valcordia-space": {
     "name": "Valcordia Space",
     "version": "1.6.6"
+  },
+  "top-of-the-heap": {
+    "name": "top-of-the-heap",
+    "version": "1.0.1"
+  },
+  "scamindexfeed": {
+    "name": "scamindexfeed",
+    "version": "0.0.32"
+  },
+  "apex-predicts": {
+    "name": "apex-predicts",
+    "version": "0.0.20"
+  },
+  "qinnobattle": {
+    "name": "qinnobattle",
+    "version": "0.0.2"
   }
 }
