@@ -3646,5 +3646,25 @@
   "triviarena-quiz": {
     "name": "triviarena-quiz",
     "version": "0.0.12"
+  },
+  "sudoku-sprint": {
+    "name": "Sudoku Sprint",
+    "version": "0.14.14"
+  },
+  "mlb--scoreboard": {
+    "name": "mlb--scoreboard",
+    "version": "1.0.0"
+  },
+  "trolleyproblemm": {
+    "name": "The Trolley Problem",
+    "version": "2.3.1"
+  },
+  "tapword": {
+    "name": "TapWord",
+    "version": "0.0.11"
+  },
+  "seedmap3d": {
+    "name": "Seed Map 3D Viewer for Minecraft",
+    "version": "0.0.36"
   }
 }
