@@ -3506,5 +3506,21 @@
   "crickettrivia": {
     "name": "crickettrivia",
     "version": "0.0.26"
+  },
+  "repeat-comm-bot": {
+    "name": "repeat-comm-bot",
+    "version": "0.0.2"
+  },
+  "bye-bye-ducks": {
+    "name": "Bye Bye Ducks",
+    "version": "0.6.3"
+  },
+  "repost-checker-bot": {
+    "name": "Repost Checker",
+    "version": "0.0.15"
+  },
+  "valcordia-space": {
+    "name": "Valcordia Space",
+    "version": "1.6.6"
   }
 }
