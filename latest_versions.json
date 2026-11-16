@@ -2949,7 +2949,7 @@
   },
   "marsentinel": {
     "name": "marsentinel",
-    "version": "0.11.4"
+    "version": "0.13.1"
   },
   "karrouet": {
     "name": "karrouet",
@@ -3666,5 +3666,21 @@
   "seedmap3d": {
     "name": "Seed Map 3D Viewer for Minecraft",
     "version": "0.0.36"
+  },
+  "limbo-game": {
+    "name": "limbodaily",
+    "version": "0.0.8"
+  },
+  "iq-daily": {
+    "name": "iq-daily",
+    "version": "0.0.14"
+  },
+  "postyourgbgame": {
+    "name": "PostYourGBGame - A GB/GBC Emulator For HomeBrew Communities",
+    "version": "0.0.5"
+  },
+  "connectmepuzzle": {
+    "name": "connectmepuzzle",
+    "version": "1.0.0"
   }
 }
