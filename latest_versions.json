@@ -2509,7 +2509,7 @@
   },
   "random-subreddit": {
     "name": "random-subreddit",
-    "version": "0.1.0"
+    "version": "0.1.2"
   },
   "test-tracker": {
     "name": "TestTracker",
@@ -3618,5 +3618,13 @@
   "tipsey-delivery": {
     "name": "tipsey",
     "version": "0.0.62"
+  },
+  "plane-pairs": {
+    "name": "plane-pairs",
+    "version": "0.0.22"
+  },
+  "spades-game": {
+    "name": "spades-game",
+    "version": "1.1.0"
   }
 }
