@@ -3538,5 +3538,21 @@
   "qinnobattle": {
     "name": "qinnobattle",
     "version": "0.0.2"
+  },
+  "tronlegacy1999": {
+    "name": "tronlegacy1999",
+    "version": "0.0.2"
+  },
+  "daily-safe": {
+    "name": "daily-safe",
+    "version": "1.0.7"
+  },
+  "notthecolor": {
+    "name": "notthecolor",
+    "version": "0.0.7"
+  },
+  "traffic-escape": {
+    "name": "traffic-escape",
+    "version": "0.0.18"
   }
 }
