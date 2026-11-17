@@ -377,7 +377,7 @@
   },
   "only-flairs": {
     "name": "OnlyFlairs",
-    "version": "0.6.8"
+    "version": "0.6.10"
   },
   "sendtoany": {
     "name": "Mod App: Send to Any",
@@ -1125,7 +1125,7 @@
   },
   "link-scheduler": {
     "name": "Scheduler",
-    "version": "1.0.10"
+    "version": "1.0.11"
   },
   "hestia-listens": {
     "name": "Hestia",
