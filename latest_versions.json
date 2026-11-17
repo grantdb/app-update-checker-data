@@ -285,7 +285,7 @@
   },
   "freestyle-ui": {
     "name": "FreestyleUI",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "saved-response": {
     "name": "Reason without Removal",
@@ -361,7 +361,7 @@
   },
   "criticalstateapp": {
     "name": "Critical State",
-    "version": "1.0.141"
+    "version": "1.0.142"
   },
   "community-survey": {
     "name": "Community Survey",
