@@ -1601,7 +1601,7 @@
   },
   "swap-bot": {
     "name": "Trade Confirmation Bot",
-    "version": "0.0.45"
+    "version": "0.0.47"
   },
   "pewpoliquiz": {
     "name": "PewPoliQuiz",
@@ -1661,7 +1661,7 @@
   },
   "archive-all-mm": {
     "name": "Archive All Modmail",
-    "version": "0.0.76"
+    "version": "0.0.77"
   },
   "simple-checklist": {
     "name": "Simple Checklist",
@@ -1725,7 +1725,7 @@
   },
   "mlb-scores": {
     "name": "MLB Scoreboard App",
-    "version": "0.0.327"
+    "version": "0.0.331"
   },
   "mod-stats": {
     "name": "mod-stats",
