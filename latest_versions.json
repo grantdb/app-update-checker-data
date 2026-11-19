@@ -1733,7 +1733,7 @@
   },
   "release-announce": {
     "name": "release-announce",
-    "version": "0.0.18"
+    "version": "0.0.20"
   },
   "giveaway-manager": {
     "name": "Giveaway Manager",
@@ -2798,5 +2798,9 @@
   "posts-to-discord": {
     "name": "Posts to Discord",
     "version": "0.0.9"
+  },
+  "mirrormirror7771": {
+    "name": "Mirror Mirror",
+    "version": "0.0.18"
   }
 }
