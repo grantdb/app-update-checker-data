@@ -1765,7 +1765,7 @@
   },
   "pwhl-goalpost": {
     "name": "pwhl-goalpost",
-    "version": "3.76.9"
+    "version": "3.83.4"
   },
   "mochi-mochi-donuts": {
     "name": "Mochi Mochi Donuts",
@@ -2802,5 +2802,9 @@
   "mirrormirror7771": {
     "name": "Mirror Mirror",
     "version": "0.0.18"
+  },
+  "bc101bot": {
+    "name": "BC101Bot",
+    "version": "0.0.6"
   }
 }
