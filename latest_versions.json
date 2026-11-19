@@ -1365,7 +1365,7 @@
   },
   "pick-a-partridge": {
     "name": "Pick-A-Partridge",
-    "version": "0.9.5"
+    "version": "0.9.7"
   },
   "live-community-chat": {
     "name": "Live Community Chat",
@@ -2818,5 +2818,13 @@
   "sublounge": {
     "name": "SubLounge",
     "version": "0.0.23"
+  },
+  "albus-dunbledore": {
+    "name": "Albus Dumbledore Bot",
+    "version": "0.0.46"
+  },
+  "hot-importer": {
+    "name": "Hot Importer",
+    "version": "0.0.5"
   }
 }
