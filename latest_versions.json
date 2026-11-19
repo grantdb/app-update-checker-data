@@ -1804,7 +1804,7 @@
     "version": "0.0.1"
   },
   "auto-highlights": {
-    "name": "Auto-Highlights",
+    "name": "Auto Highlights",
     "version": "0.2.2"
   },
   "mit-3dvenue-app2": {
@@ -2794,5 +2794,9 @@
   "memogrid": {
     "name": "memogrid",
     "version": "0.0.2"
+  },
+  "posts-to-discord": {
+    "name": "Posts to Discord",
+    "version": "0.0.9"
   }
 }
