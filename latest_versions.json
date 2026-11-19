@@ -1769,7 +1769,7 @@
   },
   "mochi-mochi-donuts": {
     "name": "Mochi Mochi Donuts",
-    "version": "0.1.23"
+    "version": "0.1.28"
   },
   "shadowarchiver": {
     "name": "shadowarchiver",
@@ -2814,5 +2814,9 @@
   "commentquote-bot": {
     "name": "Comment Quote bot",
     "version": "1.1.5"
+  },
+  "sublounge": {
+    "name": "SubLounge",
+    "version": "0.0.23"
   }
 }
