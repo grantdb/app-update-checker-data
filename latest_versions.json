@@ -2874,5 +2874,13 @@
   "repost-cooldown": {
     "name": "Repost Cooldown",
     "version": "0.0.35"
+  },
+  "fpl-community": {
+    "name": "fpl-community",
+    "version": "0.0.8"
+  },
+  "arrowtix": {
+    "name": "Arrowtix - Puzzle Escape Arrow",
+    "version": "0.0.15"
   }
 }
