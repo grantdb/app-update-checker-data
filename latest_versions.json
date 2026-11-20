@@ -2585,7 +2585,7 @@
   },
   "goods-sort-packing": {
     "name": "Goods Sort:PACKING PUZZLE",
-    "version": "0.0.5"
+    "version": "0.0.10"
   },
   "letterloo": {
     "name": "letterloo",
@@ -3074,5 +3074,9 @@
   "hottake-poll": {
     "name": "HotTake Poll",
     "version": "0.0.20"
+  },
+  "keep-us-loud": {
+    "name": "Keep Us Loud - arena sports games for fans",
+    "version": "0.0.10"
   }
 }
