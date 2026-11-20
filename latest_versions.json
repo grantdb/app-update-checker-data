@@ -2549,7 +2549,7 @@
   },
   "nfl-goalpost": {
     "name": "nfl-goalpost",
-    "version": "0.37.5"
+    "version": "0.41.2"
   },
   "flair-impact": {
     "name": "Flair Impact  Community Discussion &amp; Flair Insights",
@@ -2946,5 +2946,21 @@
   "mod-warden": {
     "name": "Mod Warden",
     "version": "0.0.23"
+  },
+  "watchalong-matvt": {
+    "name": "watchalong-matvt",
+    "version": "0.0.4"
+  },
+  "tap-to-dark": {
+    "name": "tap-to-dark",
+    "version": "0.0.3"
+  },
+  "cascade-ban": {
+    "name": "cascade-ban",
+    "version": "0.0.6"
+  },
+  "patchpulseapp": {
+    "name": "PatchPulse",
+    "version": "0.0.38"
   }
 }
