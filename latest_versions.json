@@ -2882,5 +2882,13 @@
   "arrowtix": {
     "name": "Arrowtix - Puzzle Escape Arrow",
     "version": "0.0.15"
+  },
+  "meme-caption": {
+    "name": "CapThat",
+    "version": "0.0.10"
+  },
+  "subfusion2": {
+    "name": "SubFusion",
+    "version": "0.0.7"
   }
 }
