@@ -3062,5 +3062,17 @@
   "magic-chess-3d": {
     "name": "Chess: Magic Chess 3D",
     "version": "0.0.24"
+  },
+  "nichenaut": {
+    "name": "nichenaut",
+    "version": "0.0.13"
+  },
+  "ember-world": {
+    "name": "ember-world",
+    "version": "0.0.39"
+  },
+  "hottake-poll": {
+    "name": "HotTake Poll",
+    "version": "0.0.20"
   }
 }
