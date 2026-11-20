@@ -2890,5 +2890,21 @@
   "subfusion2": {
     "name": "SubFusion",
     "version": "0.0.7"
+  },
+  "weathercast": {
+    "name": "Weathercast",
+    "version": "0.0.33"
+  },
+  "rollcalltool": {
+    "name": "Roll Call",
+    "version": "0.0.8"
+  },
+  "chaotic-wheels": {
+    "name": "Chaotic Wheels",
+    "version": "0.0.5"
+  },
+  "wordmaxed-mini": {
+    "name": "WordMaxed Mini",
+    "version": "0.6.29"
   }
 }
