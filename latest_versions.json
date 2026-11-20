@@ -3082,5 +3082,9 @@
   "sports-webapp": {
     "name": "Sports Live Matchrooms",
     "version": "0.0.17"
+  },
+  "reply-coach": {
+    "name": "reply-coach",
+    "version": "0.0.3"
   }
 }
