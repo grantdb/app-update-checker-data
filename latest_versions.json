@@ -3006,5 +3006,21 @@
   "smackthatcaptcha": {
     "name": "Smack That Captcha: The Frictionless, Gamified Spam Filter",
     "version": "0.0.23"
+  },
+  "threadarcade": {
+    "name": "ThreadArcade: custom games for your community&#39;s topics",
+    "version": "0.0.6"
+  },
+  "wikisync": {
+    "name": "wikisync",
+    "version": "0.0.2"
+  },
+  "sudo2026": {
+    "name": "sudo2026",
+    "version": "0.0.34"
+  },
+  "git-age-checker": {
+    "name": "Git Age Checker",
+    "version": "0.0.6"
   }
 }
