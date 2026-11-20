@@ -2834,5 +2834,9 @@
   "brainsprint-2d": {
     "name": "brainsprint-2d",
     "version": "0.0.15"
+  },
+  "adv-live-feeds": {
+    "name": "ADV Live Feeds",
+    "version": "0.0.20"
   }
 }
