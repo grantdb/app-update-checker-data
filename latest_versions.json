@@ -2962,5 +2962,13 @@
   "patchpulseapp": {
     "name": "PatchPulse",
     "version": "0.0.38"
+  },
+  "meltdown-room": {
+    "name": "meltdown-room",
+    "version": "0.0.13"
+  },
+  "ncaa-x-nfl": {
+    "name": "NCAA x NFL",
+    "version": "1.1.5"
   }
 }
