@@ -2970,5 +2970,17 @@
   "ncaa-x-nfl": {
     "name": "NCAA x NFL",
     "version": "1.1.5"
+  },
+  "redacted-app": {
+    "name": "redacted-app",
+    "version": "0.0.5"
+  },
+  "knobjam": {
+    "name": "KnobJam",
+    "version": "0.0.58"
+  },
+  "ez-qr": {
+    "name": "EZQR",
+    "version": "0.0.20"
   }
 }
