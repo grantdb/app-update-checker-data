@@ -3050,5 +3050,17 @@
   "detectivesudoku": {
     "name": "Detective Sudoku",
     "version": "0.0.16"
+  },
+  "battlelexicons": {
+    "name": "BattleLexicons",
+    "version": "1.0.13"
+  },
+  "sudoku-speed-run": {
+    "name": "Sudoku Speed Run",
+    "version": "0.0.5"
+  },
+  "magic-chess-3d": {
+    "name": "Chess: Magic Chess 3D",
+    "version": "0.0.24"
   }
 }
