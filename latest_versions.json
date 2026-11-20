@@ -2918,5 +2918,21 @@
   "water-lagoon": {
     "name": "Living Waters Lagoon",
     "version": "0.0.128"
+  },
+  "chain-rules": {
+    "name": "chain-rules",
+    "version": "1.5.1"
+  },
+  "rs-wiki-linker": {
+    "name": "RS Wiki Linker",
+    "version": "0.0.8"
+  },
+  "flair-backup": {
+    "name": "flair-backup",
+    "version": "0.0.12"
+  },
+  "firewatch17": {
+    "name": "Firewatch: Incident Room for Reddit Mods",
+    "version": "0.0.41"
   }
 }
