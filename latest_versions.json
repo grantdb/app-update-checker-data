@@ -2994,5 +2994,17 @@
   "synchat": {
     "name": "synchat",
     "version": "0.0.5"
+  },
+  "botforlazymods": {
+    "name": "botforlazymods",
+    "version": "0.0.6"
+  },
+  "slideblast-rdt": {
+    "name": "SlideBlast - Fruit Merge Puzzle",
+    "version": "0.0.34"
+  },
+  "smackthatcaptcha": {
+    "name": "Smack That Captcha: The Frictionless, Gamified Spam Filter",
+    "version": "0.0.23"
   }
 }
