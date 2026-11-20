@@ -3078,5 +3078,9 @@
   "keep-us-loud": {
     "name": "Keep Us Loud - arena sports games for fans",
     "version": "0.0.10"
+  },
+  "sports-webapp": {
+    "name": "Sports Live Matchrooms",
+    "version": "0.0.17"
   }
 }
