@@ -2850,5 +2850,21 @@
   "click-bait-game": {
     "name": "Click Bait Game",
     "version": "0.0.168"
+  },
+  "humancheckpoint": {
+    "name": "Human Checkpoint",
+    "version": "1.0.35"
+  },
+  "ghost-race": {
+    "name": "Spino Ghost Racing",
+    "version": "0.0.612"
+  },
+  "mini-racer": {
+    "name": "Mini Racer",
+    "version": "2.9.1"
+  },
+  "vibe-mod": {
+    "name": "vibe-mod",
+    "version": "0.0.57"
   }
 }
