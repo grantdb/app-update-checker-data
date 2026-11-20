@@ -2866,5 +2866,13 @@
   "vibe-mod": {
     "name": "vibe-mod",
     "version": "0.0.57"
+  },
+  "groupmessenger": {
+    "name": "Group Messenger",
+    "version": "0.0.18"
+  },
+  "repost-cooldown": {
+    "name": "Repost Cooldown",
+    "version": "0.0.35"
   }
 }
