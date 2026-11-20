@@ -2982,5 +2982,17 @@
   "ez-qr": {
     "name": "EZQR",
     "version": "0.0.20"
+  },
+  "mma-parlay-lab": {
+    "name": "MMA Parlay Lab",
+    "version": "0.0.11"
+  },
+  "flip-cards": {
+    "name": "FlipCards",
+    "version": "0.0.13"
+  },
+  "synchat": {
+    "name": "synchat",
+    "version": "0.0.5"
   }
 }
