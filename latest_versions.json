@@ -3030,5 +3030,25 @@
   "home-crowd": {
     "name": "Home Crowd",
     "version": "0.0.30"
+  },
+  "pomodorotime": {
+    "name": "Pomodoro Timer",
+    "version": "0.0.2"
+  },
+  "triage-hackaton": {
+    "name": "Triage",
+    "version": "0.0.176"
+  },
+  "reference-registry": {
+    "name": "Reference Registry",
+    "version": "0.0.12"
+  },
+  "postcipher": {
+    "name": "PostCipher",
+    "version": "0.3.0"
+  },
+  "detectivesudoku": {
+    "name": "Detective Sudoku",
+    "version": "0.0.16"
   }
 }
