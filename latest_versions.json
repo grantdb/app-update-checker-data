@@ -2826,5 +2826,13 @@
   "hot-importer": {
     "name": "Hot Importer",
     "version": "0.0.5"
+  },
+  "ava-battles": {
+    "name": "ava-battles",
+    "version": "0.0.29"
+  },
+  "brainsprint-2d": {
+    "name": "brainsprint-2d",
+    "version": "0.0.15"
   }
 }
