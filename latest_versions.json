@@ -1705,7 +1705,7 @@
   },
   "pawdoku-mystery": {
     "name": "Pawdoku Mystery",
-    "version": "0.0.30"
+    "version": "0.0.32"
   },
   "neon-2048": {
     "name": "Neon 2048 Brain game | Beat the best",
@@ -2165,7 +2165,7 @@
   },
   "trivia-hub": {
     "name": "Trivia Hub",
-    "version": "0.0.18"
+    "version": "0.0.20"
   },
   "financecalculator": {
     "name": "Finance Calculator",
@@ -3022,5 +3022,13 @@
   "git-age-checker": {
     "name": "Git Age Checker",
     "version": "0.0.6"
+  },
+  "slicerout": {
+    "name": "slicerout",
+    "version": "0.0.49"
+  },
+  "home-crowd": {
+    "name": "Home Crowd",
+    "version": "0.0.30"
   }
 }
