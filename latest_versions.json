@@ -2934,5 +2934,17 @@
   "firewatch17": {
     "name": "Firewatch: Incident Room for Reddit Mods",
     "version": "0.0.41"
+  },
+  "strikesystem": {
+    "name": "strikesystem",
+    "version": "0.0.6"
+  },
+  "synapsecanvas": {
+    "name": "synapsecanvas",
+    "version": "0.0.68"
+  },
+  "mod-warden": {
+    "name": "Mod Warden",
+    "version": "0.0.23"
   }
 }
