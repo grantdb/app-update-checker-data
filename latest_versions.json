@@ -2906,5 +2906,17 @@
   "wordmaxed-mini": {
     "name": "WordMaxed Mini",
     "version": "0.6.29"
+  },
+  "wordsearchlink": {
+    "name": "wordsearchlink",
+    "version": "0.0.16"
+  },
+  "numberguess": {
+    "name": "Number Guess Game",
+    "version": "0.0.15"
+  },
+  "water-lagoon": {
+    "name": "Living Waters Lagoon",
+    "version": "0.0.128"
   }
 }
