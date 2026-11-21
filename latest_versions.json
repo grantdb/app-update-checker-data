@@ -3086,5 +3086,9 @@
   "reply-coach": {
     "name": "reply-coach",
     "version": "0.0.3"
+  },
+  "daily9golf": {
+    "name": "Daily 9",
+    "version": "0.0.17"
   }
 }
