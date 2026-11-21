@@ -3226,5 +3226,9 @@
   "nba-voting": {
     "name": "nba-voting",
     "version": "0.0.2"
+  },
+  "sudokupuzzle-app": {
+    "name": "sudokupuzzle-app",
+    "version": "0.0.12"
   }
 }
