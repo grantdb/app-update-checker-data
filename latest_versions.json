@@ -3230,5 +3230,13 @@
   "sudokupuzzle-app": {
     "name": "sudokupuzzle-app",
     "version": "0.0.12"
+  },
+  "wr-bot": {
+    "name": "wr-bot",
+    "version": "0.0.5"
+  },
+  "image-edit": {
+    "name": "Image Editor",
+    "version": "0.0.36"
   }
 }
