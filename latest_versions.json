@@ -2661,7 +2661,7 @@
   },
   "zippuzzle": {
     "name": "Zip Puzzle",
-    "version": "0.0.29"
+    "version": "0.0.30"
   },
   "escuchar-post": {
     "name": "Lector de Texto - Text to Voice",
@@ -3302,5 +3302,13 @@
   "pixelmatch3": {
     "name": "Pixel Reveal",
     "version": "0.0.83"
+  },
+  "splash-siege": {
+    "name": "splash-siege",
+    "version": "0.0.6"
+  },
+  "cash-ladder": {
+    "name": "cash-ladder",
+    "version": "0.0.9"
   }
 }
