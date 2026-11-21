@@ -3238,5 +3238,17 @@
   "image-edit": {
     "name": "Image Editor",
     "version": "0.0.36"
+  },
+  "droppy-blocky": {
+    "name": "Droppy Blocky",
+    "version": "0.0.31"
+  },
+  "activestreamers": {
+    "name": "Twitch Streamers &amp; Steam Price Preview",
+    "version": "0.0.24"
+  },
+  "block-down": {
+    "name": "block-down",
+    "version": "0.0.69"
   }
 }
