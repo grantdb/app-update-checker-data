@@ -2629,7 +2629,7 @@
   },
   "word-apex": {
     "name": "WordApex",
-    "version": "0.0.24"
+    "version": "0.0.29"
   },
   "ttol-game": {
     "name": "ttol-game",
@@ -3274,5 +3274,21 @@
   "starforms-battle": {
     "name": "Starforms : Idle Clicker",
     "version": "0.0.10"
+  },
+  "swarm-siege": {
+    "name": "swarm siege",
+    "version": "0.0.6"
+  },
+  "amputatorbot": {
+    "name": "AmputatorBot",
+    "version": "5.1.4"
+  },
+  "gmepriceticker": {
+    "name": "Stock price ticker",
+    "version": "1.0.0"
+  },
+  "so-ordered": {
+    "name": "so-ordered",
+    "version": "1.0.1"
   }
 }
