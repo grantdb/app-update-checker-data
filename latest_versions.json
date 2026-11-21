@@ -3214,5 +3214,17 @@
   "tickerdrop": {
     "name": "tickerdrop",
     "version": "0.0.11"
+  },
+  "rule-apply-guide": {
+    "name": "Rule Application Guide",
+    "version": "0.0.12"
+  },
+  "format-guard": {
+    "name": "format-guard",
+    "version": "0.0.73"
+  },
+  "nba-voting": {
+    "name": "nba-voting",
+    "version": "0.0.2"
   }
 }
