@@ -3250,5 +3250,29 @@
   "block-down": {
     "name": "block-down",
     "version": "0.0.69"
+  },
+  "peg-hunt": {
+    "name": "peg-hunt",
+    "version": "1.0.1"
+  },
+  "hott-take": {
+    "name": "hott-take",
+    "version": "0.1.0"
+  },
+  "spellstorm-digital": {
+    "name": "spellstorm-digital",
+    "version": "1.0.2"
+  },
+  "three-of-six": {
+    "name": "Three of Six",
+    "version": "0.0.5"
+  },
+  "reveal-trap": {
+    "name": "reveal-trap",
+    "version": "0.0.5"
+  },
+  "starforms-battle": {
+    "name": "Starforms : Idle Clicker",
+    "version": "0.0.10"
   }
 }
