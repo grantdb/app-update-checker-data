@@ -3158,5 +3158,13 @@
   "zenqueue-mod": {
     "name": "zenqueue-mod",
     "version": "0.0.8"
+  },
+  "meetyou-games": {
+    "name": "MeetYou Puzzles",
+    "version": "0.0.10"
+  },
+  "make-to-ten": {
+    "name": "Make To Ten",
+    "version": "0.0.36"
   }
 }
