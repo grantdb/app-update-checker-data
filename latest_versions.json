@@ -3318,5 +3318,9 @@
   "modmail-regex-ban": {
     "name": "Modmail Regex Ban",
     "version": "0.3.9"
+  },
+  "mcrashers": {
+    "name": "Multiplication Crashers",
+    "version": "1.0.14"
   }
 }
