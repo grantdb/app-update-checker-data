@@ -3134,5 +3134,29 @@
   "screen-shot-bot": {
     "name": "Screen Shot Bot",
     "version": "1.0.86"
+  },
+  "urjo-game": {
+    "name": "Urjo",
+    "version": "0.9.17"
+  },
+  "tg-bb-mkt": {
+    "name": "tg-bb-mkt",
+    "version": "0.0.3"
+  },
+  "modvitals": {
+    "name": "modvitals",
+    "version": "0.0.16"
+  },
+  "memory-matches": {
+    "name": "Memory Match",
+    "version": "1.0.79"
+  },
+  "nbatrivia": {
+    "name": "nbatrivia",
+    "version": "0.0.25"
+  },
+  "zenqueue-mod": {
+    "name": "zenqueue-mod",
+    "version": "0.0.8"
   }
 }
