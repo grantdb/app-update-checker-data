@@ -3290,5 +3290,17 @@
   "so-ordered": {
     "name": "so-ordered",
     "version": "1.0.1"
+  },
+  "daily-unscrew": {
+    "name": "Daily Unscrew",
+    "version": "0.0.9"
+  },
+  "sourceacquiredbot": {
+    "name": "Flair Changer",
+    "version": "0.0.4"
+  },
+  "pixelmatch3": {
+    "name": "Pixel Reveal",
+    "version": "0.0.83"
   }
 }
