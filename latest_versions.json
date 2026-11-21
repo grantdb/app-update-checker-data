@@ -3342,5 +3342,17 @@
   "flair-utility": {
     "name": "Flair Utility",
     "version": "0.0.6"
+  },
+  "gift-tracker": {
+    "name": "gift-tracker",
+    "version": "0.2.2"
+  },
+  "plsdontdestroy": {
+    "name": "Please Don&#39;t Destroy",
+    "version": "1.0.22"
+  },
+  "pick-tracker": {
+    "name": "PickTracker",
+    "version": "0.0.5"
   }
 }
