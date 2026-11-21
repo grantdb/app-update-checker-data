@@ -3090,5 +3090,29 @@
   "daily9golf": {
     "name": "Daily 9",
     "version": "0.0.17"
+  },
+  "unanswered-alert": {
+    "name": "Unanswered Post Alert",
+    "version": "1.0.0"
+  },
+  "word-shift": {
+    "name": "Rubilex",
+    "version": "0.1.2"
+  },
+  "wiki-post-bot": {
+    "name": "Wiki Post Bot",
+    "version": "1.0.1"
+  },
+  "stackgame": {
+    "name": "stackgame",
+    "version": "0.0.9"
+  },
+  "good-citizen-app": {
+    "name": "good-citizen-app",
+    "version": "0.0.7"
+  },
+  "verbrush-game": {
+    "name": "VERBRUSH",
+    "version": "0.0.6"
   }
 }
