@@ -3114,5 +3114,13 @@
   "verbrush-game": {
     "name": "VERBRUSH",
     "version": "0.0.6"
+  },
+  "tester-board": {
+    "name": "tester-board",
+    "version": "0.0.130"
+  },
+  "filament-frenzy": {
+    "name": "filament-frenzy",
+    "version": "0.3.0"
   }
 }
