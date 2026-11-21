@@ -3198,5 +3198,13 @@
   "infinite-subs": {
     "name": "infinite-subs",
     "version": "0.1.7"
+  },
+  "ring-escape": {
+    "name": "Ring Escape",
+    "version": "0.0.73"
+  },
+  "the-daily-realm": {
+    "name": "The Daily Realm",
+    "version": "2.0.23"
   }
 }
