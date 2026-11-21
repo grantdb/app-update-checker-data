@@ -3354,5 +3354,29 @@
   "pick-tracker": {
     "name": "PickTracker",
     "version": "0.0.5"
+  },
+  "troll-defuse": {
+    "name": "Troll Defuse",
+    "version": "0.3.17"
+  },
+  "deckhaus": {
+    "name": "deckhaus",
+    "version": "0.0.29"
+  },
+  "thread-brawlers": {
+    "name": "Thread Brawlers",
+    "version": "0.0.34"
+  },
+  "jigsaw-ug": {
+    "name": "Jigsaw.ug  Community Puzzles",
+    "version": "0.0.35"
+  },
+  "magic-football": {
+    "name": "Magic Football  Tactical 1v1",
+    "version": "0.0.31"
+  },
+  "farfield-relay": {
+    "name": "Farfield Relay",
+    "version": "0.0.6"
   }
 }
