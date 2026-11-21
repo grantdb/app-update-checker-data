@@ -2293,7 +2293,7 @@
   },
   "bulbrush": {
     "name": "BulbRush",
-    "version": "0.0.60"
+    "version": "0.0.62"
   },
   "mindustry-bot": {
     "name": "Mindustry Tool",
@@ -3310,5 +3310,13 @@
   "cash-ladder": {
     "name": "cash-ladder",
     "version": "0.0.9"
+  },
+  "context-required-app": {
+    "name": "context-required-app",
+    "version": "0.0.10"
+  },
+  "modmail-regex-ban": {
+    "name": "Modmail Regex Ban",
+    "version": "0.3.9"
   }
 }
