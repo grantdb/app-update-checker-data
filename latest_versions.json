@@ -3322,5 +3322,25 @@
   "mcrashers": {
     "name": "Multiplication Crashers",
     "version": "1.0.14"
+  },
+  "mcjbot-dupe-delete": {
+    "name": "MCJbot-dupe-delete",
+    "version": "0.0.18"
+  },
+  "answer-triage": {
+    "name": "answer-triage",
+    "version": "0.0.2"
+  },
+  "crowdcurve": {
+    "name": "crowdcurve",
+    "version": "0.0.7"
+  },
+  "triviaforge": {
+    "name": "triviaforge",
+    "version": "1.0.7"
+  },
+  "flair-utility": {
+    "name": "Flair Utility",
+    "version": "0.0.6"
   }
 }
