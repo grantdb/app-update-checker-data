@@ -3122,5 +3122,17 @@
   "filament-frenzy": {
     "name": "filament-frenzy",
     "version": "0.3.0"
+  },
+  "lavaleap": {
+    "name": "lavaleap",
+    "version": "0.0.16"
+  },
+  "exitmymaze": {
+    "name": "exitmymaze",
+    "version": "0.0.19"
+  },
+  "screen-shot-bot": {
+    "name": "Screen Shot Bot",
+    "version": "1.0.86"
   }
 }
