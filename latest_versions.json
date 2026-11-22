@@ -2369,7 +2369,7 @@
   },
   "marsentinel": {
     "name": "marsentinel",
-    "version": "0.13.1"
+    "version": "0.14.2"
   },
   "karrouet": {
     "name": "karrouet",
@@ -3514,5 +3514,25 @@
   "ssrmbctd": {
     "name": "ssrmbctd",
     "version": "0.0.5"
+  },
+  "playscraper-bot": {
+    "name": "Playscraper Bot",
+    "version": "1.0.156"
+  },
+  "karabogabot": {
+    "name": "KarabogaBot",
+    "version": "1.0.0"
+  },
+  "swiftswapgame": {
+    "name": "swiftswapgame",
+    "version": "1.2.1"
+  },
+  "dontk1llthefish": {
+    "name": "Don&#39;t Kill The Fish",
+    "version": "0.0.90"
+  },
+  "vipcentral": {
+    "name": "VIP Central",
+    "version": "1.0.6"
   }
 }
