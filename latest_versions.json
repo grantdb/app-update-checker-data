@@ -3398,5 +3398,21 @@
   "planetfall-game": {
     "name": "planetfall-game",
     "version": "0.0.84"
+  },
+  "horcrux-game": {
+    "name": "horcrux-game",
+    "version": "0.0.1"
+  },
+  "trait-card-rogue": {
+    "name": "Trait",
+    "version": "0.0.3"
+  },
+  "the-verdict-game": {
+    "name": "The Verdict",
+    "version": "0.0.9"
+  },
+  "drive-it-63": {
+    "name": "drive-it-63",
+    "version": "0.0.7"
   }
 }
