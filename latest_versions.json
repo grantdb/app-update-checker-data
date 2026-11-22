@@ -3534,5 +3534,29 @@
   "vipcentral": {
     "name": "VIP Central",
     "version": "1.0.6"
+  },
+  "dental-site-check": {
+    "name": "Dental Website Check",
+    "version": "0.0.3"
+  },
+  "focani-daily": {
+    "name": "Focani Daily",
+    "version": "0.0.9"
+  },
+  "the-hampter-that-ran": {
+    "name": "The Hampter That Ran",
+    "version": "0.0.8"
+  },
+  "worldflaggames": {
+    "name": "worldflaggames",
+    "version": "0.0.6"
+  },
+  "rsnl-videos": {
+    "name": "rSNL-Videos",
+    "version": "0.0.8"
+  },
+  "shiraberu-bot": {
+    "name": "shiraberu-bot",
+    "version": "0.0.7"
   }
 }
