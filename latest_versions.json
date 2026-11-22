@@ -209,7 +209,7 @@
   },
   "social-blacklist": {
     "name": "Social-Blacklist",
-    "version": "0.0.53"
+    "version": "0.0.57"
   },
   "sport-scoreboard": {
     "name": "NFL Football Scoreboard",
@@ -329,7 +329,7 @@
   },
   "ranker-app": {
     "name": "Interactive Posts",
-    "version": "0.0.158"
+    "version": "0.0.160"
   },
   "ratelimit-bot": {
     "name": "ratelimit-bot",
