@@ -3454,5 +3454,17 @@
   "six6degrees": {
     "name": "six6degrees",
     "version": "0.0.58"
+  },
+  "nepnepnemnep": {
+    "name": "Nep Nep Nem Nep",
+    "version": "0.31.0"
+  },
+  "fleet-duel": {
+    "name": "Fleet Duel",
+    "version": "1.8.37"
+  },
+  "bus-stop-jam": {
+    "name": "bus-stop-jam",
+    "version": "0.0.6"
   }
 }
