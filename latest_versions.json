@@ -3438,5 +3438,21 @@
   "twentyfour-points": {
     "name": "Twenty-Four Points",
     "version": "0.1.8"
+  },
+  "bubblegum-blitz": {
+    "name": "bubblegum-blitz",
+    "version": "0.0.49"
+  },
+  "subbit-pulse": {
+    "name": "subbit-pulse",
+    "version": "0.0.8"
+  },
+  "zeus-trials": {
+    "name": "Zeus Trials",
+    "version": "0.0.6"
+  },
+  "six6degrees": {
+    "name": "six6degrees",
+    "version": "0.0.58"
   }
 }
