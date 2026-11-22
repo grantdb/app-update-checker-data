@@ -3558,5 +3558,29 @@
   "shiraberu-bot": {
     "name": "shiraberu-bot",
     "version": "0.0.7"
+  },
+  "blob-drop": {
+    "name": "Blob Drop",
+    "version": "0.2.0"
+  },
+  "map-posts": {
+    "name": "map-posts",
+    "version": "0.0.15"
+  },
+  "mongotowers": {
+    "name": "MongoTowers",
+    "version": "0.0.40"
+  },
+  "crown-n-chaos": {
+    "name": "crown-n-chaos",
+    "version": "0.3.0"
+  },
+  "fruit-merge-new": {
+    "name": "fruitzilla",
+    "version": "0.0.9"
+  },
+  "easterntactics": {
+    "name": "Eastern Tactics",
+    "version": "0.0.5"
   }
 }
