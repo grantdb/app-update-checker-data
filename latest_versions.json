@@ -3466,5 +3466,21 @@
   "bus-stop-jam": {
     "name": "bus-stop-jam",
     "version": "0.0.6"
+  },
+  "dropstackgame": {
+    "name": "dropstackgame",
+    "version": "0.0.5"
+  },
+  "escalationradar": {
+    "name": "escalationradar",
+    "version": "0.0.3"
+  },
+  "numbers-merge": {
+    "name": "numbers-merge",
+    "version": "0.0.3"
+  },
+  "memroulette": {
+    "name": "MemeRoulette",
+    "version": "0.0.5"
   }
 }
