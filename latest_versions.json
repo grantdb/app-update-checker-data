@@ -3430,5 +3430,13 @@
   "modgatekeeper": {
     "name": "modgatekeeper",
     "version": "0.0.13"
+  },
+  "last-shield": {
+    "name": "Last Shield",
+    "version": "1.0.6"
+  },
+  "twentyfour-points": {
+    "name": "Twenty-Four Points",
+    "version": "0.1.8"
   }
 }
