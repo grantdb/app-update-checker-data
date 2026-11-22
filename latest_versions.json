@@ -3498,5 +3498,21 @@
   "speed-math": {
     "name": "speed-math",
     "version": "0.0.20"
+  },
+  "topiclingo-daily": {
+    "name": "TopicLingo Daily",
+    "version": "0.0.28"
+  },
+  "wiki-bridge": {
+    "name": "wiki-bridge",
+    "version": "0.0.3"
+  },
+  "sky-road": {
+    "name": "sky-road",
+    "version": "0.0.11"
+  },
+  "ssrmbctd": {
+    "name": "ssrmbctd",
+    "version": "0.0.5"
   }
 }
