@@ -3582,5 +3582,25 @@
   "easterntactics": {
     "name": "Eastern Tactics",
     "version": "0.0.5"
+  },
+  "play-highlow": {
+    "name": "play-highlow",
+    "version": "0.2.7"
+  },
+  "justgolfit": {
+    "name": "Just Golf It",
+    "version": "0.6.0"
+  },
+  "evermutate": {
+    "name": "evermutate",
+    "version": "0.0.7"
+  },
+  "play-reflex": {
+    "name": "play-reflex",
+    "version": "0.1.5"
+  },
+  "play-rps": {
+    "name": "play-rps",
+    "version": "0.1.3"
   }
 }
