@@ -3482,5 +3482,21 @@
   "memroulette": {
     "name": "MemeRoulette",
     "version": "0.0.5"
+  },
+  "puzzle-2048-game": {
+    "name": "puzzle-2048-game",
+    "version": "0.0.10"
+  },
+  "suhdokuh": {
+    "name": "suhdokuh",
+    "version": "0.0.68"
+  },
+  "quantum-thrust": {
+    "name": "Quantum Thrust",
+    "version": "0.0.25"
+  },
+  "speed-math": {
+    "name": "speed-math",
+    "version": "0.0.20"
   }
 }
