@@ -3414,5 +3414,21 @@
   "drive-it-63": {
     "name": "drive-it-63",
     "version": "0.0.7"
+  },
+  "voxxo-2": {
+    "name": "voxxo-2",
+    "version": "0.0.5"
+  },
+  "pathrush": {
+    "name": "pathrush",
+    "version": "1.0.44"
+  },
+  "hallofkarma": {
+    "name": "Hall Of Karma",
+    "version": "0.0.9"
+  },
+  "modgatekeeper": {
+    "name": "modgatekeeper",
+    "version": "0.0.13"
   }
 }
