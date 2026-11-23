@@ -257,7 +257,7 @@
   },
   "ayeayecalendar": {
     "name": "Aye Aye Calendar! The best way to display coming events of your community to your members!",
-    "version": "0.0.39"
+    "version": "0.0.41"
   },
   "spam-src-spotter": {
     "name": "Spam Source Spotter",
@@ -317,7 +317,7 @@
   },
   "aiautomoderator": {
     "name": "AI AutoModerator",
-    "version": "2.1.84"
+    "version": "2.1.86"
   },
   "matchpal-live": {
     "name": "MatchPal.io  Live Football / Soccer Scores &amp; Auto Match Threads",
@@ -325,7 +325,7 @@
   },
   "communitylinks-2": {
     "name": "Community Links: Create posts to gather all your links!",
-    "version": "0.0.64"
+    "version": "0.0.66"
   },
   "ranker-app": {
     "name": "Interactive Posts",
