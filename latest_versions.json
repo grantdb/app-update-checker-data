@@ -1561,7 +1561,7 @@
   },
   "nfl-scores": {
     "name": "NFL Scoreboard App",
-    "version": "0.0.171"
+    "version": "0.0.172"
   },
   "logiclens-larry": {
     "name": "Larry Logic - Mr. Logical Fallacy Detector",
@@ -1873,7 +1873,7 @@
   },
   "cooldown-cop": {
     "name": "Cooldown Cop",
-    "version": "0.0.26"
+    "version": "0.0.27"
   },
   "secourses-pin": {
     "name": "Full Card Pin",
