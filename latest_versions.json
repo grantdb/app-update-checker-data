@@ -2037,7 +2037,7 @@
   },
   "feed-relay": {
     "name": "Feed Relay: Telegram, Slack, RSS, Discord alerts &amp; notifications",
-    "version": "0.0.2"
+    "version": "0.0.4"
   },
   "botditor": {
     "name": "Botditor",
