@@ -3190,5 +3190,9 @@
   "play-reflex": {
     "name": "play-reflex",
     "version": "0.1.5"
+  },
+  "managemysub282": {
+    "name": "managemysub282",
+    "version": "0.0.3"
   }
 }
