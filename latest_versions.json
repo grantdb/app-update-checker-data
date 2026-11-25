@@ -3214,5 +3214,13 @@
   "subvote-polls": {
     "name": "subvote-polls",
     "version": "0.0.11"
+  },
+  "ai-guard": {
+    "name": "ai-guard",
+    "version": "0.0.8"
+  },
+  "prestigelab": {
+    "name": "Prestige",
+    "version": "1.1.2"
   }
 }
