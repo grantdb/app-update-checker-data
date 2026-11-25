@@ -1105,7 +1105,7 @@
   },
   "ninigrams-game": {
     "name": "Ninigrams",
-    "version": "0.1.67"
+    "version": "0.1.69"
   },
   "ratio-bobo": {
     "name": "Ratio! Bobobo! Motivate your users to contribute on some specific flair.",
@@ -1393,7 +1393,7 @@
   },
   "f1-central": {
     "name": "f1-central",
-    "version": "0.1.19"
+    "version": "0.1.21"
   },
   "automod-sim": {
     "name": "AutoMod Playground",
