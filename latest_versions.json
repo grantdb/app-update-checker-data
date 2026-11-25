@@ -3198,5 +3198,9 @@
   "updateflairmodaction": {
     "name": "Update Flair on Mod Action",
     "version": "0.0.84"
+  },
+  "policyops": {
+    "name": "PolicyOps",
+    "version": "0.0.12"
   }
 }
