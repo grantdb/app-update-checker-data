@@ -3206,5 +3206,9 @@
   "app-update-checker": {
     "name": "App Update Checker",
     "version": "0.0.89"
+  },
+  "arrowpuzzle": {
+    "name": "Amaze Flow",
+    "version": "0.0.359"
   }
 }
