@@ -3254,5 +3254,9 @@
   "pixel-prophecy": {
     "name": "pixel-prophecy",
     "version": "0.0.4"
+  },
+  "soccer-predict": {
+    "name": "SoccerPredict",
+    "version": "0.1.0"
   }
 }
