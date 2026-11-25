@@ -3202,5 +3202,9 @@
   "policyops": {
     "name": "PolicyOps",
     "version": "0.0.12"
+  },
+  "app-update-checker": {
+    "name": "App Update Checker",
+    "version": "0.0.89"
   }
 }
