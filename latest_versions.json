@@ -3238,5 +3238,9 @@
   "abuse-guard": {
     "name": "Abuse Guard",
     "version": "0.0.3"
+  },
+  "sfmatchthreads": {
+    "name": "SFMatchThreadder",
+    "version": "1.4.0"
   }
 }
