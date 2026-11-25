@@ -3258,5 +3258,17 @@
   "soccer-predict": {
     "name": "SoccerPredict",
     "version": "0.1.0"
+  },
+  "turbomod-bot": {
+    "name": "TurboMod-Bot",
+    "version": "0.1.6"
+  },
+  "wordungus": {
+    "name": "Wordungus",
+    "version": "0.2.7"
+  },
+  "summarizzit": {
+    "name": "summarizzit",
+    "version": "0.0.74"
   }
 }
