@@ -3242,5 +3242,17 @@
   "sfmatchthreads": {
     "name": "SFMatchThreadder",
     "version": "1.4.0"
+  },
+  "alan-foolster": {
+    "name": "Alan Foolster",
+    "version": "0.2.3"
+  },
+  "game-dock": {
+    "name": "Game Dock",
+    "version": "0.1.22"
+  },
+  "pixel-prophecy": {
+    "name": "pixel-prophecy",
+    "version": "0.0.4"
   }
 }
