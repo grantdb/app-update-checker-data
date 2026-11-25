@@ -3194,5 +3194,9 @@
   "managemysub282": {
     "name": "managemysub282",
     "version": "0.0.3"
+  },
+  "updateflairmodaction": {
+    "name": "Update Flair on Mod Action",
+    "version": "0.0.84"
   }
 }
