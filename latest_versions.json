@@ -1921,7 +1921,7 @@
   },
   "community-draw": {
     "name": "Community Draw",
-    "version": "0.0.67"
+    "version": "0.0.76"
   },
   "wrose-sentinel": {
     "name": "wrose-sentinel",
@@ -3210,5 +3210,9 @@
   "arrowpuzzle": {
     "name": "Amaze Flow",
     "version": "0.0.359"
+  },
+  "subvote-polls": {
+    "name": "subvote-polls",
+    "version": "0.0.11"
   }
 }
