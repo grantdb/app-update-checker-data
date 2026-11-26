@@ -3358,5 +3358,21 @@
   "mod-guide": {
     "name": "ModGuide",
     "version": "0.0.3"
+  },
+  "bubblesneverlie": {
+    "name": "Bubbles Never Lie",
+    "version": "0.2.1"
+  },
+  "ghost-detector": {
+    "name": "ghost-detector",
+    "version": "1.0.9"
+  },
+  "uncommon-daily": {
+    "name": "Uncommon: Category Word Game",
+    "version": "0.0.103"
+  },
+  "rate-guard": {
+    "name": "Rate Guard",
+    "version": "0.0.19"
   }
 }
