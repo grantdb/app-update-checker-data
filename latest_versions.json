@@ -2709,7 +2709,7 @@
   },
   "mod-warden": {
     "name": "Mod Warden",
-    "version": "0.0.23"
+    "version": "0.0.24"
   },
   "watchalong-matvt": {
     "name": "watchalong-matvt",
@@ -3330,5 +3330,21 @@
   "nfl-sidebar-schedule": {
     "name": "r/nfl sidebar schedule",
     "version": "0.0.4"
+  },
+  "shadow-mod": {
+    "name": "ShadowMod",
+    "version": "0.0.20"
+  },
+  "texthelpermd": {
+    "name": "Text Helper MarkDown",
+    "version": "0.1.1"
+  },
+  "everything-app": {
+    "name": "everything-app",
+    "version": "0.0.2"
+  },
+  "fact-or-cap": {
+    "name": "FactOrCap",
+    "version": "0.0.43"
   }
 }
