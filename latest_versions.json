@@ -3270,5 +3270,25 @@
   "summarizzit": {
     "name": "summarizzit",
     "version": "0.0.74"
+  },
+  "penalty-rush": {
+    "name": "Penalty Rush",
+    "version": "0.0.33"
+  },
+  "warning-track": {
+    "name": "Warning Track",
+    "version": "1.0.0"
+  },
+  "cgbaov2": {
+    "name": "CollabGuard",
+    "version": "0.1.10"
+  },
+  "fit-the-word": {
+    "name": "Fit the Word",
+    "version": "0.23.562"
+  },
+  "dailyflexword": {
+    "name": "FlexWord",
+    "version": "0.1.191"
   }
 }
