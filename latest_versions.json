@@ -3426,5 +3426,29 @@
   "mod-notes-memo": {
     "name": "ModNotes Memo",
     "version": "0.0.18"
+  },
+  "detective-match": {
+    "name": "Detective Match",
+    "version": "0.0.16"
+  },
+  "modappstats": {
+    "name": "Moderator Applications",
+    "version": "0.0.4"
+  },
+  "photogallerytest": {
+    "name": "photogallerytest",
+    "version": "0.0.6"
+  },
+  "modmail-purge": {
+    "name": "modmail-purge",
+    "version": "0.0.4"
+  },
+  "poker-room": {
+    "name": "Poker Room",
+    "version": "0.0.5"
+  },
+  "sql-arena": {
+    "name": "sql-arena",
+    "version": "0.0.36"
   }
 }
