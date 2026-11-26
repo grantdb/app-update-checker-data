@@ -2597,7 +2597,7 @@
   },
   "brainsprint-2d": {
     "name": "brainsprint-2d",
-    "version": "0.0.15"
+    "version": "0.0.18"
   },
   "adv-live-feeds": {
     "name": "ADV Live Feeds",
@@ -3450,5 +3450,9 @@
   "sql-arena": {
     "name": "sql-arena",
     "version": "0.0.36"
+  },
+  "subnotify-app": {
+    "name": "SubNotify",
+    "version": "0.0.5"
   }
 }
