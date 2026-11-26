@@ -3350,5 +3350,9 @@
   "tsla-chart": {
     "name": "tsla-chart",
     "version": "0.0.15"
+  },
+  "sevenns-game": {
+    "name": "sevenns-game",
+    "version": "0.0.70"
   }
 }
