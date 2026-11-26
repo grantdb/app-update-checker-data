@@ -3454,5 +3454,17 @@
   "subnotify-app": {
     "name": "SubNotify",
     "version": "0.0.5"
+  },
+  "competitions-app": {
+    "name": "competitions-app",
+    "version": "0.0.31"
+  },
+  "circle-tap": {
+    "name": "Circle Tap Challenge",
+    "version": "0.0.46"
+  },
+  "tchartxyz": {
+    "name": "tchartxyz",
+    "version": "0.0.180"
   }
 }
