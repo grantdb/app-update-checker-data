@@ -3414,5 +3414,17 @@
   "detective2048": {
     "name": "Detective 2048",
     "version": "0.0.25"
+  },
+  "detectivedaily": {
+    "name": "Detective Daily",
+    "version": "0.0.18"
+  },
+  "det-equation": {
+    "name": "Detective Equation",
+    "version": "0.0.19"
+  },
+  "mod-notes-memo": {
+    "name": "ModNotes Memo",
+    "version": "0.0.18"
   }
 }
