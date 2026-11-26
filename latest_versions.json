@@ -1765,7 +1765,7 @@
   },
   "solitaireclassic": {
     "name": "Daily Solitaire",
-    "version": "0.5.93"
+    "version": "0.5.105"
   },
   "threadboard": {
     "name": "threadboard",
@@ -3386,5 +3386,21 @@
   "latentspacenetwork": {
     "name": "Latent Space Network",
     "version": "1.2.3"
+  },
+  "game-aint-real": {
+    "name": "AIn&#39;t Real",
+    "version": "2.6.1"
+  },
+  "match-fixing": {
+    "name": "match-fixing",
+    "version": "0.0.228"
+  },
+  "scary-adventures": {
+    "name": "Scary Adventures",
+    "version": "0.0.12"
+  },
+  "all-you-can-vote": {
+    "name": "All You Can Vote",
+    "version": "0.0.13"
   }
 }
