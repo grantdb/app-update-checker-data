@@ -3498,5 +3498,13 @@
   "nopermamute": {
     "name": "No Permamute",
     "version": "1.0.1"
+  },
+  "photopuzzlegame": {
+    "name": "Photo Puzzle Game",
+    "version": "0.0.6"
+  },
+  "queuecascade": {
+    "name": "Queue Cascade",
+    "version": "0.0.20"
   }
 }
