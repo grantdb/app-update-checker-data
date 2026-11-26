@@ -3290,5 +3290,13 @@
   "dailyflexword": {
     "name": "FlexWord",
     "version": "0.1.191"
+  },
+  "bubble-bursts": {
+    "name": "bubble-bursts",
+    "version": "0.0.12"
+  },
+  "community-hubs": {
+    "name": "community-hubs",
+    "version": "1.1.3"
   }
 }
