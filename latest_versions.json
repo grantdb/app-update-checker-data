@@ -3482,5 +3482,21 @@
   "finddit-app": {
     "name": "finddit-app",
     "version": "1.2.5"
+  },
+  "modanchor": {
+    "name": "Mod Anchor",
+    "version": "1.0.3"
+  },
+  "prothesmia": {
+    "name": "prothesmia",
+    "version": "0.0.11"
+  },
+  "modqueue-checker": {
+    "name": "Modqueue Checker",
+    "version": "0.0.3"
+  },
+  "nopermamute": {
+    "name": "No Permamute",
+    "version": "1.0.1"
   }
 }
