@@ -2345,7 +2345,7 @@
   },
   "tf2-guess-the-map": {
     "name": "TF2 Guess The Map",
-    "version": "0.0.54"
+    "version": "0.0.56"
   },
   "corroborate-mod": {
     "name": "Corroborate",
@@ -2457,7 +2457,7 @@
   },
   "mod360pro": {
     "name": "Mod360pro",
-    "version": "0.0.58"
+    "version": "0.0.59"
   },
   "zippuzzle": {
     "name": "Zip Puzzle",
@@ -3001,7 +3001,7 @@
   },
   "context-required-app": {
     "name": "context-required-app",
-    "version": "0.0.10"
+    "version": "0.0.11"
   },
   "modmail-regex-ban": {
     "name": "Modmail Regex Ban",
@@ -3506,5 +3506,9 @@
   "queuecascade": {
     "name": "Queue Cascade",
     "version": "0.0.20"
+  },
+  "shell-dojo": {
+    "name": "shell-dojo",
+    "version": "0.0.33"
   }
 }
