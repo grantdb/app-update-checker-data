@@ -3470,5 +3470,17 @@
   "rim-rush": {
     "name": "Rim Rush",
     "version": "0.0.163"
+  },
+  "designereyegame": {
+    "name": "Designer Eye",
+    "version": "0.1.5"
+  },
+  "yarnjampuzzle": {
+    "name": "Yarn Jam",
+    "version": "0.0.136"
+  },
+  "finddit-app": {
+    "name": "finddit-app",
+    "version": "1.2.5"
   }
 }
