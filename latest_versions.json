@@ -2593,7 +2593,7 @@
   },
   "ava-battles": {
     "name": "ava-battles",
-    "version": "0.0.29"
+    "version": "0.0.33"
   },
   "brainsprint-2d": {
     "name": "brainsprint-2d",
@@ -3466,5 +3466,9 @@
   "tchartxyz": {
     "name": "tchartxyz",
     "version": "0.0.180"
+  },
+  "rim-rush": {
+    "name": "Rim Rush",
+    "version": "0.0.163"
   }
 }
