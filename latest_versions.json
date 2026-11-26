@@ -1565,7 +1565,7 @@
   },
   "logiclens-larry": {
     "name": "Larry Logic - Mr. Logical Fallacy Detector",
-    "version": "0.0.23"
+    "version": "0.0.27"
   },
   "fillables-app": {
     "name": "Fillables",
@@ -2313,7 +2313,7 @@
   },
   "chl-goalpost": {
     "name": "chl-goalpost",
-    "version": "3.83.4"
+    "version": "3.90.1"
   },
   "giveawayapp": {
     "name": "Giveaway Maker",
@@ -2365,7 +2365,7 @@
   },
   "nfl-goalpost": {
     "name": "nfl-goalpost",
-    "version": "0.41.2"
+    "version": "0.44.1"
   },
   "flair-impact": {
     "name": "Flair Impact  Community Discussion &amp; Flair Insights",
@@ -3346,5 +3346,9 @@
   "fact-or-cap": {
     "name": "FactOrCap",
     "version": "0.0.43"
+  },
+  "tsla-chart": {
+    "name": "tsla-chart",
+    "version": "0.0.15"
   }
 }
