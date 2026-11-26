@@ -3306,5 +3306,17 @@
   "guess-the-candle": {
     "name": "Guess The Candle",
     "version": "0.0.133"
+  },
+  "modtower": {
+    "name": "modtower",
+    "version": "1.0.1"
+  },
+  "test-app-6": {
+    "name": "test-app-6",
+    "version": "0.0.3"
+  },
+  "recipe-scale": {
+    "name": "recipe-scale",
+    "version": "0.0.33"
   }
 }
