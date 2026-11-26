@@ -3318,5 +3318,17 @@
   "recipe-scale": {
     "name": "recipe-scale",
     "version": "0.0.33"
+  },
+  "subquizhost": {
+    "name": "subquizhost",
+    "version": "0.0.33"
+  },
+  "zipcons": {
+    "name": "ZipCons",
+    "version": "0.0.36"
+  },
+  "nfl-sidebar-schedule": {
+    "name": "r/nfl sidebar schedule",
+    "version": "0.0.4"
   }
 }
