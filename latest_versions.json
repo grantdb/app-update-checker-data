@@ -1697,7 +1697,7 @@
   },
   "pawdoku-mystery": {
     "name": "Pawdoku Mystery",
-    "version": "0.0.32"
+    "version": "0.0.33"
   },
   "neon-2048": {
     "name": "Neon 2048 Brain game | Beat the best",
@@ -3402,5 +3402,17 @@
   "all-you-can-vote": {
     "name": "All You Can Vote",
     "version": "0.0.13"
+  },
+  "globalpolls": {
+    "name": "globalpolls",
+    "version": "0.0.20"
+  },
+  "useranalyzer": {
+    "name": "useranalyzer",
+    "version": "1.0.0"
+  },
+  "detective2048": {
+    "name": "Detective 2048",
+    "version": "0.0.25"
   }
 }
