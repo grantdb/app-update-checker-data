@@ -3598,5 +3598,25 @@
   "snoosings": {
     "name": "snoosings",
     "version": "0.0.32"
+  },
+  "herding-catz": {
+    "name": "herding-catz",
+    "version": "0.6.0"
+  },
+  "trophy-case": {
+    "name": "trophy-case",
+    "version": "0.0.6"
+  },
+  "daycount-flair": {
+    "name": "daycount-flair",
+    "version": "0.0.8"
+  },
+  "datetime-global": {
+    "name": "datetime-global",
+    "version": "0.0.4"
+  },
+  "scroll-r": {
+    "name": "Scroll-r",
+    "version": "0.0.3"
   }
 }
