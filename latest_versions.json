@@ -3650,5 +3650,25 @@
   "mobrush-3d": {
     "name": "mobrush-3d",
     "version": "0.5.38"
+  },
+  "reflect-daily": {
+    "name": "Buddha Quotes",
+    "version": "0.0.10"
+  },
+  "blackout-sq356": {
+    "name": "blackout-sq356",
+    "version": "0.0.15"
+  },
+  "curling-game": {
+    "name": "Curling - 2d",
+    "version": "0.3.0"
+  },
+  "flapdiy": {
+    "name": "FlapLab",
+    "version": "0.0.73"
+  },
+  "idxstockinsight1": {
+    "name": "idxstockinsight1",
+    "version": "0.2.5"
   }
 }
