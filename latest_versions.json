@@ -3670,5 +3670,17 @@
   "idxstockinsight1": {
     "name": "idxstockinsight1",
     "version": "0.2.5"
+  },
+  "karmafarmerrpg": {
+    "name": "karmafarmerrpg",
+    "version": "0.0.53"
+  },
+  "fair-warning-app": {
+    "name": "fair-warning-app",
+    "version": "0.0.7"
+  },
+  "banned-list": {
+    "name": "banned-list",
+    "version": "0.25.0"
   }
 }
