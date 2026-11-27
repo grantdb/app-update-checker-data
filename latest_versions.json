@@ -2401,7 +2401,7 @@
   },
   "goods-sort-packing": {
     "name": "Goods Sort:PACKING PUZZLE",
-    "version": "0.0.10"
+    "version": "0.0.11"
   },
   "escape-to-spire": {
     "name": "escape-to-spire",
@@ -3558,5 +3558,17 @@
   "word-guard": {
     "name": "Word Guard",
     "version": "0.0.199"
+  },
+  "devvitappfinder": {
+    "name": "AppFinder",
+    "version": "1.0.24"
+  },
+  "communitydash": {
+    "name": "CommunityDash",
+    "version": "0.0.12"
+  },
+  "dict-fills": {
+    "name": "Dictionary Fills",
+    "version": "0.0.11"
   }
 }
