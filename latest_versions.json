@@ -3618,5 +3618,9 @@
   "scroll-r": {
     "name": "Scroll-r",
     "version": "0.0.3"
+  },
+  "proximity-app": {
+    "name": "proximity-app",
+    "version": "0.0.10"
   }
 }
