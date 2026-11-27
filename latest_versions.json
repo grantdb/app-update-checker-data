@@ -3682,5 +3682,9 @@
   "banned-list": {
     "name": "banned-list",
     "version": "0.25.0"
+  },
+  "bubble-shooter-game": {
+    "name": "Bubble Shooter",
+    "version": "0.0.21"
   }
 }
