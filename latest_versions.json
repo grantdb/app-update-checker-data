@@ -3710,5 +3710,21 @@
   "check-ai": {
     "name": "check-ai",
     "version": "0.0.11"
+  },
+  "gamepadtest": {
+    "name": "Gamepad Tester",
+    "version": "0.0.12"
+  },
+  "queensquest-": {
+    "name": "QueensQuest",
+    "version": "0.0.5"
+  },
+  "scriptle-game": {
+    "name": "Scriptle",
+    "version": "0.0.22"
+  },
+  "conto-interativo": {
+    "name": "Interactive Storyteller",
+    "version": "0.0.7"
   }
 }
