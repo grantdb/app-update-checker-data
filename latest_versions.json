@@ -3522,5 +3522,13 @@
   "rate-exe-game": {
     "name": "RATE.EXE",
     "version": "0.0.14"
+  },
+  "thread-tamer": {
+    "name": "thread-tamer",
+    "version": "0.0.3"
+  },
+  "slipstream-daily": {
+    "name": "slipstream-daily",
+    "version": "0.3.8"
   }
 }
