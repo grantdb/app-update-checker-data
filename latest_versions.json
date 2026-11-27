@@ -3622,5 +3622,21 @@
   "proximity-app": {
     "name": "proximity-app",
     "version": "0.0.10"
+  },
+  "bareinfo-app": {
+    "name": "BareInfo: Poll App",
+    "version": "0.0.12"
+  },
+  "orbit-pop-moa": {
+    "name": "Orbit Pop  Planet Adventure",
+    "version": "0.4.1"
+  },
+  "pipe-panic": {
+    "name": "Pipe Panic",
+    "version": "0.3.98"
+  },
+  "hangman-out": {
+    "name": "hangman-out",
+    "version": "0.0.11"
   }
 }
