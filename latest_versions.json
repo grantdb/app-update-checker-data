@@ -3570,5 +3570,17 @@
   "dict-fills": {
     "name": "Dictionary Fills",
     "version": "0.0.11"
+  },
+  "trustsignal-rd": {
+    "name": "TrustSignal-RD",
+    "version": "0.0.30"
+  },
+  "domain-guard": {
+    "name": "Domain Guard",
+    "version": "0.0.175"
+  },
+  "mtgdecks": {
+    "name": "MTG Deck Lab",
+    "version": "0.0.10"
   }
 }
