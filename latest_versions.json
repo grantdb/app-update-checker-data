@@ -3530,5 +3530,13 @@
   "slipstream-daily": {
     "name": "slipstream-daily",
     "version": "0.3.8"
+  },
+  "crease-clash": {
+    "name": "crease-clash",
+    "version": "1.4.6"
+  },
+  "photo-arena": {
+    "name": "Photo Arena",
+    "version": "0.0.17"
   }
 }
