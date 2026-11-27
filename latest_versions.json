@@ -2749,7 +2749,7 @@
   },
   "mma-parlay-lab": {
     "name": "MMA Parlay Lab",
-    "version": "0.0.11"
+    "version": "0.0.20"
   },
   "flip-cards": {
     "name": "FlipCards",
@@ -3698,5 +3698,17 @@
   "overdrive-rush": {
     "name": "OverDrive Rush",
     "version": "0.0.65"
+  },
+  "tier-list-builder": {
+    "name": "Tier List Builder",
+    "version": "1.0.0"
+  },
+  "wordseekr2": {
+    "name": "Wordseekr Quotes",
+    "version": "0.2.37"
+  },
+  "check-ai": {
+    "name": "check-ai",
+    "version": "0.0.11"
   }
 }
