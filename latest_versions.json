@@ -3778,5 +3778,25 @@
   "crack-lock": {
     "name": "crack-lock",
     "version": "0.0.26"
+  },
+  "huckid": {
+    "name": "HuckID",
+    "version": "0.0.15"
+  },
+  "daily-math-problem": {
+    "name": "Daily Math Problem",
+    "version": "0.0.41"
+  },
+  "crowd-boot": {
+    "name": "Crowd Boot",
+    "version": "0.0.12"
+  },
+  "know-your-maps": {
+    "name": "Know Your Maps",
+    "version": "0.0.37"
+  },
+  "daily-minesweeper": {
+    "name": "Daily Minesweeper",
+    "version": "0.1.4"
   }
 }
