@@ -3638,5 +3638,17 @@
   "hangman-out": {
     "name": "hangman-out",
     "version": "0.0.11"
+  },
+  "guess-the-trade2": {
+    "name": "guess-the-trade2",
+    "version": "0.0.27"
+  },
+  "decision-loop": {
+    "name": "Reddit Decision Loop",
+    "version": "0.0.2"
+  },
+  "mobrush-3d": {
+    "name": "mobrush-3d",
+    "version": "0.5.38"
   }
 }
