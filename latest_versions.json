@@ -2793,7 +2793,7 @@
   },
   "home-crowd": {
     "name": "Home Crowd",
-    "version": "0.0.30"
+    "version": "0.0.32"
   },
   "pomodorotime": {
     "name": "Pomodoro Timer",
@@ -3582,5 +3582,21 @@
   "mtgdecks": {
     "name": "MTG Deck Lab",
     "version": "0.0.10"
+  },
+  "dice-battle-dev": {
+    "name": "Dice Fight",
+    "version": "0.0.154"
+  },
+  "frog-spawned": {
+    "name": "Frog Spawned",
+    "version": "0.0.33"
+  },
+  "workit-app": {
+    "name": "Workit",
+    "version": "0.0.9"
+  },
+  "snoosings": {
+    "name": "snoosings",
+    "version": "0.0.32"
   }
 }
