@@ -3758,5 +3758,17 @@
   "nfj-fpl": {
     "name": "NFJ FPL Standings",
     "version": "0.0.8"
+  },
+  "prediction-league": {
+    "name": "prediction-league",
+    "version": "0.0.5"
+  },
+  "f1-reaction": {
+    "name": "f1-reaction",
+    "version": "0.0.4"
+  },
+  "arrow-blocks": {
+    "name": "arrow-blocks",
+    "version": "0.0.6"
   }
 }
