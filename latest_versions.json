@@ -3726,5 +3726,21 @@
   "conto-interativo": {
     "name": "Interactive Storyteller",
     "version": "0.0.7"
+  },
+  "streamer-stocks": {
+    "name": "streamer-stocks",
+    "version": "0.0.3"
+  },
+  "expertreviewsapp": {
+    "name": "Review Experts",
+    "version": "0.4.7"
+  },
+  "pulse-monitor": {
+    "name": "pulse-monitor",
+    "version": "0.0.11"
+  },
+  "fish-legends": {
+    "name": "fish-legends",
+    "version": "0.0.118"
   }
 }
