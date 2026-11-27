@@ -3742,5 +3742,21 @@
   "fish-legends": {
     "name": "fish-legends",
     "version": "0.0.118"
+  },
+  "tile-connect": {
+    "name": "tile-connect",
+    "version": "0.0.4"
+  },
+  "mhtoolkit": {
+    "name": "mhtoolkit",
+    "version": "0.0.5"
+  },
+  "lol-or-nope": {
+    "name": "lol-or-nope",
+    "version": "0.2.29"
+  },
+  "nfj-fpl": {
+    "name": "NFJ FPL Standings",
+    "version": "0.0.8"
   }
 }
