@@ -3686,5 +3686,17 @@
   "bubble-shooter-game": {
     "name": "Bubble Shooter",
     "version": "0.0.21"
+  },
+  "wakelings-duel": {
+    "name": "Wakelings Duel",
+    "version": "0.0.23"
+  },
+  "votingmanagement": {
+    "name": "votingmanagement",
+    "version": "0.0.4"
+  },
+  "overdrive-rush": {
+    "name": "OverDrive Rush",
+    "version": "0.0.65"
   }
 }
