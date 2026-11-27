@@ -3538,5 +3538,17 @@
   "photo-arena": {
     "name": "Photo Arena",
     "version": "0.0.17"
+  },
+  "bugshelper": {
+    "name": "bugshelper",
+    "version": "0.0.33"
+  },
+  "flairguard-app": {
+    "name": "flairguard-app",
+    "version": "0.0.23"
+  },
+  "challengeai": {
+    "name": "challengeai",
+    "version": "0.0.44"
   }
 }
