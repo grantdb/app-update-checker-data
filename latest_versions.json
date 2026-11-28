@@ -3950,5 +3950,9 @@
   "site-status-alerts": {
     "name": "Site Status Alerts",
     "version": "1.0.2"
+  },
+  "subredit-guessr": {
+    "name": "subredit-guessr",
+    "version": "0.0.8"
   }
 }
