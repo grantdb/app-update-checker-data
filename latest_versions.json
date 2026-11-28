@@ -3798,5 +3798,13 @@
   "daily-minesweeper": {
     "name": "Daily Minesweeper",
     "version": "0.1.4"
+  },
+  "merge-royal": {
+    "name": "merge-royal",
+    "version": "0.0.6"
+  },
+  "summit-game": {
+    "name": "summit-game",
+    "version": "0.0.96"
   }
 }
