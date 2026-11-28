@@ -2989,7 +2989,7 @@
   },
   "pixelmatch3": {
     "name": "Pixel Reveal",
-    "version": "0.0.83"
+    "version": "0.0.89"
   },
   "splash-siege": {
     "name": "splash-siege",
@@ -3846,5 +3846,25 @@
   "ledger-quest": {
     "name": "ledger-quest",
     "version": "0.0.11"
+  },
+  "minefall-veins": {
+    "name": "Minefall: One More Vein",
+    "version": "0.0.60"
+  },
+  "active-users-only": {
+    "name": "active-users-only",
+    "version": "1.0.2"
+  },
+  "tilematch": {
+    "name": "tilematch",
+    "version": "0.5.0"
+  },
+  "word-strands": {
+    "name": "Daily Grid",
+    "version": "0.1.4"
+  },
+  "revelia-horoscop": {
+    "name": "Revelia Horoscope",
+    "version": "0.0.17"
   }
 }
