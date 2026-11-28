@@ -3806,5 +3806,25 @@
   "summit-game": {
     "name": "summit-game",
     "version": "0.0.96"
+  },
+  "military-flip": {
+    "name": "Military Flip",
+    "version": "0.0.21"
+  },
+  "mindtheword": {
+    "name": "mindtheword",
+    "version": "0.0.1"
+  },
+  "burger-merger": {
+    "name": "Burger Merger",
+    "version": "0.1.16"
+  },
+  "x-squares": {
+    "name": "x-squares",
+    "version": "0.0.8"
+  },
+  "blocksweep": {
+    "name": "blocksweep",
+    "version": "0.4.0"
   }
 }
