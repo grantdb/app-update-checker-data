@@ -3926,5 +3926,9 @@
   "the-debug-oracle": {
     "name": "the-debug-oracle",
     "version": "0.0.6"
+  },
+  "socialchecks": {
+    "name": "socialchecks",
+    "version": "0.0.18"
   }
 }
