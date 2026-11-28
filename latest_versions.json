@@ -3930,5 +3930,17 @@
   "socialchecks": {
     "name": "socialchecks",
     "version": "0.0.18"
+  },
+  "cromcall": {
+    "name": "Cromcall",
+    "version": "0.0.57"
+  },
+  "bouncestreak": {
+    "name": "BounceStreak",
+    "version": "0.7.0"
+  },
+  "greed-inc": {
+    "name": "GREED INC.",
+    "version": "0.0.12"
   }
 }
