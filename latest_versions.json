@@ -3942,5 +3942,13 @@
   "greed-inc": {
     "name": "GREED INC.",
     "version": "0.0.12"
+  },
+  "wordburger-app": {
+    "name": "wordburger-app",
+    "version": "0.0.12"
+  },
+  "site-status-alerts": {
+    "name": "Site Status Alerts",
+    "version": "1.0.2"
   }
 }
