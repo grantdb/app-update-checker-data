@@ -3834,5 +3834,17 @@
   "seedclash": {
     "name": "seedclash",
     "version": "0.0.45"
+  },
+  "duetop-app": {
+    "name": "duetop-app",
+    "version": "0.0.6"
+  },
+  "my2048city": {
+    "name": "my2048city",
+    "version": "0.0.18"
+  },
+  "ledger-quest": {
+    "name": "ledger-quest",
+    "version": "0.0.11"
   }
 }
