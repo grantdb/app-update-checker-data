@@ -3866,5 +3866,21 @@
   "revelia-horoscop": {
     "name": "Revelia Horoscope",
     "version": "0.0.17"
+  },
+  "tilerush": {
+    "name": "Tile Rush",
+    "version": "0.0.30"
+  },
+  "spiredle": {
+    "name": "spiredle",
+    "version": "0.0.5"
+  },
+  "fame-football": {
+    "name": "Fame Football",
+    "version": "0.0.3"
+  },
+  "connexio-mutex": {
+    "name": "Connexio MuteX",
+    "version": "0.0.12"
   }
 }
