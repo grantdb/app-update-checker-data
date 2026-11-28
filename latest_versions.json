@@ -3882,5 +3882,21 @@
   "connexio-mutex": {
     "name": "Connexio MuteX",
     "version": "0.0.12"
+  },
+  "scramgram-game": {
+    "name": "Scramgram",
+    "version": "0.0.26"
+  },
+  "beat-the-sp500": {
+    "name": "Did It Beat the S&amp;P 500?",
+    "version": "0.0.25"
+  },
+  "puff-seige": {
+    "name": "Puff Siege",
+    "version": "0.0.9"
+  },
+  "modgather": {
+    "name": "ModGather",
+    "version": "0.0.3"
   }
 }
