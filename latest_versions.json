@@ -2409,7 +2409,7 @@
   },
   "playpixelbeads": {
     "name": "Pixel Beads",
-    "version": "0.0.285"
+    "version": "0.0.286"
   },
   "pixreveal": {
     "name": "PixReveal: Guess the Pixel Art",
@@ -3826,5 +3826,13 @@
   "blocksweep": {
     "name": "blocksweep",
     "version": "0.4.0"
+  },
+  "kickoff-legends": {
+    "name": "Sweaty Pixels FC",
+    "version": "0.0.16"
+  },
+  "seedclash": {
+    "name": "seedclash",
+    "version": "0.0.45"
   }
 }
